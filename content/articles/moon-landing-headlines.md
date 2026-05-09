@@ -81,3 +81,19 @@ These images helped inspire the environmental movement. If Earth looked that sma
 The moon landing remains one of humanity's greatest achievements. Only 66 years separated the Wright Brothers' 12-second flight at Kitty Hawk from Neil Armstrong's walk on the moon. In less than a lifetime, humans went from barely getting off the ground to walking on another world.
 
 The newspaper coverage from that day — preserved in the Google News Archive and other collections — captures a rare moment when almost the entire world stopped and looked up in wonder.
+
+## What We Can Learn (Personal Growth)
+
+The moon landing is proof that enormous goals are possible when people commit to them fully. In 1961, President Kennedy said the United States would land on the moon before the end of the decade. At the time, America had barely put a man in space. Most people thought it was impossible. But hundreds of thousands of scientists, engineers, and workers dedicated themselves to the goal — and they made it happen with five months to spare.
+
+That same principle applies to your own life. The biggest achievements usually start with a goal that seems too ambitious. The trick is to break it into smaller steps and keep working even when progress feels slow. The people who built the Saturn V rocket didn't do it in one day — they solved one problem at a time, for eight years straight.
+
+The moon landing also reminds us that failure is part of the process. Before Apollo 11 succeeded, there were explosions, failed tests, and the tragic Apollo 1 fire that killed three astronauts. The team didn't give up — they learned from every failure and kept going. That's a mindset worth adopting in anything you do.
+
+## How This Connects to 2026
+
+In 2026, we're living through a new space race. NASA's Artemis program aims to return humans to the moon, while private companies like SpaceX are developing rockets to reach Mars. But this time, the competition isn't between nations trying to prove political systems — it's a mix of government agencies, billionaire-funded companies, and international partnerships. The question of who benefits from space exploration, and who gets left behind, is more relevant than ever.
+
+The way people consumed the moon landing in 1969 — gathering around a single television — is almost unrecognizable today. In 2026, major events are experienced through dozens of platforms, each with its own spin and commentary. The shared sense of wonder that united the world in 1969 is harder to recreate when every event is immediately filtered through partisan media and social media hot takes. We've gained access to more information, but we may have lost something in our ability to experience moments together.
+
+The environmental lesson of the moon landing is also more urgent than ever. Those famous photos of Earth from space helped launch the environmental movement in the 1970s. Today, with climate change accelerating, we need that perspective more than ever — the reminder that our planet is small, fragile, and the only home we have.

@@ -70,3 +70,19 @@ The Triangle Fire didn't just kill 146 people — it transformed American labor 
 - **Frances Perkins**, who had witnessed the fire from the street, went on to become the first female Cabinet member and the architect of the New Deal's labor protections
 
 Every time you see a fire exit sign in a building, a sprinkler system on the ceiling, or a door that opens outward — those exist because of what happened at the Triangle Shirtwaist Factory on March 25, 1911.
+
+## What We Can Learn (Personal Growth)
+
+The Triangle Shirtwaist Fire teaches us that speaking up about safety and fairness isn't just important — it can save lives. Before the fire, workers had tried to organize and demand better conditions, but they were ignored. After the fire, their voices could no longer be dismissed. The lesson is clear: when you see something dangerous or unjust, say something. Don't wait for a disaster to prove you were right.
+
+This story also shows the power of collective action. One worker complaining about locked doors probably wouldn't have changed anything. But when an entire community demanded reform after the fire, laws were changed and lives were saved. Whether it's a school issue, a neighborhood problem, or something bigger, people working together accomplish things that individuals alone cannot.
+
+Finally, the acquittal of the factory owners — despite overwhelming evidence — is a reminder that justice doesn't always come easily. Sometimes the system fails. But the public outrage that followed the trial led to real reforms anyway. Even when the courts let you down, keeping up the pressure and refusing to accept injustice can eventually force change.
+
+## How This Connects to 2026
+
+The locked doors of the Triangle Shirtwaist Factory have modern equivalents in 2026. Around the world, garment workers in developing countries still work in dangerous conditions for low pay, producing cheap clothing for wealthy nations. Warehouse workers for major online retailers have reported being pressured to skip bathroom breaks and work through injuries. The fight for safe, dignified working conditions that began after the Triangle Fire is still being fought today.
+
+The rise of the gig economy and AI automation has created new workplace challenges. Many workers in 2026 are classified as independent contractors, which means they don't receive the safety protections, health insurance, or labor rights that the Triangle Fire helped establish. As AI and robots take over more jobs, the question of who protects workers — and what "work" even looks like — is becoming more urgent.
+
+Climate change also connects to the Triangle Fire's legacy. Just as the factory owners prioritized profit over safety, some industries today continue to prioritize short-term profits over environmental safety. The workers who suffer most from pollution, extreme heat, and unsafe conditions are often the poorest and most vulnerable — the same demographic that filled the Triangle Shirtwaist Factory over a century ago. The fire reminds us that safety regulations exist for a reason, and rolling them back has real human costs.

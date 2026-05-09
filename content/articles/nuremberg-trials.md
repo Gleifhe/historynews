@@ -84,3 +84,19 @@ The Nuremberg Trials didn't just punish Nazi criminals — they created the foun
 The Avalon Project at Yale Law School has digitized the complete trial transcripts, the charter, and the judgments. They remain essential reading for anyone interested in law, history, or human rights.
 
 The Nuremberg Trials proved that even in the aftermath of the worst crimes in human history, justice — not revenge — could prevail.
+
+## What We Can Learn (Personal Growth)
+
+The Nuremberg Trials teach us something fundamental about personal responsibility: you are always responsible for your own actions, even when someone in authority tells you what to do. "I was just following orders" is not an excuse — and deep down, most people know that. The defendants at Nuremberg had choices. They could have refused. Some would have faced consequences for refusing, but the tribunal made clear that obeying an order to commit murder makes you a murderer.
+
+This applies to everyday life in smaller but important ways. When a group of friends pressures you to bully someone, exclude someone, or do something you know is wrong, saying "everyone else was doing it" doesn't make it okay. Building the courage to stand apart from a group is one of the hardest — and most important — things you can learn.
+
+Nuremberg also reminds us of the power of justice over revenge. After the horrors of the Holocaust, many people wanted swift punishment. But the decision to hold fair trials — with defense lawyers, evidence, and due process — showed the world that civilization's answer to brutality is law, not more brutality.
+
+## How This Connects to 2026
+
+The principles established at Nuremberg are being tested in 2026. The International Criminal Court, which grew directly from the Nuremberg precedent, continues to investigate war crimes and crimes against humanity around the world. But enforcing international justice remains incredibly difficult when powerful nations refuse to cooperate or recognize the court's authority. The question of whether international law can actually hold the powerful accountable is far from settled.
+
+The Nuremberg defense — "I was just following orders" — echoes in modern debates about AI and technology. When an algorithm makes a harmful decision — denying someone a loan, flagging someone as a security threat, or spreading dangerous misinformation — who is responsible? The programmer? The company? The government that allowed it? As AI systems make more decisions that affect people's lives, we need clear rules about accountability, just like the ones Nuremberg established for human beings.
+
+The rise of misinformation and propaganda in 2026 also connects directly to Nuremberg. The trials showed how the Nazi regime used propaganda to dehumanize Jewish people and make genocide seem acceptable. Today, social media can spread hateful propaganda faster than any newspaper or radio broadcast ever could. The lesson from Nuremberg is clear: when a society allows people to be dehumanized in public — through memes, conspiracy theories, or political rhetoric — real-world violence can follow.

@@ -60,3 +60,19 @@ In the decades since Franklin's death, historians and scientists have worked to 
 Franklin's story has become a powerful example of how women scientists have been overlooked and undervalued throughout history. In her short career, she made major contributions not only to the understanding of DNA but also to the study of viruses and coal. She published 37 scientific papers before her death.
 
 Today, Rosalind Franklin is honored with buildings, scholarships, and awards named after her. In 2022, the European Space Agency named its Mars rover "Rosalind Franklin." Her story reminds us that scientific discoveries are rarely the work of one or two individuals — they are built on the contributions of many, and it matters that we remember all of them.
+
+## What We Can Learn (Personal Growth)
+
+Rosalind Franklin's story is a powerful reminder to give credit where it's due. In school, at work, and in life, it's tempting to take credit for group work or to let someone else's contribution go unacknowledged. But real integrity means recognizing the people who helped make something possible — even if doing so means sharing the spotlight.
+
+Franklin also teaches us about persistence in the face of unfairness. She worked in an environment where she was underestimated, excluded, and disrespected because she was a woman. She didn't let that stop her from doing brilliant work. You don't have to accept unfair treatment — and you should push back against it — but you also don't have to let it define you or stop you from pursuing what you're passionate about.
+
+Her careful, methodical approach to science is also worth learning from. In a world that rewards speed and flashy announcements, Franklin took her time to make sure her work was solid. Watson and Crick rushed to publish. Franklin wanted to be thorough. There's a lesson there about the difference between doing something fast and doing something right.
+
+## How This Connects to 2026
+
+The gender gap in science that Franklin experienced has narrowed, but it hasn't disappeared. In 2026, women are still underrepresented in many STEM fields, especially in leadership positions and in areas like artificial intelligence and engineering. Women researchers continue to report that their work is taken less seriously, that they are paid less, and that they face barriers their male colleagues don't. Franklin's story reminds us that this isn't a new problem — and that progress requires constant effort.
+
+The question of who gets credit for scientific breakthroughs is also playing out in the AI revolution. Large language models and AI systems are trained on the work of thousands of researchers, writers, and creators — most of whom receive no credit or compensation. Just as Franklin's data was used without her permission, the creative and intellectual work of countless people is being used to build AI systems that generate billions of dollars for a handful of companies. The ethics of credit and consent in the age of AI are directly connected to Franklin's story.
+
+Franklin's experience also speaks to the importance of diversity in science. Research shows that diverse teams produce better, more creative results. When people from different backgrounds and perspectives work together, they catch each other's blind spots. In 2026, as AI and biotechnology shape the future, making sure that a wide range of voices are included in the process isn't just fair — it leads to better outcomes for everyone.

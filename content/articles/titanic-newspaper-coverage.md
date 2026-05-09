@@ -80,3 +80,19 @@ The Titanic disaster led to major changes:
 - **The International Ice Patrol**: A new organization was created to track icebergs in the North Atlantic
 
 The Titanic sank over 100 years ago, but its story still fascinates people today. Thanks to Chronicling America, you can read the same newspaper stories that Americans read in 1912 — and see how the truth slowly emerged from the confusion.
+
+## What We Can Learn (Personal Growth)
+
+The Titanic disaster teaches us about the danger of overconfidence. The people who built and sailed the Titanic truly believed it couldn't sink. That belief made them reckless — they sailed too fast through iceberg-filled waters, carried too few lifeboats, and ignored warnings. When we become too confident in anything — our abilities, our technology, or our plans — we stop preparing for things to go wrong.
+
+The newspaper coverage adds another important lesson: don't believe everything you hear first. The early headlines screaming "ALL SAVED" were completely wrong. In our rush to get information, we often grab onto the first story we hear and treat it as fact. The Titanic reminds us to slow down, wait for confirmation, and be willing to change our minds when new information comes in.
+
+The class differences on the Titanic are also worth thinking about. First-class passengers had a much higher survival rate than third-class passengers. When things go wrong, the people with the least power and the fewest resources usually suffer the most. Recognizing that unfairness — and working to change it — is something each of us can do.
+
+## How This Connects to 2026
+
+The false newspaper headlines of 1912 feel eerily familiar in 2026. Today, misinformation doesn't just travel by telegraph — it spreads instantly through social media, and AI can generate realistic but completely false news articles, images, and videos. The same rush to be first that led newspapers to print "ALL SAVED" now drives clickbait headlines and viral posts that millions of people share before anyone checks if they're true.
+
+The class divide on the Titanic also mirrors issues in 2026. Whether it's access to healthcare, climate-safe housing, or new technologies like AI, the gap between those with resources and those without continues to grow. When disasters strike — from hurricanes to pandemics — it's still the most vulnerable communities that suffer the most. The Titanic is a reminder that safety and fairness should never depend on how much money you have.
+
+The Titanic's story also connects to our relationship with technology. In 1912, people put too much faith in a ship. In 2026, we put enormous faith in AI systems, algorithms, and digital platforms. The lesson is the same: technology is a tool, not a guarantee. We need backup plans, safety measures, and the humility to admit that even our best creations can fail.

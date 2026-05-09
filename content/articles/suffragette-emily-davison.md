@@ -70,3 +70,19 @@ But in the long term, her sacrifice kept the issue of women's voting rights in t
 In 1918, British women over 30 won the right to vote. In 1928, all women over 21 could vote — the same age as men.
 
 Emily Davison never saw it happen. But she helped make it possible.
+
+## What We Can Learn (Personal Growth)
+
+Emily Davison's story is about believing in something so strongly that you're willing to sacrifice everything for it. You don't have to throw yourself in front of a horse to make a difference — but her life shows that real change requires real commitment. She was arrested nine times. She was force-fed 49 times. She kept going because she knew the cause was bigger than her own comfort.
+
+Her story also teaches us about patience. Davison didn't live to see women get the vote. Many of the people who fight hardest for justice don't get to enjoy the results. That can feel discouraging, but it's also inspiring. Every person who stands up for what's right — even if they don't see the finish line — is building a foundation for the people who come after them.
+
+Finally, the way newspapers covered Davison's death is a lesson in perspective. Some papers called her a hero; others called her insane. The same event looked completely different depending on who was telling the story. Learning to look at events from multiple angles — and to question who is framing the narrative — is one of the most valuable skills you can develop.
+
+## How This Connects to 2026
+
+The fight for equal rights that Emily Davison gave her life for is far from over. In 2026, women around the world are still fighting for equal pay, access to education, and freedom from violence. Social justice movements continue to push for the rights of people who are marginalized because of their race, gender identity, or background. Davison's courage reminds us that these fights have a long history — and that progress is possible, even when it feels painfully slow.
+
+The way media framed Davison's death in 1913 — hero to some, lunatic to others — mirrors exactly how activists are portrayed in 2026. Climate protesters, civil rights advocates, and social justice organizers are praised by some outlets and demonized by others. Social media makes this even more intense, as algorithms push the most extreme reactions to the top. Understanding media bias is just as important today as it was over a century ago.
+
+Technology has also changed how movements organize and grow. In Davison's day, suffragettes relied on marches, pamphlets, and word of mouth. Today, movements can go global in hours through social media — but they also face new challenges like online harassment, surveillance, and the spread of AI-generated misinformation designed to discredit activists and their causes.

@@ -65,3 +65,19 @@ San Francisco's recovery became a symbol of American determination. The city did
 The 1906 earthquake taught America important lessons about earthquake safety, fire prevention, and disaster response. Many of the building codes we use today started because of what happened in San Francisco. The disaster also showed how communities can come together in the worst of times.
 
 The Library of Congress holds hundreds of photographs, letters, and documents from the earthquake. Together, they tell the story of a city that was destroyed in minutes and rebuilt in years — proving that even the worst disasters can't break the human spirit.
+
+## What We Can Learn (Personal Growth)
+
+The San Francisco earthquake is ultimately a story about resilience — the ability to get knocked down and get back up. The people who survived didn't sit around waiting for someone else to fix things. They cooked meals in the streets, helped their neighbors, and started rebuilding almost immediately. That's a powerful lesson for anyone facing a tough time: don't wait for perfect conditions. Start where you are, use what you have, and do what you can.
+
+It's also a lesson about preparation. San Francisco was destroyed partly because the city wasn't ready. The water mains broke, the buildings weren't strong enough, and there was no real disaster plan. In your own life, being prepared — studying for the test before the night before, saving money for emergencies, learning first aid — can make the difference between a setback and a catastrophe.
+
+Finally, the speed of San Francisco's recovery shows what happens when a community pulls together. Individuals can survive a crisis, but communities can overcome one. When people work together instead of looking out only for themselves, incredible things are possible.
+
+## How This Connects to 2026
+
+In 2026, the threat of natural disasters is bigger than ever. Climate change is making extreme weather events — hurricanes, wildfires, floods, and heat waves — more frequent and more intense. Cities around the world are asking the same question San Francisco faced in 1906: are we ready? Many experts say the answer is no, especially in communities that don't have the money to build stronger infrastructure.
+
+The earthquake also connects to conversations about AI and technology in disaster response. Today, artificial intelligence is being used to predict earthquakes, model wildfire paths, and coordinate emergency services. But technology alone isn't enough. The 1906 story reminds us that human connections — neighbors helping neighbors, communities organizing together — are just as important as any algorithm.
+
+There's also a lesson about misinformation. After the 1906 earthquake, some city leaders downplayed the damage to protect real estate values. Today, misinformation spreads even faster on social media. Whether it's a natural disaster, a pandemic, or a political crisis, getting accurate information to people quickly can save lives — and lying about reality can cost them.

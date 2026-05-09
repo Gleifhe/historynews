@@ -84,3 +84,19 @@ The soldiers who fought on D-Day are now in their late 90s and beyond. Most have
 These aren't polished stories. They're raw, honest, sometimes painful memories from young men who were asked to do something unimaginably difficult — and did it anyway.
 
 D-Day didn't just happen in textbooks. It happened to real people. Their stories deserve to be heard.
+
+## What We Can Learn (Personal Growth)
+
+The D-Day oral histories teach us something powerful about ordinary people doing extraordinary things. The soldiers who stormed Omaha Beach weren't superheroes. They were teenagers and young men — bakers, farmers, students — who were terrified but kept going anyway. Courage isn't the absence of fear. It's acting in spite of fear. That lesson applies whether you're facing a battlefield or just standing up for someone being bullied at school.
+
+These stories also show the importance of teamwork and stepping up when leadership fails. When the officers were killed and the radios were destroyed, small groups of soldiers didn't wait for someone to tell them what to do. They figured it out themselves. In your own life, there will be moments when nobody is in charge and everything seems chaotic. Those are the moments that define who you are.
+
+Finally, the oral histories remind us to listen to people who've been through hard things. The veterans who shared their stories carried those memories for decades. Listening — really listening — to other people's experiences builds empathy and helps us understand the real cost of the decisions leaders make.
+
+## How This Connects to 2026
+
+In 2026, the last D-Day veterans are passing away. Their oral histories are more important than ever because soon there will be no living witnesses to tell us what that day was like. This connects to a bigger challenge we face today: how do we preserve truth in an age of AI-generated content and deepfakes? When anyone can create realistic fake video or audio, firsthand accounts and verified archives become our anchor to reality.
+
+The cooperation that made D-Day possible also has lessons for 2026. The invasion required American, British, Canadian, and other Allied forces to work together despite their differences. Today, international cooperation is being tested by geopolitical tensions, trade wars, and disagreements about how to handle challenges like climate change and AI regulation. D-Day reminds us that the biggest problems require people and nations to work together, even when it's difficult.
+
+The human cost of war described in these oral histories is also a sobering reminder as conflicts continue around the world in 2026. When we see headlines about wars and military operations, it's easy to think in terms of numbers and strategy. The D-Day stories put faces and voices to those numbers. They remind us that behind every statistic is a real person — someone's son, someone's friend — and that the decision to go to war should never be taken lightly.

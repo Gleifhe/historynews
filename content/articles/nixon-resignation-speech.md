@@ -87,3 +87,19 @@ The Watergate scandal and Nixon's resignation established important precedents:
 - **The system of checks and balances works** — Congress, the courts, and the press all played their roles
 
 C-SPAN's Video Library has the complete, unedited footage of Nixon's resignation speech. Watching it today, you can still feel the weight of the moment — a president who reached the highest office in the land, and lost it because he couldn't admit the truth.
+
+## What We Can Learn (Personal Growth)
+
+Nixon's downfall teaches a lesson that applies to everyone, not just presidents: the cover-up is almost always worse than the original mistake. If Nixon had admitted early on that people connected to his campaign had done something wrong, he might have survived the scandal. Instead, he lied, destroyed evidence, and used the power of his office to hide the truth. Each lie required bigger lies to cover it up, until the whole thing collapsed.
+
+This pattern shows up in everyday life too. When you make a mistake — at school, at work, in a relationship — the temptation is to hide it or make excuses. But honesty, even when it's painful, almost always leads to a better outcome than deception. People can forgive mistakes. They have a much harder time forgiving dishonesty.
+
+Nixon's story also shows the importance of accountability. Having people around you who will tell you the truth — even when you don't want to hear it — is incredibly valuable. Nixon surrounded himself with people who told him what he wanted to hear, and it destroyed his presidency.
+
+## How This Connects to 2026
+
+The question at the heart of Watergate — can powerful people be held accountable? — is one of the biggest questions in American politics in 2026. Trust in government institutions has dropped to historic lows. Many Americans worry that the checks and balances that worked during Watergate have weakened, and that wealthy or powerful individuals can avoid consequences for their actions.
+
+The role of the press has changed dramatically since 1972. Woodward and Bernstein worked for months on their investigation, backed by editors who were willing to risk everything to publish the truth. In 2026, investigative journalism still exists, but it competes with a flood of misinformation, partisan commentary, and AI-generated content that makes it harder for people to tell fact from fiction. The lesson of Watergate — that a free press is essential to democracy — matters even more when the information landscape is this chaotic.
+
+Nixon's secret recordings also raise questions that feel very modern. In 2026, we live in a world of constant surveillance — by governments, corporations, and the devices in our own pockets. The idea that everything you say might be recorded isn't a scandal anymore; it's Tuesday. But the Watergate tapes remind us that transparency and privacy are always in tension, and that power without accountability is dangerous no matter what era you live in.

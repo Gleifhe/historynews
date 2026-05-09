@@ -62,3 +62,19 @@ Other nations, including the United States, refused to recognize Haiti for decad
 The Haitian Revolution proved that enslaved people were not helpless victims — they were human beings capable of organizing, fighting, and governing themselves. It sent a clear message to every slaveholding society in the world: slavery could be overthrown.
 
 The revolution also had a direct impact on American history. Napoleon's defeat in Haiti convinced him to sell the Louisiana Territory to the United States in 1803 — the Louisiana Purchase doubled the size of the young nation. Without the Haitian Revolution, the map of America would look very different today.
+
+## What We Can Learn (Personal Growth)
+
+The Haitian Revolution is one of the most powerful stories of self-determination in human history. Enslaved people — told they were less than human, denied education, denied freedom — organized themselves, built an army, and defeated the greatest military powers in the world. If that doesn't prove that people should never be underestimated, nothing does. In your own life, don't let anyone else's low expectations define what you can accomplish.
+
+Toussaint Louverture's leadership is a masterclass in strategy and patience. He didn't just fight — he outmaneuvered empires. He played enemies against each other, built alliances when it served his people, and always kept his eyes on the ultimate goal: freedom. Success in any area of life often requires that same combination of vision, flexibility, and persistence. Know what you're fighting for, but be willing to adapt your tactics.
+
+The price Haiti paid for its freedom — the crushing debt France imposed — is also worth thinking about. Sometimes doing the right thing comes with an unfair cost. The world doesn't always reward courage. But the Haitians chose freedom anyway, knowing the price would be steep. That kind of determination — choosing what matters most even when it's hard — is at the heart of personal growth.
+
+## How This Connects to 2026
+
+Haiti's story is directly connected to conversations about reparations and historical justice that are happening in 2026. France forced Haiti to pay the equivalent of billions of dollars in today's money as "compensation" to former slaveholders — money that crippled Haiti's development for generations. The question of whether former colonial powers owe reparations to the nations they exploited is one of the most debated issues in global politics today.
+
+The Haitian Revolution also speaks to the power dynamics of 2026, where technology has created new forms of inequality. Just as Saint-Domingue's wealth was built on exploited labor, many of today's tech fortunes are built on data harvested from users, gig workers with few protections, and mineral extraction from developing countries. The same fundamental question the Haitians asked — who benefits from this system, and at whose expense? — is being asked about AI companies, social media platforms, and global supply chains.
+
+Finally, Haiti's struggle for recognition after independence mirrors what many marginalized communities face in 2026. Even after achieving freedom, Haiti was isolated by the world's major powers because its success threatened the slave-based economies they depended on. Today, communities and nations that challenge powerful systems — whether by demanding climate justice, labor rights, or digital privacy — often face similar pushback. The Haitian Revolution reminds us that winning your freedom is just the first step. Defending it is the work of every generation that follows.

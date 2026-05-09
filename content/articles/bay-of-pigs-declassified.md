@@ -78,3 +78,19 @@ The CIA's internal review of the Bay of Pigs — classified for decades and now 
 - Groupthink and wishful thinking replaced honest analysis
 
 The Bay of Pigs remains one of the most studied failures in American intelligence history. Its lesson is simple but important: when leaders ignore their own experts and let wishful thinking drive decisions, the results can be catastrophic.
+
+## What We Can Learn (Personal Growth)
+
+The Bay of Pigs is a textbook case of what happens when people stop listening. The CIA had smart analysts who studied the situation carefully and concluded the invasion would fail. But nobody wanted to hear bad news. The people in charge had already decided what they wanted to do, and they filtered out any information that didn't support their plan. That's called confirmation bias, and it's something all of us do — not just government agencies.
+
+Think about a time you made a decision and only paid attention to the evidence that supported it. Maybe you convinced yourself a shortcut would work, even though part of you knew it wouldn't. The Bay of Pigs reminds us to actively seek out opinions that challenge our thinking. If everyone in the room agrees with you, that's not a sign you're right — it might be a sign that nobody feels safe enough to disagree.
+
+The story also highlights the importance of intellectual honesty. Kennedy was told what his advisors thought he wanted to hear, not what he needed to hear. Being honest — with yourself and with others — even when the truth is uncomfortable, is one of the hardest and most important skills you can develop.
+
+## How This Connects to 2026
+
+The Bay of Pigs lesson about ignoring experts hits especially hard in 2026. As artificial intelligence becomes more powerful, decisions in government, business, and military operations increasingly depend on data and expert analysis. But the Bay of Pigs shows that having the right information isn't enough — leaders also have to be willing to listen to it. AI can provide better data than ever before, but if the humans making decisions ignore what the data says, the technology doesn't matter.
+
+Groupthink — the tendency for groups to agree with each other rather than think critically — is still a major problem in organizations everywhere. In the age of social media, it can be even worse. Online communities often become echo chambers where dissenting voices are silenced or shouted down. The Bay of Pigs reminds us that the most dangerous words in any organization are: "Everyone agrees, so it must be right."
+
+The story also connects to modern debates about government transparency. The Bay of Pigs documents were classified for decades before being released through FOIA. In 2026, debates about government secrecy, whistleblower protections, and public access to information continue. The declassified Bay of Pigs files prove that transparency — even when it's embarrassing — is essential for a functioning democracy.

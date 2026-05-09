@@ -65,3 +65,19 @@ That finally changed in 1988, when President Ronald Reagan signed the Civil Libe
 The original Executive Order 9066 is held at the National Archives in Washington, D.C. It's a simple typed document with Roosevelt's signature at the bottom. Looking at it today, it's hard to believe that such an ordinary-looking piece of paper caused so much suffering.
 
 The lesson of Executive Order 9066 is clear: fear can make a country do terrible things to its own people. And it reminds us that the rights promised in the Constitution must be protected — especially when people are scared.
+
+## What We Can Learn (Personal Growth)
+
+The Japanese internment story is one of the most powerful lessons about standing up for what's right — even when it's unpopular. In 1942, very few Americans spoke out against the internment. Most people went along with it because they were afraid, or because they trusted the government, or because they simply didn't care enough about people who looked different from them. It takes real courage to stand up for someone else when everyone around you is going in the other direction. But that's exactly when it matters most.
+
+The Japanese American families who rebuilt their lives after the camps also teach us about resilience. They lost their homes, their businesses, and years of their lives. Many faced continued discrimination after the war. But they worked hard, raised families, and contributed to their communities. Their strength is a reminder that setbacks — even devastating ones — don't have to define you. What defines you is what you do after.
+
+The soldiers of the 442nd Regimental Combat Team offer perhaps the most incredible lesson of all. They fought and died for a country that had locked up their families. That's an almost impossible level of commitment to a principle — the belief that America's ideals were worth fighting for, even when America itself was failing to live up to them. Their example challenges all of us to fight for what we believe in, even when the world makes it easy to give up.
+
+## How This Connects to 2026
+
+The internment of Japanese Americans is not just ancient history — it's a warning that speaks directly to 2026. In times of fear, governments can target entire groups of people based on their race, religion, or national origin. Today, political polarization and rising nationalism around the world create conditions where scapegoating can happen again. When politicians use fear to justify treating certain groups differently, the story of Executive Order 9066 reminds us where that path leads.
+
+The role of misinformation in the internment also connects to today. In 1942, newspapers and politicians spread false claims that Japanese Americans were spying for Japan — claims that had no evidence behind them. In 2026, AI-generated content and social media make it even easier to spread fear and lies about specific groups of people. Deepfake videos, fake news articles, and viral social media posts can turn public opinion against a community in hours. The technology has changed, but the danger is the same.
+
+The internment also connects to ongoing conversations about social justice and reparations. It took over 40 years for the U.S. government to apologize and provide compensation to survivors. Today, similar debates continue about other historical injustices. The Japanese American experience shows that acknowledging past wrongs — even decades later — matters. It doesn't erase the harm, but it sends a message that a society is willing to face its mistakes and try to do better.

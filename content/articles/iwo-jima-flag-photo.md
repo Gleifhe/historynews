@@ -85,3 +85,19 @@ Joe Rosenthal's photograph won the Pulitzer Prize and became the model for the M
 The Library of Congress holds prints of the photograph and related images. The original negative is held by the Associated Press.
 
 The photo captures something universal: the struggle, the teamwork, the cost of freedom. But behind the image are six real men — three of whom gave their lives on a tiny island in the Pacific, and three who carried the weight of that photograph for the rest of their days.
+
+## What We Can Learn (Personal Growth)
+
+The Iwo Jima story teaches us that heroism is complicated. The three survivors — especially Ira Hayes — never felt like heroes. They knew the real heroes were the friends who didn't come home. In our own lives, we sometimes get credit for things that were really a team effort, or we succeed while others who worked just as hard don't. Handling that with humility and honesty, instead of just accepting the praise, takes real character.
+
+Ira Hayes's tragic story is also a reminder that even strong people need help. Hayes came home from one of the worst battles in history and was immediately thrown into the spotlight. Nobody asked if he was okay. Nobody helped him deal with what he'd been through. If someone you know is struggling — even if they look fine on the outside — reaching out could make all the difference. Asking for help isn't weakness, and offering help isn't pity. It's just being human.
+
+The two flag raisings also teach us about the difference between image and reality. The famous photograph was actually the second flag raising — a replacement for a smaller flag. The men who raised the first flag, who actually fought their way to the top of the mountain under fire, are largely forgotten. It's a powerful reminder not to confuse the picture with the whole story, and not to assume that the version of events we see is the only one that matters.
+
+## How This Connects to 2026
+
+The Iwo Jima photograph is one of the most powerful examples of how a single image can shape an entire nation's understanding of an event — and that power has only grown in 2026. Today, AI can generate photorealistic images of events that never happened. Deepfake technology can put words in people's mouths and create scenes that look completely real. If a photograph as powerful as Rosenthal's could be fabricated today, would we be able to tell? The question of what images we can trust has never been more urgent.
+
+Ira Hayes's experience also connects to how we treat veterans and people dealing with trauma in 2026. Mental health awareness has improved enormously since 1945, but many people — veterans, first responders, and ordinary individuals — still struggle to get the help they need. The political debate over funding for mental health services and veterans' care continues, and Ira Hayes's story is a reminder of what happens when we celebrate people's sacrifice but don't support their recovery.
+
+The story also touches on social justice. Ira Hayes was a Pima Native American who fought and suffered for a country that had historically mistreated his people. In 2026, conversations about racial justice, Indigenous rights, and who gets to be called a "real American" are still ongoing. The fact that one of the most iconic American images includes a Native American man — who was then discarded by the country he helped save — is a contradiction that still hasn't been fully resolved.

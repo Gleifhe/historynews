@@ -62,3 +62,19 @@ Critics argue that Japan was already close to surrendering, that the bombings we
 Hiroshima and Nagasaki remain the only time nuclear weapons have been used in warfare. Today, nine countries possess nuclear weapons, and the combined global arsenal is powerful enough to destroy civilization many times over.
 
 The cities of Hiroshima and Nagasaki have been rebuilt, and both have peace memorials dedicated to the victims. Every August, ceremonies are held to remember those who died and to call for a world free of nuclear weapons. The hibakusha's message remains urgent: what happened to them must never happen to anyone else.
+
+## What We Can Learn (Personal Growth)
+
+The story of Hiroshima and Nagasaki forces us to think about the weight of our decisions. President Truman made a choice that affected hundreds of thousands of lives. Most of us will never face anything that enormous, but we all make choices every day that affect other people. The lesson here is to slow down and think about consequences — not just for ourselves, but for everyone our actions touch.
+
+The hibakusha teach us something equally powerful about resilience. These survivors endured unimaginable suffering and then chose to spend their lives speaking out for peace instead of living in bitterness. That takes incredible strength. When bad things happen to us — and they will — we get to choose what we do with that pain. We can let it define us, or we can use it to help others.
+
+The scientists who built the bomb also offer a lesson. Many of them, including Oppenheimer, spent the rest of their lives wrestling with what they had created. It's a reminder that knowledge comes with responsibility. Whether you're good at science, technology, writing, or anything else, your skills can be used to help or to harm. Thinking about that responsibility early — before you're in the middle of a crisis — is one of the most important things you can do.
+
+## How This Connects to 2026
+
+In 2026, the parallels to the atomic bomb story are impossible to ignore. Artificial intelligence is often called the most transformative technology since nuclear weapons, and many of the same debates are happening all over again. Scientists and engineers are building systems of enormous power, governments are racing to control the technology, and ordinary people are wondering whether anyone is thinking about the long-term consequences. Just as the Manhattan Project scientists debated whether their creation should be used, AI researchers today are raising alarms about systems that could be deployed before we fully understand their risks.
+
+The geopolitical tensions of 2026 also echo this history. Nine countries now have nuclear weapons, and the relationships between nuclear powers — especially the United States, Russia, and China — remain tense. Meanwhile, political polarization makes it harder for nations to cooperate on arms control. The hibakusha have been warning us for 80 years that nuclear weapons must never be used again. As global tensions rise, their message is more urgent than ever.
+
+There's also a lesson here about how we treat people who are different from us. The decision to bomb Hiroshima and Nagasaki was made easier, some historians argue, because the targets were in Japan — a country Americans had been taught to see as the enemy. Today, misinformation and social media can dehumanize entire groups of people just as effectively. Remembering the real human cost of these bombings — the children, the families, the survivors who suffered for decades — reminds us to see people as people, especially when fear and anger make that difficult.

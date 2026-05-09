@@ -95,3 +95,19 @@ The experiment has been applied to understanding:
 - Political movements where citizens went along with oppressive policies
 
 The lesson is clear: if you want to resist doing something wrong, you need to be willing to say "no" to authority — and that's much harder than most people think.
+
+## What We Can Learn (Personal Growth)
+
+Milgram's experiment teaches one of the most important lessons you'll ever learn: just because someone in charge tells you to do something doesn't mean you should do it. It's easy to think you'd be the person who refuses, the one who stands up and says "no." But the experiment shows that most people go along — even when they know it's wrong. Being aware of that tendency in yourself is the first step toward actually resisting it.
+
+The key is to practice thinking for yourself before you're in a high-pressure situation. If you build the habit of asking "Is this the right thing to do?" in everyday life — at school, with friends, on social media — you'll be more prepared when it really matters. Courage isn't about never feeling pressure. It's about doing what's right even when the pressure is intense.
+
+The participants who did refuse to continue shared something in common: they trusted their own judgment over the authority figure's instructions. That kind of inner confidence doesn't come from nowhere. It comes from knowing your values and deciding in advance where your limits are.
+
+## How This Connects to 2026
+
+In 2026, obedience to authority takes new forms that Milgram never imagined. Social media algorithms act like invisible authority figures, telling us what to believe, what to be angry about, and who to blame. People share misinformation not because they're evil, but because a trusted source — a celebrity, a politician, an influencer — told them it was true. The same psychological tendency Milgram discovered is at work every time someone spreads a false story without checking it first.
+
+Artificial intelligence makes this even more complicated. As AI systems are used to make decisions about hiring, policing, lending, and education, people are increasingly being asked to follow the instructions of algorithms they don't fully understand. If a computer tells a manager to reject a job applicant, or tells a judge that a defendant is high-risk, how many people will push back and question the machine? Milgram's research suggests: not enough.
+
+The polarization we see in politics today also connects to Milgram's findings. When people are deeply loyal to a political leader or movement, they can be pushed to accept things they would normally reject — cruelty toward immigrants, attacks on the free press, or threats against political opponents. Milgram showed that ordinary people can do terrible things when they surrender their judgment to an authority. That warning is more urgent in 2026 than ever.

@@ -92,3 +92,19 @@ Today, July 14 is France's national holiday — their equivalent of America's Ju
 The paintings, illustrations, and maps of the Bastille's storming — many available through Wikimedia Commons — capture the raw energy of a moment when ordinary people decided they'd had enough. The Bastille was torn down brick by brick in the months that followed. Today, nothing remains of the fortress except a faint outline in the pavement of the Place de la Bastille.
 
 But the idea it inspired — that power belongs to the people, not to kings — changed the world forever.
+
+## What We Can Learn (Personal Growth)
+
+The storming of the Bastille shows what happens when ordinary people decide they've had enough. For years, French citizens endured starvation, unfair taxes, and a government that didn't care about them. The lesson isn't that violence is the answer — the Revolution became terribly violent and destroyed many innocent lives. The lesson is that when people are ignored for too long, the pressure builds until it explodes.
+
+This applies to our own lives too. If you bottle up frustration — about unfair treatment at school, problems at home, or injustice you see around you — eventually it comes out in ways you can't control. It's better to speak up early, calmly, and clearly than to wait until you're so angry that you can't think straight.
+
+The French Revolution also teaches us that tearing something down is much easier than building something better. After the Bastille fell, France went through years of chaos, violence, and dictatorship before it became a stable democracy. Change is necessary, but it has to come with a plan for what comes next.
+
+## How This Connects to 2026
+
+The inequality that fueled the French Revolution hasn't gone away — it's just taken new forms. In 2026, the gap between the ultra-wealthy and everyone else continues to grow worldwide. Technology billionaires live in a kind of modern Versailles, while millions of people struggle with rising costs for food, housing, and healthcare. When people feel like the system is rigged, history tells us what can happen.
+
+Social media has become the modern public square where frustration builds and movements organize. From climate protests to labor strikes, people in 2026 are using digital tools to demand change — just as pamphlets and street speeches spread revolutionary ideas in 1789. But social media also spreads misinformation and can turn peaceful frustration into dangerous mob mentality.
+
+The Bastille story also connects to debates about democratic institutions in 2026. Around the world, trust in government is declining, and political polarization is increasing. When people lose faith that the system can be fixed from the inside, they start looking for ways to tear it down. The challenge for this generation is to fight for change while also protecting the democratic principles that make peaceful change possible.

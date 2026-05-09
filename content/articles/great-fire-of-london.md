@@ -79,3 +79,19 @@ The Great Fire of London is a story about how disaster can lead to progress. The
 The building codes developed after the Great Fire influenced construction standards around the world. The concept of fire insurance spread to other countries. And the idea that cities should plan for fire safety — rather than just react to fires — became a fundamental principle of urban planning.
 
 BBC History's coverage of the Great Fire, combined with Pepys's diary (available free online) and images from the Library of Congress, gives us a complete picture of one of the most transformative disasters in history.
+
+## What We Can Learn (Personal Growth)
+
+The Great Fire of London is one of history's best examples of turning disaster into opportunity. The city that rose from the ashes was safer, more beautiful, and better planned than the one that burned. In your own life, setbacks and failures can be devastating in the moment — but they also create a chance to rebuild something better. The key is to not just rebuild the same way. Ask yourself what went wrong and what you can change.
+
+The fire also teaches us about the danger of ignoring warnings. People in 1666 knew London was a fire hazard. The buildings were made of wood, the streets were narrow, and there was no fire department. But nobody did anything about it until disaster struck. That pattern repeats everywhere — in health, in relationships, in school. If you can see a problem coming, dealing with it early is always better than waiting for the crisis.
+
+Samuel Pepys's diary reminds us of the power of recording what happens. Because Pepys wrote down what he saw, we have an eyewitness account that has lasted over 350 years. Keeping a journal, documenting your experiences, or even just reflecting on your day helps you learn from what you've been through. Your story matters, and writing it down makes sure it isn't forgotten.
+
+## How This Connects to 2026
+
+The Great Fire forced London to create building codes, fire insurance, and organized fire services — all things that seem obvious now but didn't exist before disaster demanded them. In 2026, we're in a similar position with several emerging threats. AI safety regulations, cybersecurity standards, and climate adaptation rules are still being developed. Like 17th-century London, we often wait for a catastrophe before we act. The Great Fire's lesson is clear: prevention is cheaper than reconstruction.
+
+Urban planning challenges in 2026 also echo the Great Fire. Cities around the world are dealing with aging infrastructure, housing shortages, and the need to build for a changing climate. Rising sea levels, extreme heat, and more intense storms mean that how we build cities today will determine how well they survive tomorrow. The post-fire rebuilding of London shows that disaster can be a catalyst for smarter, more resilient design — if leaders have the courage to think big.
+
+The speed of the fire's spread — fueled by cramped conditions and the lack of preparation — also parallels how quickly crises move in the digital age. Cyberattacks, misinformation campaigns, and financial panics can spread across the globe in minutes. Just as London had no firefighting infrastructure in 1666, many institutions in 2026 are still unprepared for the speed and scale of digital threats. The lesson hasn't changed in 360 years: build your defenses before you need them, not after.

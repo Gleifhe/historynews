@@ -75,3 +75,19 @@ Today, *Yersinia pestis* still exists. A few thousand cases of plague are report
 Europeana's collections include medieval manuscripts, artwork, and records that document the Black Death's passage through Europe. Parish records show communities where the death registers suddenly fill with names. Art from the period shows skeletal figures leading the living in the "Dance of Death."
 
 These records tell the story of the worst pandemic in human history — and remind us that diseases don't just kill individuals. They reshape entire civilizations.
+
+## What We Can Learn (Personal Growth)
+
+The Black Death destroyed nearly half of Europe's population, but the civilization that emerged from the ashes was in many ways stronger and more free. Surviving peasants gained bargaining power. People began questioning old authorities. New ways of thinking about science and medicine took root. That's a powerful — if painful — lesson: sometimes the worst crises create the conditions for the biggest breakthroughs. When everything falls apart, there's also an opportunity to rebuild something better.
+
+The plague also teaches us about the danger of blaming others during a crisis. When people were scared and didn't understand what was happening, they lashed out at Jewish communities, foreigners, and anyone who seemed different. Thousands of innocent people were murdered because of fear and ignorance. When bad things happen, the urge to find a scapegoat is strong — but giving in to that urge only makes things worse.
+
+Finally, the Black Death reminds us that knowledge is power. Medieval doctors didn't understand germ theory, so they couldn't fight the plague effectively. The people who eventually figured out quarantines and sanitation saved lives through observation and reasoning. Educating yourself — really learning how things work, not just memorizing facts — gives you the tools to solve problems that others can't.
+
+## How This Connects to 2026
+
+The Black Death feels like ancient history, but its lessons are surprisingly relevant in 2026. The world is still dealing with the aftermath of COVID-19, and health experts warn about antibiotic-resistant bacteria and the possibility of future pandemics. *Yersinia pestis* — the bacterium that caused the Black Death — still exists today. Modern antibiotics can treat it, but the rise of antibiotic resistance could make diseases we thought we'd conquered dangerous again.
+
+The scapegoating that happened during the Black Death also has modern echoes. During COVID-19, hate crimes against Asian Americans surged as people looked for someone to blame. In 2026, political polarization and misinformation continue to fuel hostility toward minority groups during times of crisis. The 14th-century pogroms against Jewish communities are a reminder of where that kind of thinking leads.
+
+There's also a fascinating connection to AI and medicine. Medieval doctors were helpless against the plague because they lacked basic scientific knowledge. Today, artificial intelligence is being used to discover new antibiotics, predict disease outbreaks, and develop vaccines at record speed. We have tools the medieval world couldn't have imagined — but the Black Death reminds us that tools are only as good as the systems and leaders that use them.

@@ -64,3 +64,19 @@ The United States government was slow to share the full details of the march wit
 The Bataan Death March is a reminder of what happens when the rules of war are thrown away. The Geneva Conventions — international agreements about how prisoners of war must be treated — exist because of events like this.
 
 Every April, thousands of people participate in the Bataan Memorial Death March at White Sands, New Mexico. Participants walk 26.2 miles through the desert to honor the soldiers who suffered and died on that road in the Philippines. Many of the last surviving veterans of the march have passed away, making it all the more important that their story is never forgotten.
+
+## What We Can Learn (Personal Growth)
+
+The Bataan Death March is one of the most horrifying events in modern history, but the survival stories that came out of it carry powerful lessons. The men who made it through didn't survive because they were the strongest or the toughest. Many of them survived because they helped each other. The sergeant who carried his friend for three miles. The Filipino civilians who risked their lives to pass food to strangers. These acts of selflessness made the difference between life and death.
+
+That lesson applies far beyond a wartime march. When life gets hard — and it will — you don't have to face it alone. Asking for help isn't weakness. Offering help isn't optional. The people who get through the toughest times are almost always the ones who stay connected to others.
+
+The Bataan story also teaches us about mental toughness. The survivors didn't know when or if rescue would come. They kept going one step at a time. When you're facing something that feels impossible — a difficult class, a family crisis, a personal setback — you don't have to see the finish line. You just have to take the next step.
+
+## How This Connects to 2026
+
+The Bataan Death March reminds us why international laws protecting prisoners of war exist — and why they matter. In 2026, conflicts around the world continue to raise questions about how prisoners and civilians are treated during wartime. The Geneva Conventions, strengthened partly because of atrocities like Bataan, are only effective if nations actually follow them and hold violators accountable.
+
+The story also connects to the ongoing conversation about veterans' mental health. The Bataan survivors dealt with what we now call PTSD, but in the 1940s there was almost no understanding of it and very little help available. Today, we know much more about trauma and mental health, but many veterans and active-duty service members still struggle to get the support they need. The Bataan story reminds us that the cost of war doesn't end when the fighting stops.
+
+Finally, as the last Bataan survivors pass away, their story raises an important question about how we preserve history. In an age of AI-generated content and digital misinformation, keeping authentic firsthand accounts alive matters more than ever. When we lose the people who were there, we rely on the records, interviews, and memorials they left behind. Protecting those sources — and teaching each new generation about what happened — is how we make sure the lessons of Bataan are never lost.

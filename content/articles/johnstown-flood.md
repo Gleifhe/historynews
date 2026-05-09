@@ -64,3 +64,19 @@ This outcome outraged many Americans and helped fuel a growing movement for corp
 ## Remembering Johnstown
 
 The Johnstown Flood remains one of the worst disasters in American history. Today, the Johnstown Flood National Memorial, operated by the National Park Service, preserves the site of the South Fork Dam. The Johnstown Flood Museum in the city tells the story of that terrible day and the people who lived through it. Their story serves as a lasting warning about the dangers of neglecting infrastructure and ignoring the concerns of those who sound the alarm.
+
+## What We Can Learn (Personal Growth)
+
+The Johnstown Flood teaches one of the clearest lessons in history: ignoring warnings has consequences. People downstream from the South Fork Dam had been worried about it for years. Engineers said it was dangerous. But the wealthy club members who owned the dam dismissed those concerns because fixing the problem would cost money and effort. In our own lives, we sometimes ignore warning signs — about our health, our relationships, or problems we'd rather not deal with. The Johnstown story reminds us that problems don't go away just because we choose not to look at them.
+
+The response to the disaster also teaches us about the power of community. When the floodwaters receded, people from across the country stepped up to help. Clara Barton and the Red Cross came to Johnstown and stayed for five months. Ordinary people sent money, supplies, and support. In the worst moments, the best of human nature showed up. You don't have to wait for a disaster to help your community. Small acts of kindness and service build the connections that matter most when things go wrong.
+
+The failure to hold the dam's owners accountable is a harder lesson. Sometimes, doing the right thing and getting justice are not the same thing. The courts ruled that the flood was an "act of God," even though human decisions clearly made it worse. That's frustrating and unfair. But the survivors didn't give up — their story helped change laws and pushed society to demand more accountability from the powerful. Fighting for what's right is always worth it, even when the results come slowly.
+
+## How This Connects to 2026
+
+The Johnstown Flood is a story about infrastructure failure — and in 2026, that topic is more relevant than ever. Across the United States, thousands of bridges, dams, water systems, and other structures are aging and in need of repair. Climate change is making the problem worse by bringing more extreme weather — heavier rains, stronger storms, and more frequent flooding. The same pattern that destroyed Johnstown in 1889 — a neglected structure overwhelmed by unusual weather — is a real risk in communities across the country today.
+
+The story of the South Fork Fishing and Hunting Club also connects to modern debates about inequality and corporate responsibility. In 1889, some of the wealthiest men in America prioritized their comfort over the safety of thousands of people downstream. Today, similar questions arise when corporations cut costs on safety, when polluters harm disadvantaged communities, or when climate change hits the poorest people the hardest while the wealthiest remain protected. The question of who bears the cost when things go wrong is still very much alive.
+
+The legal outcome — where no one was held responsible — also echoes in 2026 debates about accountability. When AI systems make harmful decisions, when social media platforms spread misinformation that leads to real-world harm, or when companies ignore safety warnings, the question of legal responsibility is often murky. Just as the courts in 1889 called the flood an "act of God," today's legal systems are still struggling to assign blame in a world where technology, corporate decisions, and natural forces are deeply intertwined.
