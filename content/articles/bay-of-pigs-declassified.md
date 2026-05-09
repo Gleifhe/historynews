@@ -1,0 +1,80 @@
+---
+title: "Declassified Disaster"
+headline: "TOP SECRET: CIA's Own Analysts Said the Bay of Pigs Would Fail — And Were Ignored"
+summary: "Declassified internal assessments reveal the agency's own analysts warned the invasion would fail — and were overruled by political pressure."
+date: 2026-04-25
+historydate: "April 17, 1961"
+era: "Cold War"
+source: "CIA FOIA Reading Room"
+image: "https://tile.loc.gov/storage-services/service/pnp/ppmsca/09700/09773r.jpg"
+imagealt: "President Kennedy and advisors"
+imagecaption: "President John F. Kennedy inherited the Bay of Pigs invasion plan from the Eisenhower administration"
+imagecredit: "Library of Congress"
+weight: 15
+sources:
+  - '<a href="https://www.cia.gov/readingroom/collection/bay-pigs-release">CIA FOIA Reading Room — Bay of Pigs Declassified Documents</a>'
+  - '<a href="https://nsarchive2.gwu.edu/bayofpigs/chron.html">National Security Archive — Bay of Pigs Chronology</a>'
+  - 'Jim Rasenberger, <em>The Brilliant Disaster</em> (2011, Scribner)'
+  - '<a href="https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/the-bay-of-pigs">JFK Library — The Bay of Pigs</a>'
+---
+
+## The Plan to Overthrow Castro
+
+In January 1959, a revolutionary named Fidel Castro took over Cuba, an island nation just 90 miles from Florida. Castro's government became communist and allied with the Soviet Union — America's biggest enemy during the Cold War.
+
+The U.S. government was alarmed. Having a Soviet ally so close to American shores felt like a threat to national security. Under President Dwight Eisenhower, the CIA began secretly planning to overthrow Castro.
+
+The plan was called "Operation Zapata." The idea was to train a force of Cuban exiles — people who had fled Cuba after Castro took over — and send them back to invade the island. The CIA believed that once the invasion started, ordinary Cubans would rise up and join the fight against Castro.
+
+It didn't work out that way.
+
+## The CIA's Internal Doubts
+
+Here's what makes the Bay of Pigs story so fascinating — and so tragic. The CIA's own analysts had serious doubts about the plan. Declassified documents from the CIA FOIA Reading Room reveal that intelligence experts inside the agency warned that the invasion was likely to fail.
+
+Their concerns included:
+
+- **Castro was popular**: Despite what Cuban exiles claimed, many Cubans actually supported Castro, especially in rural areas
+- **The invasion force was too small**: About 1,400 Cuban exiles were going up against Castro's army of 200,000
+- **There would be no uprising**: The CIA's analysts didn't believe ordinary Cubans would spontaneously join the invasion
+- **The element of surprise was gone**: Castro's intelligence service already knew something was being planned
+
+But these warnings were pushed aside by the CIA's operations division, which was enthusiastic about the plan.
+
+## A New President Inherits a Bad Plan
+
+When John F. Kennedy became president in January 1961, he was briefed on the invasion plan. Kennedy was only 43 years old and had been in office for just a few months. CIA Director Allen Dulles assured him that the plan would work.
+
+Kennedy had doubts. He was worried about the U.S. being caught openly attacking another country. He made one critical change: he canceled the planned air strikes that were supposed to destroy Castro's air force before the invasion. Without air support, the invasion force would have no protection from Cuban planes.
+
+The CIA protested but went along with it.
+
+## April 17, 1961: The Invasion
+
+On the morning of April 17, 1961, about 1,400 Cuban exiles landed at the Bay of Pigs on Cuba's southern coast. Almost immediately, everything went wrong.
+
+- **Cuban planes attacked the landing ships**, sinking two supply vessels and destroying much of the invaders' ammunition and communications equipment
+- **The beach was surrounded by swamps**, making it nearly impossible to advance inland
+- **Castro's army responded quickly**, sending 20,000 troops to the area
+- **No popular uprising happened** — Cuban citizens did not rise up against Castro
+
+The invaders fought bravely but were completely outnumbered and outgunned. Within three days, the invasion was over. About 114 invaders were killed and over 1,100 were captured. The prisoners were eventually returned to the U.S. in December 1962 in exchange for $53 million worth of food and medicine.
+
+## The Aftermath
+
+The Bay of Pigs was a humiliation for the United States. It made Castro stronger, not weaker — he used the failed invasion as proof that the U.S. was trying to destroy Cuba.
+
+It also pushed Castro closer to the Soviet Union. Within a year, the Soviets began secretly shipping nuclear missiles to Cuba, leading to the Cuban Missile Crisis of October 1962 — the closest the world has ever come to nuclear war.
+
+President Kennedy publicly took responsibility for the failure. Privately, he was furious with the CIA. He fired CIA Director Allen Dulles and said he wanted to "splinter the CIA into a thousand pieces."
+
+## What the Declassified Documents Show
+
+The CIA's internal review of the Bay of Pigs — classified for decades and now available through the FOIA Reading Room — is a devastating self-criticism. It concludes that:
+
+- The operation was "too large to be kept secret and too small to succeed"
+- The CIA's operations division ignored its own intelligence analysts
+- Decision-makers told the president what they thought he wanted to hear, not the truth
+- Groupthink and wishful thinking replaced honest analysis
+
+The Bay of Pigs remains one of the most studied failures in American intelligence history. Its lesson is simple but important: when leaders ignore their own experts and let wishful thinking drive decisions, the results can be catastrophic.

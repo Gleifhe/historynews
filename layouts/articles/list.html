@@ -1,0 +1,38 @@
+{{ define "main" }}
+<section class="articles-list-page">
+  <h1 class="section-page-title">All Articles</h1>
+  <div class="two-col-grid">
+    <div class="col">
+      {{ $pages := .Pages }}
+      {{ range $i, $p := $pages }}
+        {{ if lt $i (div (len $pages) 2 | add 1) }}
+        <a href="{{ $p.Permalink }}" class="story-card">
+          <div class="card-img" style="background-image: url('{{ $p.Params.image }}')"></div>
+          <div class="card-body">
+            <span class="card-category">{{ $p.Params.era }}</span>
+            <h3 class="card-headline">{{ $p.Params.headline }}</h3>
+            <p class="card-summary">{{ $p.Params.summary | truncate 120 }}</p>
+            <span class="card-date">{{ $p.Params.historydate }}</span>
+          </div>
+        </a>
+        {{ end }}
+      {{ end }}
+    </div>
+    <div class="col">
+      {{ range $i, $p := $pages }}
+        {{ if ge $i (div (len $pages) 2 | add 1) }}
+        <a href="{{ $p.Permalink }}" class="story-card">
+          <div class="card-img" style="background-image: url('{{ $p.Params.image }}')"></div>
+          <div class="card-body">
+            <span class="card-category">{{ $p.Params.era }}</span>
+            <h3 class="card-headline">{{ $p.Params.headline }}</h3>
+            <p class="card-summary">{{ $p.Params.summary | truncate 120 }}</p>
+            <span class="card-date">{{ $p.Params.historydate }}</span>
+          </div>
+        </a>
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on History News — Where the Past Makes Headlines</title>
+    <link>https://historynews.example.com/articles/</link>
+    <description>Recent content in Articles on History News — Where the Past Makes Headlines</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://historynews.example.com/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The City That Burned</title>
+      <link>https://historynews.example.com/articles/1906-san-francisco-earthquake/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://historynews.example.com/articles/1906-san-francisco-earthquake/</guid>
+      <description>Using newly digitized photographs and survivor letters, this piece walks through the 7.9-magnitude earthquake and three-day fire that destroyed 80% of San Francisco in 1906.</description>
+    </item>
+    <item>
+      <title>Signed Into Shame</title>
+      <link>https://historynews.example.com/articles/japanese-internment-order-9066/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://historynews.example.com/articles/japanese-internment-order-9066/</guid>
+      <description>FDR&amp;rsquo;s Executive Order 9066, the internal memos debating its legality, and the decades-long fight for reparations.</description>
+    </item>
+    <item>
+      <title>The Zimmermann Telegram</title>
+      <link>https://historynews.example.com/articles/zimmermann-telegram/</link>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://historynews.example.com/articles/zimmermann-telegram/</guid>
+      <description>How British intelligence decoded Germany&amp;rsquo;s secret proposal to Mexico, and why the UK waited weeks before revealing it to Washington.</description>
+    </item>
+    <item>
+      <title>The Night the Wall Came Down</title>
+      <link>https://historynews.example.com/articles/berlin-wall-falls/</link>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://historynews.example.com/articles/berlin-wall-falls/</guid>
+      <description>The fall of the Berlin Wall told through ordinary citizens&amp;rsquo; personal photos, diary entries, and amateur footage from across Europe.</description>
+    </item>
+    <item>
+      <title>How the Internet Broke on 9/11</title>
+      <link>https://historynews.example.com/articles/internet-on-911/</link>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://historynews.example.com/articles/internet-on-911/</guid>
+      <description>Archived snapshots of CNN, BBC, and MSNBC from September 11, 2001 show how the nascent web struggled — and adapted — to cover the biggest story of its era.</description>
+    </item>
+    <item>
+      <title>Titanic Sunk</title>
+      <link>https://historynews.example.com/articles/titanic-newspaper-coverage/</link>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://historynews.example.com/articles/titanic-newspaper-coverage/</guid>
+      <description>How rural American newspapers covered the Titanic disaster, from wildly inaccurate early reports to the grim corrections days later.</description>
+    </item>
+    <item>
+      <title>The Crime of the Century</title>
+      <link>https://historynews.example.com/articles/lindbergh-kidnapping/</link>
+      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://historynews.example.com/articles/lindbergh-kidnapping/</guid>
+      <description>A visual timeline of front-page coverage from 50+ newspapers tracking the kidnapping, ransom, discovery, and trial that consumed Depression-era America.</description>
+    </item>
+    <item>
+      <title>Killed by the King&#39;s Horse</title>
+      <link>https://historynews.example.com/articles/suffragette-emily-davison/</link>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://historynews.example.com/articles/suffragette-emily-davison/</guid>
+      <description>How British papers — sympathetic and hostile — framed suffragette Emily Davison&amp;rsquo;s death at the 1913 Epsom Derby.</description>
+    </item>
+    <item>
+      <title>One Giant Headline</title>
+      <link>https://historynews.example.com/articles/moon-landing-headlines/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://historynews.example.com/articles/moon-landing-headlines/</guid>
+      <description>A survey of international newspaper front pages from July 21, 1969 — from celebration to grudging acknowledgment behind the Iron Curtain.</description>
+    </item>
+    <item>
+      <title>Mask Up or Shut Down</title>
+      <link>https://historynews.example.com/articles/1918-spanish-flu-pandemic/</link>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://historynews.example.com/articles/1918-spanish-flu-pandemic/</guid>
+      <description>Public health journals from 1918-1920 reveal how cities that acted early survived the Spanish Flu better than those that didn&amp;rsquo;t.</description>
+    </item>
+    <item>
+      <title>The Book That Changed Everything</title>
+      <link>https://historynews.example.com/articles/darwins-origin-of-species/</link>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://historynews.example.com/articles/darwins-origin-of-species/</guid>
+      <description>A guided reading of key passages from Darwin&amp;rsquo;s Origin of Species, showing how radical and carefully diplomatic his arguments were.</description>
+    </item>
+    <item>
+      <title>Locked Doors and Broken Ladders</title>
+      <link>https://historynews.example.com/articles/triangle-shirtwaist-fire/</link>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://historynews.example.com/articles/triangle-shirtwaist-fire/</guid>
+      <description>The original investigation transcripts and coroner reports reconstruct the Triangle Shirtwaist Factory fire that killed 146 garment workers.</description>
+    </item>
+    <item>
+      <title>Would You Flip the Switch?</title>
+      <link>https://historynews.example.com/articles/milgram-obedience-experiment/</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://historynews.example.com/articles/milgram-obedience-experiment/</guid>
+      <description>Stanley Milgram&amp;rsquo;s original papers reveal how easily ordinary people can be pushed to inflict harm when told to by an authority figure.</description>
+    </item>
+    <item>
+      <title>12 Seconds That Changed the World</title>
+      <link>https://historynews.example.com/articles/wright-brothers-first-flight/</link>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://historynews.example.com/articles/wright-brothers-first-flight/</guid>
+      <description>High-resolution images of the original Wright Flyer, the brothers&amp;rsquo; notebooks, and their telegram home reconstruct the birth of aviation.</description>
+    </item>
+    <item>
+      <title>Declassified Disaster</title>
+      <link>https://historynews.example.com/articles/bay-of-pigs-declassified/</link>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://historynews.example.com/articles/bay-of-pigs-declassified/</guid>
+      <description>Declassified internal assessments reveal the agency&amp;rsquo;s own analysts warned the invasion would fail — and were overruled by political pressure.</description>
+    </item>
+    <item>
+      <title>Justice at Nuremberg</title>
+      <link>https://historynews.example.com/articles/nuremberg-trials/</link>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://historynews.example.com/articles/nuremberg-trials/</guid>
+      <description>An analysis of the Nuremberg Charter and key trial transcripts that established the precedent that &amp;lsquo;following orders&amp;rsquo; is not a legal defense.</description>
+    </item>
+    <item>
+      <title>Voices from Omaha Beach</title>
+      <link>https://historynews.example.com/articles/d-day-oral-histories/</link>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://historynews.example.com/articles/d-day-oral-histories/</guid>
+      <description>First-person accounts from soldiers, medics, and French civilians paint an intimate portrait of the Normandy invasion.</description>
+    </item>
+    <item>
+      <title>The Most Reproduced Photo in History</title>
+      <link>https://historynews.example.com/articles/iwo-jima-flag-photo/</link>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://historynews.example.com/articles/iwo-jima-flag-photo/</guid>
+      <description>The full story behind Joe Rosenthal&amp;rsquo;s iconic Iwo Jima photograph — including the lesser-known first flag raising and the men&amp;rsquo;s fates.</description>
+    </item>
+    <item>
+      <title>Dealey Plaza in Focus</title>
+      <link>https://historynews.example.com/articles/jfk-assassination-photos/</link>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://historynews.example.com/articles/jfk-assassination-photos/</guid>
+      <description>The press photographers in the motorcade, the amateur films, and how visual evidence shaped the JFK investigation.</description>
+    </item>
+    <item>
+      <title>London Burned for Four Days</title>
+      <link>https://historynews.example.com/articles/great-fire-of-london/</link>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://historynews.example.com/articles/great-fire-of-london/</guid>
+      <description>How the Great Fire destroyed medieval London yet led to modern building codes, fire insurance, and Christopher Wren&amp;rsquo;s reimagined city.</description>
+    </item>
+    <item>
+      <title>I Shall Resign</title>
+      <link>https://historynews.example.com/articles/nixon-resignation-speech/</link>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://historynews.example.com/articles/nixon-resignation-speech/</guid>
+      <description>A close reading of Nixon&amp;rsquo;s televised resignation speech — what he said, what he didn&amp;rsquo;t say, and how the nation reacted.</description>
+    </item>
+    <item>
+      <title>The Shot That Started a World War</title>
+      <link>https://historynews.example.com/articles/assassination-franz-ferdinand/</link>
+      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://historynews.example.com/articles/assassination-franz-ferdinand/</guid>
+      <description>How a wrong turn by a driver put Archduke Franz Ferdinand&amp;rsquo;s car directly in front of his assassin in Sarajevo.</description>
+    </item>
+    <item>
+      <title>Wonderful Things</title>
+      <link>https://historynews.example.com/articles/tutankhamun-tomb-discovery/</link>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://historynews.example.com/articles/tutankhamun-tomb-discovery/</guid>
+      <description>Howard Carter&amp;rsquo;s dramatic discovery of Tutankhamun&amp;rsquo;s tomb and the media frenzy that launched global Egyptomania.</description>
+    </item>
+    <item>
+      <title>26 Seconds to Meltdown</title>
+      <link>https://historynews.example.com/articles/chernobyl-disaster/</link>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://historynews.example.com/articles/chernobyl-disaster/</guid>
+      <description>A clear explanation of what went wrong at Chernobyl&amp;rsquo;s Reactor No. 4, why the design was flawed, and how the Soviet cover-up unraveled.</description>
+    </item>
+    <item>
+      <title>The Day the Revolution Began</title>
+      <link>https://historynews.example.com/articles/storming-of-the-bastille/</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://historynews.example.com/articles/storming-of-the-bastille/</guid>
+      <description>Contemporary illustrations, maps, and eyewitness accounts reconstruct the hours-long siege that became the symbol of the French Revolution.</description>
+    </item>
+  </channel>
+</rss>

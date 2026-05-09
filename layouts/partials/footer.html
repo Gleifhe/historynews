@@ -1,0 +1,21 @@
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <img src="/images/logo.svg" alt="History News" class="footer-logo">
+      <p class="footer-tagline">{{ .Site.Params.tagline }}</p>
+    </div>
+    <div class="footer-links">
+      <h4>Navigate</h4>
+      {{ range .Site.Menus.main }}
+        <a href="{{ .URL }}">{{ .Name }}</a>
+      {{ end }}
+    </div>
+    <div class="footer-about">
+      <h4>About</h4>
+      <p>{{ .Site.Params.description }}</p>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <p>&copy; {{ now.Year }} History News. All rights reserved. Content sourced from public domain archives.</p>
+  </div>
+</footer>

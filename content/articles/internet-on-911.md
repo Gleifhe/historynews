@@ -1,0 +1,74 @@
+---
+title: "How the Internet Broke on 9/11"
+headline: "OVERLOADED: The Day the Internet Couldn't Keep Up With the News"
+summary: "Archived snapshots of CNN, BBC, and MSNBC from September 11, 2001 show how the nascent web struggled — and adapted — to cover the biggest story of its era."
+date: 2026-05-05
+historydate: "September 11, 2001"
+era: "21st Century"
+source: "Internet Archive / Wayback Machine"
+image: "https://tile.loc.gov/storage-services/service/pnp/highsm/38200/38294r.jpg"
+imagealt: "View of lower Manhattan"
+imagecaption: "The New York City skyline — forever changed after September 11, 2001"
+imagecredit: "Carol M. Highsmith, Library of Congress"
+video: "https://www.youtube.com/embed/sBciKkGJBs0"
+weight: 5
+sources:
+  - '<a href="https://web.archive.org/web/20010911/">Internet Archive — Wayback Machine September 11, 2001 snapshots</a>'
+  - '<a href="https://archive.org/details/911">Internet Archive — September 11 Television Archive</a>'
+  - '<a href="https://www.loc.gov/collections/september-11th-2001-documentary-project/">LOC — September 11 Documentary Project</a>'
+  - '<a href="https://www.pewresearch.org/internet/2001/09/15/how-americans-used-the-internet-after-the-terror-attack/">Pew Research — How Americans Used the Internet After 9/11</a>'
+---
+
+## A Tuesday Morning Like No Other
+
+September 11, 2001 started as a normal Tuesday morning. People went to work, kids went to school, and the news was ordinary. Then, at 8:46 a.m., everything changed.
+
+American Airlines Flight 11 crashed into the North Tower of the World Trade Center in New York City. Seventeen minutes later, at 9:03 a.m., United Airlines Flight 175 hit the South Tower. At 9:37 a.m., a third plane hit the Pentagon in Washington, D.C. A fourth plane, United Flight 93, crashed in a field in Pennsylvania after passengers fought back against the hijackers.
+
+Nearly 3,000 people died that day. It was the deadliest attack on American soil since Pearl Harbor.
+
+## The Web Was Still Young
+
+Here's something that's easy to forget: in 2001, the internet was still pretty new. Most Americans had slow dial-up connections. Smartphones didn't exist yet. Social media didn't exist yet. YouTube wouldn't be invented for another four years.
+
+When people wanted news, they turned on the TV. But millions also tried to go online — and that's when the internet broke.
+
+## Websites Crashed One After Another
+
+When the attacks began, people rushed to news websites. CNN.com, which normally handled about 14 million page views per day, suddenly got hit with over 20 million requests in a single hour. The website crashed.
+
+MSNBC, BBC, the New York Times, and almost every other major news website also went down or became impossibly slow. People clicked "refresh" over and over, making the problem worse.
+
+## Emergency Measures
+
+News organizations had to think fast. CNN stripped its website down to a single page of plain text — no images, no ads, no fancy design. Just words on a white background. It was ugly, but it loaded.
+
+The Internet Archive's Wayback Machine captured these emergency pages, and you can still view them today. Looking at the CNN.com snapshot from September 11, 2001, you see a bare-bones page that reads like a telegram: "BREAKING NEWS. Two planes crash into World Trade Center."
+
+MSNBC did something similar. The BBC put up a stripped-down text page. Some websites that had nothing to do with news — like Yahoo and Google — put up simple messages directing people to emergency information.
+
+## How People Used the Early Internet
+
+Without social media, people turned to other online tools:
+
+- **Email** became a lifeline. People sent frantic messages to family and friends, especially those in New York and Washington
+- **Chat rooms** and **message boards** filled with people sharing information, looking for missing loved ones, and trying to make sense of what was happening
+- **Amateur websites** posted eyewitness accounts and photos when the big news sites were down
+
+The Pew Research Center later found that about 29% of internet users went online for news on September 11 — a huge number for 2001. Many of them couldn't get through.
+
+## The Internet Grew Up That Day
+
+September 11 exposed a major weakness in the internet. News websites weren't built to handle sudden massive surges in traffic. In the years that followed, major investments were made in server capacity, content delivery networks (CDNs), and emergency protocols for news websites.
+
+The attacks also accelerated changes in how people consume news. Within a few years, blogs, social media, and video streaming would transform the internet from a place where you read articles into a real-time news platform.
+
+## Preserved for History
+
+The Internet Archive preserved thousands of web pages, TV broadcasts, and radio recordings from September 11. Their September 11 Television Archive alone contains over 3,000 hours of footage from 20 different channels around the world.
+
+These digital snapshots are important because they show us not just what happened that day, but how we learned about it. The stripped-down CNN page, the crashed websites, the frantic chat room messages — they're all part of the story.
+
+The Library of Congress also created the September 11 Documentary Project, collecting oral histories and personal stories from people who lived through that day.
+
+Together, these archives remind us of a day that changed America — and changed the internet — forever.

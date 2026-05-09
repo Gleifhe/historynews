@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80">
+  <!-- Background circle -->
+  <circle cx="40" cy="40" r="38" fill="#1a1a2e" stroke="#c9a84c" stroke-width="2"/>
+  <!-- Open book / newspaper -->
+  <path d="M20 28 L40 32 L60 28 L60 56 L40 52 L20 56 Z" fill="none" stroke="#c9a84c" stroke-width="2" stroke-linejoin="round"/>
+  <line x1="40" y1="32" x2="40" y2="52" stroke="#c9a84c" stroke-width="1.5"/>
+  <!-- Text lines on left page -->
+  <line x1="24" y1="36" x2="37" y2="38.6" stroke="#e8d5a3" stroke-width="1" opacity="0.7"/>
+  <line x1="24" y1="40" x2="37" y2="42.6" stroke="#e8d5a3" stroke-width="1" opacity="0.5"/>
+  <line x1="24" y1="44" x2="37" y2="46.6" stroke="#e8d5a3" stroke-width="1" opacity="0.3"/>
+  <!-- Text lines on right page -->
+  <line x1="43" y1="38.6" x2="56" y2="36" stroke="#e8d5a3" stroke-width="1" opacity="0.7"/>
+  <line x1="43" y1="42.6" x2="56" y2="40" stroke="#e8d5a3" stroke-width="1" opacity="0.5"/>
+  <line x1="43" y1="46.6" x2="56" y2="44" stroke="#e8d5a3" stroke-width="1" opacity="0.3"/>
+  <!-- Clock hand / compass needle at top -->
+  <circle cx="40" cy="20" r="6" fill="none" stroke="#c9a84c" stroke-width="1.5"/>
+  <line x1="40" y1="16" x2="40" y2="20" stroke="#c9a84c" stroke-width="1.5"/>
+  <line x1="40" y1="20" x2="43" y2="22" stroke="#c9a84c" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,49 @@
+{{ define "main" }}
+<article class="article-page">
+  <header class="article-header">
+    <span class="article-era">{{ .Params.era }}</span>
+    <h1 class="article-title">{{ .Params.headline }}</h1>
+    <p class="article-subtitle">{{ .Params.summary }}</p>
+    <div class="article-meta">
+      <span class="article-date">Historical Date: {{ .Params.historydate }}</span>
+      <span class="article-source">Primary Source: {{ .Params.source }}</span>
+    </div>
+  </header>
+
+  <figure class="article-hero-image">
+    <img src="{{ .Params.image }}" alt="{{ .Params.imagealt }}" loading="lazy">
+    <figcaption>{{ .Params.imagecaption }} — <em>{{ .Params.imagecredit }}</em></figcaption>
+  </figure>
+
+  <div class="article-body">
+    {{ .Content }}
+  </div>
+
+  {{ with .Params.video }}
+  <section class="article-video">
+    <h2>📹 Watch the Video</h2>
+    <div class="video-wrapper">
+      <iframe src="{{ . }}" frameborder="0" allowfullscreen loading="lazy" title="Related historical video"></iframe>
+    </div>
+  </section>
+  {{ end }}
+
+  <section class="article-sources">
+    <h2>Sources &amp; Further Reading</h2>
+    <ul>
+      {{ range .Params.sources }}
+      <li>{{ . | safeHTML }}</li>
+      {{ end }}
+    </ul>
+  </section>
+
+  <nav class="article-nav">
+    {{ with .PrevInSection }}
+    <a href="{{ .Permalink }}" class="nav-prev">&larr; {{ .Params.headline }}</a>
+    {{ end }}
+    {{ with .NextInSection }}
+    <a href="{{ .Permalink }}" class="nav-next">{{ .Params.headline }} &rarr;</a>
+    {{ end }}
+  </nav>
+</article>
+{{ end }}

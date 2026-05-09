@@ -1,0 +1,30 @@
+baseURL = "https://historynews.example.com/"
+languageCode = "en-us"
+title = "History News — Where the Past Makes Headlines"
+
+[pagination]
+  pagerSize = 25
+
+[params]
+  description = "Rediscovering the world's most dramatic moments through original sources, rare photographs, and gripping storytelling."
+  author = "History News Editorial Team"
+  tagline = "Where the Past Makes Headlines"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Articles"
+    url = "/articles/"
+    weight = 2
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

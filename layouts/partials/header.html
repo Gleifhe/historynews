@@ -1,0 +1,23 @@
+<header class="site-header">
+  <div class="header-inner">
+    <a href="/" class="logo-link">
+      <img src="/images/logo.svg" alt="History News" class="logo-img">
+      <div class="logo-text">
+        <span class="logo-title">HISTORY NEWS</span>
+        <span class="logo-tagline">{{ .Site.Params.tagline }}</span>
+      </div>
+    </a>
+    <nav class="main-nav">
+      {{ range .Site.Menus.main }}
+        <a href="{{ .URL }}" class="nav-link{{ if $.IsMenuCurrent "main" . }} active{{ end }}">{{ .Name }}</a>
+      {{ end }}
+    </nav>
+    <button class="nav-toggle" aria-label="Toggle navigation">☰</button>
+  </div>
+  <div class="header-rule"></div>
+</header>
+<script>
+document.querySelector('.nav-toggle').addEventListener('click', function() {
+  document.querySelector('.main-nav').classList.toggle('open');
+});
+</script>

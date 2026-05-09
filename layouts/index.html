@@ -1,0 +1,67 @@
+{{ define "main" }}
+<section class="hero">
+  <div class="hero-inner">
+    <h1 class="hero-headline">History Happened.<br><span class="hero-accent">We Report It.</span></h1>
+    <p class="hero-sub">Original sources. Rare photographs. The stories behind the headlines that shook the world.</p>
+  </div>
+</section>
+
+<section class="headlines-section">
+  <div class="section-header">
+    <h2 class="section-title">📰 TODAY'S HEADLINES FROM THE PAST</h2>
+    <div class="section-rule"></div>
+  </div>
+
+  {{ $articles := where .Site.RegularPages "Section" "articles" }}
+
+  {{/* Featured lead story — first article */}}
+  {{ with index $articles 0 }}
+  <a href="{{ .Permalink }}" class="featured-story">
+    <div class="featured-img" style="background-image: url('{{ .Params.image }}')"></div>
+    <div class="featured-text">
+      <span class="featured-badge">LEAD STORY</span>
+      <h2 class="featured-headline">{{ .Params.headline }}</h2>
+      <p class="featured-summary">{{ .Params.summary }}</p>
+      <span class="featured-date">{{ .Params.historydate }}</span>
+    </div>
+  </a>
+  {{ end }}
+
+  <div class="two-col-grid">
+    {{/* Left column */}}
+    <div class="col">
+      <div class="col-label">COLUMN A</div>
+      {{ range $i, $p := after 1 $articles }}
+        {{ if and (ge $i 0) (lt $i 12) }}
+        <a href="{{ $p.Permalink }}" class="story-card">
+          <div class="card-img" style="background-image: url('{{ $p.Params.image }}')"></div>
+          <div class="card-body">
+            <span class="card-category">{{ $p.Params.era }}</span>
+            <h3 class="card-headline">{{ $p.Params.headline }}</h3>
+            <p class="card-summary">{{ $p.Params.summary | truncate 120 }}</p>
+            <span class="card-date">{{ $p.Params.historydate }}</span>
+          </div>
+        </a>
+        {{ end }}
+      {{ end }}
+    </div>
+    {{/* Right column */}}
+    <div class="col">
+      <div class="col-label">COLUMN B</div>
+      {{ range $i, $p := after 1 $articles }}
+        {{ if and (ge $i 12) (lt $i 24) }}
+        <a href="{{ $p.Permalink }}" class="story-card">
+          <div class="card-img" style="background-image: url('{{ $p.Params.image }}')"></div>
+          <div class="card-body">
+            <span class="card-category">{{ $p.Params.era }}</span>
+            <h3 class="card-headline">{{ $p.Params.headline }}</h3>
+            <p class="card-summary">{{ $p.Params.summary | truncate 120 }}</p>
+            <span class="card-date">{{ $p.Params.historydate }}</span>
+          </div>
+        </a>
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
