@@ -6,10 +6,10 @@ date: 2026-05-04
 historydate: "April 15, 1912"
 era: "Early 20th Century"
 source: "Chronicling America (LOC)"
-image: "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b46000/3b46800/3b46858r.jpg"
-imagealt: "Crowd gathered for Titanic news in New York, 1912"
-imagecaption: "Crowds gather outside the White Star Line office in New York, desperate for news about the Titanic"
-imagecredit: "Library of Congress"
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fd/RMS_Titanic_3.jpg"
+imagealt: "The RMS Titanic departing Southampton on its maiden voyage, April 10, 1912"
+imagecaption: "The RMS Titanic departing Southampton, England on April 10, 1912 — five days before it sank"
+imagecredit: "F.G.O. Stuart / Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/rs9w5bgtJC8"
 weight: 6
 sources:
