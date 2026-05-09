@@ -225,6 +225,108 @@ a { color: inherit; text-decoration: none; }
   gap: 2rem;
 }
 
+/* ---- HOME LAYOUT WITH ERA SIDEBAR ---- */
+.home-layout {
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  gap: 2rem;
+}
+
+.era-sidebar {
+  position: sticky;
+  top: 80px;
+  align-self: start;
+  background: var(--white);
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  padding: 1rem;
+  max-height: calc(100vh - 100px);
+  overflow-y: auto;
+}
+
+.era-sidebar-title {
+  font-family: var(--font-display);
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 3px;
+  color: var(--gold);
+  border-bottom: 2px solid var(--gold);
+  padding-bottom: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.era-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.era-item { margin-bottom: 2px; }
+
+.era-link {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.4rem 0.6rem;
+  border-radius: 3px;
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--text);
+  transition: background 0.15s, color 0.15s;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.era-link:hover {
+  background: var(--cream);
+  color: var(--navy);
+}
+
+.era-link.active {
+  background: var(--navy);
+  color: var(--gold);
+}
+
+.era-link.active .era-count {
+  background: var(--gold);
+  color: var(--navy);
+}
+
+.era-name { flex: 1; }
+
+.era-count {
+  background: var(--cream);
+  color: var(--text-light);
+  font-size: 0.65rem;
+  font-weight: 700;
+  padding: 0.1rem 0.45rem;
+  border-radius: 10px;
+  min-width: 20px;
+  text-align: center;
+}
+
+.era-clear {
+  display: block;
+  width: 100%;
+  margin-top: 0.75rem;
+  padding: 0.4rem;
+  background: none;
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  font-family: var(--font-body);
+  font-size: 0.75rem;
+  color: var(--text-light);
+  cursor: pointer;
+  transition: border-color 0.15s, color 0.15s;
+}
+
+.era-clear:hover {
+  border-color: var(--gold);
+  color: var(--navy);
+}
+
+.home-main { min-width: 0; }
+
 .col-label {
   font-family: var(--font-display);
   font-size: 0.75rem;
@@ -607,6 +709,10 @@ a { color: inherit; text-decoration: none; }
   .footer-inner { grid-template-columns: 1fr; gap: 2rem; }
   .article-title { font-size: 2rem; }
   .article-meta { flex-direction: column; gap: 0.5rem; text-align: center; }
+  .home-layout { grid-template-columns: 1fr; }
+  .era-sidebar { position: static; max-height: none; }
+  .era-list { display: flex; flex-wrap: wrap; gap: 0.25rem; }
+  .era-item { margin-bottom: 0; }
 }
 
 @media (max-width: 600px) {

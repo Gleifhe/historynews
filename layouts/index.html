@@ -27,41 +27,134 @@
   </a>
   {{ end }}
 
-  <div class="two-col-grid">
-    {{/* Left column */}}
-    <div class="col">
-      <div class="col-label">COLUMN A</div>
-      {{ range $i, $p := after 1 $articles }}
-        {{ if and (ge $i 0) (lt $i 12) }}
-        <a href="{{ $p.Permalink }}" class="story-card">
-          <div class="card-img" style="background-image: url('{{ $p.Params.image }}')"></div>
-          <div class="card-body">
-            <span class="card-category">{{ $p.Params.era }}</span>
-            <h3 class="card-headline">{{ $p.Params.headline }}</h3>
-            <p class="card-summary">{{ $p.Params.summary | truncate 120 }}</p>
-            <span class="card-date">{{ $p.Params.historydate }}</span>
-          </div>
-        </a>
+  <div class="home-layout">
+    {{/* Era sidebar */}}
+    <aside class="era-sidebar">
+      <h3 class="era-sidebar-title">BROWSE BY ERA</h3>
+      <ul class="era-list">
+        {{ $eraOrder := slice
+          "Ancient World"
+          "17th Century"
+          "18th Century"
+          "Victorian Era"
+          "Turn of the Century"
+          "Early 20th Century"
+          "Industrial Age"
+          "Women's Suffrage"
+          "Pre-World War I"
+          "World War I"
+          "World War I Era"
+          "Roaring Twenties"
+          "Great Depression"
+          "World War II"
+          "Post-World War II"
+          "Cold War"
+          "Space Age"
+          "Civil Rights Era"
+          "Watergate Era"
+          "21st Century"
+        }}
+        {{ range $eraOrder }}
+          {{ $era := . }}
+          {{ $pages := where $articles ".Params.era" $era }}
+          {{ if $pages }}
+          <li class="era-item">
+            <a href="#era-{{ $era | urlize }}" class="era-link" data-era="{{ $era }}">
+              <span class="era-name">{{ $era }}</span>
+              <span class="era-count">{{ len $pages }}</span>
+            </a>
+          </li>
+          {{ end }}
         {{ end }}
-      {{ end }}
-    </div>
-    {{/* Right column */}}
-    <div class="col">
-      <div class="col-label">COLUMN B</div>
-      {{ range $i, $p := after 1 $articles }}
-        {{ if and (ge $i 12) (lt $i 24) }}
-        <a href="{{ $p.Permalink }}" class="story-card">
-          <div class="card-img" style="background-image: url('{{ $p.Params.image }}')"></div>
-          <div class="card-body">
-            <span class="card-category">{{ $p.Params.era }}</span>
-            <h3 class="card-headline">{{ $p.Params.headline }}</h3>
-            <p class="card-summary">{{ $p.Params.summary | truncate 120 }}</p>
-            <span class="card-date">{{ $p.Params.historydate }}</span>
-          </div>
-        </a>
+        {{/* Catch any eras not in the ordered list */}}
+        {{ range $articles }}
+          {{ $era := .Params.era }}
+          {{ if not (in $eraOrder $era) }}
+          {{ $pages := where $articles ".Params.era" $era }}
+          {{ if $pages }}
+          <li class="era-item">
+            <a href="#era-{{ $era | urlize }}" class="era-link" data-era="{{ $era }}">
+              <span class="era-name">{{ $era }}</span>
+              <span class="era-count">{{ len $pages }}</span>
+            </a>
+          </li>
+          {{ end }}
+          {{ end }}
         {{ end }}
-      {{ end }}
+      </ul>
+      <button class="era-clear" id="eraClear" style="display:none;">✕ Show All</button>
+    </aside>
+
+    {{/* Main content area */}}
+    <div class="home-main">
+      <div class="two-col-grid">
+        <div class="col">
+          <div class="col-label">COLUMN A</div>
+          {{ range $i, $p := after 1 $articles }}
+            {{ if lt $i (div (len (after 1 $articles)) 2 | add 1) }}
+            <a href="{{ $p.Permalink }}" class="story-card" data-era="{{ $p.Params.era }}">
+              <div class="card-img" style="background-image: url('{{ $p.Params.image }}')"></div>
+              <div class="card-body">
+                <span class="card-category">{{ $p.Params.era }}</span>
+                <h3 class="card-headline">{{ $p.Params.headline }}</h3>
+                <p class="card-summary">{{ $p.Params.summary | truncate 120 }}</p>
+                <span class="card-date">{{ $p.Params.historydate }}</span>
+              </div>
+            </a>
+            {{ end }}
+          {{ end }}
+        </div>
+        <div class="col">
+          <div class="col-label">COLUMN B</div>
+          {{ range $i, $p := after 1 $articles }}
+            {{ if ge $i (div (len (after 1 $articles)) 2 | add 1) }}
+            <a href="{{ $p.Permalink }}" class="story-card" data-era="{{ $p.Params.era }}">
+              <div class="card-img" style="background-image: url('{{ $p.Params.image }}')"></div>
+              <div class="card-body">
+                <span class="card-category">{{ $p.Params.era }}</span>
+                <h3 class="card-headline">{{ $p.Params.headline }}</h3>
+                <p class="card-summary">{{ $p.Params.summary | truncate 120 }}</p>
+                <span class="card-date">{{ $p.Params.historydate }}</span>
+              </div>
+            </a>
+            {{ end }}
+          {{ end }}
+        </div>
+      </div>
     </div>
   </div>
 </section>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var links = document.querySelectorAll('.era-link');
+  var cards = document.querySelectorAll('.story-card');
+  var clearBtn = document.getElementById('eraClear');
+
+  links.forEach(function(link) {
+    link.addEventListener('click', function(e) {
+      e.preventDefault();
+      var era = this.dataset.era;
+
+      links.forEach(function(l) { l.classList.remove('active'); });
+      this.classList.add('active');
+      clearBtn.style.display = 'block';
+
+      cards.forEach(function(card) {
+        if (card.dataset.era === era) {
+          card.style.display = '';
+        } else {
+          card.style.display = 'none';
+        }
+      });
+    });
+  });
+
+  clearBtn.addEventListener('click', function() {
+    links.forEach(function(l) { l.classList.remove('active'); });
+    cards.forEach(function(card) { card.style.display = ''; });
+    this.style.display = 'none';
+  });
+});
+</script>
 {{ end }}

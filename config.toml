@@ -8,6 +8,9 @@ title = "History News — Where the Past Makes Headlines"
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
+[taxonomies]
+  era = "eras"
+
 [params]
   description = "Rediscovering the world's most dramatic moments through original sources, rare photographs, and gripping storytelling."
   author = "History News Editorial Team"
