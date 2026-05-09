@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://historynews.example.com/sitemap.xml
