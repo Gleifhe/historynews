@@ -10,7 +10,7 @@ image: "https://tile.loc.gov/storage-services/service/pnp/cph/3c30000/3c30000/3c
 imagealt: "Post-World War II era rocket technology"
 imagecaption: "The rocket technology developed by German scientists during the war became the foundation of America's space program."
 imagecredit: "Library of Congress, Prints & Photographs Division"
-video: "https://www.youtube.com/embed/JJ1xvOcTGtY"
+video: "https://www.youtube.com/embed/uyzaTnKhhr0"
 weight: 40
 sources:
   - '<a href="https://www.cia.gov/readingroom/collection/operation-paperclip">CIA FOIA Reading Room — Operation Paperclip</a>'

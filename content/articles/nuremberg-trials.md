@@ -11,6 +11,7 @@ imagealt: "Nuremberg Trial courtroom"
 imagecaption: "The courtroom at Nuremberg, where Nazi leaders were tried for crimes against humanity"
 imagecredit: "Library of Congress"
 weight: 16
+video: "https://www.youtube.com/embed/RsA6AdCRI-k"
 sources:
   - '<a href="https://avalon.law.yale.edu/subject_menus/imt.asp">Avalon Project, Yale Law School — Nuremberg Trial Documents</a>'
   - '<a href="https://avalon.law.yale.edu/imt/imtconst.asp">Avalon Project — Charter of the International Military Tribunal</a>'

@@ -11,6 +11,7 @@ imagealt: "Historic print of the Great Fire of London, 1666"
 imagecaption: "A contemporary engraving depicting the Great Fire of London, September 1666"
 imagecredit: "Library of Congress"
 weight: 20
+video: "https://www.youtube.com/embed/ycTRAJJexd4"
 sources:
   - '<a href="https://www.bbc.co.uk/history/british/civil_war_revolution/great_fire_01.shtml">BBC History — The Great Fire of London</a>'
   - '<a href="https://www.pepysdiary.com/">Samuel Pepys Diary — Eyewitness Account</a>'

@@ -10,7 +10,7 @@ image: "https://tile.loc.gov/storage-services/service/pnp/cph/3a10000/3a10000/3a
 imagealt: "Portrait of Abraham Lincoln"
 imagecaption: "President Abraham Lincoln, who issued the Emancipation Proclamation on January 1, 1863"
 imagecredit: "Library of Congress"
-video: "https://www.youtube.com/embed/UpOmVs-5MBI"
+video: "https://www.youtube.com/embed/9En-HO5PjJ8"
 weight: 27
 sources:
   - '<a href="https://www.archives.gov/exhibits/featured-documents/emancipation-proclamation">NARA — Emancipation Proclamation</a>'

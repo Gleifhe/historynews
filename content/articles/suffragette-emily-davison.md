@@ -10,7 +10,7 @@ image: "https://tile.loc.gov/storage-services/service/pnp/ds/12500/12582r.jpg"
 imagealt: "Suffragette parade in Washington, D.C., March 3, 1913"
 imagecaption: "Suffragettes march for women's right to vote — a movement that Emily Davison gave her life for"
 imagecredit: "Library of Congress"
-video: "https://www.youtube.com/embed/3EEFnpOUYgg"
+video: "https://www.youtube.com/embed/AJwLz7vWApM"
 weight: 8
 sources:
   - '<a href="https://www.britishnewspaperarchive.co.uk/">British Newspaper Archive — Epsom Derby 1913 coverage</a>'

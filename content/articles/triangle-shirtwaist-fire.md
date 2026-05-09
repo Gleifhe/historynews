@@ -11,6 +11,7 @@ imagealt: "Horse-drawn fire engines responding to the Triangle Shirtwaist Compan
 imagecaption: "Fire engines race to the Triangle Shirtwaist Company fire in New York City, March 25, 1911"
 imagecredit: "Library of Congress"
 weight: 12
+video: "https://www.youtube.com/embed/YABBwNxgBHw"
 sources:
   - '<a href="https://catalog.hathitrust.org/Record/009024514">HathiTrust — Preliminary Report of the Factory Investigating Commission, 1912</a>'
   - '<a href="https://www.loc.gov/pictures/item/2002709198/">LOC — Fire engines at Triangle Shirtwaist fire, 1911</a>'

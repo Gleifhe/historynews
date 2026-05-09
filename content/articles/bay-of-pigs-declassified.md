@@ -11,6 +11,7 @@ imagealt: "President Kennedy and advisors"
 imagecaption: "President John F. Kennedy inherited the Bay of Pigs invasion plan from the Eisenhower administration"
 imagecredit: "Library of Congress"
 weight: 15
+video: "https://www.youtube.com/embed/8I7X9tX3fK0"
 sources:
   - '<a href="https://www.cia.gov/readingroom/collection/bay-pigs-release">CIA FOIA Reading Room — Bay of Pigs Declassified Documents</a>'
   - '<a href="https://nsarchive2.gwu.edu/bayofpigs/chron.html">National Security Archive — Bay of Pigs Chronology</a>'

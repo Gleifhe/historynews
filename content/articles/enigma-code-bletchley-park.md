@@ -10,7 +10,7 @@ image: "https://tile.loc.gov/storage-services/service/pnp/fsa/8d29000/8d29900/8d
 imagealt: "World War II era military communications"
 imagecaption: "Military communications during World War II — the era when code-breaking changed the course of the war"
 imagecredit: "Library of Congress"
-video: "https://www.youtube.com/embed/ASfAPOsh_NA"
+video: "https://www.youtube.com/embed/8FDeLnxCOXA"
 weight: 28
 sources:
   - '<a href="https://www.nationalarchives.gov.uk/education/resources/enigma/">British National Archives — Enigma</a>'

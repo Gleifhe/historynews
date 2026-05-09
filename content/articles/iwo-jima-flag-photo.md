@@ -11,6 +11,7 @@ imagealt: "Marines raising flag on Iwo Jima"
 imagecaption: "U.S. Marines raise the American flag atop Mount Suribachi, Iwo Jima, February 23, 1945"
 imagecredit: "Joe Rosenthal / Associated Press / Library of Congress"
 weight: 18
+video: "https://www.youtube.com/embed/d0Y38jcdl9s"
 sources:
   - '<a href="https://www.loc.gov/pictures/item/96515062/">LOC — Iwo Jima flag raising photograph</a>'
   - '<a href="https://www.loc.gov/pictures/item/2003665232/">LOC — Marines raise flag on Suribachi</a>'

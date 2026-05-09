@@ -10,7 +10,7 @@ image: "https://tile.loc.gov/storage-services/service/pnp/highsm/38200/38294r.jp
 imagealt: "View of lower Manhattan"
 imagecaption: "The New York City skyline — forever changed after September 11, 2001"
 imagecredit: "Carol M. Highsmith, Library of Congress"
-video: "https://www.youtube.com/embed/sBciKkGJBs0"
+video: "https://www.youtube.com/embed/3DRDJUHvlnk"
 weight: 5
 sources:
   - '<a href="https://web.archive.org/web/20010911/">Internet Archive — Wayback Machine September 11, 2001 snapshots</a>'

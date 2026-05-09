@@ -11,6 +11,7 @@ imagealt: "Egyptian archaeological artifacts"
 imagecaption: "Ancient Egyptian treasures similar to those discovered in Tutankhamun's tomb in the Valley of the Kings"
 imagecredit: "Library of Congress"
 weight: 23
+video: "https://www.youtube.com/embed/B2GV_QGb5_g"
 sources:
   - '<a href="https://www.smithsonianmag.com/history/the-discovery-of-tutankhamuns-tomb-11078/">Smithsonian Magazine — The Discovery of Tutankhamun</a>'
   - '<a href="https://www.loc.gov/pictures/search/?q=tutankhamun">LOC — Tutankhamun-related images</a>'

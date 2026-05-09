@@ -10,7 +10,7 @@ image: "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b40000/3b
 imagealt: "Helicopter evacuation during the fall of Saigon"
 imagecaption: "The chaotic evacuation of Saigon on April 30, 1975 marked the end of the Vietnam War"
 imagecredit: "Library of Congress"
-video: "https://www.youtube.com/embed/Ryinh8SHTFE"
+video: "https://www.youtube.com/embed/-oBFX8R15BQ"
 weight: 44
 sources:
   - '<a href="https://www.gettyimages.com/photos/fall-of-saigon">Getty Images — Fall of Saigon</a>'

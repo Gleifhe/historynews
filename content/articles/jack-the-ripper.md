@@ -10,7 +10,7 @@ image: "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b42000/3b
 imagealt: "View of Victorian-era London streets"
 imagecaption: "The crowded, gaslit streets of London's East End in the late 1800s became the setting for history's most infamous unsolved murders."
 imagecredit: "Library of Congress, Prints & Photographs Division"
-video: "https://www.youtube.com/embed/lSPq67LXGAQ"
+video: "https://www.youtube.com/embed/GVASftNawjY"
 weight: 33
 sources:
   - '<a href="https://www.britishnewspaperarchive.co.uk/titles/east-london-observer">British Newspaper Archive — East London Observer, 1888</a>'

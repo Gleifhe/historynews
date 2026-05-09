@@ -10,7 +10,7 @@ image: "https://tile.loc.gov/storage-services/service/pnp/highsm/04600/04643r.jp
 imagealt: "Nuclear power plant cooling towers"
 imagecaption: "The Chernobyl Nuclear Power Plant in Ukraine — site of the worst nuclear disaster in history"
 imagecredit: "Public Domain / Wikimedia Commons"
-video: "https://www.youtube.com/embed/hMk6Y7tIxFI"
+video: "https://www.youtube.com/embed/nsGXeCpSJmM"
 weight: 24
 sources:
   - '<a href="https://www.britannica.com/event/Chernobyl-disaster">Encyclopedia Britannica — Chernobyl disaster</a>'

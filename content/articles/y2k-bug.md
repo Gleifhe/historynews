@@ -10,7 +10,7 @@ image: "https://tile.loc.gov/storage-services/service/pnp/highsm/02400/02449r.jp
 imagealt: "Computer technology infrastructure in the late 1990s"
 imagecaption: "The world's computer systems faced an uncertain future as the calendar turned to the year 2000."
 imagecredit: "Library of Congress, Prints & Photographs Division"
-video: "https://www.youtube.com/embed/ddzbxcjRDnY"
+video: "https://www.youtube.com/embed/ddzbxJasID4"
 weight: 31
 sources:
   - '<a href="https://archive.org/details/y2k-bug-collection">Internet Archive — Y2K Bug Collection</a>'

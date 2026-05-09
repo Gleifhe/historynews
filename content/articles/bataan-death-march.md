@@ -10,7 +10,7 @@ image: "https://tile.loc.gov/storage-services/service/pnp/fsa/8d14000/8d14700/8d
 imagealt: "World War II soldiers during the Pacific campaign"
 imagecaption: "American and Filipino soldiers endured brutal conditions during the Bataan Death March of April 1942"
 imagecredit: "Library of Congress"
-video: "https://www.youtube.com/embed/jv8JYWaDXCc"
+video: "https://www.youtube.com/embed/N86PrF8Hu54"
 weight: 42
 sources:
   - '<a href="https://www.nationalww2museum.org/war/articles/bataan-death-march">National WWII Museum — The Bataan Death March</a>'

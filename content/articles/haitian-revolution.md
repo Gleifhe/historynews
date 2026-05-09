@@ -10,7 +10,7 @@ image: "https://tile.loc.gov/storage-services/service/pnp/cph/3a20000/3a20000/3a
 imagealt: "Historical illustration related to the Caribbean and the age of revolution"
 imagecaption: "The Haitian Revolution (1791–1804) was the only successful slave revolution in history, creating the first free Black republic"
 imagecredit: "Library of Congress"
-video: "https://www.youtube.com/embed/05fYUjIxwaA"
+video: "https://www.youtube.com/embed/5A_o-nU5s2U"
 weight: 50
 sources:
   - '<a href="https://en.wikipedia.org/wiki/Haitian_Revolution">Wikipedia — Haitian Revolution</a>'

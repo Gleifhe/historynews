@@ -11,6 +11,7 @@ imagealt: "Red Cross nurses during the 1918 influenza pandemic"
 imagecaption: "Red Cross volunteers assemble cotton masks during the 1918 influenza pandemic"
 imagecredit: "American Red Cross / Library of Congress"
 weight: 10
+video: "https://www.youtube.com/embed/d0AoRkmj9YM"
 sources:
   - '<a href="https://www.jstor.org/stable/4576062">JSTOR — Public Health Reports on the 1918 Influenza Pandemic</a>'
   - '<a href="https://www.loc.gov/pictures/item/2017672561/">LOC — Red Cross workers during 1918 pandemic</a>'

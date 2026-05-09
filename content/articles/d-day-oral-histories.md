@@ -10,7 +10,7 @@ image: "https://tile.loc.gov/storage-services/service/pnp/cph/3c30000/3c30000/3c
 imagealt: "D-Day troops wading ashore"
 imagecaption: "American soldiers wade through the surf on D-Day, June 6, 1944"
 imagecredit: "Library of Congress"
-video: "https://www.youtube.com/embed/KvPmZMIhMq0"
+video: "https://www.youtube.com/embed/FTAW1PvEcAk"
 weight: 17
 sources:
   - '<a href="https://www.nationalww2museum.org/war/topics/d-day">National WWII Museum — D-Day Collection</a>'

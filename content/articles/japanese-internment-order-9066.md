@@ -11,6 +11,7 @@ imagealt: "Japanese American evacuation notice in San Francisco, 1942"
 imagecaption: "A store window in San Francisco's Chinatown during the Japanese American evacuation, April 1942"
 imagecredit: "Dorothea Lange, Library of Congress"
 weight: 2
+video: "https://www.youtube.com/embed/lhGcz0URFOk"
 sources:
   - '<a href="https://catalog.archives.gov/id/5730387">National Archives — Executive Order 9066</a>'
   - '<a href="https://www.loc.gov/pictures/item/2004665381/">LOC — I Am an American sign, Oakland, 1942</a>'

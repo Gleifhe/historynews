@@ -10,7 +10,7 @@ image: "https://tile.loc.gov/storage-services/service/pnp/fsa/8b38000/8b38600/8b
 imagealt: "Dust storm approaching a town in the Great Plains, 1930s"
 imagecaption: "A massive dust storm rolls toward a Great Plains town during the 1930s Dust Bowl"
 imagecredit: "Farm Security Administration / Library of Congress"
-video: "https://www.youtube.com/embed/7SAAN44GKMk"
+video: "https://www.youtube.com/embed/3jSdDU9mUqQ"
 weight: 26
 sources:
   - '<a href="https://www.loc.gov/collections/fsa-owi-black-and-white-negatives/">LOC — FSA/OWI Black-and-White Negatives Collection</a>'

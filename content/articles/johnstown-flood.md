@@ -10,7 +10,7 @@ image: "https://tile.loc.gov/storage-services/service/pnp/cph/3a30000/3a30000/3a
 imagealt: "Aftermath of the Johnstown Flood showing destruction"
 imagecaption: "The Johnstown Flood of 1889 left behind a landscape of total devastation, wiping out entire neighborhoods in minutes."
 imagecredit: "Library of Congress, Prints & Photographs Division"
-video: "https://www.youtube.com/embed/fX1tSAfeNgo"
+video: "https://www.youtube.com/embed/Q_B3MaLgXUo"
 weight: 37
 sources:
   - '<a href="https://catalog.hathitrust.org/Record/001111345">HathiTrust — The Johnstown Flood, David McCullough</a>'

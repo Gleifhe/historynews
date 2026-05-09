@@ -11,6 +11,7 @@ imagealt: "Wright Brothers first flight at Kitty Hawk"
 imagecaption: "The Wright Flyer lifts off at Kitty Hawk, North Carolina, December 17, 1903 — the first powered flight in history"
 imagecredit: "Wright Brothers / Library of Congress"
 weight: 14
+video: "https://www.youtube.com/embed/sklryxX01D8"
 sources:
   - '<a href="https://www.si.edu/object/1903-wright-flyer:NASM_A19610048000">Smithsonian Open Access — 1903 Wright Flyer</a>'
   - '<a href="https://www.loc.gov/pictures/item/00649999/">LOC — Wright Brothers glass-plate negative collection</a>'

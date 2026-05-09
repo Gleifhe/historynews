@@ -10,7 +10,7 @@ image: "https://tile.loc.gov/storage-services/service/pnp/highsm/13600/13641r.jp
 imagealt: "Smithsonian National Museum of Natural History"
 imagecaption: "The Smithsonian Institution's National Museum of Natural History in Washington, D.C., where the Hope Diamond has been on public display since 1958."
 imagecredit: "Library of Congress, Prints & Photographs Division"
-video: "https://www.youtube.com/embed/0IFqoxQkFpM"
+video: "https://www.youtube.com/embed/tqqYNfEY2qU"
 weight: 39
 sources:
   - '<a href="https://www.si.edu/spotlight/hope-diamond">Smithsonian Open Access — The Hope Diamond</a>'

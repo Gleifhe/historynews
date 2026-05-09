@@ -10,7 +10,7 @@ image: "https://tile.loc.gov/storage-services/service/pnp/cph/3c00000/3c01000/3c
 imagealt: "Historical illustration of sailing ships from the Age of Exploration"
 imagecaption: "The Spanish Armada set sail with 130 ships — but storms and English fireships would destroy the 'invincible' fleet"
 imagecredit: "Library of Congress"
-video: "https://www.youtube.com/embed/VyVWi9LZjgM"
+video: "https://www.youtube.com/embed/xaoCs1NFcVc"
 weight: 45
 sources:
   - '<a href="https://www.bbc.co.uk/history/british/tudors/spanish_armada_01.shtml">BBC History — The Spanish Armada</a>'

@@ -11,6 +11,7 @@ imagealt: "Yale University campus"
 imagecaption: "Yale University, where Stanley Milgram conducted his famous obedience experiments in the early 1960s"
 imagecredit: "Carol M. Highsmith, Library of Congress"
 weight: 13
+video: "https://www.youtube.com/embed/8bbVFeTIIg8"
 sources:
   - '<a href="https://scholar.google.com/scholar?q=milgram+obedience+experiment+1963">Google Scholar — Milgram Obedience Studies</a>'
   - 'Stanley Milgram, "Behavioral Study of Obedience," <em>Journal of Abnormal and Social Psychology</em>, 67(4), 1963, pp. 371-378'
