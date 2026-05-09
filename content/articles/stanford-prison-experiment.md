@@ -23,7 +23,7 @@ In the summer of 1971, a quiet hallway in the basement of Stanford University's 
 
 ## Setting Up the Experiment
 
-Philip Zimbardo, a psychology professor at Stanford, wanted to study what happens when you put good people in a bad environment. He and his team placed a newspaper ad offering $15 a day to male college students willing to participate in a "psychological study of prison life." More than 70 young men applied. After screening them for physical and mental health, the researchers selected 24 participants who seemed the most normal and well-adjusted.
+Philip Zimbardo, a psychology professor at Stanford, wanted to study what happens when you put good people in a bad environment. His work built on the disturbing findings of [the Milgram obedience experiment](/articles/milgram-obedience-experiment/) a decade earlier. He and his team placed a newspaper ad offering $15 a day to male college students willing to participate in a "psychological study of prison life." More than 70 young men applied. After screening them for physical and mental health, the researchers selected 24 participants who seemed the most normal and well-adjusted.
 
 The students were randomly divided into two groups: guards and prisoners. This was crucial — neither group was chosen because of any personality traits. The assignment was completely random, like flipping a coin.
 
@@ -53,7 +53,7 @@ It took an outside observer to snap Zimbardo out of it. Christina Maslach, a psy
 
 Zimbardo argued that the experiment proved the power of situations over personality. He said it showed that ordinary, mentally healthy people could commit terrible acts when placed in an environment that encouraged abuse. The lesson, he believed, was that evil behavior is not caused by "bad apples" but by "bad barrels" — toxic systems and institutions.
 
-The experiment became enormously influential. It was cited in countless psychology textbooks and referenced during discussions of real-world abuses, including the Abu Ghraib prison scandal in 2004.
+The experiment became enormously influential. It was cited in countless psychology textbooks and referenced during discussions of real-world abuses — from [the Nuremberg trials'](/articles/nuremberg-trials/) examination of obedience to the Abu Ghraib prison scandal in 2004.
 
 ## Criticism and Controversy
 

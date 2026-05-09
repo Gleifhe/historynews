@@ -53,11 +53,11 @@ According to legend, when he realized he had cracked the code, Champollion ran t
 
 The text on the Rosetta Stone turns out to be fairly boring — it's a decree from 196 B.C. issued by a council of priests, praising King Ptolemy V and listing his tax policies. But the stone's content doesn't matter nearly as much as what it unlocked.
 
-Once scholars could read hieroglyphics, the entire history of ancient Egypt suddenly opened up. Thousands of inscriptions on temples, tombs, statues, and papyrus scrolls could finally be understood. We could read the actual words of people who lived 3,000 or 4,000 years ago.
+Once scholars could read hieroglyphics, the entire history of ancient Egypt suddenly opened up. Thousands of inscriptions on temples, tombs, statues, and papyrus scrolls could finally be understood. We could read the actual words of people who lived 3,000 or 4,000 years ago — the same civilization that would later captivate the world when [Tutankhamun's tomb was discovered](/articles/tutankhamun-tomb-discovery/).
 
 ## Why It Still Matters
 
-The Rosetta Stone is probably the most famous museum object in the world. It sits in the British Museum, where it is the single most visited artifact. Egypt has repeatedly asked for the stone to be returned, arguing that it is part of their cultural heritage — a debate that continues to this day.
+The Rosetta Stone is probably the most famous museum object in the world. It sits in the British Museum, where it is the single most visited artifact. Egypt has repeatedly asked for the stone to be returned, arguing that it is part of their cultural heritage — a debate that echoes disputes over other famous artifacts like [the Hope Diamond](/articles/hope-diamond/) and continues to this day.
 
 The term "Rosetta Stone" has become a metaphor for anything that helps unlock a difficult problem. The popular language-learning software is named after it. In science, when researchers find a key that helps decode something previously incomprehensible, they call it their "Rosetta Stone."
 

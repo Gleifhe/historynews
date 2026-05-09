@@ -65,7 +65,7 @@ The invaders fought bravely but were completely outnumbered and outgunned. Withi
 
 The Bay of Pigs was a humiliation for the United States. It made Castro stronger, not weaker — he used the failed invasion as proof that the U.S. was trying to destroy Cuba.
 
-It also pushed Castro closer to the Soviet Union. Within a year, the Soviets began secretly shipping nuclear missiles to Cuba, leading to the Cuban Missile Crisis of October 1962 — the closest the world has ever come to nuclear war.
+It also pushed Castro closer to the Soviet Union. Within a year, the Soviets began secretly shipping nuclear missiles to Cuba, leading to the Cuban Missile Crisis of October 1962 — the closest the world has ever come to nuclear war. The Cold War tensions that fueled the Bay of Pigs would eventually lead to disasters like [Chernobyl](/articles/chernobyl-disaster/) and historic moments like [the fall of the Berlin Wall](/articles/berlin-wall-falls/).
 
 President Kennedy publicly took responsibility for the failure. Privately, he was furious with the CIA. He fired CIA Director Allen Dulles and said he wanted to "splinter the CIA into a thousand pieces."
 

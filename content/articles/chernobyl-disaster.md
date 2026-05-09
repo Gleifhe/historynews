@@ -79,7 +79,7 @@ While the government was covering up the disaster, brave individuals were riskin
 
 ## The Aftermath
 
-The consequences of Chernobyl were staggering:
+The consequences of Chernobyl were staggering. Like [the atomic bombings of Hiroshima and Nagasaki](/articles/hiroshima-nagasaki/) four decades earlier, Chernobyl demonstrated the terrifying destructive power of nuclear technology:
 
 - **Two plant workers** were killed immediately by the explosion
 - **28 firefighters and emergency workers** died of acute radiation sickness within months
@@ -89,7 +89,7 @@ The consequences of Chernobyl were staggering:
 
 ## Why It Still Matters
 
-Chernobyl changed the world's relationship with nuclear power. Many countries slowed or stopped building new nuclear plants. Safety standards were dramatically increased worldwide.
+Chernobyl changed the world's relationship with nuclear power. Many countries slowed or stopped building new nuclear plants. Safety standards were dramatically increased worldwide. The disaster had eerie parallels with [the Challenger explosion](/articles/challenger-disaster/) earlier that same year — both tragedies resulted from known engineering flaws that leaders chose to ignore.
 
 The disaster also helped end the Soviet Union. The cover-up and the government's inability to handle the crisis undermined public trust in the Communist Party. Soviet leader Mikhail Gorbachev later said that Chernobyl was a major factor in the collapse of the Soviet system.
 

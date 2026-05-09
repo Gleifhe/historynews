@@ -23,7 +23,7 @@ In 1953, two scientists at Cambridge University announced that they had discover
 
 ## The Race for DNA
 
-By the early 1950s, scientists knew that DNA — deoxyribonucleic acid — was the molecule responsible for heredity. It carried the instructions that determined everything from eye color to blood type. But nobody knew what DNA actually looked like at the molecular level. Understanding its structure would be the key to understanding how it worked.
+By the early 1950s, scientists knew that DNA — deoxyribonucleic acid — was the molecule responsible for heredity, the mechanism behind the evolution described in [Darwin's Origin of Species](/articles/darwins-origin-of-species/). It carried the instructions that determined everything from eye color to blood type. But nobody knew what DNA actually looked like at the molecular level. Understanding its structure would be the key to understanding how it worked.
 
 Several teams of scientists were racing to solve the puzzle. At Cambridge, Watson and Crick were building physical models of DNA, trying different arrangements of atoms until they found one that fit the available evidence. At King's College London, Rosalind Franklin and Maurice Wilkins were using a technique called X-ray crystallography to photograph DNA fibers.
 
@@ -41,7 +41,7 @@ Franklin was carefully analyzing her data and working toward solving the structu
 
 ## The Betrayal
 
-What happened next remains one of the most controversial episodes in the history of science. In January 1953, Maurice Wilkins — Franklin's colleague at King's College, with whom she had a difficult working relationship — showed Photograph 51 to James Watson without Franklin's permission or knowledge.
+What happened next remains one of the most controversial episodes in the history of science — a story of institutional power dynamics later explored in studies like [the Milgram obedience experiment](/articles/milgram-obedience-experiment/). In January 1953, Maurice Wilkins — Franklin's colleague at King's College, with whom she had a difficult working relationship — showed Photograph 51 to James Watson without Franklin's permission or knowledge.
 
 Watson later wrote that the moment he saw the photograph, "my mouth fell open and my pulse began to race." The image gave Watson and Crick the crucial evidence they needed. They could now see that DNA was a double helix — two intertwined spirals. Combined with other data, including a research report by Franklin that was shared through informal channels, Watson and Crick were able to build their famous model of DNA.
 

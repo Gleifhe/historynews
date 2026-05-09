@@ -20,7 +20,7 @@ sources:
 
 ## A Message Nobody Was Supposed to See
 
-In January 1917, World War I had been raging in Europe for nearly three years. Millions of soldiers were dying in muddy trenches. The United States, under President Woodrow Wilson, was trying hard to stay out of it.
+In January 1917, World War I — triggered by [the assassination of Archduke Franz Ferdinand](/articles/assassination-franz-ferdinand/) — had been raging in Europe for nearly three years. Millions of soldiers were dying in muddy trenches. The United States, under President Woodrow Wilson, was trying hard to stay out of it.
 
 Then a secret message changed everything.
 
@@ -56,7 +56,7 @@ When the telegram was made public on March 1, 1917, Americans were outraged. Man
 
 Some people thought the telegram was a fake — British propaganda designed to trick America into fighting. But then something remarkable happened. Arthur Zimmermann himself admitted it was real. In a press conference on March 3, he confirmed he had sent the telegram.
 
-That was the end of American neutrality. On April 6, 1917, the United States declared war on Germany.
+That was the end of American neutrality. On April 6, 1917, the United States declared war on Germany — a decision that would ultimately lead to American forces fighting on European soil, culminating in [D-Day](/articles/d-day-oral-histories/) a generation later.
 
 ## Did Mexico Actually Consider the Offer?
 
@@ -68,7 +68,7 @@ Mexico officially declined the offer and stayed neutral.
 
 The Zimmermann Telegram is one of the most important intercepted messages in history. It helped pull the United States into World War I, which changed the outcome of the war and reshaped the entire world.
 
-It also showed how powerful intelligence work could be. The code breakers in Room 40 didn't fire a single bullet, but they changed the course of the war. Their work inspired the creation of code-breaking operations in World War II — including the famous effort to crack the Enigma code at Bletchley Park.
+It also showed how powerful intelligence work could be. The code breakers in Room 40 didn't fire a single bullet, but they changed the course of the war. Their work inspired the creation of code-breaking operations in World War II — including [the famous effort to crack the Enigma code at Bletchley Park](/articles/enigma-code-bletchley-park/).
 
 The original telegram is preserved at the British National Archives in London, where anyone can view the coded message that helped start a new chapter in world history.
 

@@ -65,9 +65,9 @@ Most modern experts believe it was a combination of hydrogen leaking from the ga
 
 The Hindenburg disaster didn't kill the most people or cause the most damage of any transportation accident. But it killed something bigger: **public confidence in airship travel.**
 
-The dramatic film footage and Morrison's emotional broadcast made the disaster vivid and unforgettable. Newspapers across the world — documented in the Newspapers.com archive — ran massive front-page photos of the burning airship.
+The dramatic film footage and Morrison's emotional broadcast made the disaster vivid and unforgettable. The [Titanic's sinking](/articles/titanic-newspaper-coverage/) in 1912 had been covered only through newspapers, but the Hindenburg was one of the first disasters captured on film, making its impact on the public far more immediate. Newspapers across the world — documented in the Newspapers.com archive — ran massive front-page photos of the burning airship.
 
-Within months, commercial airship service was dead. Germany scrapped its remaining airships. The age of lighter-than-air travel was over, replaced by the faster, heavier-than-air airplane.
+Within months, commercial airship service was dead. Germany scrapped its remaining airships. The age of lighter-than-air travel was over, replaced by the faster, heavier-than-air airplane — a technology that had begun just 34 years earlier with [the Wright Brothers' first flight](/articles/wright-brothers-first-flight/). Decades later, [the Challenger disaster](/articles/challenger-disaster/) would show that even newer forms of flight carried their own terrible risks.
 
 The Hindenburg remains a cautionary tale about the intersection of technology, hubris, and the power of media to shape public perception.
 

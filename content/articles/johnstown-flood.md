@@ -19,7 +19,7 @@ sources:
   - '<a href="https://www.britannica.com/event/Johnstown-flood">Britannica — Johnstown Flood</a>'
 ---
 
-On the afternoon of May 31, 1889, the people of Johnstown, Pennsylvania, heard a low rumble that grew into a roar. Moments later, a wall of water 60 feet high and half a mile wide came crashing through the valley at 40 miles per hour. In just ten minutes, an entire city was destroyed. More than 2,200 people were killed, making the Johnstown Flood one of the deadliest disasters in American history.
+On the afternoon of May 31, 1889, the people of Johnstown, Pennsylvania, heard a low rumble that grew into a roar. Moments later, a wall of water 60 feet high and half a mile wide came crashing through the valley at 40 miles per hour. In just ten minutes, an entire city was destroyed. More than 2,200 people were killed, making the Johnstown Flood one of the deadliest disasters in American history — a distinction it would share with [the 1906 San Francisco earthquake](/articles/1906-san-francisco-earthquake/).
 
 ## A City in a Valley
 
@@ -53,13 +53,13 @@ A massive pile of debris — houses, trees, railroad cars, and human bodies — 
 
 When the water finally receded, the destruction was almost beyond comprehension. More than 2,200 people were dead. Bodies were found for months afterward, some as far away as Cincinnati, carried there by the rivers. Nearly 1,600 homes had been destroyed. The damage, in today's dollars, would amount to billions.
 
-The disaster brought an outpouring of help from across the country and around the world. Clara Barton and the American Red Cross arrived within five days and stayed for five months — it was the organization's first major disaster relief effort. Donations poured in from as far away as Europe and Asia.
+The disaster brought an outpouring of help from across the country and around the world. Clara Barton and the American Red Cross arrived within five days and stayed for five months — it was the organization's first major disaster relief effort, foreshadowing the outpouring of aid that would follow [the Titanic disaster](/articles/titanic-newspaper-coverage/) decades later. Donations poured in from as far away as Europe and Asia.
 
 ## Justice Denied
 
 Many survivors blamed the South Fork Fishing and Hunting Club for the disaster. They believed that the club's negligence in maintaining the dam had caused the flood. Lawsuits were filed, but the courts ruled that the flood was an "act of God" — a natural disaster for which no one could be held responsible. The wealthy club members were never held legally accountable.
 
-This outcome outraged many Americans and helped fuel a growing movement for corporate accountability and government regulation. The Johnstown Flood became a powerful symbol of what could happen when the rich and powerful ignored the safety of ordinary people.
+This outcome outraged many Americans and helped fuel a growing movement for corporate accountability and government regulation. The Johnstown Flood became a powerful symbol of what could happen when the rich and powerful ignored the safety of ordinary people — a lesson repeated at [the Triangle Shirtwaist Factory](/articles/triangle-shirtwaist-fire/) two decades later.
 
 ## Remembering Johnstown
 

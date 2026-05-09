@@ -71,13 +71,13 @@ What happened next was a cascade of ultimatums, mobilizations, and declarations 
 4. **Germany declared war on Russia** (August 1) and then on France (August 3)
 5. **Germany invaded Belgium** to attack France, which brought **Britain** into the war (August 4)
 
-In just five weeks, a single murder in a Balkan city had ignited a war that would engulf the entire continent.
+In just five weeks, a single murder in a Balkan city had ignited a war that would engulf the entire continent. The secret diplomacy that fueled the conflict would reach across the Atlantic three years later with [the Zimmermann Telegram](/articles/zimmermann-telegram/), which helped drag the United States into the war.
 
 ## The War Nobody Wanted (But Nobody Stopped)
 
 One of the most tragic aspects of World War I is that most of the leaders involved didn't actually want a major war. They expected short, limited conflicts. Kaiser Wilhelm II of Germany told his troops they'd be "home before the leaves fall."
 
-Instead, the war lasted four years and three months. Entire generations of young men were slaughtered in the trenches. New weapons — machine guns, poison gas, tanks, and airplanes — made the killing more efficient than ever before.
+Instead, the war lasted four years and three months. Entire generations of young men were slaughtered in the trenches. New weapons — machine guns, poison gas, tanks, and airplanes — made the killing more efficient than ever before. The horrors of the Great War would pale in comparison to what came next — [read our article on D-Day](/articles/d-day-oral-histories/) to hear firsthand accounts from the even deadlier conflict that followed.
 
 ## Why It Still Matters
 

@@ -47,7 +47,7 @@ In the first hour, nearly every officer and sergeant in the first wave at Omaha 
 
 What happened next showed the incredible courage of ordinary soldiers. Small groups of men — sometimes just three or four — began working their way up the bluffs. They didn't wait for orders. They just started climbing.
 
-**Sergeant Leonard Lomell** and his Rangers scaled the cliffs at Pointe du Hoc under fire to destroy German artillery guns that were threatening the landing beaches. When they reached the top, they found the guns had been moved — but they tracked them down in a nearby orchard and destroyed them with thermite grenades.
+**Sergeant Leonard Lomell** and his Rangers scaled the cliffs at Pointe du Hoc under fire to destroy German artillery guns that were threatening the landing beaches. Their success owed much to the [codebreakers at Bletchley Park](/articles/enigma-code-bletchley-park/), whose intelligence work had helped the Allies plan every detail of the invasion. When they reached the top, they found the guns had been moved — but they tracked them down in a nearby orchard and destroyed them with thermite grenades.
 
 ## The Medics
 
@@ -81,9 +81,9 @@ By the end of June 6, 1944, the Allies had established a foothold on the beaches
 
 The soldiers who fought on D-Day are now in their late 90s and beyond. Most have passed away. The oral history collections at the National WWII Museum and the Library of Congress's Veterans History Project preserve their voices for future generations.
 
-These aren't polished stories. They're raw, honest, sometimes painful memories from young men who were asked to do something unimaginably difficult — and did it anyway.
+These aren't polished stories. They're raw, honest, sometimes painful memories from young men who were asked to do something unimaginably difficult — and did it anyway. Many of those same young men went on to fight in the Pacific, where [the battle of Iwo Jima](/articles/iwo-jima-flag-photo/) produced its own iconic image of sacrifice.
 
-D-Day didn't just happen in textbooks. It happened to real people. Their stories deserve to be heard.
+D-Day didn't just happen in textbooks. It happened to real people. Their stories deserve to be heard. And in the aftermath of the invasion, the [Nuremberg Trials](/articles/nuremberg-trials/) would hold accountable the Nazi leaders whose crimes made the sacrifice of D-Day necessary.
 
 ## What We Can Learn (Personal Growth)
 

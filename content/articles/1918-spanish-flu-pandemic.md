@@ -25,7 +25,7 @@ In the spring of 1918, a strange new illness started spreading. It began with a 
 
 Over the next two years, the flu spread to every corner of the world. It infected about 500 million people — one-third of the entire world's population. Between 50 and 100 million people died. That's more people than died in all of World War I.
 
-It was called the Spanish Flu, though it probably didn't start in Spain. (Spain was neutral during WWI and didn't censor its press, so Spanish newspapers were the first to report on the illness openly. Other countries were hiding their outbreaks to keep wartime morale high.)
+It was called the Spanish Flu, though it probably didn't start in Spain. It was the deadliest pandemic since the [Black Death ravaged medieval Europe](/articles/black-death-plague/). (Spain was neutral during WWI and didn't censor its press, so Spanish newspapers were the first to report on the illness openly. Other countries were hiding their outbreaks to keep wartime morale high.)
 
 ## Masks, Closures, and Angry Citizens
 
@@ -73,7 +73,7 @@ Reading these papers today, it's striking how much doctors in 1918 got right —
 
 ## A Warning From the Past
 
-The 1918 flu pandemic is a reminder that new diseases can appear without warning and spread around the world in weeks. The choices that leaders and ordinary people make during a pandemic — whether to act fast or delay, whether to follow science or ignore it — can mean the difference between thousands of lives saved and thousands of lives lost.
+The 1918 flu pandemic is a reminder that new diseases can appear without warning and spread around the world in weeks. As [the Chernobyl disaster](/articles/chernobyl-disaster/) would later show, government cover-ups during public health crises only make things worse. The choices that leaders and ordinary people make during a pandemic — whether to act fast or delay, whether to follow science or ignore it — can mean the difference between thousands of lives saved and thousands of lives lost.
 
 The academic record, preserved in JSTOR and other archives, ensures that the lessons of 1918 are available for future generations. The question is whether we'll learn from them.
 

@@ -105,7 +105,7 @@
                 <span class="card-category">{{ $p.Params.era }}</span>
                 <h3 class="card-headline">{{ $p.Params.headline }}</h3>
                 <p class="card-summary">{{ $p.Params.summary | truncate 120 }}</p>
-                <span class="card-date">{{ $p.Params.historydate }}</span>
+                <span class="card-date">{{ $p.Params.historydate }} · {{ $p.ReadingTime }} min read</span>
               </div>
             </a>
             {{ end }}
@@ -121,7 +121,7 @@
                 <span class="card-category">{{ $p.Params.era }}</span>
                 <h3 class="card-headline">{{ $p.Params.headline }}</h3>
                 <p class="card-summary">{{ $p.Params.summary | truncate 120 }}</p>
-                <span class="card-date">{{ $p.Params.historydate }}</span>
+                <span class="card-date">{{ $p.Params.historydate }} · {{ $p.ReadingTime }} min read</span>
               </div>
             </a>
             {{ end }}

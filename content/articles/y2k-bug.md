@@ -61,7 +61,7 @@ John Koskinen, who led the U.S. government's Y2K effort, said the smooth transit
 
 ## The Legacy of Y2K
 
-The Y2K bug taught important lessons about how dependent modern society has become on computers. It showed that small decisions made by programmers — like saving two digits instead of four — can have enormous consequences decades later.
+The Y2K bug taught important lessons about how dependent modern society has become on computers — a dependence that became even more apparent when [the events of 9/11](/articles/internet-on-911/) transformed global communication just two years later. It showed that small decisions made by programmers — like saving two digits instead of four — can have enormous consequences decades later.
 
 It also exposed how much of the world's critical infrastructure ran on outdated technology. Many of the old systems that were checked during Y2K preparations were finally replaced with modern equipment, which was probably overdue anyway.
 
@@ -71,7 +71,7 @@ Today, the Y2K scare serves as a reminder that technology can be fragile. In a w
 
 The Y2K bug teaches us to take problems seriously before they become disasters. It would have been easy for governments and companies to ignore the problem, hoping it would just work itself out. Instead, they invested billions of dollars and countless hours to fix it — and it worked. In your own life, the problems you deal with early are almost always easier to solve than the ones you ignore until they blow up.
 
-Y2K also shows us that the people who prevent disasters rarely get credit. The programmers who fixed the Y2K bug worked quietly behind the scenes, and when nothing bad happened, many people said the whole thing was a hoax. But those programmers were the reason nothing went wrong. The same thing happens in everyday life — the people who prevent problems are often invisible, while the people who react to emergencies get all the attention.
+Y2K also shows us that the people who prevent disasters rarely get credit. Compare that to [the Challenger disaster](/articles/challenger-disaster/), where engineers who warned about the danger were overruled — and the result was catastrophe. The programmers who fixed the Y2K bug worked quietly behind the scenes, and when nothing bad happened, many people said the whole thing was a hoax. But those programmers were the reason nothing went wrong. The same thing happens in everyday life — the people who prevent problems are often invisible, while the people who react to emergencies get all the attention.
 
 Finally, Y2K is a lesson about understanding the technology we depend on. Most people in the 1990s had no idea that a two-digit shortcut made decades earlier could threaten modern civilization. The more we rely on technology without understanding how it works, the more vulnerable we become to surprises.
 

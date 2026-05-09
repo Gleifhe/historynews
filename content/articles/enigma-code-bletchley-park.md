@@ -37,7 +37,7 @@ The most famous member of the team was Alan Turing, a 27-year-old mathematician 
 
 ## Turing's Machine
 
-Turing realized that no human could test 158 quintillion combinations fast enough. He needed a machine. Working with engineer Gordon Welchman, Turing designed an electromechanical device called the "Bombe."
+Turing realized that no human could test 158 quintillion combinations fast enough. He needed a machine. Working with engineer Gordon Welchman, Turing designed an electromechanical device called the "Bombe." It was a remarkable feat of engineering — just as [the Zimmermann Telegram](/articles/zimmermann-telegram/) had shown in World War I how intercepted communications could change the course of a war, Turing's machine took signals intelligence to an entirely new level.
 
 The Bombe was about six feet tall and eight feet wide, filled with spinning drums that mimicked the Enigma's rotors. It could test thousands of possible Enigma settings per hour, looking for patterns and contradictions that would reveal the day's key.
 
@@ -49,7 +49,7 @@ The intelligence produced at Bletchley Park — codenamed "Ultra" — gave the A
 
 - **Battle of the Atlantic**: Breaking the naval Enigma allowed the Allies to locate and avoid German U-boat wolfpacks, saving thousands of ships and millions of tons of supplies
 - **North Africa**: Ultra intelligence helped British General Montgomery defeat Rommel at El Alamein in 1942
-- **D-Day**: The Allies used Ultra to confirm that German commanders believed the D-Day invasion would come at Calais, not Normandy
+- **D-Day**: The Allies used Ultra to confirm that German commanders believed [the D-Day invasion](/articles/d-day-oral-histories/) would come at Calais, not Normandy
 - **Eastern Front**: Shared intelligence helped the Soviet Union prepare for German offensives
 
 Historians estimate that Ultra shortened the war in Europe by **at least two years**, saving millions of lives.
@@ -72,7 +72,7 @@ In 2009, British Prime Minister Gordon Brown issued a public apology. In 2013, Q
 
 The Enigma story is preserved in the British National Archives, where declassified documents reveal the full scope of the Bletchley Park operation. Original Enigma machines are displayed at museums around the world.
 
-The work done at Bletchley Park didn't just win a war — it launched the computer age. The machines Turing and his colleagues built were the direct ancestors of modern computers. Every time you use a smartphone, you're benefiting from ideas that began in a Victorian mansion where a team of codebreakers saved the world.
+The work done at Bletchley Park didn't just win a war — it launched the computer age. After the war, many of the scientists who had worked alongside Turing were recruited by the United States and other nations, much like the German scientists brought over in [Operation Paperclip](/articles/operation-paperclip/). The machines Turing and his colleagues built were the direct ancestors of modern computers. Every time you use a smartphone, you're benefiting from ideas that began in a Victorian mansion where a team of codebreakers saved the world.
 
 ## What We Can Learn (Personal Growth)
 

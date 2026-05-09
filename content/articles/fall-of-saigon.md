@@ -21,7 +21,7 @@ sources:
 
 ## The War That Divided America
 
-The Vietnam War was the longest and most controversial conflict in American history up to that point. The United States entered the war to stop communist North Vietnam from taking over democratic South Vietnam. Over two decades, more than 58,000 Americans and an estimated 2 million Vietnamese died.
+The Vietnam War was the longest and most controversial conflict in American history up to that point. The United States entered the war to stop communist North Vietnam from taking over democratic South Vietnam. The disastrous [Bay of Pigs invasion](/articles/bay-of-pigs-declassified/) in Cuba had already shown the risks of Cold War interventionism, but America pressed deeper into Vietnam regardless. Over two decades, more than 58,000 Americans and an estimated 2 million Vietnamese died.
 
 By 1973, massive anti-war protests at home forced the United States to sign a peace agreement and pull its combat troops out of Vietnam. But the fighting between North and South Vietnam continued. Without American military support, South Vietnam's army began to collapse.
 
@@ -71,7 +71,7 @@ The Vietnamese refugees who rebuilt their lives in new countries are an incredib
 
 ## How This Connects to 2026
 
-The images of desperate evacuations from Saigon echo in events that continue to unfold in 2026. The chaotic withdrawal from Afghanistan in 2021 drew direct comparisons to the fall of Saigon, and the question of what obligations powerful nations owe to their local allies remains unresolved. As geopolitical tensions shift in 2026 — in Eastern Europe, the South China Sea, and elsewhere — the lessons of Vietnam about the limits of military intervention and the cost of broken commitments are as relevant as ever.
+The images of desperate evacuations from Saigon echo in events that continue to unfold in 2026. The chaotic withdrawal from Afghanistan in 2021 drew direct comparisons to the fall of Saigon, much as the Vietnam War itself had drawn comparisons to [the beaches of D-Day](/articles/d-day-oral-histories/) a generation earlier., and the question of what obligations powerful nations owe to their local allies remains unresolved. As geopolitical tensions shift in 2026 — in Eastern Europe, the South China Sea, and elsewhere — the lessons of Vietnam about the limits of military intervention and the cost of broken commitments are as relevant as ever.
 
 The refugee crisis that followed the fall of Saigon also connects to one of the defining issues of our time. In 2026, tens of millions of people around the world are displaced by war, political instability, and climate change. The debates about how to welcome — or exclude — refugees are strikingly similar to the ones that happened when Vietnamese boat people arrived on foreign shores decades ago. History shows that refugees, given the chance, contribute enormously to their new communities.
 

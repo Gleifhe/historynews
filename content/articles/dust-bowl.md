@@ -65,7 +65,7 @@ By the early 1940s, rain returned and the worst of the Dust Bowl was over. But t
 
 ## Why It Still Matters
 
-The Dust Bowl remains the worst ecological disaster in American history. It showed what can happen when humans ignore the natural environment in pursuit of short-term profit.
+The Dust Bowl remains the worst ecological disaster in American history. It showed what can happen when humans ignore the natural environment in pursuit of short-term profit. America had seen devastating natural disasters before — from [the 1906 San Francisco earthquake](/articles/1906-san-francisco-earthquake/) to [the Johnstown Flood](/articles/johnstown-flood/) — but the Dust Bowl was unique because it was almost entirely man-made.
 
 Today, scientists warn that climate change and unsustainable farming practices could create new dust bowls — not just in the United States, but around the world. The photographs in the Library of Congress serve as a powerful reminder of what's at stake.
 

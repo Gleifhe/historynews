@@ -25,7 +25,7 @@ Just hours after Japan bombed Pearl Harbor on December 7, 1941, Japanese forces 
 
 The soldiers he left behind were not so lucky. About 76,000 American and Filipino troops — starving, sick with malaria, and out of ammunition — surrendered on the Bataan Peninsula on April 9, 1942. It was the largest surrender of American-led forces in history.
 
-What happened next became one of the worst war crimes of the 20th century.
+What happened next became one of the worst war crimes of the 20th century. It was a grim foreshadowing of the brutal Pacific campaign that would later include [the battle of Iwo Jima](/articles/iwo-jima-flag-photo/) and ultimately end with [the atomic bombings of Hiroshima and Nagasaki](/articles/hiroshima-nagasaki/).
 
 ## The March Begins
 
@@ -61,7 +61,7 @@ The United States government was slow to share the full details of the march wit
 
 ## Why It Still Matters
 
-The Bataan Death March is a reminder of what happens when the rules of war are thrown away. The Geneva Conventions — international agreements about how prisoners of war must be treated — exist because of events like this.
+The Bataan Death March is a reminder of what happens when the rules of war are thrown away. The Geneva Conventions — international agreements about how prisoners of war must be treated — exist because of events like this. The soldiers who survived Bataan would fight on, joining the campaign that saw [Allied troops storm the beaches of Normandy](/articles/d-day-oral-histories/) in Europe and push toward victory in the Pacific.
 
 Every April, thousands of people participate in the Bataan Memorial Death March at White Sands, New Mexico. Participants walk 26.2 miles through the desert to honor the soldiers who suffered and died on that road in the Philippines. Many of the last surviving veterans of the march have passed away, making it all the more important that their story is never forgotten.
 

@@ -59,7 +59,7 @@ The plate belonged to Bruno Richard Hauptmann, a German immigrant carpenter livi
 
 ## The "Trial of the Century"
 
-Hauptmann's trial in January 1935 was the biggest media event of the decade. Over 700 journalists from around the world descended on the small town of Flemington, New Jersey. Newsreel cameras filmed the proceedings. Radio broadcasters described every detail.
+Hauptmann's trial in January 1935 was the biggest media event of the decade — rivaled only by [the Hindenburg disaster](/articles/hindenburg-disaster/) two years later. Over 700 journalists from around the world descended on the small town of Flemington, New Jersey. Newsreel cameras filmed the proceedings. Radio broadcasters described every detail.
 
 The trial lasted six weeks. The prosecution presented the ransom money, handwriting analysis matching Hauptmann to the ransom notes, and evidence that the kidnap ladder was built from wood in Hauptmann's attic.
 
@@ -75,7 +75,7 @@ The Lindbergh kidnapping had lasting effects:
 
 The Lindberghs, devastated by the loss of their son and the media invasion of their lives, eventually moved to Europe for several years to escape the attention.
 
-The case remains one of the most studied crimes in American history, and the newspaper coverage — preserved in archives like Newspapers.com — shows how one family's tragedy became the entire nation's nightmare.
+The case remains one of the most studied crimes in American history, rivaled only by [the JFK assassination](/articles/jfk-assassination-photos/) decades later, and the newspaper coverage — preserved in archives like Newspapers.com — shows how one family's tragedy became the entire nation's nightmare.
 
 ## What We Can Learn (Personal Growth)
 

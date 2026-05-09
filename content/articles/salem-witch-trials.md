@@ -41,7 +41,7 @@ The first person executed was Bridget Bishop, who was hanged on June 10, 1692. O
 
 Several accused witches died in jail while awaiting trial. In all, more than 200 people were accused of witchcraft during the crisis.
 
-It's worth noting who was most likely to be accused. Many of the victims were women who didn't fit neatly into Puritan society — they were outspoken, independent, or had conflicts with their neighbors. Being different was dangerous in Salem.
+It's worth noting who was most likely to be accused. Many of the victims were women who didn't fit neatly into Puritan society — they were outspoken, independent, or had conflicts with their neighbors. Being different was dangerous in Salem — a truth that women like [suffragette Emily Davison](/articles/suffragette-emily-davison/) would still confront centuries later.
 
 ## How It Ended
 
@@ -59,7 +59,7 @@ The Massachusetts legislature eventually passed laws restoring the good names of
 
 ## Why It Still Matters
 
-The Salem Witch Trials are the most famous example of mass hysteria in American history. The term "witch hunt" is still used today to describe any situation where fear and accusations spiral out of control, destroying innocent people in the process.
+The Salem Witch Trials are the most famous example of mass hysteria in American history. The term "witch hunt" is still used today to describe any situation where fear and accusations spiral out of control — from [the Jack the Ripper](/articles/jack-the-ripper/) panic in Victorian London to modern political scandals — destroying innocent people in the process.
 
 Salem reminds us how dangerous it is when a community lets fear override evidence, when accusations alone are treated as proof, and when being different is treated as being dangerous. These lessons have never stopped being relevant.
 

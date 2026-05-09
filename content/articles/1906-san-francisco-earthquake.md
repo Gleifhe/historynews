@@ -58,11 +58,11 @@ People cooked meals in the streets because it was too dangerous to use indoor st
 
 What makes the San Francisco story remarkable isn't just the destruction — it's how fast the city came back. Within three years, most of the city had been rebuilt. New buildings were constructed with better materials and stronger designs. New water systems were built so firefighters would never run dry again.
 
-San Francisco's recovery became a symbol of American determination. The city didn't just rebuild — it rebuilt better.
+San Francisco's recovery became a symbol of American determination. The city didn't just rebuild — it rebuilt better. Centuries earlier, [read our article on the Great Fire of London](/articles/great-fire-of-london/) for a strikingly similar story of a city that burned to the ground and came back stronger.
 
 ## Why This Story Still Matters
 
-The 1906 earthquake taught America important lessons about earthquake safety, fire prevention, and disaster response. Many of the building codes we use today started because of what happened in San Francisco. The disaster also showed how communities can come together in the worst of times.
+The 1906 earthquake taught America important lessons about earthquake safety, fire prevention, and disaster response. Many of the building codes we use today started because of what happened in San Francisco. Just five years later, the [Triangle Shirtwaist Fire](/articles/triangle-shirtwaist-fire/) would further transform safety regulations in America. The disaster also showed how communities can come together in the worst of times — much like the [Johnstown Flood](/articles/johnstown-flood/) had demonstrated a generation earlier.
 
 The Library of Congress holds hundreds of photographs, letters, and documents from the earthquake. Together, they tell the story of a city that was destroyed in minutes and rebuilt in years — proving that even the worst disasters can't break the human spirit.
 

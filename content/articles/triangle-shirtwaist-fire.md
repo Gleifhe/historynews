@@ -59,7 +59,7 @@ Investigators found that:
 
 The factory owners, Blanck and Harris, were charged with manslaughter. Their trial lasted three weeks. Despite overwhelming evidence, the jury acquitted them. The judge had instructed the jury that they could only convict if the owners knew the specific door was locked at the time of the fire — a nearly impossible standard to prove.
 
-The acquittal outraged the public. Blanck and Harris later paid $75 per victim in a civil settlement — about $2,400 in today's money.
+The acquittal outraged the public — a miscarriage of justice that echoed the failure to hold anyone accountable for [the Johnstown Flood](/articles/johnstown-flood/) two decades earlier. Blanck and Harris later paid $75 per victim in a civil settlement — about $2,400 in today's money.
 
 ## The Fire That Changed America
 
@@ -68,7 +68,7 @@ The Triangle Fire didn't just kill 146 people — it transformed American labor 
 - **New York created the Factory Investigating Commission**, which inspected workplaces across the state and recommended sweeping reforms
 - **Dozens of new labor laws** were passed in New York within three years, covering fire safety, working conditions, and child labor
 - **The International Ladies' Garment Workers' Union** grew dramatically, giving workers more power to demand safe conditions
-- **Frances Perkins**, who had witnessed the fire from the street, went on to become the first female Cabinet member and the architect of the New Deal's labor protections
+- **Frances Perkins**, who had witnessed the fire from the street, went on to become the first female Cabinet member and the architect of the New Deal's labor protections — part of a broader wave of progress for women that included [the 19th Amendment](/articles/19th-amendment/)
 
 Every time you see a fire exit sign in a building, a sprinkler system on the ceiling, or a door that opens outward — those exist because of what happened at the Triangle Shirtwaist Factory on March 25, 1911.
 
@@ -86,4 +86,4 @@ The locked doors of the Triangle Shirtwaist Factory have modern equivalents in 2
 
 The rise of the gig economy and AI automation has created new workplace challenges. Many workers in 2026 are classified as independent contractors, which means they don't receive the safety protections, health insurance, or labor rights that the Triangle Fire helped establish. As AI and robots take over more jobs, the question of who protects workers — and what "work" even looks like — is becoming more urgent.
 
-Climate change also connects to the Triangle Fire's legacy. Just as the factory owners prioritized profit over safety, some industries today continue to prioritize short-term profits over environmental safety. The workers who suffer most from pollution, extreme heat, and unsafe conditions are often the poorest and most vulnerable — the same demographic that filled the Triangle Shirtwaist Factory over a century ago. The fire reminds us that safety regulations exist for a reason, and rolling them back has real human costs.
+Climate change also connects to the Triangle Fire's legacy. Just as the factory owners prioritized profit over safety, some industries today continue to prioritize short-term profits over environmental safety. The workers who suffer most from pollution, extreme heat, and unsafe conditions are often the poorest and most vulnerable — the same demographic that filled the Triangle Shirtwaist Factory over a century ago and suffered through [the Dust Bowl](/articles/dust-bowl/) a generation later. The fire reminds us that safety regulations exist for a reason, and rolling them back has real human costs.

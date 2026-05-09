@@ -27,7 +27,7 @@ The order gave the military the power to remove anyone it considered a threat fr
 
 ## Fear After Pearl Harbor
 
-Just two months earlier, on December 7, 1941, Japan had attacked Pearl Harbor in Hawaii. The surprise bombing killed over 2,400 Americans and pulled the United States into World War II.
+Just two months earlier, on December 7, 1941, Japan had attacked Pearl Harbor in Hawaii. The surprise bombing killed over 2,400 Americans and pulled the United States into World War II — a conflict that would bring further horrors like [the Bataan Death March](/articles/bataan-death-march/) in the Pacific.
 
 After the attack, many Americans were scared. Some people worried that Japanese Americans living on the West Coast might be secretly helping Japan. There was no evidence that this was true — but fear doesn't need evidence.
 
@@ -65,7 +65,7 @@ That finally changed in 1988, when President Ronald Reagan signed the Civil Libe
 
 The original Executive Order 9066 is held at the National Archives in Washington, D.C. It's a simple typed document with Roosevelt's signature at the bottom. Looking at it today, it's hard to believe that such an ordinary-looking piece of paper caused so much suffering.
 
-The lesson of Executive Order 9066 is clear: fear can make a country do terrible things to its own people. And it reminds us that the rights promised in the Constitution must be protected — especially when people are scared.
+The lesson of Executive Order 9066 is clear: fear can make a country do terrible things to its own people. And it reminds us that the rights promised in the Constitution — rights also at the heart of [the Emancipation Proclamation](/articles/emancipation-proclamation/) — must be protected, especially when people are scared.
 
 ## What We Can Learn (Personal Growth)
 
@@ -77,7 +77,7 @@ The soldiers of the 442nd Regimental Combat Team offer perhaps the most incredib
 
 ## How This Connects to 2026
 
-The internment of Japanese Americans is not just ancient history — it's a warning that speaks directly to 2026. In times of fear, governments can target entire groups of people based on their race, religion, or national origin. Today, political polarization and rising nationalism around the world create conditions where scapegoating can happen again. When politicians use fear to justify treating certain groups differently, the story of Executive Order 9066 reminds us where that path leads.
+The internment of Japanese Americans is not just ancient history — it's a warning that speaks directly to 2026. In times of fear, governments can target entire groups of people based on their race, religion, or national origin. Today, political polarization and rising nationalism around the world create conditions where scapegoating can happen again. When politicians use fear to justify treating certain groups differently, the story of Executive Order 9066 — and [the Nuremberg trials](/articles/nuremberg-trials/) that followed the war — reminds us where that path leads.
 
 The role of misinformation in the internment also connects to today. In 1942, newspapers and politicians spread false claims that Japanese Americans were spying for Japan — claims that had no evidence behind them. In 2026, AI-generated content and social media make it even easier to spread fear and lies about specific groups of people. Deepfake videos, fake news articles, and viral social media posts can turn public opinion against a community in hours. The technology has changed, but the danger is the same.
 

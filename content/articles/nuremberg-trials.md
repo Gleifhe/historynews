@@ -21,7 +21,7 @@ sources:
 
 ## The World Demands Justice
 
-World War II ended in Europe on May 8, 1945. As Allied soldiers liberated concentration camps across Germany and Poland, the full horror of the Holocaust became clear. Six million Jewish people had been murdered. Millions more — Roma, disabled people, political prisoners, and others — had also been killed.
+World War II ended in Europe on May 8, 1945. As Allied soldiers — many of whom had fought their way across the continent since [D-Day](/articles/d-day-oral-histories/) — liberated concentration camps across Germany and Poland, the full horror of the Holocaust became clear. Six million Jewish people had been murdered. Millions more — Roma, disabled people, political prisoners, and others — had also been killed.
 
 The question was: what should be done with the people responsible?
 
@@ -29,7 +29,7 @@ Some leaders, including British Prime Minister Winston Churchill, initially want
 
 But others argued that the rule of law mattered — even for the worst criminals in history. If the Allies just executed people without trials, they would be acting no better than the Nazis themselves.
 
-In the end, the decision was made to put the Nazi leaders on trial. It would be the first international war crimes trial in history.
+In the end, the decision was made to put the Nazi leaders on trial — even as the world was still processing the devastation of [Hiroshima and Nagasaki](/articles/hiroshima-nagasaki/). It would be the first international war crimes trial in history.
 
 ## The Nuremberg Charter
 
@@ -41,7 +41,7 @@ The charter established three types of crimes:
 2. **War crimes**: Violating the laws of war (torture, killing prisoners, etc.)
 3. **Crimes against humanity**: Murder, extermination, enslavement, and persecution of civilian populations
 
-The third category — crimes against humanity — was entirely new in international law. It established the principle that there are some things so terrible that they are crimes against all of humanity, no matter what a country's own laws say.
+The third category — crimes against humanity — was entirely new in international law. It established the principle that there are some things so terrible that they are crimes against all of humanity, no matter what a country's own laws say — a principle with roots in the same moral tradition as [the Emancipation Proclamation](/articles/emancipation-proclamation/).
 
 ## The Trial Begins
 

@@ -23,7 +23,7 @@ sources:
 
 France in 1789 was a country on the edge. The government was bankrupt. The weather had destroyed crops. Bread prices had skyrocketed. Ordinary people were starving.
 
-Meanwhile, King Louis XVI and Queen Marie Antoinette lived in spectacular luxury at the Palace of Versailles. The nobility and the clergy paid almost no taxes. All the burden fell on the common people — the farmers, shopkeepers, and workers who made up 98% of the population.
+Meanwhile, King Louis XVI and Queen Marie Antoinette lived in spectacular luxury at the Palace of Versailles. The nobility and the clergy paid almost no taxes. All the burden fell on the common people — the farmers, shopkeepers, and workers who made up 98% of the population — the kind of class divide that would later inspire [The Communist Manifesto](/articles/communist-manifesto/).
 
 People were angry. And on July 14, 1789, that anger exploded.
 
@@ -80,11 +80,11 @@ News of the Bastille's fall spread across France within days. In towns and villa
 
 The French Revolution that began on July 14, 1789, transformed France and the world:
 
-- **The Declaration of the Rights of Man and of the Citizen** (August 1789) established principles of human rights and equality
+- **The Declaration of the Rights of Man and of the Citizen** (August 1789) — inspired in part by [the American Declaration of Independence](/articles/declaration-of-independence/) — established principles of human rights and equality
 - **The monarchy was abolished** in 1792
 - **King Louis XVI and Marie Antoinette were executed** by guillotine in 1793
 - **The Reign of Terror** (1793-1794) saw thousands executed as the Revolution turned violent and paranoid
-- **Napoleon Bonaparte** eventually seized power in 1799, ending the Revolution but spreading its ideals across Europe through conquest
+- **Napoleon Bonaparte** eventually seized power in 1799, ending the Revolution but spreading its ideals across Europe through conquest — ideals that also inspired [the Haitian Revolution](/articles/haitian-revolution/)
 
 ## July 14: France's National Day
 

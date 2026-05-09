@@ -88,9 +88,9 @@ The speed of progress after the Wright brothers is staggering:
 - **1903**: First flight — 12 seconds, 120 feet
 - **1927**: Lindbergh flies across the Atlantic — 33.5 hours
 - **1947**: Chuck Yeager breaks the sound barrier
-- **1969**: Neil Armstrong walks on the moon — just 66 years after Kitty Hawk
+- **1969**: [Neil Armstrong walks on the moon](/articles/moon-landing-headlines/) — just 66 years after Kitty Hawk
 
-Two bicycle mechanics from Ohio started it all. Their plane, their notebooks, and their photographs — all available through the Smithsonian and the Library of Congress — tell the story of how human flight began.
+Two bicycle mechanics from Ohio started it all. Their invention would lead to both triumphs and tragedies, from [the Hindenburg disaster](/articles/hindenburg-disaster/) to supersonic jets. Their plane, their notebooks, and their photographs — all available through the Smithsonian and the Library of Congress — tell the story of how human flight began.
 
 ## What We Can Learn (Personal Growth)
 
@@ -102,7 +102,7 @@ Finally, the fact that the world barely noticed their achievement is a great rem
 
 ## How This Connects to 2026
 
-The Wright brothers' story feels especially relevant in 2026, a time when AI and technology are changing the world as dramatically as the airplane did. Just as the Wrights couldn't have imagined supersonic jets or space travel, we can barely imagine what AI, robotics, and other technologies will look like in 66 years. The pace of progress that started with 12 seconds at Kitty Hawk is still accelerating.
+The Wright brothers' story feels especially relevant in 2026, a time when AI and technology are changing the world as dramatically as the airplane did. Just as the Wrights couldn't have imagined supersonic jets, [the Challenger disaster](/articles/challenger-disaster/), or space travel, we can barely imagine what AI, robotics, and other technologies will look like in 66 years. The pace of progress that started with 12 seconds at Kitty Hawk is still accelerating.
 
 Climate change has also made the aviation industry rethink everything. In 2026, engineers are working on electric planes, hydrogen-powered aircraft, and sustainable aviation fuels — trying to keep the miracle of flight alive while reducing its environmental impact. The Wrights solved the problem of how to fly; this generation has to solve the problem of how to fly without damaging the planet.
 

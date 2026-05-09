@@ -7,8 +7,11 @@
     <div class="article-meta">
       <span class="article-date">Historical Date: {{ .Params.historydate }}</span>
       <span class="article-source">Primary Source: {{ .Params.source }}</span>
+      <span class="article-readtime">📖 {{ .ReadingTime }} min read</span>
     </div>
   </header>
+
+  {{ partial "share-buttons.html" . }}
 
   <figure class="article-hero-image">
     <img src="{{ .Params.image }}" alt="{{ .Params.imagealt }}" loading="lazy">
@@ -28,6 +31,8 @@
   </section>
   {{ end }}
 
+  {{ partial "share-buttons.html" . }}
+
   <section class="article-sources">
     <h2>Sources &amp; Further Reading</h2>
     <ul>
@@ -36,6 +41,8 @@
       {{ end }}
     </ul>
   </section>
+
+  {{ partial "related-articles.html" . }}
 
   <nav class="article-nav">
     {{ with .PrevInSection }}

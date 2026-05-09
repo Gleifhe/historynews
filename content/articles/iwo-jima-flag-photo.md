@@ -44,6 +44,8 @@ Over the course of the battle:
 - **19,000 more were wounded**
 - Of the 21,000 Japanese defenders, **only 216 survived** — the rest fought to the death
 
+Many of the Marines who fought on Iwo Jima had survived the brutal Pacific campaign that began with [the Bataan Death March](/articles/bataan-death-march/) and would soon end with [the atomic bombings of Hiroshima and Nagasaki](/articles/hiroshima-nagasaki/).
+
 ## The First Flag — The One Nobody Remembers
 
 On the morning of February 23, 1945 — four days into the battle — a patrol of Marines fought their way to the top of Mount Suribachi, the 546-foot volcanic peak at the island's southern tip.
@@ -85,7 +87,7 @@ Joe Rosenthal's photograph won the Pulitzer Prize and became the model for the M
 
 The Library of Congress holds prints of the photograph and related images. The original negative is held by the Associated Press.
 
-The photo captures something universal: the struggle, the teamwork, the cost of freedom. But behind the image are six real men — three of whom gave their lives on a tiny island in the Pacific, and three who carried the weight of that photograph for the rest of their days.
+The photo captures something universal: the struggle, the teamwork, the cost of freedom. But behind the image are six real men — three of whom gave their lives on a tiny island in the Pacific, and three who carried the weight of that photograph for the rest of their days. Their sacrifice was part of the same massive Allied effort that saw soldiers storm [the beaches of Normandy on D-Day](/articles/d-day-oral-histories/).
 
 ## What We Can Learn (Personal Growth)
 

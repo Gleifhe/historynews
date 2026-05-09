@@ -33,7 +33,7 @@ The Berlin Wall was 96 miles long. It was made of concrete, topped with barbed w
 
 The wall came down because of what might be the biggest accidental announcement in history.
 
-By 1989, communist governments across Eastern Europe were falling apart. People in Poland, Hungary, and Czechoslovakia were demanding freedom. The pressure on East Germany's government was enormous.
+By 1989, communist governments across Eastern Europe were falling apart. People in Poland, Hungary, and Czechoslovakia were demanding freedom. Just two years earlier, [President Reagan had stood at the Brandenburg Gate and demanded that the Soviet leader tear down the wall](/articles/reagan-tear-down-wall/). The pressure on East Germany's government was enormous.
 
 On November 9, 1989, an East German official named Günter Schabowski held a press conference. He was supposed to announce that East Germans would soon be allowed to apply for travel visas. But he hadn't read the full memo carefully. When a reporter asked when the new travel rules would take effect, Schabowski shuffled through his papers and said: **"Immediately, without delay."**
 
@@ -63,7 +63,7 @@ On October 3, 1990 — less than a year after the wall fell — East and West Ge
 
 ## Why It Still Matters
 
-The fall of the Berlin Wall is one of the most important moments of the 20th century. It showed that ordinary people, armed with nothing but courage and determination, could bring down a system that had tanks, soldiers, and secret police.
+The fall of the Berlin Wall is one of the most important moments of the 20th century. It showed that ordinary people, armed with nothing but courage and determination, could bring down a system that had tanks, soldiers, and secret police. Just months earlier, a lone protester had stood in front of tanks in [Tiananmen Square](/articles/tiananmen-square-tank-man/), showing similar courage in a struggle that ended very differently.
 
 The Europeana collection reminds us that this wasn't just a political event — it was millions of personal stories. Families torn apart. People who risked their lives for freedom. And one incredible night when the impossible happened.
 

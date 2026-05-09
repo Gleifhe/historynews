@@ -25,7 +25,7 @@ In the spring of 1989, something extraordinary was happening in the heart of Bei
 
 The protests began in April after the death of Hu Yaobang, a popular Communist Party leader who had supported political reform. Students gathered in the square to mourn him, and the mourning quickly turned into a movement. By mid-May, more than a million people filled the square and the surrounding streets.
 
-The protesters erected a 33-foot statue called the "Goddess of Democracy," modeled on the Statue of Liberty. They held signs, gave speeches, and sang songs. For several weeks, it seemed like China might actually change.
+The protesters erected a 33-foot statue called the "Goddess of Democracy," modeled on the Statue of Liberty. They held signs, gave speeches, and sang songs. For several weeks, it seemed like China might actually change — just months before [the Berlin Wall would fall](/articles/berlin-wall-falls/) in a wave of democratic upheaval across the globe.
 
 ## The Government Strikes Back
 
@@ -63,7 +63,7 @@ Some reports suggested he was a 19-year-old student named Wang Weilin, but this 
 
 In China today, the Tiananmen Square protests are almost completely censored. The photograph of Tank Man is blocked on Chinese social media. Young people in China often have no idea the event ever happened. Searching for "June 4th" on Chinese platforms returns no results.
 
-But outside China, the image endures as one of the most powerful symbols of human courage ever captured on film. It proves that one ordinary person, armed with nothing but determination, can stand against a force that seems unstoppable — and make the whole world pay attention.
+But outside China, the image endures as one of the most powerful symbols of human courage ever captured on film. It proves that one ordinary person, armed with nothing but determination, can stand against a force that seems unstoppable — a truth the people of Paris demonstrated when they [stormed the Bastille](/articles/storming-of-the-bastille/) two centuries earlier — and make the whole world pay attention.
 
 ## What We Can Learn (Personal Growth)
 

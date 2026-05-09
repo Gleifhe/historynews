@@ -41,7 +41,7 @@ These words were revolutionary. At the time, most people in the world lived unde
 
 When Jefferson presented his draft to the full Congress, they made about 86 changes. They cut roughly a quarter of what he had written. Jefferson was not happy about this. John Adams later said Jefferson "squirmed" in his seat as Congress edited his words.
 
-One of the most significant cuts was a long passage in which Jefferson condemned the slave trade. Several Southern delegates — and some Northern ones who profited from slavery — refused to accept it. This contradiction — declaring "all men are created equal" while keeping hundreds of thousands of people enslaved — would haunt the nation for decades and eventually lead to the Civil War.
+One of the most significant cuts was a long passage in which Jefferson condemned the slave trade. Several Southern delegates — and some Northern ones who profited from slavery — refused to accept it. This contradiction — declaring "all men are created equal" while keeping hundreds of thousands of people enslaved — would haunt the nation for decades and eventually lead to the Civil War, during which [the Emancipation Proclamation](/articles/emancipation-proclamation/) would finally begin to address the founders' unfinished business.
 
 ## Signing a Death Warrant
 
@@ -63,7 +63,7 @@ Today, the Declaration is kept at the National Archives in Washington, D.C., in 
 
 The Declaration of Independence didn't just create a new country. It created a new idea — that ordinary people have the right to govern themselves and that no one is born with the right to rule over others.
 
-That idea has inspired revolutions and freedom movements around the world for nearly 250 years, from the French Revolution to the end of apartheid in South Africa. The words Jefferson wrote in that Philadelphia boarding house changed the course of human history. They remain the foundation of American democracy — and a standard against which the nation continues to measure itself.
+That idea has inspired revolutions and freedom movements around the world for nearly 250 years, from [the storming of the Bastille](/articles/storming-of-the-bastille/) that launched the French Revolution to the end of apartheid in South Africa. Across the Atlantic, [the Haitian Revolution](/articles/haitian-revolution/) drew on the same ideals of liberty to become the world's first successful slave revolt. The words Jefferson wrote in that Philadelphia boarding house changed the course of human history. They remain the foundation of American democracy — and a standard against which the nation continues to measure itself.
 
 ## What We Can Learn (Personal Growth)
 

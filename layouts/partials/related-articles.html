@@ -1,0 +1,27 @@
+<section class="related-articles">
+  <h2>Related Articles</h2>
+  <div class="related-grid">
+    {{/* Find articles in the same era */}}
+    {{ $currentEra := .Params.era }}
+    {{ $currentPage := . }}
+    {{ $related := where (where .Site.RegularPages "Section" "articles") ".Params.era" $currentEra }}
+    {{ $related = $related | complement (slice $currentPage) }}
+    {{ if lt (len $related) 2 }}
+      {{/* If not enough in same era, add more from other articles */}}
+      {{ $others := where .Site.RegularPages "Section" "articles" | complement (slice $currentPage) }}
+      {{ $related = $others | first 3 }}
+    {{ else }}
+      {{ $related = $related | first 3 }}
+    {{ end }}
+    {{ range $related }}
+    <a href="{{ .RelPermalink }}" class="related-card">
+      <div class="related-img" style="background-image: url('{{ .Params.image }}')"></div>
+      <div class="related-body">
+        <span class="related-era">{{ .Params.era }}</span>
+        <h3 class="related-headline">{{ .Params.headline | truncate 80 }}</h3>
+        <span class="related-time">{{ .ReadingTime }} min read</span>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+</section>

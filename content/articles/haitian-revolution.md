@@ -29,7 +29,7 @@ The colony's population was sharply divided: roughly 40,000 white colonists, abo
 
 ## The Night of Fire
 
-On the night of August 22, 1791, everything changed. Enslaved people across the northern part of Saint-Domingue rose up in a carefully coordinated revolt. They set fire to plantations, destroyed sugar mills, and fought back against their enslavers.
+On the night of August 22, 1791, everything changed. Enslaved people across the northern part of Saint-Domingue rose up in a carefully coordinated revolt. They set fire to plantations, destroyed sugar mills, and fought back against their enslavers. The uprising was fueled by the same revolutionary ideals that had inspired [the Storming of the Bastille](/articles/storming-of-the-bastille/) in France just two years earlier.
 
 According to tradition, the rebellion was sparked at a vodou ceremony at Bois Caïman, led by a priest named Dutty Boukman. He called on the enslaved to fight for their freedom. Within days, the northern plain — the richest agricultural region in the colony — was engulfed in flames. Over a thousand plantations were destroyed in the first weeks of the revolt.
 
@@ -61,7 +61,7 @@ Other nations, including the United States, refused to recognize Haiti for decad
 
 The Haitian Revolution proved that enslaved people were not helpless victims — they were human beings capable of organizing, fighting, and governing themselves. It sent a clear message to every slaveholding society in the world: slavery could be overthrown.
 
-The revolution also had a direct impact on American history. Napoleon's defeat in Haiti convinced him to sell the Louisiana Territory to the United States in 1803 — the Louisiana Purchase doubled the size of the young nation. Without the Haitian Revolution, the map of America would look very different today.
+The revolution also had a direct impact on American history. Napoleon's defeat in Haiti convinced him to sell the Louisiana Territory to the United States in 1803 — the Louisiana Purchase doubled the size of the young nation. Without the Haitian Revolution, the map of America would look very different today. The revolution also terrified slaveholders across the Americas and helped set the stage for [the Emancipation Proclamation](/articles/emancipation-proclamation/) that would come six decades later.
 
 ## What We Can Learn (Personal Growth)
 

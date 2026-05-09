@@ -25,7 +25,7 @@ For three years, the United States had been working on the most secret project i
 
 On July 16, 1945, the first atomic bomb was tested in the desert of New Mexico. The explosion was so bright that observers compared it to a second sun. Oppenheimer later said a line from Hindu scripture ran through his mind: **"Now I am become Death, the destroyer of worlds."**
 
-The war in Europe was already over — Germany had surrendered in May. But the war against Japan raged on. American military planners estimated that invading Japan's home islands could cost hundreds of thousands of American lives and millions of Japanese lives. President Harry Truman decided to use the new weapon.
+The war in Europe was already over — Germany had surrendered in May. The [Nuremberg Trials](/articles/nuremberg-trials/) would soon hold Nazi leaders accountable for their crimes. But the war against Japan raged on. The soldiers who had fought their way across the Pacific — through battles like [D-Day in Normandy](/articles/d-day-oral-histories/) and the brutal island-hopping campaigns — were exhausted. American military planners estimated that invading Japan's home islands could cost hundreds of thousands of American lives and millions of Japanese lives. President Harry Truman decided to use the new weapon.
 
 ## Hiroshima: August 6, 1945
 
@@ -59,7 +59,7 @@ Critics argue that Japan was already close to surrendering, that the bombings we
 
 ## Why It Still Matters
 
-Hiroshima and Nagasaki remain the only time nuclear weapons have been used in warfare. Today, nine countries possess nuclear weapons, and the combined global arsenal is powerful enough to destroy civilization many times over.
+Hiroshima and Nagasaki remain the only time nuclear weapons have been used in warfare. The destruction they caused foreshadowed what would happen four decades later when [the Chernobyl disaster](/articles/chernobyl-disaster/) showed the world what nuclear technology could do even in peacetime. Today, nine countries possess nuclear weapons, and the combined global arsenal is powerful enough to destroy civilization many times over.
 
 The cities of Hiroshima and Nagasaki have been rebuilt, and both have peace memorials dedicated to the victims. Every August, ceremonies are held to remember those who died and to call for a world free of nuclear weapons. The hibakusha's message remains urgent: what happened to them must never happen to anyone else.
 

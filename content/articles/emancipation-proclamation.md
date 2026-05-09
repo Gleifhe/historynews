@@ -59,13 +59,13 @@ The most famous Black regiment was the 54th Massachusetts Infantry, whose courag
 
 Lincoln justified the Emancipation Proclamation as a military measure — a "fit and necessary war measure" authorized by his powers as Commander in Chief. He did this deliberately. He knew the proclamation would face legal challenges, and a military justification was harder to overturn than a moral one.
 
-Lincoln himself called the Emancipation Proclamation "the central act of my administration, and the greatest event of the nineteenth century."
+Lincoln himself called the Emancipation Proclamation "the central act of my administration, and the greatest event of the nineteenth century." It fulfilled a promise that had been left unfinished when the founders signed [the Declaration of Independence](/articles/declaration-of-independence/) nearly a century earlier.
 
 ## The Document Today
 
 The original Emancipation Proclamation is preserved at the National Archives in Washington, D.C. The document's ink has faded significantly over the years — Lincoln's signature is barely visible. Because of its fragility, the original is displayed only rarely and under carefully controlled lighting conditions.
 
-Despite its faded ink, the words it contains changed the course of American history. The Emancipation Proclamation turned the Civil War into a revolution — and put the United States on the path toward the 13th Amendment, which permanently abolished slavery in December 1865.
+Despite its faded ink, the words it contains changed the course of American history. The Emancipation Proclamation turned the Civil War into a revolution — inspired in part by [the Haitian Revolution](/articles/haitian-revolution/), the only successful slave revolt in history — and put the United States on the path toward the 13th Amendment, which permanently abolished slavery in December 1865. The principles it established would later be invoked during [the Nuremberg Trials](/articles/nuremberg-trials/), when the world held leaders accountable for crimes against humanity.
 
 ## What We Can Learn (Personal Growth)
 

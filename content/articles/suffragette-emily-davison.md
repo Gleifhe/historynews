@@ -31,7 +31,7 @@ The collision was caught on film. The horse hit her at full speed. She was throw
 
 Emily Davison was not an ordinary woman. She had studied at Oxford University and earned first-class honors in English — though Oxford did not grant degrees to women at the time. She later earned a degree from the University of London in 1908. She was a teacher, a writer, and a passionate believer in women's right to vote.
 
-In 1913, women in Britain could not vote. They couldn't run for office. In the eyes of the law, they were second-class citizens. A growing movement of women — called suffragettes — were fighting to change that.
+In 1913, women in Britain could not vote. They couldn't run for office. In the eyes of the law, they were second-class citizens — much like the young immigrant women who had perished in [the Triangle Shirtwaist Factory fire](/articles/triangle-shirtwaist-fire/) just two years earlier. A growing movement of women — called suffragettes — were fighting to change that.
 
 Davison had been fighting for years. She had been arrested nine times. She had gone on hunger strikes in prison and been force-fed 49 times — a painful and humiliating procedure where guards held her down and pushed a tube through her nose into her stomach.
 
@@ -67,7 +67,7 @@ In the short term, Davison's death actually hurt the suffragette movement. Some 
 
 But in the long term, her sacrifice kept the issue of women's voting rights in the public eye. When World War I started in 1914, women took over factory jobs, farming, and other work while men went to fight. Their contributions during the war made it impossible to deny them the vote any longer.
 
-In 1918, British women over 30 won the right to vote. In 1928, all women over 21 could vote — the same age as men.
+In 1918, British women over 30 won the right to vote. In 1928, all women over 21 could vote — the same age as men. Across the Atlantic, American women secured the vote with [the 19th Amendment](/articles/19th-amendment/) in 1920.
 
 Emily Davison never saw it happen. But she helped make it possible.
 

@@ -23,7 +23,7 @@ In the fall of 1888, the people of London's East End lived in terror. A mysterio
 
 ## Whitechapel in the 1880s
 
-To understand the Jack the Ripper murders, you first need to understand Whitechapel. In the late 1800s, this part of East London was desperately poor. Tens of thousands of people were crammed into tiny, dirty rooms. Many had no steady work. Crime was common, and the narrow, gaslit streets were dangerous after dark.
+To understand the Jack the Ripper murders, you first need to understand Whitechapel. In the late 1800s, this part of East London — a city already scarred by [the Great Fire](/articles/great-fire-of-london/) centuries earlier — was desperately poor. Tens of thousands of people were crammed into tiny, dirty rooms. Many had no steady work. Crime was common, and the narrow, gaslit streets were dangerous after dark.
 
 Thousands of immigrants — many fleeing persecution in Eastern Europe — had recently arrived in the area, adding to the overcrowding. The police were stretched thin and struggled to keep order. It was in this dark, chaotic environment that the murders began.
 
@@ -71,7 +71,7 @@ The Jack the Ripper case teaches us something uncomfortable about human nature: 
 
 The case also shows how easy it is for society to ignore people who are struggling. The women who were killed lived in extreme poverty, and Victorian society largely looked the other way. It took a series of horrific murders to draw attention to the awful conditions in Whitechapel. We shouldn't need a crisis to care about people who are suffering. Paying attention to the needs of others — especially those who are easy to overlook — is something each of us can do every day.
 
-Finally, the Ripper investigation reminds us that jumping to conclusions can cause real harm. During the panic, suspicion fell on immigrants, doctors, and other groups based on rumors and prejudice rather than evidence. Innocent people were harassed and threatened. When we're scared or angry, it's tempting to blame the nearest convenient target. Learning to wait for evidence before making judgments is a skill that serves us well throughout life.
+Finally, the Ripper investigation reminds us that jumping to conclusions can cause real harm. During the panic — in scenes echoing [the Salem witch trials](/articles/salem-witch-trials/) — suspicion fell on immigrants, doctors, and other groups based on rumors and prejudice rather than evidence. Innocent people were harassed and threatened. When we're scared or angry, it's tempting to blame the nearest convenient target. Learning to wait for evidence before making judgments is a skill that serves us well throughout life.
 
 ## How This Connects to 2026
 

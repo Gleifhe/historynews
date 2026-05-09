@@ -55,11 +55,11 @@ But ordinary people, especially those living behind the Iron Curtain, heard some
 
 ## Two Years Later
 
-On November 9, 1989 — just two years and five months after Reagan's speech — the Berlin Wall fell. East German citizens poured through the checkpoints, and people began tearing the wall apart with hammers and their bare hands.
+On November 9, 1989 — just two years and five months after Reagan's speech — [the Berlin Wall fell](/articles/berlin-wall-falls/). East German citizens poured through the checkpoints, and people began tearing the wall apart with hammers and their bare hands.
 
 Reagan was no longer president by then. George H.W. Bush was in office when the wall came down. But many historians credit Reagan's speech with helping to create the political pressure that led to the wall's fall.
 
-Whether Reagan's words actually caused the wall to come down is still debated. The Soviet Union was already weakening. Gorbachev's reforms were already underway. But there is no question that those four words — "tear down this wall" — became the most memorable call for freedom of the Cold War era.
+Whether Reagan's words actually caused the wall to come down is still debated. The Soviet Union was already weakening. Gorbachev's reforms were already underway. But there is no question that those four words — "tear down this wall" — became the most memorable call for freedom of the Cold War era — a conflict that had earlier produced crises like [the Bay of Pigs invasion](/articles/bay-of-pigs-declassified/).
 
 ## Why It Still Matters
 

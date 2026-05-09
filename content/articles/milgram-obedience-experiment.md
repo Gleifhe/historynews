@@ -21,7 +21,7 @@ sources:
 
 ## The Question Nobody Wanted to Ask
 
-After World War II, the world was haunted by a terrible question: how could the Holocaust have happened? How could ordinary German citizens go along with the murder of six million Jewish people?
+After World War II — and [the Nuremberg trials](/articles/nuremberg-trials/) that judged those who claimed they were only following orders — the world was haunted by a terrible question: how could the Holocaust have happened? How could ordinary German citizens go along with the murder of six million Jewish people?
 
 The common answer was: "It couldn't happen here. Those people were different. Americans would never do something like that."
 
@@ -84,7 +84,7 @@ The Milgram experiment has been debated for over 60 years. Critics have raised i
 - **Did people really believe it?** Some researchers argue that many participants suspected the shocks weren't real
 - **Cultural factors**: The experiment has been replicated in many countries with similar results, suggesting it's a universal human tendency
 
-Despite the criticism, the Milgram experiment remains one of the most important studies in psychology. It revealed something uncomfortable about human nature: we are far more obedient to authority than we like to think.
+Despite the criticism, the Milgram experiment remains one of the most important studies in psychology, later complemented by [the Stanford Prison Experiment](/articles/stanford-prison-experiment/). It revealed something uncomfortable about human nature: we are far more obedient to authority than we like to think.
 
 ## Why It Still Matters
 

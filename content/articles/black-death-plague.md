@@ -66,9 +66,9 @@ The Black Death didn't just kill people — it transformed European civilization
 
 ## The Plague Returns — Again and Again
 
-The 1347-1351 outbreak was just the beginning. The plague returned to Europe every few decades for the next 300 years. The Great Plague of London in 1665, which killed about 100,000 people, was one of the last major European outbreaks.
+The 1347-1351 outbreak was just the beginning. The plague returned to Europe every few decades for the next 300 years. The Great Plague of London in 1665, which killed about 100,000 people, was one of the last major European outbreaks — and was followed just a year later by [the Great Fire of London](/articles/great-fire-of-london/), which devastated the city all over again.
 
-Today, *Yersinia pestis* still exists. A few thousand cases of plague are reported worldwide each year, mostly in rural areas. But modern antibiotics can cure it — something medieval Europeans could only dream of.
+Today, *Yersinia pestis* still exists. A few thousand cases of plague are reported worldwide each year, mostly in rural areas. But modern antibiotics can cure it — something medieval Europeans could only dream of. Still, deadly pandemics did not end with the Middle Ages — [the 1918 Spanish Flu](/articles/1918-spanish-flu-pandemic/) would prove that centuries later.
 
 ## The Archives Remember
 

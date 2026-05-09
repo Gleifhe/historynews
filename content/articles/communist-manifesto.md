@@ -39,7 +39,7 @@ The pamphlet ends with another famous call to action: "Working men of all countr
 
 ## Revolution in the Air
 
-The timing of the Manifesto's publication was extraordinary. Just days after it appeared, a wave of revolutions swept across Europe. In France, Italy, Germany, Austria, and Hungary, ordinary people took to the streets to demand political reform, workers' rights, and national independence. These were the Revolutions of 1848, and they seemed to confirm everything Marx and Engels had written about.
+The timing of the Manifesto's publication was extraordinary. Just days after it appeared, a wave of revolutions swept across Europe. In France, Italy, Germany, Austria, and Hungary, ordinary people took to the streets to demand political reform, workers' rights, and national independence. These were the Revolutions of 1848 — an echo of the radical upheaval that had erupted decades earlier during [the Storming of the Bastille](/articles/storming-of-the-bastille/) and [the Haitian Revolution](/articles/haitian-revolution/) — and they seemed to confirm everything Marx and Engels had written about.
 
 However, most of these revolutions failed within a year or two. Governments regained control, and the old order was largely restored. The Communist Manifesto itself did not play a major role in the 1848 uprisings — it was too new and too obscure to have reached many people. But the ideas it contained would grow in influence over the following decades.
 

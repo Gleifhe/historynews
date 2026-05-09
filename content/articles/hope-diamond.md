@@ -25,7 +25,7 @@ Deep inside the Smithsonian National Museum of Natural History in Washington, D.
 
 The story of the Hope Diamond begins in India, probably in the Kollur mine in the Golconda region, which was the world's primary source of diamonds for centuries. According to legend, the original stone was a large blue diamond weighing about 112 carats. It may have been set in the forehead of a Hindu statue, and one version of the story says a thief stole it from the statue's eye — beginning the curse.
 
-What we know for certain is that a French gem merchant named Jean-Baptiste Tavernier acquired a large blue diamond during one of his trips to India in the mid-1600s. He brought it back to France and sold it to King Louis XIV in 1668. The king had the stone recut into a 67-carat gem known as the "French Blue," and it became part of the French Crown Jewels.
+What we know for certain is that a French gem merchant named Jean-Baptiste Tavernier acquired a large blue diamond during one of his trips to India in the mid-1600s. He brought it back to France and sold it to King Louis XIV in 1668. The king had the stone recut into a 67-carat gem known as the "French Blue," and it became part of the French Crown Jewels. The diamond's origins in the Kollur mine connect it to the same ancient world that produced [the Rosetta Stone](/articles/rosetta-stone/) and [the treasures of Tutankhamun's tomb](/articles/tutankhamun-tomb-discovery/) — artifacts that have captivated humanity for centuries.
 
 According to the curse legend, Tavernier later lost his fortune and was killed by wild dogs in Russia. Historians say this probably is not true — he likely died peacefully at a very old age — but the tale added to the diamond's dark reputation.
 

@@ -69,11 +69,11 @@ By April 17, every newspaper in America had published the truth: more than 1,500
 - **"ONLY 705 SAVED OUT OF 2,200"**
 - **"WOMEN AND CHILDREN DIED IN STEERAGE"**
 
-The contrast between the early "all saved" headlines and the final death toll became a cautionary tale about the dangers of rushing to publish unverified news.
+The contrast between the early "all saved" headlines and the final death toll became a cautionary tale about the dangers of rushing to publish unverified news — a lesson still unlearned in the age of [instant internet news on 9/11](/articles/internet-on-911/) and beyond.
 
 ## Lessons That Changed the World
 
-The Titanic disaster led to major changes:
+The Titanic disaster led to major changes — just as [the Hindenburg disaster](/articles/hindenburg-disaster/) would later transform aviation safety:
 
 - **More lifeboats**: Ships were required to carry enough lifeboats for everyone on board
 - **24-hour radio watch**: Ships were required to keep their radios on at all times (a nearby ship, the Californian, had turned off its radio and never heard Titanic's distress calls)
@@ -87,7 +87,7 @@ The Titanic disaster teaches us about the danger of overconfidence. The people w
 
 The newspaper coverage adds another important lesson: don't believe everything you hear first. The early headlines screaming "ALL SAVED" were completely wrong. In our rush to get information, we often grab onto the first story we hear and treat it as fact. The Titanic reminds us to slow down, wait for confirmation, and be willing to change our minds when new information comes in.
 
-The class differences on the Titanic are also worth thinking about. First-class passengers had a much higher survival rate than third-class passengers. When things go wrong, the people with the least power and the fewest resources usually suffer the most. Recognizing that unfairness — and working to change it — is something each of us can do.
+The class differences on the Titanic are also worth thinking about. First-class passengers had a much higher survival rate than third-class passengers — a class divide echoing disasters like [the Johnstown Flood](/articles/johnstown-flood/). When things go wrong, the people with the least power and the fewest resources usually suffer the most. Recognizing that unfairness — and working to change it — is something each of us can do.
 
 ## How This Connects to 2026
 

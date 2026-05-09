@@ -1,0 +1,8 @@
+<div class="share-buttons">
+  <span class="share-label">Share this story:</span>
+  <a href="https://twitter.com/intent/tweet?text={{ .Params.headline | urlquery }}&url={{ .Permalink | urlquery }}" target="_blank" rel="noopener" class="share-btn share-twitter" aria-label="Share on Twitter">𝕏</a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink | urlquery }}" target="_blank" rel="noopener" class="share-btn share-facebook" aria-label="Share on Facebook">f</a>
+  <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ .Permalink | urlquery }}" target="_blank" rel="noopener" class="share-btn share-linkedin" aria-label="Share on LinkedIn">in</a>
+  <a href="mailto:?subject={{ .Params.headline | urlquery }}&body=Check out this article: {{ .Permalink | urlquery }}" class="share-btn share-email" aria-label="Share via email">✉</a>
+  <button class="share-btn share-copy" aria-label="Copy link" onclick="navigator.clipboard.writeText('{{ .Permalink }}').then(function(){this.textContent='✓';setTimeout(function(){document.querySelector('.share-copy').textContent='🔗'},1500)}.bind(this))">🔗</button>
+</div>

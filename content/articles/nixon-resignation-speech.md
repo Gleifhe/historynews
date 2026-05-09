@@ -21,7 +21,7 @@ sources:
 
 ## The Night a President Quit
 
-On the evening of August 8, 1974, about 110 million Americans gathered around their television sets. They were about to witness something that had never happened before in American history: a president resigning from office.
+On the evening of August 8, 1974, about 110 million Americans gathered around their television sets — the largest political TV audience since [the JFK assassination](/articles/jfk-assassination-photos/) a decade earlier. They were about to witness something that had never happened before in American history: a president resigning from office.
 
 Richard Nixon sat behind his desk in the Oval Office. The cameras focused on his face. At 9:01 p.m. Eastern Time, he began to speak:
 
@@ -61,7 +61,7 @@ When Nixon finally spoke to the nation on August 8, the speech was remarkable fo
 
 - **He never admitted guilt.** He said he was resigning because he had lost his "political base" in Congress — not because he had committed crimes.
 - **He never apologized.** He expressed regret about "any injuries that may have been done" — a passive construction that avoided taking personal responsibility.
-- **He defended his record.** Much of the speech was about his foreign policy achievements, especially opening relations with China.
+- **He defended his record.** Much of the speech was about his foreign policy achievements, especially opening relations with China — a stark contrast to earlier Cold War debacles like [the Bay of Pigs](/articles/bay-of-pigs-declassified/).
 
 The most emotional moment came near the end, when Nixon's voice broke slightly:
 

@@ -25,7 +25,7 @@ September 11, 2001 started as a normal Tuesday morning. People went to work, kid
 
 American Airlines Flight 11 crashed into the North Tower of the World Trade Center in New York City. Seventeen minutes later, at 9:03 a.m., United Airlines Flight 175 hit the South Tower. At 9:37 a.m., a third plane hit the Pentagon in Washington, D.C. A fourth plane, United Flight 93, crashed in a field in Pennsylvania after passengers fought back against the hijackers.
 
-Nearly 3,000 people died that day. It was the deadliest attack on American soil since Pearl Harbor.
+Nearly 3,000 people died that day. It was the deadliest attack on American soil since Pearl Harbor. Just as [the JFK assassination](/articles/jfk-assassination-photos/) had defined a generation through television, 9/11 would become the defining moment of the internet age.
 
 ## The Web Was Still Young
 
@@ -67,7 +67,7 @@ The attacks also accelerated changes in how people consume news. Within a few ye
 
 The Internet Archive preserved thousands of web pages, TV broadcasts, and radio recordings from September 11. Their September 11 Television Archive alone contains over 3,000 hours of footage from 20 different channels around the world.
 
-These digital snapshots are important because they show us not just what happened that day, but how we learned about it. The stripped-down CNN page, the crashed websites, the frantic chat room messages — they're all part of the story.
+These digital snapshots are important because they show us not just what happened that day, but how we learned about it. The stripped-down CNN page, the crashed websites, the frantic chat room messages — they're all part of the story. When compared to how the [Titanic's sinking](/articles/titanic-newspaper-coverage/) was covered entirely through print newspapers, or how previous generations feared catastrophe from [the Y2K bug](/articles/y2k-bug/), the 9/11 internet experience shows how rapidly our relationship with technology and news was evolving.
 
 The Library of Congress also created the September 11 Documentary Project, collecting oral histories and personal stories from people who lived through that day.
 

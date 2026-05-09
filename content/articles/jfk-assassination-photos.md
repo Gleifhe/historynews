@@ -84,7 +84,7 @@ The **House Select Committee on Assassinations** (1979) reviewed the evidence an
 
 The JFK assassination changed how news was covered:
 
-- **Television became the primary news source**: For four straight days, all three networks broadcast commercial-free coverage. Over 93% of American households watched. It was the moment TV replaced newspapers as America's main source of news.
+- **Television became the primary news source**: For four straight days, all three networks broadcast commercial-free coverage. Over 93% of American households watched. It was the moment TV replaced newspapers as America's main source of news — a shift that would accelerate dramatically with [the internet age on 9/11](/articles/internet-on-911/).
 - **The role of amateur photographers grew**: Before Dallas, news photography was the domain of professionals. After Dallas, the value of eyewitness footage became clear.
 - **Visual evidence became central to investigations**: The Zapruder film showed that moving images could be analyzed frame by frame as forensic evidence.
 
@@ -106,7 +106,7 @@ The way television coverage brought the nation together after the assassination 
 
 ## How This Connects to 2026
 
-The JFK assassination is the original conspiracy theory — and its legacy is everywhere in 2026. The distrust of official explanations that began with the Warren Commission has grown into a full-blown crisis of confidence in institutions. Today, conspiracy theories about everything from elections to vaccines to AI spread rapidly through social media. The JFK case showed that once people lose trust in the official story, that trust is almost impossible to rebuild. In 2026, rebuilding public trust in government, media, and science remains one of society's biggest challenges.
+The JFK assassination is the original conspiracy theory — and its legacy is everywhere in 2026. The distrust of official explanations that began with the Warren Commission — and deepened with scandals like [Nixon's resignation](/articles/nixon-resignation-speech/) — has grown into a full-blown crisis of confidence in institutions. Today, conspiracy theories about everything from elections to vaccines to AI spread rapidly through social media. The JFK case showed that once people lose trust in the official story, that trust is almost impossible to rebuild. In 2026, rebuilding public trust in government, media, and science remains one of society's biggest challenges.
 
 The role of visual evidence in the JFK case also connects directly to today's technology debates. In 1963, the Zapruder film was powerful because people trusted what they saw on camera. In 2026, AI-generated deepfakes can create convincing video of events that never happened. If the Zapruder film were released today, how many people would immediately claim it was fake? The erosion of trust in visual evidence — once considered the gold standard of proof — is one of the most troubling consequences of AI technology.
 

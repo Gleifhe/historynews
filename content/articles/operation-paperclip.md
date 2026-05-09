@@ -23,9 +23,9 @@ When World War II ended in 1945, the United States and the Soviet Union scramble
 
 ## The Race for German Scientists
 
-In the final months of the war, as Allied armies closed in on Germany from both sides, American military intelligence launched a frantic effort to locate and capture German scientists and engineers before the Soviets could get to them. Teams of American soldiers, scientists, and intelligence officers fanned out across Germany, searching laboratories, universities, and military facilities.
+In the final months of the war, as Allied armies closed in on Germany from both sides, American military intelligence — working in parallel with wartime breakthroughs like [the Enigma code-breaking at Bletchley Park](/articles/enigma-code-bletchley-park/) — launched a frantic effort to locate and capture German scientists and engineers before the Soviets could get to them. Teams of American soldiers, scientists, and intelligence officers fanned out across Germany, searching laboratories, universities, and military facilities.
 
-The most prized target was the rocket program. At a secret underground factory in the Harz Mountains called Mittelwerk, the Germans had built thousands of V-2 rockets — the world's first long-range ballistic missiles. These rockets had terrorized London during the war, killing thousands of civilians. But American military leaders saw the V-2 not as a weapon of terror but as the future of warfare and space exploration.
+The most prized target was the rocket program. At a secret underground factory in the Harz Mountains called Mittelwerk, the Germans had built thousands of V-2 rockets — the world's first long-range ballistic missiles. These rockets had terrorized London during the war, killing thousands of civilians — though the destruction paled in comparison to [the atomic bombings of Hiroshima and Nagasaki](/articles/hiroshima-nagasaki/). But American military leaders saw the V-2 not as a weapon of terror but as the future of warfare and space exploration.
 
 The man behind the V-2 was Wernher von Braun, a brilliant young rocket engineer who had dreamed of spaceflight since childhood. As the war ended, von Braun and about 500 of his colleagues surrendered to American forces, preferring to work for the United States rather than fall into Soviet hands.
 
@@ -47,7 +47,7 @@ What the public did not know at the time was the full extent of von Braun's Nazi
 
 ## Achievements and Controversy
 
-The contributions of the Paperclip scientists to American technology were enormous. They helped develop the Redstone, Jupiter, and Saturn rockets. Von Braun led the team that built the Saturn V — the massive rocket that carried American astronauts to the Moon during the Apollo program. Without the Paperclip scientists, the United States almost certainly would not have won the Space Race.
+The contributions of the Paperclip scientists to American technology were enormous. They helped develop the Redstone, Jupiter, and Saturn rockets. Von Braun led the team that built the Saturn V — the massive rocket that carried American astronauts to [the Moon](/articles/moon-landing-headlines/) during the Apollo program. Without the Paperclip scientists, the United States almost certainly would not have won the Space Race.
 
 Other German scientists contributed to advances in aviation, medicine, and weapons technology. Their work helped the United States maintain a technological edge over the Soviet Union during the Cold War.
 

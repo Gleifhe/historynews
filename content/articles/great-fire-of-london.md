@@ -67,6 +67,8 @@ Here's where the story of the Great Fire becomes inspiring. London didn't just r
 - Streets to be wider to slow the spread of fire
 - Roofs to be tiled, not thatched
 
+These reforms would set a precedent that other cities eventually followed — though tragically, it would take disasters like [the 1906 San Francisco earthquake and fire](/articles/1906-san-francisco-earthquake/) and [the Triangle Shirtwaist Factory fire](/articles/triangle-shirtwaist-fire/) to push building safety further.
+
 **Christopher Wren**, one of England's greatest architects, was given the job of rebuilding London's churches. He designed 51 new churches, including the magnificent new St. Paul's Cathedral, which still stands today as one of London's most iconic landmarks.
 
 **Fire insurance** was invented. Nicholas Barbon created the first fire insurance company in 1681. Before the Great Fire, insurance for buildings simply didn't exist.

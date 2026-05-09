@@ -23,7 +23,7 @@ The morning of January 28, 1986, was bitterly cold at the Kennedy Space Center i
 
 ## A Special Mission
 
-The Challenger mission, officially called STS-51-L, had captured the nation's attention for one special reason: a schoolteacher was going to space. Christa McAuliffe, a 37-year-old social studies teacher from Concord, New Hampshire, had been selected from more than 11,000 applicants for the Teacher in Space Project. She planned to teach lessons from orbit, and millions of schoolchildren across the country were watching the launch live on classroom televisions.
+The Challenger mission, officially called STS-51-L, had captured the nation's attention for one special reason: a schoolteacher was going to space. Christa McAuliffe, a 37-year-old social studies teacher from Concord, New Hampshire, had been selected from more than 11,000 applicants for the Teacher in Space Project. She planned to teach lessons from orbit — the latest milestone in a space program that had begun with [the Wright Brothers' first powered flight](/articles/wright-brothers-first-flight/) and reached its peak when [Americans walked on the moon](/articles/moon-landing-headlines/). Millions of schoolchildren across the country were watching the launch live on classroom televisions.
 
 The rest of the crew included commander Dick Scobee, pilot Michael Smith, mission specialists Judith Resnik, Ellison Onizuka, and Ronald McNair, and payload specialist Gregory Jarvis. They were a diverse and accomplished group, and they were excited to fly.
 
@@ -61,7 +61,7 @@ President Reagan postponed his State of the Union address, scheduled for that ev
 
 ## The Aftermath
 
-The shuttle program was grounded for nearly three years while NASA made improvements to the rocket booster design and overhauled its safety procedures. The Rogers Commission recommended major changes to NASA's decision-making process, particularly regarding how safety concerns raised by engineers were handled.
+The shuttle program was grounded for nearly three years while NASA made improvements to the rocket booster design and overhauled its safety procedures. Just three months after the Challenger disaster, [the Chernobyl nuclear plant would suffer its own catastrophic failure](/articles/chernobyl-disaster/), marking 1986 as a year defined by the deadly consequences of ignoring engineering warnings. The Rogers Commission recommended major changes to NASA's decision-making process, particularly regarding how safety concerns raised by engineers were handled.
 
 The Challenger disaster exposed a dangerous culture at NASA where schedule pressures and institutional pride could override engineering judgment. It was a painful lesson about what can happen when leaders stop listening to the people who know the most about the risks.
 

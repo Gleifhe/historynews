@@ -23,7 +23,7 @@ On August 18, 1920, something remarkable happened in the United States. After 72
 
 ## The Fight Begins
 
-The struggle for women's suffrage — the right to vote — started long before 1920. In 1848, a group of about 300 people gathered at a small church in Seneca Falls, New York, for the first women's rights convention in American history. There, organizers Elizabeth Cady Stanton and Lucretia Mott presented a bold document called the Declaration of Sentiments. It was modeled after the Declaration of Independence and stated that "all men and women are created equal."
+The struggle for women's suffrage — the right to vote — started long before 1920. In 1848, a group of about 300 people gathered at a small church in Seneca Falls, New York, for the first women's rights convention in American history. There, organizers Elizabeth Cady Stanton and Lucretia Mott presented a bold document called the Declaration of Sentiments. It was modeled after [the Declaration of Independence](/articles/declaration-of-independence/) and stated that "all men and women are created equal."
 
 One of the most controversial demands in the document was the right to vote. Even some supporters of women's rights thought it went too far. But the convention passed it, and the suffrage movement was born.
 
@@ -37,7 +37,7 @@ Despite these setbacks, progress came slowly. Wyoming Territory granted women th
 
 ## A New Generation Takes Over
 
-By the early 1900s, a younger generation of suffragists brought new energy and bolder tactics to the fight. Alice Paul and Lucy Burns, who had studied the militant tactics of British suffragettes, organized massive parades and protests.
+By the early 1900s, a younger generation of suffragists brought new energy and bolder tactics to the fight. Alice Paul and Lucy Burns, who had studied the militant tactics of British suffragettes like [Emily Davison, who gave her life for the cause](/articles/suffragette-emily-davison/), organized massive parades and protests.
 
 In 1913, the day before President Woodrow Wilson's inauguration, Paul organized a suffrage parade in Washington, D.C. About 5,000 women marched down Pennsylvania Avenue. Hostile crowds attacked the marchers, and police did little to help. Over 100 women were hospitalized. The violence actually helped the cause by generating sympathetic newspaper coverage.
 

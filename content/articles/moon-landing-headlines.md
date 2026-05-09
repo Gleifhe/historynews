@@ -78,7 +78,7 @@ These images helped inspire the environmental movement. If Earth looked that sma
 
 ## Why It Still Matters
 
-The moon landing remains one of humanity's greatest achievements. Only 66 years separated the Wright Brothers' 12-second flight at Kitty Hawk from Neil Armstrong's walk on the moon. In less than a lifetime, humans went from barely getting off the ground to walking on another world.
+The moon landing remains one of humanity's greatest achievements — though the space program would also endure tragedies like [the Challenger disaster](/articles/challenger-disaster/). Only 66 years separated [the Wright Brothers' 12-second flight](/articles/wright-brothers-first-flight/) at Kitty Hawk from Neil Armstrong's walk on the moon. In less than a lifetime, humans went from barely getting off the ground to walking on another world.
 
 The newspaper coverage from that day — preserved in the Google News Archive and other collections — captures a rare moment when almost the entire world stopped and looked up in wonder.
 
@@ -94,6 +94,6 @@ The moon landing also reminds us that failure is part of the process. Before Apo
 
 In 2026, we're living through a new space race. NASA's Artemis program aims to return humans to the moon, while private companies like SpaceX are developing rockets to reach Mars. But this time, the competition isn't between nations trying to prove political systems — it's a mix of government agencies, billionaire-funded companies, and international partnerships. The question of who benefits from space exploration, and who gets left behind, is more relevant than ever.
 
-The way people consumed the moon landing in 1969 — gathering around a single television — is almost unrecognizable today. In 2026, major events are experienced through dozens of platforms, each with its own spin and commentary. The shared sense of wonder that united the world in 1969 is harder to recreate when every event is immediately filtered through partisan media and social media hot takes. We've gained access to more information, but we may have lost something in our ability to experience moments together.
+The way people consumed the moon landing in 1969 — gathering around a single television — is almost unrecognizable today. By [9/11](/articles/internet-on-911/), the internet had already begun transforming how the world experienced breaking news. In 2026, major events are experienced through dozens of platforms, each with its own spin and commentary. The shared sense of wonder that united the world in 1969 is harder to recreate when every event is immediately filtered through partisan media and social media hot takes. We've gained access to more information, but we may have lost something in our ability to experience moments together.
 
 The environmental lesson of the moon landing is also more urgent than ever. Those famous photos of Earth from space helped launch the environmental movement in the 1970s. Today, with climate change accelerating, we need that perspective more than ever — the reminder that our planet is small, fragile, and the only home we have.

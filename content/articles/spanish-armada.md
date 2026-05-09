@@ -55,9 +55,9 @@ This is where the real disaster struck. Massive storms battered the fleet as it 
 
 ## Why It Still Matters
 
-The defeat of the Spanish Armada was a turning point in world history. It ended Spain's dream of conquering England and marked the beginning of England's rise as a major naval power. Within a few decades, England would begin building its own global empire.
+The defeat of the Spanish Armada was a turning point in world history. It ended Spain's dream of conquering England and marked the beginning of England's rise as a major naval power — a nation that would survive even [the Great Fire of London](/articles/great-fire-of-london/) a century later. Within a few decades, England would begin building its own global empire — one that its American colonies would eventually reject with [the Declaration of Independence](/articles/declaration-of-independence/).
 
-The Armada's failure also showed that the outcome of war depends on more than just size and money. Speed, technology, smart tactics, and even the weather can determine who wins and who loses. Philip II had built the most powerful fleet the world had ever seen — and it wasn't enough.
+The Armada's failure also showed that the outcome of war depends on more than just size and money. Speed, technology, smart tactics, and even the weather can determine who wins and who loses. Philip II had built the most powerful fleet the world had ever seen — and it wasn't enough. Two centuries later, another seemingly invincible regime would fall when the people of Paris [stormed the Bastille](/articles/storming-of-the-bastille/).
 
 ## What We Can Learn (Personal Growth)
 

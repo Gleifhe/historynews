@@ -79,9 +79,9 @@ The most famous public debate happened in June 1860 at Oxford University, where 
 
 ## Darwin's Legacy
 
-Today, evolution is supported by evidence from fossils, DNA, genetics, and direct observation. It's the foundation of modern biology. Without evolution, we couldn't understand how diseases mutate, how crops can be improved, or how ecosystems work.
+Today, evolution is supported by evidence from fossils, DNA, genetics, and direct observation. It's the foundation of modern biology — a foundation that was further strengthened a century later when [Rosalind Franklin's X-ray crystallography revealed the structure of DNA](/articles/rosalind-franklin-dna/). Without evolution, we couldn't understand how diseases mutate, how crops can be improved, or how ecosystems work.
 
-Darwin's book — still freely available through Project Gutenberg — remains one of the most important books ever written. Reading it today, you can still feel the excitement of a scientist who discovered something incredible and found the courage to share it with the world.
+Darwin's book — still freely available through Project Gutenberg — remains one of the most important books ever written. His ideas about competition and survival influenced thinkers far beyond biology, including [Karl Marx, whose Communist Manifesto](/articles/communist-manifesto/) applied similar concepts of struggle to economics and class conflict. Reading Darwin today, you can still feel the excitement of a scientist who discovered something incredible and found the courage to share it with the world.
 
 ## What We Can Learn (Personal Growth)
 
