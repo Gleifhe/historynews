@@ -6,7 +6,7 @@
       {{ $pages := .Pages }}
       {{ range $i, $p := $pages }}
         {{ if lt $i (div (len $pages) 2 | add 1) }}
-        <a href="{{ $p.Permalink }}" class="story-card">
+        <a href="{{ $p.RelPermalink }}" class="story-card">
           <div class="card-img" style="background-image: url('{{ $p.Params.image }}')"></div>
           <div class="card-body">
             <span class="card-category">{{ $p.Params.era }}</span>
@@ -21,7 +21,7 @@
     <div class="col">
       {{ range $i, $p := $pages }}
         {{ if ge $i (div (len $pages) 2 | add 1) }}
-        <a href="{{ $p.Permalink }}" class="story-card">
+        <a href="{{ $p.RelPermalink }}" class="story-card">
           <div class="card-img" style="background-image: url('{{ $p.Params.image }}')"></div>
           <div class="card-body">
             <span class="card-category">{{ $p.Params.era }}</span>

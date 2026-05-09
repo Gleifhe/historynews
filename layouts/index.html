@@ -16,7 +16,7 @@
 
   {{/* Featured lead story — first article */}}
   {{ with index $articles 0 }}
-  <a href="{{ .Permalink }}" class="featured-story">
+  <a href="{{ .RelPermalink }}" class="featured-story">
     <div class="featured-img" style="background-image: url('{{ .Params.image }}')"></div>
     <div class="featured-text">
       <span class="featured-badge">LEAD STORY</span>
@@ -92,7 +92,7 @@
           <div class="col-label">COLUMN A</div>
           {{ range $i, $p := after 1 $articles }}
             {{ if lt $i (div (len (after 1 $articles)) 2 | add 1) }}
-            <a href="{{ $p.Permalink }}" class="story-card" data-era="{{ $p.Params.era }}">
+            <a href="{{ $p.RelPermalink }}" class="story-card" data-era="{{ $p.Params.era }}">
               <div class="card-img" style="background-image: url('{{ $p.Params.image }}')"></div>
               <div class="card-body">
                 <span class="card-category">{{ $p.Params.era }}</span>
@@ -108,7 +108,7 @@
           <div class="col-label">COLUMN B</div>
           {{ range $i, $p := after 1 $articles }}
             {{ if ge $i (div (len (after 1 $articles)) 2 | add 1) }}
-            <a href="{{ $p.Permalink }}" class="story-card" data-era="{{ $p.Params.era }}">
+            <a href="{{ $p.RelPermalink }}" class="story-card" data-era="{{ $p.Params.era }}">
               <div class="card-img" style="background-image: url('{{ $p.Params.image }}')"></div>
               <div class="card-body">
                 <span class="card-category">{{ $p.Params.era }}</span>
