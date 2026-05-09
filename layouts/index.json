@@ -1,0 +1,17 @@
+{{- $articles := where .Site.RegularPages "Section" "articles" -}}
+[
+{{- range $i, $p := $articles -}}
+  {{- if $i }},{{ end }}
+  {
+    "title": {{ $p.Title | jsonify }},
+    "headline": {{ $p.Params.headline | jsonify }},
+    "summary": {{ $p.Params.summary | jsonify }},
+    "era": {{ $p.Params.era | jsonify }},
+    "historydate": {{ $p.Params.historydate | jsonify }},
+    "source": {{ $p.Params.source | jsonify }},
+    "image": {{ $p.Params.image | jsonify }},
+    "url": {{ $p.Permalink | jsonify }},
+    "content": {{ $p.Plain | truncate 500 | jsonify }}
+  }
+{{- end }}
+]

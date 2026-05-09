@@ -11,11 +11,24 @@
       {{ range .Site.Menus.main }}
         <a href="{{ .URL }}" class="nav-link{{ if $.IsMenuCurrent "main" . }} active{{ end }}">{{ .Name }}</a>
       {{ end }}
+      <button class="search-toggle" aria-label="Search" title="Search articles">🔍</button>
     </nav>
     <button class="nav-toggle" aria-label="Toggle navigation">☰</button>
   </div>
   <div class="header-rule"></div>
 </header>
+
+<!-- Search overlay -->
+<div class="search-overlay" id="searchOverlay">
+  <div class="search-container">
+    <div class="search-header">
+      <h2 class="search-title">Search History News</h2>
+      <button class="search-close" id="searchClose" aria-label="Close search">&times;</button>
+    </div>
+    <input type="text" id="searchInput" class="search-input" placeholder="Search articles by keyword, era, or topic..." autocomplete="off">
+    <div class="search-results" id="searchResults"></div>
+  </div>
+</div>
 <script>
 document.querySelector('.nav-toggle').addEventListener('click', function() {
   document.querySelector('.main-nav').classList.toggle('open');
