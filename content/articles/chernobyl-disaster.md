@@ -6,10 +6,10 @@ date: 2026-04-16
 historydate: "April 26, 1986"
 era: "Cold War"
 source: "Encyclopedia Britannica"
-image: "https://tile.loc.gov/storage-services/service/pnp/highsm/04600/04643r.jpg"
-imagealt: "Nuclear power plant cooling towers"
-imagecaption: "The Chernobyl Nuclear Power Plant in Ukraine — site of the worst nuclear disaster in history"
-imagecredit: "Public Domain / Wikimedia Commons"
+image: "https://upload.wikimedia.org/wikipedia/commons/1/16/VOA_Markosian_-_Chernobyl02.jpg"
+imagealt: "Aerial view of the Chernobyl nuclear power plant"
+imagecaption: "The Chernobyl nuclear power plant in Ukraine, site of the 1986 disaster"
+imagecredit: "Voice of America / Wikimedia Commons"
 video: "https://www.youtube.com/embed/nsGXeCpSJmM"
 weight: 24
 sources:

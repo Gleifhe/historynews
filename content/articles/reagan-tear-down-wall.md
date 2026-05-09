@@ -6,10 +6,10 @@ date: 2026-05-08T13:00:00
 historydate: "June 12, 1987"
 era: "Cold War"
 source: "C-SPAN Video Library"
-image: "https://tile.loc.gov/storage-services/service/pnp/ppmsca/09700/09782r.jpg"
-imagealt: "President Ronald Reagan at the Berlin Wall"
-imagecaption: "President Reagan delivered his famous 'Tear Down This Wall' speech at the Brandenburg Gate on June 12, 1987"
-imagecredit: "Library of Congress"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Photograph_of_President_Reagan_giving_a_speech_at_the_Berlin_Wall%2C_Brandenburg_Gate%2C_Federal_Republic_of_Germany_-_NARA_-_198585.jpg/1280px-Photograph_of_President_Reagan_giving_a_speech_at_the_Berlin_Wall%2C_Brandenburg_Gate%2C_Federal_Republic_of_Germany_-_NARA_-_198585.jpg"
+imagealt: "President Reagan delivers his Berlin Wall speech, June 12, 1987"
+imagecaption: "Reagan at the Brandenburg Gate: 'Mr. Gorbachev, tear down this wall!'"
+imagecredit: "NARA / Wikimedia Commons"
 video: "https://www.youtube.com/embed/5MDFX-dNtsM"
 weight: 46
 sources:

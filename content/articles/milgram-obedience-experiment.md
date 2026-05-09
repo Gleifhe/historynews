@@ -6,10 +6,10 @@ date: 2026-04-27
 historydate: "1961-1963"
 era: "1960s America"
 source: "Google Scholar"
-image: "https://tile.loc.gov/storage-services/service/pnp/highsm/38200/38211r.jpg"
-imagealt: "Yale University campus"
-imagecaption: "Yale University, where Stanley Milgram conducted his famous obedience experiments in the early 1960s"
-imagecredit: "Carol M. Highsmith, Library of Congress"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Milgram_experiment_v2.svg/1280px-Milgram_experiment_v2.svg.png"
+imagealt: "Diagram of the Milgram obedience experiment"
+imagecaption: "Diagram showing the setup of Milgram's famous obedience experiment"
+imagecredit: "Wikimedia Commons / CC BY-SA"
 weight: 13
 video: "https://www.youtube.com/embed/8bbVFeTIIg8"
 sources:

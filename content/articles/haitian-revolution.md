@@ -6,10 +6,10 @@ date: 2026-05-08T09:00:00
 historydate: "1791–1804"
 era: "18th Century"
 source: "Wikipedia/Wikimedia Commons"
-image: "https://tile.loc.gov/storage-services/service/pnp/cph/3a20000/3a20000/3a20000/3a20009r.jpg"
-imagealt: "Historical illustration related to the Caribbean and the age of revolution"
-imagecaption: "The Haitian Revolution (1791–1804) was the only successful slave revolution in history, creating the first free Black republic"
-imagecredit: "Library of Congress"
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2e/Toussaint_Louverture.jpg"
+imagealt: "Portrait of Toussaint Louverture"
+imagecaption: "Toussaint Louverture — the leader of the Haitian Revolution"
+imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/5A_o-nU5s2U"
 weight: 50
 sources:

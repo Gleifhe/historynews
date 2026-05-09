@@ -6,10 +6,10 @@ date: 2026-05-08T16:00:00
 historydate: "June 5, 1989"
 era: "Cold War"
 source: "AP Images"
-image: "https://tile.loc.gov/storage-services/service/pnp/highsm/04600/04611r.jpg"
-imagealt: "Tiananmen Square and the Gate of Heavenly Peace in Beijing"
-imagecaption: "Tiananmen Square in Beijing — the site of the 1989 pro-democracy protests and the iconic Tank Man photograph"
-imagecredit: "Library of Congress"
+image: "https://upload.wikimedia.org/wikipedia/en/d/dd/Tank_Man_%28Tiananmen_Square_protester%29.jpg"
+imagealt: "Tiananmen Square in Beijing, China"
+imagecaption: "Tiananmen Square in Beijing — the site of the 1989 pro-democracy protests and the famous Tank Man standoff"
+imagecredit: "Wikimedia Commons / CC BY-SA"
 video: "https://www.youtube.com/embed/YeFzeNAHEhU"
 weight: 43
 sources:

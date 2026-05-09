@@ -6,10 +6,10 @@ date: 2026-05-08T15:00:00
 historydate: "April 30, 1975"
 era: "Vietnam War"
 source: "Getty Images Editorial"
-image: "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b40000/3b40100/3b40113r.jpg"
-imagealt: "Helicopter evacuation during the fall of Saigon"
-imagecaption: "The chaotic evacuation of Saigon on April 30, 1975 marked the end of the Vietnam War"
-imagecredit: "Library of Congress"
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c8/CH-47_lands_on_USS_Hancock_%28CVA-19%29_during_evacuation_of_South_Vietnam_1975.jpeg"
+imagealt: "Helicopter lands on USS Hancock during the evacuation of South Vietnam, 1975"
+imagecaption: "A helicopter lands on USS Hancock during the emergency evacuation of South Vietnam, April 1975"
+imagecredit: "U.S. Navy / Wikimedia Commons"
 video: "https://www.youtube.com/embed/-oBFX8R15BQ"
 weight: 44
 sources:

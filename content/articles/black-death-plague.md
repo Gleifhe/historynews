@@ -6,10 +6,10 @@ date: 2026-05-09T07:00:00
 historydate: "1347-1351"
 era: "Medieval"
 source: "Europeana"
-image: "https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c20000/3c20000/3c20029r.jpg"
-imagealt: "Medieval illustration"
-imagecaption: "A medieval scene — Europe during the era when the Black Death ravaged the continent"
-imagecredit: "Library of Congress"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Plague_in_an_Ancient_City_LACMA_AC1997.10.1_%281_of_2%29.jpg/1280px-Plague_in_an_Ancient_City_LACMA_AC1997.10.1_%281_of_2%29.jpg"
+imagealt: "Painting depicting plague victims in a medieval city"
+imagecaption: "The Black Death devastated medieval Europe, killing one-third to one-half of the population"
+imagecredit: "LACMA / Wikimedia Commons"
 video: "https://www.youtube.com/embed/rZy6XilXDZQ"
 weight: 29
 sources:

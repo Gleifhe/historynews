@@ -6,10 +6,10 @@ date: 2026-04-25
 historydate: "April 17, 1961"
 era: "Cold War"
 source: "CIA FOIA Reading Room"
-image: "https://tile.loc.gov/storage-services/service/pnp/ppmsca/09700/09773r.jpg"
-imagealt: "President Kennedy and advisors"
-imagecaption: "President John F. Kennedy inherited the Bay of Pigs invasion plan from the Eisenhower administration"
-imagecredit: "Library of Congress"
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ad/Playa-larga-6.jpg"
+imagealt: "Bay of Pigs invasion site at Playa Larga, Cuba"
+imagecaption: "The Bay of Pigs landing site at Playa Larga, Cuba — where the 1961 invasion failed"
+imagecredit: "Wikimedia Commons"
 weight: 15
 video: "https://www.youtube.com/embed/8I7X9tX3fK0"
 sources:

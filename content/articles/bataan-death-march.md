@@ -6,10 +6,10 @@ date: 2026-05-08T17:00:00
 historydate: "April 9, 1942"
 era: "World War II"
 source: "National WWII Museum"
-image: "https://tile.loc.gov/storage-services/service/pnp/fsa/8d14000/8d14700/8d14796r.jpg"
-imagealt: "World War II soldiers during the Pacific campaign"
-imagecaption: "American and Filipino soldiers endured brutal conditions during the Bataan Death March of April 1942"
-imagecredit: "Library of Congress"
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Burial_detail_at_Camp_O%27Donnell_after_Bataan_Death_March.jpg"
+imagealt: "Prisoners at Camp O'Donnell after the Bataan Death March, 1942"
+imagecaption: "The grim aftermath of the Bataan Death March — burial detail at Camp O'Donnell, Philippines, 1942"
+imagecredit: "U.S. National Archives / Wikimedia Commons"
 video: "https://www.youtube.com/embed/N86PrF8Hu54"
 weight: 42
 sources:

@@ -6,10 +6,10 @@ date: 2026-05-08T21:00:00
 historydate: "1953"
 era: "Science & Discovery"
 source: "Google Scholar"
-image: "https://tile.loc.gov/storage-services/service/pnp/highsm/04600/04698r.jpg"
-imagealt: "Scientific laboratory setting"
-imagecaption: "In laboratories like these, scientists raced to uncover the structure of DNA — the molecule that carries the instructions for life."
-imagecredit: "Library of Congress, Prints & Photographs Division"
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0c/DNA_animation.gif"
+imagealt: "The double helix structure of DNA"
+imagecaption: "The double helix structure of DNA discovered with Rosalind Franklin's critical X-ray work"
+imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/BIP0lYrdirI"
 weight: 38
 sources:

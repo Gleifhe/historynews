@@ -6,10 +6,10 @@ date: 2026-05-09T02:00:00
 historydate: "January 28, 1986"
 era: "Space Age"
 source: "Google News Archive"
-image: "https://tile.loc.gov/storage-services/service/pnp/highsm/13800/13877r.jpg"
-imagealt: "Space Shuttle launch facility at Kennedy Space Center"
-imagecaption: "The Space Shuttle program symbolized American technological ambition — until tragedy struck on a cold January morning in 1986."
-imagecredit: "Library of Congress, Prints & Photographs Division"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Challenger_explosion.jpg/1280px-Challenger_explosion.jpg"
+imagealt: "The Space Shuttle Challenger explodes 73 seconds after launch, January 28, 1986"
+imagecaption: "The Space Shuttle Challenger breaks apart over the Atlantic Ocean, January 28, 1986"
+imagecredit: "NASA / Wikimedia Commons"
 video: "https://www.youtube.com/embed/j4JOjcDFtBE"
 weight: 34
 sources:

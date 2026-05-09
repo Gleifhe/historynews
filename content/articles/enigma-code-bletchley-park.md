@@ -6,10 +6,10 @@ date: 2026-05-09T08:00:00
 historydate: "1939-1945"
 era: "World War II"
 source: "British National Archives"
-image: "https://tile.loc.gov/storage-services/service/pnp/fsa/8d29000/8d29900/8d29930r.jpg"
-imagealt: "World War II era military communications"
-imagecaption: "Military communications during World War II — the era when code-breaking changed the course of the war"
-imagecredit: "Library of Congress"
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bd/Enigma_%28crittografia%29_-_Museo_scienza_e_tecnologia_Milano.jpg"
+imagealt: "An Enigma cipher machine used by Nazi Germany"
+imagecaption: "An Enigma cipher machine — the encryption device that Nazi Germany believed was unbreakable"
+imagecredit: "Wikimedia Commons / CC BY-SA"
 video: "https://www.youtube.com/embed/8FDeLnxCOXA"
 weight: 28
 sources:

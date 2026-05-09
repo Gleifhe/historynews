@@ -6,10 +6,10 @@ date: 2026-05-05
 historydate: "September 11, 2001"
 era: "21st Century"
 source: "Internet Archive / Wayback Machine"
-image: "https://tile.loc.gov/storage-services/service/pnp/highsm/38200/38294r.jpg"
-imagealt: "View of lower Manhattan"
-imagecaption: "The New York City skyline — forever changed after September 11, 2001"
-imagecredit: "Carol M. Highsmith, Library of Congress"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/WTC_smoking_on_9-11.jpeg/1280px-WTC_smoking_on_9-11.jpeg"
+imagealt: "The World Trade Center towers burning on September 11, 2001"
+imagecaption: "Smoke pours from the World Trade Center on September 11, 2001"
+imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/3DRDJUHvlnk"
 weight: 5
 sources:

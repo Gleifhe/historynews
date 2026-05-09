@@ -6,10 +6,10 @@ date: 2026-05-09T05:00:00
 historydate: "January 1, 2000"
 era: "21st Century"
 source: "Internet Archive"
-image: "https://tile.loc.gov/storage-services/service/pnp/highsm/02400/02449r.jpg"
-imagealt: "Computer technology infrastructure in the late 1990s"
-imagecaption: "The world's computer systems faced an uncertain future as the calendar turned to the year 2000."
-imagecredit: "Library of Congress, Prints & Photographs Division"
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fb/Bug_de_l%27an_2000.jpg"
+imagealt: "A Y2K bug warning display"
+imagecaption: "The Y2K bug — the global fear that computers would crash on January 1, 2000"
+imagecredit: "Wikimedia Commons / CC BY-SA"
 video: "https://www.youtube.com/embed/ddzbxJasID4"
 weight: 31
 sources:

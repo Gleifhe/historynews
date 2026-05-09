@@ -6,10 +6,10 @@ date: 2026-05-08T19:00:00
 historydate: "1945–1959"
 era: "Post-World War II"
 source: "CIA FOIA Reading Room"
-image: "https://tile.loc.gov/storage-services/service/pnp/cph/3c30000/3c30000/3c30600/3c30663r.jpg"
-imagealt: "Post-World War II era rocket technology"
-imagecaption: "The rocket technology developed by German scientists during the war became the foundation of America's space program."
-imagecredit: "Library of Congress, Prints & Photographs Division"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Wernher_von_Braun_crop.jpg/1280px-Wernher_von_Braun_crop.jpg"
+imagealt: "Wernher von Braun, recruited through Operation Paperclip"
+imagecaption: "Wernher von Braun — the German rocket scientist who became a key figure in NASA"
+imagecredit: "NASA / Wikimedia Commons"
 video: "https://www.youtube.com/embed/uyzaTnKhhr0"
 weight: 40
 sources:

@@ -6,10 +6,10 @@ date: 2026-05-09T10:00:00
 historydate: "1930-1936"
 era: "Great Depression"
 source: "Library of Congress Digital Collections"
-image: "https://tile.loc.gov/storage-services/service/pnp/fsa/8b38000/8b38600/8b38608r.jpg"
-imagealt: "Dust storm approaching a town in the Great Plains, 1930s"
-imagecaption: "A massive dust storm rolls toward a Great Plains town during the 1930s Dust Bowl"
-imagecredit: "Farm Security Administration / Library of Congress"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Dust_Bowl_-_Dallas%2C_South_Dakota_1936.jpg/1280px-Dust_Bowl_-_Dallas%2C_South_Dakota_1936.jpg"
+imagealt: "A dust storm approaches Dallas, South Dakota, 1936"
+imagecaption: "A massive dust storm engulfs Dallas, South Dakota during the Dust Bowl"
+imagecredit: "NOAA / Wikimedia Commons"
 video: "https://www.youtube.com/embed/3jSdDU9mUqQ"
 weight: 26
 sources:

@@ -6,10 +6,10 @@ date: 2026-05-07
 historydate: "January 16, 1917"
 era: "World War I"
 source: "British National Archives"
-image: "https://tile.loc.gov/storage-services/service/pnp/ds/05400/05452r.jpg"
-imagealt: "World War I era poster — Soldiers without guns"
-imagecaption: "U.S. troops prepare for deployment to Europe after America entered World War I"
-imagecredit: "Library of Congress"
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Zimmermann_Telegram_as_Received_by_the_German_Ambassador_to_Mexico_-_NARA_-_302025.jpg"
+imagealt: "The decoded Zimmermann Telegram sent to Mexico"
+imagecaption: "The Zimmermann Telegram — the secret coded message that helped bring America into World War I"
+imagecredit: "National Archives / Wikimedia Commons"
 weight: 3
 sources:
   - '<a href="https://www.nationalarchives.gov.uk/education/resources/the-zimmermann-telegram/">British National Archives — The Zimmermann Telegram</a>'

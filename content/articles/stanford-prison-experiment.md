@@ -6,10 +6,10 @@ date: 2026-05-09T01:00:00
 historydate: "August 1971"
 era: "1970s America"
 source: "JSTOR"
-image: "https://tile.loc.gov/storage-services/service/pnp/highsm/38200/38248r.jpg"
-imagealt: "Stanford University campus building"
-imagecaption: "Stanford University was the setting for one of the most controversial psychology experiments ever conducted."
-imagecredit: "Library of Congress, Prints & Photographs Division"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Philip_Zimbardo.jpg/1280px-Philip_Zimbardo.jpg"
+imagealt: "Philip Zimbardo, psychologist who conducted the Stanford Prison Experiment"
+imagecaption: "Dr. Philip Zimbardo, designer of the Stanford Prison Experiment"
+imagecredit: "Wikimedia Commons / CC BY-SA"
 video: "https://www.youtube.com/embed/Z0jYx8nwjFQ"
 weight: 35
 sources:

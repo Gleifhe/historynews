@@ -6,10 +6,10 @@ date: 2026-05-08T14:00:00
 historydate: "July–August 1588"
 era: "16th Century"
 source: "BBC History"
-image: "https://tile.loc.gov/storage-services/service/pnp/cph/3c00000/3c01000/3c01700/3c01742r.jpg"
-imagealt: "Historical illustration of sailing ships from the Age of Exploration"
-imagecaption: "The Spanish Armada set sail with 130 ships — but storms and English fireships would destroy the 'invincible' fleet"
-imagecredit: "Library of Congress"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Invincible_Armada.jpg/1280px-Invincible_Armada.jpg"
+imagealt: "Painting of the Spanish Armada battle, 1588"
+imagecaption: "The battle between the English fleet and the Spanish Armada, 1588"
+imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/xaoCs1NFcVc"
 weight: 45
 sources:
