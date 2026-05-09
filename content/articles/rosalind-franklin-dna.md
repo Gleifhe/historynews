@@ -4,7 +4,7 @@ headline: "HIDDEN HEROINE: The Woman Whose Photograph Unlocked the Secret of Lif
 summary: "Rosalind Franklin's pioneering X-ray crystallography work produced the critical evidence that revealed DNA's double helix structure, but her contribution was overlooked for decades while others received the Nobel Prize."
 date: 2026-05-08T21:00:00
 historydate: "1953"
-era: "Cold War"
+era: "Science & Discovery"
 source: "Google Scholar"
 image: "https://tile.loc.gov/storage-services/service/pnp/highsm/04600/04698r.jpg"
 imagealt: "Scientific laboratory setting"

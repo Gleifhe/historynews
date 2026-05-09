@@ -4,7 +4,7 @@ headline: "EXPERIMENT GONE WRONG: College Students Turn Cruel in Simulated Priso
 summary: "In 1971, a psychology experiment at Stanford University spiraled out of control as ordinary college students assigned to play guards became abusive, raising profound questions about human nature and authority."
 date: 2026-05-09T01:00:00
 historydate: "August 1971"
-era: "Cold War"
+era: "1970s America"
 source: "JSTOR"
 image: "https://tile.loc.gov/storage-services/service/pnp/highsm/38200/38248r.jpg"
 imagealt: "Stanford University campus building"

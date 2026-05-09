@@ -4,7 +4,7 @@ headline: "SHOCKING TRUTH: 65% of Normal People Will Electrocute a Stranger If S
 summary: "Stanley Milgram's original papers reveal how easily ordinary people can be pushed to inflict harm when told to by an authority figure."
 date: 2026-04-27
 historydate: "1961-1963"
-era: "Cold War"
+era: "1960s America"
 source: "Google Scholar"
 image: "https://tile.loc.gov/storage-services/service/pnp/highsm/38200/38211r.jpg"
 imagealt: "Yale University campus"

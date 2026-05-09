@@ -4,7 +4,7 @@ headline: "SHOTS IN DALLAS: The Photographers, Films, and Snapshots That Capture
 summary: "The press photographers in the motorcade, the amateur films, and how visual evidence shaped the JFK investigation."
 date: 2026-04-21
 historydate: "November 22, 1963"
-era: "Cold War"
+era: "1960s America"
 source: "Getty Images Editorial"
 image: "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c15000/3c15000/3c15058r.jpg"
 imagealt: "President John F. Kennedy"

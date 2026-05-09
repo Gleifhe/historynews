@@ -4,7 +4,7 @@ headline: "SHUTTLE EXPLODES: Nation Watches in Horror as Challenger Breaks Apart
 summary: "On January 28, 1986, the Space Shuttle Challenger disintegrated over the Atlantic Ocean, killing all seven crew members and shattering America's confidence in the space program."
 date: 2026-05-09T02:00:00
 historydate: "January 28, 1986"
-era: "Cold War"
+era: "Space Age"
 source: "Google News Archive"
 image: "https://tile.loc.gov/storage-services/service/pnp/highsm/13800/13877r.jpg"
 imagealt: "Space Shuttle launch facility at Kennedy Space Center"

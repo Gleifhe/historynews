@@ -4,7 +4,7 @@ headline: "SAIGON FALLS: Desperate Evacuees Cling to Helicopters as America's Lo
 summary: "The frantic final hours of the Vietnam War — rooftop evacuations, abandoned allies, and the photograph that captured a superpower's defeat."
 date: 2026-05-08T15:00:00
 historydate: "April 30, 1975"
-era: "Cold War"
+era: "Vietnam War"
 source: "Getty Images Editorial"
 image: "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b40000/3b40100/3b40113r.jpg"
 imagealt: "Helicopter evacuation during the fall of Saigon"
