@@ -23,7 +23,7 @@ sources:
 
 In the spring of 1918, a strange new illness started spreading. It began with a fever and a cough — like a regular flu. But this flu was different. It killed fast, and it killed people who were usually healthy: young adults in their 20s and 30s.
 
-Over the next two years, the flu spread to every corner of the world. It infected about 500 million people — one-third of the entire world's population. Between 50 and 100 million people died. That's more people than died in all of World War I.
+Over the next two years, the flu spread to every corner of the world. It infected about 500 million people — one-third of the entire world's population. Between 17 million and 100 million people died — most estimates settle around 50 million. That's more people than died in all of World War I.
 
 It was called the Spanish Flu, though it probably didn't start in Spain. It was the deadliest pandemic since the [Black Death ravaged medieval Europe](/articles/black-death-plague/). (Spain was neutral during WWI and didn't censor its press, so Spanish newspapers were the first to report on the illness openly. Other countries were hiding their outbreaks to keep wartime morale high.)
 

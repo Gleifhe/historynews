@@ -1,9 +1,9 @@
 ---
 title: "The Black Death"
 headline: "PLAGUE! The Disease That Killed Half of Europe in Four Horrifying Years"
-summary: "European archives reveal how the Black Death of 1347-1351 wiped out 25 million people and reshaped civilization forever."
+summary: "European archives reveal how the Black Death of 1346-1353 wiped out as many as 50 million people and reshaped civilization forever."
 date: 2026-05-09T07:00:00
-historydate: "1347-1351"
+historydate: "1346-1353"
 era: "Medieval"
 source: "Europeana"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Plague_in_an_Ancient_City_LACMA_AC1997.10.1_%281_of_2%29.jpg/1280px-Plague_in_an_Ancient_City_LACMA_AC1997.10.1_%281_of_2%29.jpg"
@@ -39,7 +39,7 @@ Medieval doctors had no idea what caused the disease. They blamed everything fro
 
 The numbers are almost impossible to comprehend:
 
-- **25 million Europeans died** — roughly one-third to one-half of the entire population
+- **As many as 50 million Europeans died** — roughly one-third to one-half of the entire population
 - Some cities lost **60-70%** of their people
 - The plague killed **indiscriminately** — rich and poor, young and old, peasants and kings
 - It took **200 years** for Europe's population to return to pre-plague levels
@@ -66,7 +66,7 @@ The Black Death didn't just kill people — it transformed European civilization
 
 ## The Plague Returns — Again and Again
 
-The 1347-1351 outbreak was just the beginning. The plague returned to Europe every few decades for the next 300 years. The Great Plague of London in 1665, which killed about 100,000 people, was one of the last major European outbreaks — and was followed just a year later by [the Great Fire of London](/articles/great-fire-of-london/), which devastated the city all over again.
+The 1346-1353 outbreak was just the beginning. The plague returned to Europe every few decades for the next 300 years. The Great Plague of London in 1665, which killed about 100,000 people, was one of the last major European outbreaks — and was followed just a year later by [the Great Fire of London](/articles/great-fire-of-london/), which devastated the city all over again.
 
 Today, *Yersinia pestis* still exists. A few thousand cases of plague are reported worldwide each year, mostly in rural areas. But modern antibiotics can cure it — something medieval Europeans could only dream of. Still, deadly pandemics did not end with the Middle Ages — [the 1918 Spanish Flu](/articles/1918-spanish-flu-pandemic/) would prove that centuries later.
 

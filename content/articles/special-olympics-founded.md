@@ -31,7 +31,7 @@ The camp was a success, but Eunice wanted more. She dreamed of a national — ev
 
 ## The First Games
 
-On July 20, 1968, about 1,000 athletes from 26 states and Canada gathered at Soldier Field in Chicago for the first International Special Olympics Summer Games. They competed in track and field, floor hockey, and aquatics. The Chicago Park District donated the venue. Volunteers helped organize everything.
+On July 20, 1968, about 1,000 athletes from 26 U.S. states, Canada, and France gathered at Soldier Field in Chicago for the first International Special Olympics Summer Games. They competed in track and field, floor hockey, and aquatics. The Chicago Park District donated the venue. Volunteers helped organize everything.
 
 The event was modest compared to the traditional Olympics, but it was revolutionary. For the first time, athletes with intellectual disabilities stood on a world stage. They ran races, won medals, and heard crowds cheer their names. The oath spoken at those first games captured the spirit of the movement: "Let me win. But if I cannot win, let me be brave in the attempt."
 

@@ -29,7 +29,7 @@ The colony's population was sharply divided: roughly 40,000 white colonists, abo
 
 ## The Night of Fire
 
-On the night of August 22, 1791, everything changed. Enslaved people across the northern part of Saint-Domingue rose up in a carefully coordinated revolt. They set fire to plantations, destroyed sugar mills, and fought back against their enslavers. The uprising was fueled by the same revolutionary ideals that had inspired [the Storming of the Bastille](/articles/storming-of-the-bastille/) in France just two years earlier.
+On the night of August 21, 1791, everything changed. Enslaved people across the northern part of Saint-Domingue rose up in a carefully coordinated revolt. They set fire to plantations, destroyed sugar mills, and fought back against their enslavers. The uprising was fueled by the same revolutionary ideals that had inspired [the Storming of the Bastille](/articles/storming-of-the-bastille/) in France just two years earlier.
 
 According to tradition, the rebellion was sparked at a vodou ceremony at Bois Caïman, led by a priest named Dutty Boukman. He called on the enslaved to fight for their freedom. Within days, the northern plain — the richest agricultural region in the colony — was engulfed in flames. Over a thousand plantations were destroyed in the first weeks of the revolt.
 

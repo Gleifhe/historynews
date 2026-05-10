@@ -21,7 +21,7 @@ sources:
 
 For nearly 70 years, there were no wolves in Yellowstone National Park. Hunters and government programs had killed every last one by 1926. Without wolves, the park slowly changed in ways that nobody fully understood at the time. Elk herds grew large and bold. They stood in open meadows and along riverbanks, eating everything in sight. Young trees could not grow. Streamside plants disappeared. Songbirds lost their nesting habitat. Beavers, which need willows to survive, vanished from many areas. The land itself began to erode.
 
-Then, on January 12, 1995, something remarkable happened. Fourteen gray wolves from Canada were released into the Lamar Valley of Yellowstone. A second group of 17 wolves arrived in 1996. They were the first wolves to roam the park in nearly seven decades.
+Then, on January 12, 1995, something remarkable happened. Eight gray wolves from Canada arrived and were placed into acclimation pens in the Lamar Valley of Yellowstone, with six more following on January 20 — fourteen in total. A second group of 17 wolves arrived in 1996. They were the first wolves to roam the park in nearly seven decades.
 
 What happened next changed our understanding of how nature works.
 

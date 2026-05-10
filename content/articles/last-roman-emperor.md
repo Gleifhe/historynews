@@ -1,7 +1,7 @@
 ---
 title: "Romulus Augustulus: The Boy Who Was Rome's Last Emperor"
 headline: "THE END OF AN ERA! A Teenager Named Romulus Becomes the Last Roman Emperor — Then Vanishes From History"
-summary: "The strange, sad story of Romulus Augustulus — the boy-emperor who bore the name of Rome's founder and became its final ruler, deposed without a fight at the age of 16."
+summary: "The strange, sad story of Romulus Augustulus — the boy-emperor who bore the name of Rome's founder and became its final ruler, deposed without a fight at about 14 or 15 years old."
 date: 2026-05-09T13:55:00
 historydate: "476 AD"
 era: "Ancient World"

@@ -3,7 +3,7 @@ title: "The Zimmermann Telegram"
 headline: "INTERCEPTED! The Secret Message That Dragged America Into World War I"
 summary: "How British intelligence decoded Germany's secret proposal to Mexico, and why the UK waited weeks before revealing it to Washington."
 date: 2026-05-07
-historydate: "January 16, 1917"
+historydate: "January 17, 1917"
 era: "World War I"
 source: "British National Archives"
 image: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Zimmermann_Telegram_as_Received_by_the_German_Ambassador_to_Mexico_-_NARA_-_302025.jpg"
@@ -25,7 +25,7 @@ In January 1917, World War I — triggered by [the assassination of Archduke Fra
 
 Then a secret message changed everything.
 
-On January 16, 1917, Arthur Zimmermann, Germany's Foreign Secretary, sent a coded telegram to the German ambassador in Mexico. The message contained a shocking proposal: if the United States entered the war against Germany, Germany would help Mexico invade the United States and take back Texas, New Mexico, and Arizona.
+On January 17, 1917, Arthur Zimmermann, Germany's Foreign Secretary, sent a coded telegram to the German ambassador in Mexico. The message contained a shocking proposal: if the United States entered the war against Germany, Germany would help Mexico invade the United States and take back Texas, New Mexico, and Arizona.
 
 There was just one problem for Germany. British spies were listening.
 

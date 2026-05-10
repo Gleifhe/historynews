@@ -51,7 +51,7 @@ By 1903, they were ready to add an engine.
 
 The 1903 Wright Flyer was an incredible piece of engineering made from spruce wood, muslin fabric, and bicycle chains. It weighed about 605 pounds without a pilot. It had a wingspan of 40 feet and 4 inches.
 
-The brothers couldn't find an engine light enough and powerful enough, so they built their own — a 12-horsepower gasoline engine that weighed only about 170 pounds. They also designed and carved their own propellers, which were essentially rotating wings.
+The brothers couldn't find an engine light enough and powerful enough, so they built their own — a 12-horsepower gasoline engine that weighed only about 180 pounds. They also designed and carved their own propellers, which were essentially rotating wings.
 
 The original Flyer is now at the Smithsonian National Air and Space Museum. Through Smithsonian Open Access, you can view high-resolution photographs of every detail of this remarkable machine.
 

@@ -37,7 +37,7 @@ By the spring of 1692, the jails were overflowing with accused witches. A specia
 
 ## The Trials and Executions
 
-The first person executed was Bridget Bishop, who was hanged on June 10, 1692. Over the following months, 19 more people were hanged — 14 women and 5 men. One man, Giles Corey, was pressed to death with heavy stones after he refused to enter a plea. According to legend, his only words as the stones were piled on his chest were: **"More weight."**
+The first person executed was Bridget Bishop, who was hanged on June 10, 1692. Over the following months, 18 more people were hanged — 13 women and 5 men. One man, Giles Corey, was pressed to death with heavy stones after he refused to enter a plea. According to legend, his only words as the stones were piled on his chest were: **"More weight."**
 
 Several accused witches died in jail while awaiting trial. In all, more than 200 people were accused of witchcraft during the crisis.
 

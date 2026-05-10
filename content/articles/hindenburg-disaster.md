@@ -39,7 +39,7 @@ The flame spread with terrifying speed. The hydrogen gas that kept the Hindenbur
 
 ## "Oh, the Humanity!"
 
-Radio reporter Herbert Morrison of WLS Chicago was at Lakehurst to cover the landing. His live broadcast captured the moment of the disaster — and his emotional breakdown became one of the most famous pieces of audio in history:
+Radio reporter Herbert Morrison of WLS Chicago was at Lakehurst to cover the landing. His broadcast — recorded for delayed airing and broadcast the following day — captured the moment of the disaster, and his emotional breakdown became one of the most famous pieces of audio in history:
 
 > "It's burst into flames! It's falling, it's crashing! Get out of the way, please! It's burning, bursting into flames, and it's falling on the mooring mast. Oh, the humanity, and all the passengers!"
 
