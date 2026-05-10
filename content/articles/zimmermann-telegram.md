@@ -10,6 +10,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Zimmermann_Telegram_
 imagealt: "The decoded Zimmermann Telegram sent to Mexico"
 imagecaption: "The Zimmermann Telegram — the secret coded message that helped bring America into World War I"
 imagecredit: "National Archives / Wikimedia Commons"
+video: "https://www.youtube.com/embed/dHSQAEam2yc"
 weight: 3
 sources:
   - '<a href="https://www.nationalarchives.gov.uk/education/resources/the-zimmermann-telegram/">British National Archives — The Zimmermann Telegram</a>'
