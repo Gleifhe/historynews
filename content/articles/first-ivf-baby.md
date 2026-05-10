@@ -49,6 +49,6 @@ IVF technology has improved enormously since 1978. In 2026, success rates are si
 
 However, access to IVF remains unequal. In many countries, the procedure is prohibitively expensive, costing tens of thousands of dollars per cycle. Insurance coverage varies widely, and many families cannot afford multiple attempts. Advocacy groups are pushing for better insurance coverage and lower costs to make IVF accessible to everyone, not just the wealthy.
 
-New developments in reproductive medicine are also expanding the possibilities. Egg freezing has become increasingly popular, allowing women to preserve their fertility for later in life. Research into artificial wombs and in vitro gametogenesis — creating eggs and sperm from skin cells — could further revolutionize reproduction in the coming decades.
+New developments in reproductive medicine are also expanding the possibilities. Egg freezing has become increasingly popular, allowing women to preserve their fertility for later in life. Research into artificial wombs and in vitro gametogenesis (creating eggs and sperm from ordinary skin cells) could further revolutionize reproduction in the coming decades.
 
 Louise Brown, now in her late forties, continues to advocate for reproductive rights and IVF awareness. She has spoken publicly about her gratitude to Steptoe and Edwards and her hope that every family who wants a child will have the opportunity to have one. Her birth in a small English hospital in 1978 opened a door that continues to widen, bringing joy and hope to millions of families around the world.

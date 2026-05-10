@@ -1,7 +1,7 @@
 ---
 title: "Magellan's Circumnavigation of the Globe"
 headline: "AROUND THE WORLD: First Voyage to Circle the Entire Earth Proves the Planet's True Size"
-summary: "Beginning in September 1519 under Ferdinand Magellan and completed in September 1522 by Juan Sebastián Elcano, the first circumnavigation of the globe was one of history's greatest feats of exploration — though only 18 of the original 270 crew members survived the three-year journey."
+summary: "Beginning in September 1519 under Ferdinand Magellan and completed in September 1522 by Juan Sebastián Elcano, the first circumnavigation of the globe was one of history's greatest feats of exploration — though only 18 of the original 270 crew members returned to Spain aboard the Victoria, with approximately 40 surviving via different routes."
 date: 2026-05-10T13:35:00
 historydate: "September 6, 1522"
 era: "Positive History"
@@ -33,7 +33,7 @@ In March 1521, the surviving crew finally reached the Philippines. There, Magell
 
 Command passed through several hands before Juan Sebastián Elcano, a Spanish sailor, took charge. Elcano led the remaining crew through the Spice Islands, across the Indian Ocean, around the Cape of Good Hope in Africa, and back to Spain. On September 6, 1522, the ship Victoria limped into the port of Sanlúcar — the same port from which the fleet had departed three years earlier.
 
-Of the 270 men who had set out, only 18 returned. Of five ships, only one survived. But those 18 men had done something extraordinary: they had sailed all the way around the world.
+Of the 270 men who had set out, only 18 returned to Spain aboard the *Victoria* — though approximately 40 crew members survived the expedition in total, with others returning via different routes. Of five ships, only one completed the circumnavigation. But those 18 men aboard the *Victoria* had done something extraordinary: they had sailed all the way around the world.
 
 The circumnavigation proved beyond doubt that the Earth was round and that all the world's oceans were connected. It revealed the true size of the Pacific Ocean, which was far larger than European mapmakers had believed. The voyage opened new trade routes and expanded European knowledge of the world's geography, peoples, and resources.
 

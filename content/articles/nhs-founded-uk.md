@@ -1,7 +1,7 @@
 ---
 title: "The NHS Founded in the United Kingdom"
 headline: "The Day Britain Promised Healthcare for Every Person, Rich or Poor"
-summary: "On July 5, 1948, the United Kingdom launched the National Health Service — the world's first universal healthcare system free at the point of use, covering 73 million people and proving that a nation could care for all its citizens."
+summary: "On July 5, 1948, the United Kingdom launched the National Health Service — the world's first universal healthcare system free at the point of use, covering approximately 67 million people and proving that a nation could care for all its citizens."
 date: 2026-05-10T14:45:00
 historydate: "July 5, 1948"
 era: "Positive History"
@@ -35,7 +35,7 @@ When the NHS opened its doors on July 5, 1948, the demand was overwhelming. In t
 
 ## A Model for the World
 
-The NHS became a model that inspired healthcare systems around the globe. The [United Nations](/articles/founding-of-united-nations/) later declared health a fundamental human right, and many countries looked to Britain's example when designing their own systems. Today, the NHS serves approximately 73 million people across England, Scotland, Wales, and Northern Ireland.
+The NHS became a model that inspired healthcare systems around the globe. The [United Nations](/articles/founding-of-united-nations/) later declared health a fundamental human right, and many countries looked to Britain's example when designing their own systems. Today, the NHS serves approximately 67 million people across England, Scotland, Wales, and Northern Ireland.
 
 The NHS has achieved remarkable results. Life expectancy in Britain has increased dramatically since 1948. Diseases that once killed thousands — like polio, tuberculosis, and measles — have been virtually eliminated through free vaccination programs. The NHS helped lead the global campaign to [eradicate smallpox](/articles/smallpox-eradication/), one of humanity's greatest medical achievements.
 

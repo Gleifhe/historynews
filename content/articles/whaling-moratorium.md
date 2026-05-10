@@ -1,7 +1,7 @@
 ---
 title: "The International Whaling Moratorium"
 headline: "Saving the Giants: How a Global Ban on Whaling Brought Humpback Whales Back from the Brink"
-summary: "In 1986, the International Whaling Commission enacted a moratorium on commercial whaling. Since then, humpback whale populations have surged from around 1,400 to over 80,000. While challenges remain, the ban stands as one of the greatest wildlife conservation victories in history."
+summary: "In 1986, the International Whaling Commission enacted a moratorium on commercial whaling. Since then, humpback whale populations have surged from around 1,400 in some populations to over 80,000 worldwide. While challenges remain, the ban stands as one of the greatest wildlife conservation victories in history."
 date: 2026-05-10T16:35:00
 historydate: "1986"
 era: "Positive History"

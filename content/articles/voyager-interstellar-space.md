@@ -1,7 +1,7 @@
 ---
 title: "Voyager 1 Enters Interstellar Space"
 headline: "BEYOND THE SUN: Voyager 1 Becomes First Human-Made Object to Reach Interstellar Space"
-summary: "Launched on September 5, 1977, NASA's Voyager 1 became the first human-made object to enter interstellar space on August 25, 2012, traveling over 14.6 billion miles from Earth while still transmitting data and carrying the Golden Record — a message from humanity to the cosmos."
+summary: "Launched on September 5, 1977, NASA's Voyager 1 became the first human-made object to enter interstellar space on August 25, 2012, traveling over 16 billion miles from Earth while still transmitting data and carrying the Golden Record — a message from humanity to the cosmos."
 date: 2026-05-10T14:00:00
 historydate: "August 25, 2012"
 era: "Positive History"
@@ -19,7 +19,7 @@ sources:
   - '<a href="https://www.smithsonianmag.com/science-nature/voyager-still-reaching-for-the-stars-126459567/" target="_blank">Smithsonian Magazine — Voyager: Still Reaching for the Stars</a>'
 ---
 
-Somewhere in the cold darkness beyond our solar system, a small spacecraft the size of a compact car is hurtling through space at over 38,000 miles per hour. It has been traveling for more than 48 years. It is now over 14.6 billion miles from Earth — so far away that its radio signals, traveling at the speed of light, take more than 22 hours to reach us. This is Voyager 1, the most distant human-made object in existence, and it is still talking to us.
+Somewhere in the cold darkness beyond our solar system, a small spacecraft the size of a compact car is hurtling through space at over 38,000 miles per hour. It has been traveling for more than 48 years. It is now over 16 billion miles from Earth — so far away that its radio signals, traveling at the speed of light, take more than 23 hours to reach us. This is Voyager 1, the most distant human-made object in existence, and it is still talking to us.
 
 On August 25, 2012, Voyager 1 crossed an invisible boundary and became the first spacecraft to enter interstellar space — the vast, mostly empty region between the stars. It had left the protective bubble of our Sun, called the heliosphere, and entered a realm no human technology had ever reached. It was a moment that scientists had been waiting for since the spacecraft launched on September 5, 1977.
 

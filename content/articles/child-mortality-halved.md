@@ -1,5 +1,5 @@
 ---
-title: "Child Mortality Halved"
+title: "Child Mortality Dropped by 60%"
 headline: "THE GREATEST UNTOLD VICTORY: How the World Saved Millions of Children's Lives"
 summary: "Between 1990 and 2020, the number of children dying before age five dropped from 12.6 million to under 5 million per year — a decrease of more than 60%. This remarkable achievement was driven by vaccines, clean water, better nutrition, and simple treatments like oral rehydration therapy."
 date: 2026-05-10T15:50:00

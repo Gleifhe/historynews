@@ -27,7 +27,7 @@ The shipping costs were so high that for many products, it was cheaper to manufa
 
 Then came Malcolm McLean. He wasn't a shipping executive or an engineer — he was a truck driver from North Carolina. McLean had spent years watching his trucks wait at docks while longshoremen slowly transferred cargo to ships. He had a simple idea: what if the entire truck trailer could be loaded directly onto a ship?
 
-On April 26, 1956, McLean's converted tanker ship, the *Ideal X*, sailed from Port Newark, New Jersey, to Houston, Texas, carrying 58 metal containers on its deck. The containers were a standard size, designed to be lifted by crane directly from a truck chassis onto the ship and back again. Loading that took days now took hours. The cost of shipping a ton of cargo dropped from about $5.86 using traditional methods to about $0.16 per container — a reduction of more than 97%.
+On April 26, 1956, McLean's converted tanker ship, the *Ideal X*, sailed from Port Newark, New Jersey, to Houston, Texas, carrying 58 metal containers on its deck. The containers were a standard size, designed to be lifted by crane directly from a truck chassis onto the ship and back again. Loading that took days now took hours. The cost of shipping a ton of cargo dropped from about $5.86 using traditional methods to about $0.16 per ton — a reduction of more than 97%.
 
 The shipping industry resisted at first. Longshoremen's unions fought containerization because it would eliminate thousands of jobs. Port cities that couldn't accommodate the new container ships lost business to those that could. But the economic advantages were simply too great to ignore.
 

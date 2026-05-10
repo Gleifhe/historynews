@@ -8,7 +8,7 @@ era: "Positive History"
 source: "Jimmy Carter Presidential Library"
 image: "https://upload.wikimedia.org/wikipedia/commons/d/d2/Camp_David%2C_Menachem_Begin%2C_Anwar_Sadat%2C_1978.jpg"
 imagealt: "Egyptian President Anwar Sadat, U.S. President Jimmy Carter, and Israeli Prime Minister Menachem Begin at Camp David in 1978"
-imagecaption: "Anwar Sadat, Jimmy Carter, and Menachem Begin at Camp David, where 13 days of intense negotiations produced a historic peace agreement."
+imagecaption: "Anwar Sadat, Jimmy Carter, and Menachem Begin at Camp David, where 12 days of intense negotiations produced a historic peace agreement."
 imagecredit: "U.S. Government / Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 132
@@ -21,7 +21,7 @@ sources:
 
 In September 1978, three leaders arrived at Camp David, the presidential retreat in the Maryland mountains. Egyptian President Anwar Sadat and Israeli Prime Minister Menachem Begin had come at the invitation of U.S. President Jimmy Carter. Their mission seemed almost impossible: to make peace between two nations that had fought four wars in 30 years.
 
-For 13 intense days, the three men negotiated, argued, and nearly walked away from the table more than once. But on September 17, they emerged with two frameworks for peace that would reshape the Middle East. The Camp David Accords were signed that evening in a televised ceremony at the White House, and the world watched in amazement as two former enemies shook hands.
+For 12 intense days, the three men negotiated, argued, and nearly walked away from the table more than once. But on September 17, they emerged with two frameworks for peace that would reshape the Middle East. The Camp David Accords were signed that evening in a televised ceremony at the White House, and the world watched in amazement as two former enemies shook hands.
 
 The conflict between Israel and its Arab neighbors stretched back to 1948, when the state of Israel was created. Egypt, along with other Arab nations, had fought against Israel's founding and refused to recognize its right to exist. Wars erupted in 1948, 1956, 1967, and 1973. Thousands of soldiers and civilians on both sides lost their lives. The region was trapped in a cycle of violence and distrust that seemed impossible to break.
 
@@ -31,7 +31,7 @@ But turning that dramatic gesture into an actual peace agreement was incredibly 
 
 That is when Jimmy Carter stepped in. He invited both leaders to Camp David, where they could negotiate in private, away from the media and political pressures. Carter believed that if Sadat and Begin could get to know each other as human beings, they might find a path to peace.
 
-The 13 days at Camp David were among the most dramatic in diplomatic history. Sadat and Begin clashed fiercely. At one point, Sadat packed his bags and prepared to leave. Carter rushed to his cabin and convinced him to stay. Carter shuttled between the two leaders' cabins, carrying proposals back and forth, looking for compromises.
+The 12 days at Camp David were among the most dramatic in diplomatic history. Sadat and Begin clashed fiercely. At one point, Sadat packed his bags and prepared to leave. Carter rushed to his cabin and convinced him to stay. Carter shuttled between the two leaders' cabins, carrying proposals back and forth, looking for compromises.
 
 Carter's persistence paid off. The accords included two key agreements. The first was a framework for peace between Egypt and Israel, which led to a formal peace treaty signed in March 1979. Under this treaty, Israel agreed to withdraw from the Sinai Peninsula, which it had captured in the 1967 war, and Egypt became the first Arab country to officially recognize Israel. The second framework addressed the broader Israeli-Palestinian conflict, though this part was never fully implemented.
 

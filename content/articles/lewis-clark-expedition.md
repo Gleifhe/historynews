@@ -33,7 +33,7 @@ Sacagawea proved invaluable. She identified edible plants, helped communicate wi
 
 The crossing of the Rocky Mountains was the most dangerous part of the journey. The Corps struggled through deep snow, freezing temperatures, and near-starvation on narrow mountain trails. They survived thanks to the help of the Nez Perce people, who fed them and showed them how to build canoes for the river journey ahead.
 
-On November 7, 1805, Clark wrote in his journal: "Ocean in view! O! The joy!" The Corps of Discovery had reached the Pacific Ocean. They had crossed the entire North American continent. They spent the winter on the Oregon coast before beginning the long journey home, arriving back in St. Louis on September 23, 1806. They had been gone for over two years and traveled approximately 8,000 miles.
+On November 7, 1805, Clark wrote in his journal: "Ocean in view! O! The joy!" The Corps of Discovery had reached the Pacific Ocean. They had crossed the entire North American continent — a feat of exploration that echoed [Magellan's circumnavigation](/articles/magellan-circumnavigation/) of the globe nearly three centuries earlier. They spent the winter on the Oregon coast before beginning the long journey home, arriving back in St. Louis on September 23, 1806. They had been gone for over two years and traveled approximately 8,000 miles.
 
 The expedition brought back a treasure trove of knowledge. Lewis and Clark documented over 300 species of plants and animals previously unknown to science. They created detailed maps of the western landscape. They established relationships with dozens of Native American tribes. Their journals filled thousands of pages with observations about the land, the weather, and the peoples of the West.
 

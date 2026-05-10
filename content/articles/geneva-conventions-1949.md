@@ -49,6 +49,6 @@ Finally, the Geneva Conventions remind us that rules matter. Without agreed-upon
 
 In 2026, the Geneva Conventions remain the foundation of international humanitarian law, but they face new challenges. Modern warfare increasingly involves drones, cyber attacks, and artificial intelligence — technologies that the drafters of 1949 could never have imagined. Legal experts and governments are working to apply the principles of the conventions to these new forms of conflict.
 
-The rise of non-state armed groups and asymmetric warfare also tests the conventions. Many of today's conflicts do not involve traditional armies fighting each other, but rather guerrilla forces, militias, and terrorist organizations. Ensuring that all parties to a conflict follow the rules of war is an ongoing challenge.
+The rise of non-state armed groups and asymmetric warfare (conflicts where one side is much stronger than the other) also tests the conventions. Many of today's conflicts do not involve traditional armies fighting each other, but rather guerrilla forces, militias, and terrorist organizations. Ensuring that all parties to a conflict follow the rules of war is an ongoing challenge.
 
 Despite these challenges, the core principle of the Geneva Conventions — that every human being deserves protection and dignity, even in wartime — remains as important as ever. In a world where conflicts continue to cause immense suffering, the conventions are a reminder that humanity has the power to set limits on its own worst impulses.

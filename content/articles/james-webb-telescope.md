@@ -41,7 +41,7 @@ In the years since those first images, Webb has continued to deliver groundbreak
 
 The story of the James Webb Space Telescope teaches us the power of patience and persistence. The project took over 25 years from concept to first images. The scientists and engineers involved faced setbacks, criticism, and moments of doubt. But they kept working because they believed in the importance of their mission. When you are working toward a long-term goal, remember that the most worthwhile achievements often take time.
 
-Webb also shows us the value of collaboration. The telescope was built by NASA in partnership with the European Space Agency and the Canadian Space Agency. Thousands of scientists and engineers from 14 countries contributed to the project. No single person or organization could have done it alone. In your own life, seeking out partnerships and working with others can help you achieve things you could never do by yourself.
+Webb also shows us the value of collaboration. The telescope was built by NASA in partnership with the European Space Agency and the Canadian Space Agency. Thousands of scientists and engineers from 15 countries contributed to the project. No single person or organization could have done it alone. In your own life, seeking out partnerships and working with others can help you achieve things you could never do by yourself.
 
 Finally, Webb reminds us that curiosity about the universe is one of humanity's most beautiful qualities. The desire to know where we come from, what the universe is made of, and whether we are alone — these questions drive us to explore and discover. Never lose your sense of wonder about the world and the cosmos.
 

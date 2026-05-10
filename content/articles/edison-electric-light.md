@@ -1,7 +1,7 @@
 ---
 title: "Edison and the Electric Light"
 headline: "The Night Thomas Edison Turned Darkness Into Light"
-summary: "On October 21, 1879, Thomas Edison's team at Menlo Park created a practical incandescent light bulb using a carbonized bamboo filament that burned for over 1,200 hours — launching the age of electric illumination."
+summary: "On October 21, 1879, Thomas Edison's team at Menlo Park tested a carbonized cotton thread filament that burned for about 13.5 hours, then achieved a breakthrough with a carbonized bamboo filament that lasted over 1,200 hours — launching the age of electric illumination."
 date: 2026-05-10T14:10:00
 historydate: "October 21, 1879"
 era: "Positive History"
@@ -21,13 +21,13 @@ sources:
 
 For most of human history, darkness ruled the night. When the sun went down, people relied on candles, oil lamps, and gas lights — all of which were dim, dangerous, and expensive. Fires burned down homes. Factories could only operate during daylight hours. Streets were unsafe after dark. Then, in a small laboratory in Menlo Park, New Jersey, Thomas Edison and his team changed everything.
 
-On October 21, 1879, Edison successfully tested a light bulb that used a carbonized bamboo filament. It glowed steadily for over 1,200 hours. While Edison did not invent the idea of electric light — many inventors had been experimenting with it — he was the first to create a version that was practical, affordable, and long-lasting enough for everyday use.
+On October 21, 1879, Edison successfully tested a light bulb that used a carbonized cotton thread filament. It glowed steadily for about 13.5 hours — a promising result. Shortly after, Edison's team discovered that a carbonized bamboo filament worked far better, burning for over 1,200 hours. While Edison did not invent the idea of electric light — many inventors had been experimenting with it — he was the first to create a version that was practical, affordable, and long-lasting enough for everyday use.
 
 ## The Wizard of Menlo Park
 
 Edison was already famous before the light bulb. He had invented the phonograph, the first device that could record and play back sound, and he had improved the telegraph. People called him "The Wizard of Menlo Park" because his laboratory seemed to produce miracles.
 
-But the light bulb was his greatest challenge. Edison and his team tested over 3,000 different materials to find the right filament — the thin wire inside the bulb that glows when electricity passes through it. They tried platinum, cotton thread, fishing line, and even hair from a friend's beard. The carbonized bamboo filament was the breakthrough they needed.
+But the light bulb was his greatest challenge. Edison and his team tested over 3,000 different materials to find the right filament — the thin wire inside the bulb that glows when electricity passes through it. They tried platinum, cotton thread, fishing line, and even hair from a friend's beard. The October 21 test used a carbonized cotton thread, which burned for about 13.5 hours. Shortly after, they discovered that a carbonized bamboo filament lasted over 1,200 hours — the breakthrough they needed.
 
 Edison did not stop with the bulb itself. He understood that a light bulb was useless without a system to deliver electricity to homes and businesses. So he designed power stations, wiring systems, switches, and meters. In September 1882, Edison opened the Pearl Street Station in lower Manhattan, providing electric light to 85 customers. Within a year, that number grew to over 500. The modern electrical grid was born.
 

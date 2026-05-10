@@ -33,7 +33,7 @@ The decision built on decades of struggle. The modern LGBTQ+ rights movement is 
 
 Progress came slowly at first. In 1996, Congress passed the Defense of Marriage Act, which defined marriage as between a man and a woman under federal law. Many states passed similar bans. But public opinion was shifting. More and more Americans came to support marriage equality as they got to know LGBTQ+ people in their own families, workplaces, and communities.
 
-Massachusetts became the first state to legalize same-sex marriage in 2004. Other states followed. By the time the Supreme Court took up the Obergefell case, 37 states and the District of Columbia already allowed same-sex couples to marry.
+Massachusetts became the first state to legalize same-sex marriage in 2004. Other states followed. By the time the Supreme Court took up the Obergefell case, 36 states and the District of Columbia already allowed same-sex couples to marry.
 
 The ruling drew on the same principles of equality and liberty that have shaped American history since the [Declaration of Independence](/articles/declaration-of-independence/) proclaimed that all people are created equal. Justice Kennedy's opinion rooted the right to marry in the Fourteenth Amendment, which guarantees equal protection and due process under the law.
 

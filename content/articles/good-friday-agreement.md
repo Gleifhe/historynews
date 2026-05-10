@@ -33,7 +33,7 @@ The breakthrough came through a combination of war-weariness, courageous leaders
 
 The talks were led by former U.S. Senator George Mitchell, who brought patience, fairness, and determination to the negotiations. Mitchell later described the process as "700 days of failure and one day of success." He listened to both sides, managed egos, and refused to give up when talks seemed about to collapse.
 
-The final agreement was reached after a marathon 30-hour negotiation session. The deal created a power-sharing government in Northern Ireland where both unionists and nationalists would have a say. It established cross-border institutions linking Northern Ireland and the Republic of Ireland. It addressed the release of political prisoners, the decommissioning of weapons, and police reform.
+The final agreement was reached after a marathon 30-hour negotiation session. The deal created a power-sharing government in Northern Ireland where both unionists and nationalists would have a say. It established cross-border institutions linking Northern Ireland and the Republic of Ireland. It addressed the release of political prisoners, the decommissioning (destroying) of weapons, and police reform.
 
 Perhaps most importantly, the agreement recognized that the future of Northern Ireland would be decided by the people living there, through democratic means. Both the Irish and British governments agreed to respect whatever the people chose.
 
