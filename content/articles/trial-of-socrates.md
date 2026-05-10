@@ -72,7 +72,7 @@ Socrates's friends begged him to escape. His wealthy student Crito arranged a pl
 
 ## The Death
 
-Socrates drank the hemlock — a poison derived from the plant *Conium maculatum* — in his prison cell in 399 BC, surrounded by his weeping students. According to Plato's *Phaedo*, Socrates remained calm and even cheerful, discussing the immortality of the soul until the poison took effect.
+Socrates drank the hemlock — a deadly plant poison — in his prison cell in 399 BC, surrounded by his weeping students. According to Plato's *Phaedo*, Socrates remained calm and even cheerful, discussing the immortality of the soul until the poison took effect.
 
 His last words, according to Plato, were: "Crito, we owe a rooster to Asclepius. Pay it and do not neglect it." Asclepius was the god of healing. Scholars have debated the meaning of this cryptic statement for 2,400 years. Perhaps Socrates was saying that death was a cure — a healing from the disease of life.
 

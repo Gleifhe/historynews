@@ -23,7 +23,7 @@ sources:
 
 On June 12, 1942, a thirteen-year-old girl in Amsterdam received a red-and-white checkered diary for her birthday. She named it "Kitty" and began writing in it immediately. That girl was Anne Frank, and her diary would become one of the most widely read books in history.
 
-Anne was born in Frankfurt, Germany, in 1929 to a Jewish family. When the Nazis came to power in 1933, the Franks moved to Amsterdam, hoping the Netherlands would be safe. For several years, life was good. Anne went to school, made friends, and rode her bicycle through the city's streets.
+Anne was born in Frankfurt, Germany, in 1929 to a Jewish family. When the Nazis came to power in 1933, the Franks moved to Amsterdam in 1934, hoping the Netherlands would be safe. For several years, life was good. Anne went to school, made friends, and rode her bicycle through the city's streets.
 
 But on May 10, 1940, Germany invaded the Netherlands. Within days, the country surrendered. The Nazis began imposing anti-Jewish laws — Jews could not go to cinemas, ride bicycles, or attend public schools. They were forced to wear yellow stars on their clothing. The freedoms Anne had known were stripped away one by one.
 

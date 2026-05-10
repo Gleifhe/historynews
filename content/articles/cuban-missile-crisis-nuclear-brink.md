@@ -58,7 +58,7 @@ Defense Secretary Robert McNamara later said: "In the end, we lucked out. It was
 Several factors prevented nuclear war:
 
 - **Kennedy's restraint**: He consistently chose the least aggressive option available and overruled military advisors who pushed for immediate strikes.
-- **Khrushchev's pragmatism**: Despite pressure from hardliners, Khrushchev ultimately valued survival over pride.
+- **Khrushchev's practical thinking**: Despite pressure from hardliners, Khrushchev ultimately valued survival over pride through practical thinking.
 - **Arkhipov's refusal**: One officer's insistence on following protocol saved the world.
 - **Back-channel communication**: Secret contacts between Soviet and American intermediaries kept negotiations alive when official channels broke down.
 

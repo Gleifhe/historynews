@@ -47,7 +47,7 @@ They made it six blocks.
 
 At the Edmund Pettus Bridge, Alabama state troopers and county deputies were waiting. Without warning, the officers charged. They beat the marchers with billy clubs and fired tear gas into the crowd. John Lewis, just 25 years old, was struck in the head and suffered a fractured skull. Amelia Boynton Robinson was beaten unconscious. Cameras recorded it all.
 
-That evening, ABC interrupted its broadcast of the movie *Judgment at Nuremberg* — a film about Nazi war crimes — to show footage of Americans beating other Americans on a bridge in Alabama. The juxtaposition was devastating.
+That evening, ABC interrupted its broadcast of the movie *Judgment at Nuremberg* — a film about Nazi war crimes — to show footage of Americans beating other Americans on a bridge in Alabama. The contrast was devastating.
 
 ## The March Completes
 

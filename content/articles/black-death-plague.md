@@ -52,7 +52,7 @@ People tried everything to protect themselves:
 
 - **Plague doctors** wore bird-like masks filled with sweet-smelling herbs, believing bad air caused the disease
 - **Flagellants** marched through towns whipping themselves, believing the plague was God's punishment for sin
-- **Jewish communities** were blamed and attacked — thousands were murdered in pogroms across Germany and France
+- **Jewish communities** were blamed and attacked — thousands were murdered in pogroms (organized mob attacks) across Germany and France
 - Cities tried **quarantines** — the word comes from the Italian *quarantina*, meaning 40 days (the period ships had to wait before passengers could go ashore)
 
 ## How It Changed the World

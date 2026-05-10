@@ -43,7 +43,7 @@ Placing missiles in Cuba was Khrushchev's gamble. He knew the Americans had Jupi
 
 But Khrushchev miscalculated. He believed Kennedy was too weak and too young to stand up to him. He assumed the Americans would accept the missiles as a done deal, just as the Soviets had accepted the Jupiters in Turkey. He was wrong.
 
-When Kennedy announced the blockade, Khrushchev was genuinely alarmed. CIA intercepts show that Soviet leadership was confused and divided. Khrushchev sent two very different letters to Kennedy on consecutive days — the first emotional and conciliatory, the second harsh and demanding. The contradiction revealed a leader who was struggling to find a way out.
+When Kennedy announced the blockade, Khrushchev was genuinely alarmed. CIA intercepts show that Soviet leadership was confused and divided. Khrushchev sent two very different letters to Kennedy on consecutive days — the first emotional and peaceful and apologetic, the second harsh and demanding. The contradiction revealed a leader who was struggling to find a way out.
 
 In the end, Khrushchev chose survival over pride. He agreed to remove the missiles in exchange for Kennedy's public promise not to invade Cuba and the secret removal of American missiles from Turkey. Khrushchev's advisors and the Soviet military establishment were furious. They saw it as a retreat. Within two years, Khrushchev would be removed from power — partly because his colleagues viewed the missile crisis as a humiliation.
 

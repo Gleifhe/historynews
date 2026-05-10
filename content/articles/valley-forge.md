@@ -45,7 +45,7 @@ The remarkable thing about Valley Forge is not the suffering — it is that the 
 
 Why? Historians point to several factors. Loyalty to Washington, who shared the hardships and refused to take comfortable quarters while his men suffered, inspired the troops. The cause of liberty — the ideals outlined in the [Declaration of Independence](/articles/declaration-of-independence/) — gave the struggle meaning beyond personal survival. And a sense of solidarity among men who had been through hell together created bonds that held the army together.
 
-There was also anger. Many soldiers were furious at Congress and the civilian supply system for failing them. That anger, paradoxically, fueled their determination. They would not let the bureaucrats' failures destroy what they had fought and bled for.
+There was also anger. Many soldiers were furious at Congress and the civilian supply system for failing them. That anger, strangely enough, fueled their determination. They would not let the bureaucrats' failures destroy what they had fought and bled for.
 
 ## The Transformation
 

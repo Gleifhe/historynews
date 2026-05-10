@@ -33,7 +33,7 @@ The president immediately assembled a group of his most trusted advisors — a g
 
 ExComm quickly narrowed the choices to three main options:
 
-**Air strikes**: Destroy the missile sites with bombing raids before they became operational. The Air Force estimated this would require hundreds of sorties and could not guarantee all missiles would be destroyed. It would also kill Soviet soldiers, which could trigger a wider war.
+**Air strikes**: Destroy the missile sites with bombing raids before they became operational. The Air Force estimated this would require hundreds of bombing missions and could not guarantee all missiles would be destroyed. It would also kill Soviet soldiers, which could trigger a wider war.
 
 **Invasion**: Launch a full-scale military invasion of Cuba to remove the missiles and overthrow Fidel Castro. This was the most aggressive option and carried the highest risk of direct conflict with the Soviet Union. The [Bay of Pigs disaster](/articles/bay-of-pigs-declassified/) just 18 months earlier had shown how badly an invasion could go wrong.
 

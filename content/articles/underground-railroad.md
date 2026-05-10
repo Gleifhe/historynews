@@ -29,7 +29,7 @@ That was the reality for thousands of enslaved people who escaped through the Un
 
 The Underground Railroad wasn't a railroad at all. It used railroad language as code. Safe houses were called "stations." The people who hid runaways were "station masters." The guides who led people north were "conductors." And the enslaved people making the journey were "passengers."
 
-The network stretched across 14 states, from the Deep South to the Canadian border. It operated from the late 1700s through the Civil War, but reached its peak between 1850 and 1860 — after Congress passed the Fugitive Slave Act, which required people in free states to help catch and return escaped enslaved people. The law made even Northerners complicit in slavery and pushed many who had been on the sidelines to join the fight.
+The network stretched across 14 states, from the Deep South to the Canadian border. It operated from the late 1700s through the Civil War, but reached its peak between 1850 and 1860 — after Congress passed the Fugitive Slave Act, which required people in free states to help catch and return escaped enslaved people. The law made even Northerners partly responsible for slavery and pushed many who had been on the sidelines to join the fight.
 
 Historians estimate that between 25,000 and 100,000 people escaped through the Underground Railroad. The exact number is impossible to know because the whole operation depended on secrecy. Records were deliberately destroyed to protect everyone involved.
 
@@ -41,7 +41,7 @@ Over the next decade, Tubman made approximately 13 trips back into slave territo
 
 Tubman traveled at night, usually in winter when longer hours of darkness gave more cover. She carried a pistol — not just for protection from slave catchers, but to keep frightened passengers from turning back. If someone panicked and tried to return, they could expose the entire network. Tubman reportedly told hesitant travelers, "You'll be free or die."
 
-Slaveholders in Maryland put a $40,000 bounty on her head — an enormous sum at the time. They never caught her.
+Slaveholders in Maryland put a bounty on her head, reportedly as high as $40,000 — an enormous sum at the time. They never caught her.
 
 ## The Network of Ordinary Heroes
 

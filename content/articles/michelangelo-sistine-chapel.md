@@ -25,13 +25,13 @@ In the spring of 1508, Michelangelo Buonarroti received a summons he couldn't re
 
 Michelangelo was furious. He was a sculptor, not a painter. At 33 years old, he had already carved the *Pietà* and the *David*, two of the greatest sculptures in history. He was working on a massive tomb for the pope — a project he considered his true masterpiece. Painting a ceiling felt like a demotion.
 
-Michelangelo suspected a conspiracy. He believed that his rivals — particularly the architect Donato Bramante and the young painter Raphael — had convinced the pope to give him the ceiling job, knowing he had little experience with fresco painting. They wanted him to fail publicly.
+Michelangelo suspected a conspiracy. He believed that his rivals — particularly the architect Donato Bramante and the young painter Raphael — had convinced the pope to give him the ceiling job, knowing he had little experience with fresco painting — a technique in which paint is applied to wet plaster on a wall or ceiling, bonding with the surface as it dries. They wanted him to fail publicly.
 
 But you didn't say no to Pope Julius II. Michelangelo accepted the commission.
 
 ## Painting the Impossible
 
-The Sistine Chapel ceiling covers about 5,800 square feet — roughly the size of a basketball court, but curved and 68 feet above the floor. The pope initially wanted Michelangelo to paint the twelve apostles and some decorative patterns. Michelangelo talked him into something far more ambitious: nine scenes from the Book of Genesis, surrounded by prophets, sibyls, and hundreds of individual figures.
+The Sistine Chapel ceiling covers about 5,800 square feet — roughly the size of a basketball court, but curved and 68 feet above the floor. The pope initially wanted Michelangelo to paint the twelve apostles and some decorative patterns. Michelangelo talked him into something far more ambitious: nine scenes from the Book of Genesis, surrounded by prophets, sibyls (female prophets), and hundreds of individual figures.
 
 Michelangelo designed his own scaffolding system — a flat wooden platform that extended from the walls without touching the ceiling. He fired the assistants Bramante had sent him and did almost all the work himself.
 

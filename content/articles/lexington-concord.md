@@ -21,7 +21,7 @@ sources:
 
 ## The Road to Revolution
 
-By the spring of 1775, the American colonies and Great Britain were on a collision course. For more than a decade, colonists had protested British taxes and policies they considered unjust. "No taxation without representation" had become a rallying cry. The Boston Tea Party in 1773, when colonists dumped 342 chests of tea into Boston Harbor, had pushed the British government to crack down with punitive laws the colonists called the "Intolerable Acts."
+By the spring of 1775, the American colonies and Great Britain were on a collision course. For more than a decade, colonists had protested British taxes and policies they considered unjust. "No taxation without representation" had become a rallying cry. The Boston Tea Party in 1773, when colonists dumped 342 chests of tea into Boston Harbor, had pushed the British government to crack down with harsh punishment laws the colonists called the "Intolerable Acts."
 
 Massachusetts was the center of resistance. The colonial legislature had been dissolved. British troops occupied Boston. General Thomas Gage, the British commander, was under pressure from London to arrest the rebel leaders and seize the colonists' weapons.
 
@@ -87,7 +87,7 @@ The militiamen at Concord also demonstrate the power of ordinary people acting t
 
 ## How This Connects to 2026
 
-In 2026, the 250th anniversary of the American Revolution is approaching, and communities across the United States are preparing to commemorate the birth of the nation. The semiquincentennial offers an opportunity to revisit the founding ideals — liberty, self-governance, and the right to resist tyranny — and to ask how well the country has lived up to them.
+In 2026, the 250th anniversary of the American Revolution is approaching, and communities across the United States are preparing to commemorate the birth of the nation. The 250th anniversary offers an opportunity to revisit the founding ideals — liberty, self-governance, and the right to resist tyranny — and to ask how well the country has lived up to them.
 
 The battles of Lexington and Concord also resonate with modern debates about citizen engagement and civic responsibility. The Minutemen were ordinary citizens who took responsibility for their community's defense. In an era when voter turnout is often low and civic engagement can feel optional, their example raises an important question: What are you willing to do for the community and ideals you believe in?
 

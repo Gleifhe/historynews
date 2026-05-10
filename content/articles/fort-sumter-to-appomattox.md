@@ -1,6 +1,6 @@
 ---
 title: "From Fort Sumter to Appomattox"
-headline: "FOUR YEARS OF BLOOD: The War That Killed 620,000 Americans and Remade a Nation"
+headline: "FOUR YEARS OF BLOOD: The War That Killed Approximately 700,000 Americans and Remade a Nation"
 summary: "The full story of the American Civil War — from the first shots at Fort Sumter to Lee's surrender at Appomattox — and how it transformed the United States forever."
 date: 2026-05-09T12:50:00
 historydate: "1861-1865"
@@ -37,7 +37,7 @@ For the first two years, the Confederacy won most of the major battles in the ea
 
 But the Union had huge advantages that would matter over time. The North had more people — 22 million compared to the South's 9 million (including nearly 4 million enslaved people). The North had more factories, more railroads, and more money. The Union Navy blockaded Southern ports, slowly strangling the Confederacy's ability to trade.
 
-In September 1862, Lincoln issued the [Emancipation Proclamation](/articles/emancipation-proclamation/), declaring that enslaved people in Confederate territory were free. This transformed the war from a fight to save the Union into a fight to end slavery. It also allowed Black men to join the Union Army — and nearly 200,000 did.
+In September 1862, Lincoln issued the preliminary [Emancipation Proclamation](/articles/emancipation-proclamation/), declaring that enslaved people in Confederate territory would be free as of January 1, 1863. This transformed the war from a fight to save the Union into a fight to end slavery. It also allowed Black men to join the Union Army — and nearly 200,000 did.
 
 ## The Turning Point
 
@@ -59,7 +59,7 @@ Five days later, Lincoln was assassinated by John Wilkes Booth at Ford's Theatre
 
 ## The Cost
 
-The Civil War killed approximately 620,000 Americans — more than all other American wars combined until Vietnam. Entire communities were wiped out. The South was physically and economically destroyed. The process of rebuilding — called Reconstruction — would last for years and leave deep scars that America still carries today.
+The Civil War killed approximately 700,000 Americans — more than all other American wars combined until Vietnam. Entire communities were wiped out. The South was physically and economically destroyed. The process of rebuilding — called Reconstruction — would last for years and leave deep scars that America still carries today.
 
 But the war also ended slavery. The 13th Amendment, ratified in December 1865, permanently abolished slavery in the United States. Four million people were freed. It was the beginning — not the end — of the fight for true equality.
 

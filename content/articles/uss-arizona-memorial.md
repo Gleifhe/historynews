@@ -53,7 +53,7 @@ Survivors of the Arizona are given the option to be interred within the ship's w
 
 ## The Oil Still Flows
 
-More than 80 years after the attack, the Arizona continues to leak oil. About two quarts seep from the wreck each day, rising to the surface in small iridescent drops. Visitors to the memorial can see the oil shimmering on the water.
+More than 80 years after the attack, the Arizona continues to leak oil. About two quarts seep from the wreck each day, rising to the surface in small shimmering drops. Visitors to the memorial can see the oil shimmering on the water.
 
 Some people call these drops "the tears of the Arizona" or "black tears." The oil comes from approximately 500,000 gallons of fuel oil that were still in the ship's bunkers when she sank. Navy researchers and conservationists have studied the wreck extensively to monitor its condition. The hull is slowly deteriorating, and experts predict that within the coming decades, the remaining oil could be released in larger quantities.
 
@@ -61,7 +61,7 @@ Whether to remove the oil or leave the ship undisturbed remains a subject of car
 
 ## A Place of Remembrance
 
-The USS Arizona Memorial is the most visited attraction in Hawaii, drawing approximately 1.8 million visitors per year. It is operated by the National Park Service as part of Pearl Harbor National Memorial.
+The USS Arizona Memorial is the most visited attraction in Hawaii, drawing more than two million visitors per year. It is operated by the National Park Service as part of Pearl Harbor National Memorial.
 
 The memorial also serves as a powerful place of reconciliation. Japanese visitors frequently leave flowers and pay their respects. In 2016, Japanese Prime Minister Shinzo Abe visited the memorial alongside President Barack Obama — the first sitting Japanese leader to do so. The visit echoed the spirit of reconciliation seen at other WWII commemorations, from [Iwo Jima](/articles/iwo-jima-flag-photo/) to the beaches of [Normandy](/articles/d-day-oral-histories/).
 
@@ -71,7 +71,7 @@ The USS Arizona teaches us about the weight of sacrifice. The men aboard that sh
 
 The decision to leave the Arizona where she sank — rather than raise and scrap her — speaks to the importance of remembrance. Some things should not be cleaned up, moved on from, or forgotten. Some losses deserve permanent markers. In our personal lives, too, there are events and people that deserve to be remembered, not just filed away.
 
-The story of the 23 sets of brothers is especially poignant. After the losses at Pearl Harbor, the military changed its policy to avoid assigning siblings to the same ship or unit. One tragedy led to a change that protected future families. Learning from loss — making sure it doesn't happen again — is one of the most meaningful things anyone can do.
+The story of the 23 sets of brothers is especially deeply moving. After the losses at Pearl Harbor, the military changed its policy to avoid assigning siblings to the same ship or unit. One tragedy led to a change that protected future families. Learning from loss — making sure it doesn't happen again — is one of the most meaningful things anyone can do.
 
 ## How This Connects to 2026
 

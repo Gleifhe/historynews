@@ -55,7 +55,7 @@ Fifty-three minutes later, 353 Japanese aircraft struck Pearl Harbor.
 
 ## Why the Warnings Failed
 
-Investigations after the attack identified several factors that allowed the intelligence failures to occur. Information was compartmentalized — the Army and Navy did not share intelligence with each other. Codebreaking intelligence was so secret that few commanders were allowed to see it. Warnings were vague and did not specify targets. And there was a deep assumption that Japan would never dare attack the United States directly.
+Investigations after the attack identified several factors that allowed the intelligence failures to occur. Information was kept separate — the Army and Navy did not share intelligence with each other. Codebreaking intelligence was so secret that few commanders were allowed to see it. Warnings were vague and did not specify targets. And there was a deep assumption that Japan would never dare attack the United States directly.
 
 This pattern of institutional failure would repeat itself throughout history. Sixty years later, the 9/11 Commission would identify strikingly similar problems — agencies that did not share information, warnings that were not heeded, and assumptions that blinded leaders to threats. The same dynamics appeared in the [Bay of Pigs intelligence failures](/articles/bay-of-pigs-declassified/) and even in the delayed response to the [Chernobyl disaster](/articles/chernobyl-disaster/), where bureaucratic secrecy cost lives.
 
