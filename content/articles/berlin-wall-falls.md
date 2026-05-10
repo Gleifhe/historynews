@@ -10,7 +10,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/1/1c/West_and_East_German
 imagealt: "Crowds at the Brandenburg Gate as the Berlin Wall falls, November 1989"
 imagecaption: "East and West Germans celebrate at the Brandenburg Gate after the fall of the Berlin Wall"
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/snsdDb7KDkg"
+video: "https://www.youtube.com/embed/OIYy32RuHao"
 weight: 4
 sources:
   - '<a href="https://www.europeana.eu/en/collections/topic/83-1989-fall-of-the-iron-curtain">Europeana — Fall of the Iron Curtain Collection</a>'
