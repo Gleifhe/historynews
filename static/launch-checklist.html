@@ -1,0 +1,922 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>History News — Launch Checklist & Growth Playbook</title>
+  <style>
+    :root {
+      --navy: #1a1a2e;
+      --gold: #c9a84c;
+      --gold-light: #e8d5a3;
+      --cream: #faf8f0;
+      --white: #ffffff;
+      --text: #2c2c2c;
+      --text-light: #5a5a5a;
+      --green: #2d6a4f;
+      --green-light: #d8f3dc;
+      --red: #c0392b;
+      --blue: #2980b9;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+      background: var(--cream);
+      color: var(--text);
+      line-height: 1.7;
+    }
+    .header {
+      background: var(--navy);
+      color: var(--gold);
+      padding: 2rem;
+      text-align: center;
+      border-bottom: 3px solid var(--gold);
+    }
+    .header h1 { font-size: 2rem; margin-bottom: 0.5rem; }
+    .header p { color: var(--gold-light); font-size: 1rem; }
+    .progress-bar-container {
+      background: var(--navy);
+      padding: 0 2rem 1.5rem;
+      text-align: center;
+    }
+    .progress-bar {
+      background: rgba(255,255,255,0.1);
+      border-radius: 20px;
+      height: 24px;
+      max-width: 600px;
+      margin: 0 auto;
+      overflow: hidden;
+      position: relative;
+    }
+    .progress-fill {
+      background: linear-gradient(90deg, var(--gold), var(--gold-light));
+      height: 100%;
+      border-radius: 20px;
+      transition: width 0.5s;
+      width: 0%;
+    }
+    .progress-text {
+      color: var(--gold-light);
+      font-size: 0.85rem;
+      margin-top: 0.5rem;
+    }
+    .container { max-width: 900px; margin: 0 auto; padding: 2rem 1.5rem; }
+    .phase {
+      margin-bottom: 2.5rem;
+      background: var(--white);
+      border-radius: 8px;
+      border: 1px solid #ddd;
+      overflow: hidden;
+    }
+    .phase-header {
+      background: var(--navy);
+      color: var(--gold);
+      padding: 1rem 1.5rem;
+      cursor: pointer;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      user-select: none;
+    }
+    .phase-header:hover { background: #222244; }
+    .phase-header h2 { font-size: 1.2rem; margin: 0; }
+    .phase-badge {
+      background: var(--gold);
+      color: var(--navy);
+      font-size: 0.65rem;
+      font-weight: 700;
+      padding: 2px 10px;
+      border-radius: 10px;
+      letter-spacing: 1px;
+    }
+    .phase-body { padding: 0; display: none; }
+    .phase.open .phase-body { display: block; }
+    .phase.open .phase-header .arrow { transform: rotate(180deg); }
+    .arrow { transition: transform 0.2s; font-size: 1.2rem; }
+    .task {
+      padding: 1rem 1.5rem;
+      border-bottom: 1px solid #eee;
+      display: flex;
+      gap: 1rem;
+      align-items: flex-start;
+    }
+    .task:last-child { border-bottom: none; }
+    .task input[type="checkbox"] {
+      width: 20px;
+      height: 20px;
+      margin-top: 3px;
+      accent-color: var(--green);
+      cursor: pointer;
+      flex-shrink: 0;
+    }
+    .task-content { flex: 1; }
+    .task-title {
+      font-weight: 700;
+      font-size: 1rem;
+      color: var(--navy);
+      margin-bottom: 0.25rem;
+    }
+    .task-meta {
+      display: flex;
+      gap: 0.75rem;
+      margin-bottom: 0.5rem;
+      flex-wrap: wrap;
+    }
+    .tag {
+      font-size: 0.65rem;
+      font-weight: 600;
+      padding: 2px 8px;
+      border-radius: 3px;
+      letter-spacing: 0.5px;
+    }
+    .tag-effort { background: #e3f2fd; color: #1565c0; }
+    .tag-impact { background: #fce4ec; color: #c62828; }
+    .tag-cost { background: var(--green-light); color: var(--green); }
+    .task-desc {
+      font-size: 0.9rem;
+      color: var(--text-light);
+      margin-bottom: 0.5rem;
+    }
+    .steps {
+      background: #f8f8f8;
+      border-radius: 6px;
+      padding: 1rem;
+      margin-top: 0.5rem;
+      display: none;
+    }
+    .steps.open { display: block; }
+    .step-toggle {
+      background: none;
+      border: 1px solid var(--gold);
+      color: var(--gold);
+      padding: 4px 12px;
+      border-radius: 3px;
+      font-size: 0.75rem;
+      cursor: pointer;
+      font-weight: 600;
+    }
+    .step-toggle:hover { background: var(--gold); color: var(--navy); }
+    .steps ol {
+      margin: 0;
+      padding-left: 1.25rem;
+    }
+    .steps li {
+      margin-bottom: 0.5rem;
+      font-size: 0.85rem;
+      line-height: 1.6;
+    }
+    .steps code {
+      background: #e8e8e8;
+      padding: 1px 6px;
+      border-radius: 3px;
+      font-size: 0.8rem;
+      font-family: 'Consolas', 'Courier New', monospace;
+    }
+    .steps pre {
+      background: var(--navy);
+      color: var(--gold-light);
+      padding: 0.75rem 1rem;
+      border-radius: 4px;
+      overflow-x: auto;
+      font-size: 0.8rem;
+      margin: 0.5rem 0;
+    }
+    .steps a { color: var(--blue); }
+    .task.completed .task-title { text-decoration: line-through; color: var(--text-light); }
+    .footer {
+      text-align: center;
+      padding: 2rem;
+      color: var(--text-light);
+      font-size: 0.8rem;
+      border-top: 1px solid #ddd;
+    }
+  </style>
+</head>
+<body>
+
+<div class="header">
+  <h1>History News — Launch Checklist</h1>
+  <p>25 steps to take your site from localhost to a traffic-driving machine</p>
+</div>
+<div class="progress-bar-container">
+  <div class="progress-bar"><div class="progress-fill" id="progressFill"></div></div>
+  <div class="progress-text" id="progressText">0 of 25 completed</div>
+</div>
+
+<div class="container">
+
+<!-- PHASE 1 -->
+<div class="phase open">
+  <div class="phase-header" onclick="togglePhase(this)">
+    <h2>Phase 1: Go Live (Day 1)</h2>
+    <div><span class="phase-badge">CRITICAL</span> <span class="arrow">▼</span></div>
+  </div>
+  <div class="phase-body">
+
+    <div class="task">
+      <input type="checkbox" onchange="updateProgress()">
+      <div class="task-content">
+        <div class="task-title">1. Get YouTube Data API Key</div>
+        <div class="task-meta">
+          <span class="tag tag-effort">10 MIN</span>
+          <span class="tag tag-impact">HIGH IMPACT</span>
+          <span class="tag tag-cost">FREE</span>
+        </div>
+        <div class="task-desc">Fixes 77 placeholder videos automatically. Enables batch search for embeddable videos.</div>
+        <button class="step-toggle" onclick="toggleSteps(this)">Show Steps</button>
+        <div class="steps">
+          <ol>
+            <li>Go to <a href="https://console.cloud.google.com/" target="_blank">console.cloud.google.com</a> — sign in with any Google account</li>
+            <li>Click the project dropdown → <strong>"New Project"</strong> → name it <code>HistoryNews-Videos</code> → Create</li>
+            <li>Left sidebar → <strong>"APIs &amp; Services"</strong> → <strong>"Library"</strong></li>
+            <li>Search for <code>YouTube Data API v3</code> → click it → click <strong>"Enable"</strong></li>
+            <li>Left sidebar → <strong>"APIs &amp; Services"</strong> → <strong>"Credentials"</strong></li>
+            <li>Click <strong>"+ Create Credentials"</strong> → <strong>"API Key"</strong></li>
+            <li>Copy the key (looks like <code>AIzaSyD-XXXX...</code>)</li>
+            <li>Click "Edit API key" → Restrict to <strong>YouTube Data API v3 only</strong> → Save</li>
+            <li>Run: <code>python scripts/find-videos.py --api-key YOUR_KEY</code></li>
+          </ol>
+        </div>
+      </div>
+    </div>
+
+    <div class="task">
+      <input type="checkbox" onchange="updateProgress()">
+      <div class="task-content">
+        <div class="task-title">2. Deploy to Netlify</div>
+        <div class="task-meta">
+          <span class="tag tag-effort">15 MIN</span>
+          <span class="tag tag-impact">CRITICAL</span>
+          <span class="tag tag-cost">FREE</span>
+        </div>
+        <div class="task-desc">Your 172 articles are sitting on localhost. Get them live. Netlify auto-deploys from GitHub.</div>
+        <button class="step-toggle" onclick="toggleSteps(this)">Show Steps</button>
+        <div class="steps">
+          <ol>
+            <li>Go to <a href="https://app.netlify.com/signup" target="_blank">app.netlify.com/signup</a> — sign up with GitHub</li>
+            <li>Click <strong>"Add new site"</strong> → <strong>"Import an existing project"</strong></li>
+            <li>Select <strong>GitHub</strong> → authorize → select <code>historynews</code> repo</li>
+            <li>Build settings:
+              <pre>Build command: hugo
+Publish directory: public
+Environment variable: HUGO_VERSION = 0.153.2</pre>
+            </li>
+            <li>Click <strong>"Deploy site"</strong> — wait ~60 seconds</li>
+            <li>Your site is now live at <code>random-name.netlify.app</code></li>
+            <li>Go to <strong>Site settings → Domain management</strong> to add your custom domain later</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+
+    <div class="task">
+      <input type="checkbox" onchange="updateProgress()">
+      <div class="task-content">
+        <div class="task-title">3. Buy a Domain Name</div>
+        <div class="task-meta">
+          <span class="tag tag-effort">5 MIN</span>
+          <span class="tag tag-impact">HIGH</span>
+          <span class="tag tag-cost">$12/YEAR</span>
+        </div>
+        <div class="task-desc">A real domain gives your site credibility and SEO authority. Check availability on Namecheap or Cloudflare Registrar.</div>
+        <button class="step-toggle" onclick="toggleSteps(this)">Show Steps</button>
+        <div class="steps">
+          <ol>
+            <li>Go to <a href="https://www.namecheap.com/" target="_blank">namecheap.com</a> or <a href="https://www.cloudflare.com/products/registrar/" target="_blank">Cloudflare Registrar</a> (cheapest, at-cost pricing)</li>
+            <li>Search for your desired domain (e.g., <code>historynews.org</code>, <code>historynewsdaily.com</code>)</li>
+            <li>Purchase ($8-15/year for .com)</li>
+            <li>In Netlify: <strong>Site settings → Domain management → Add custom domain</strong></li>
+            <li>Update your DNS records (Netlify provides instructions)</li>
+            <li>Update <code>baseURL</code> in <code>config.toml</code> to your new domain</li>
+            <li>Update all Facebook social media links from <code>historynews.example.com</code></li>
+          </ol>
+        </div>
+      </div>
+    </div>
+
+    <div class="task">
+      <input type="checkbox" onchange="updateProgress()">
+      <div class="task-content">
+        <div class="task-title">4. Add Privacy-Friendly Analytics</div>
+        <div class="task-meta">
+          <span class="tag tag-effort">5 MIN</span>
+          <span class="tag tag-impact">HIGH</span>
+          <span class="tag tag-cost">FREE - $9/MO</span>
+        </div>
+        <div class="task-desc">You can't improve what you can't measure. See which articles get traffic, where visitors come from, and what they click.</div>
+        <button class="step-toggle" onclick="toggleSteps(this)">Show Steps</button>
+        <div class="steps">
+          <ol>
+            <li>Choose: <a href="https://plausible.io/" target="_blank">Plausible</a> ($9/mo, privacy-first) or <a href="https://umami.is/" target="_blank">Umami</a> (free self-hosted) or <a href="https://analytics.google.com/" target="_blank">Google Analytics</a> (free, less private)</li>
+            <li>Sign up and get your tracking snippet</li>
+            <li>Add the snippet to <code>layouts/_default/baseof.html</code> just before <code>&lt;/head&gt;</code></li>
+            <li>Commit and push — Netlify auto-deploys</li>
+            <li>Wait 24 hours, then check your dashboard for first data</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+
+    <div class="task">
+      <input type="checkbox" onchange="updateProgress()">
+      <div class="task-content">
+        <div class="task-title">5. Set Up Cloudflare CDN</div>
+        <div class="task-meta">
+          <span class="tag tag-effort">10 MIN</span>
+          <span class="tag tag-impact">MEDIUM</span>
+          <span class="tag tag-cost">FREE</span>
+        </div>
+        <div class="task-desc">Faster load times globally, free SSL certificate, caching, and DDoS protection.</div>
+        <button class="step-toggle" onclick="toggleSteps(this)">Show Steps</button>
+        <div class="steps">
+          <ol>
+            <li>Go to <a href="https://www.cloudflare.com/" target="_blank">cloudflare.com</a> — create free account</li>
+            <li>Click <strong>"Add a Site"</strong> → enter your domain</li>
+            <li>Select the <strong>Free plan</strong></li>
+            <li>Cloudflare scans your DNS records — review and confirm</li>
+            <li>Change your domain's nameservers to Cloudflare's (instructions provided)</li>
+            <li>Wait ~24 hours for propagation</li>
+            <li>Enable: <strong>SSL/TLS → Full</strong>, <strong>Speed → Auto Minify</strong>, <strong>Caching → Browser Cache TTL: 1 month</strong></li>
+          </ol>
+          <p><em>Skip this step if you used Cloudflare Registrar for your domain — it's already configured.</em></p>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- PHASE 2 -->
+<div class="phase">
+  <div class="phase-header" onclick="togglePhase(this)">
+    <h2>Phase 2: Get Found (Day 2)</h2>
+    <div><span class="phase-badge">SEO</span> <span class="arrow">▼</span></div>
+  </div>
+  <div class="phase-body">
+
+    <div class="task">
+      <input type="checkbox" onchange="updateProgress()">
+      <div class="task-content">
+        <div class="task-title">6. Submit to Google Search Console</div>
+        <div class="task-meta">
+          <span class="tag tag-effort">5 MIN</span>
+          <span class="tag tag-impact">CRITICAL</span>
+          <span class="tag tag-cost">FREE</span>
+        </div>
+        <div class="task-desc">Google won't index your 172 articles unless you tell it they exist. Submit your sitemap.</div>
+        <button class="step-toggle" onclick="toggleSteps(this)">Show Steps</button>
+        <div class="steps">
+          <ol>
+            <li>Go to <a href="https://search.google.com/search-console" target="_blank">search.google.com/search-console</a></li>
+            <li>Click <strong>"Add property"</strong> → enter your domain</li>
+            <li>Verify ownership (DNS TXT record or HTML file — Cloudflare makes DNS easy)</li>
+            <li>Go to <strong>"Sitemaps"</strong> in the left sidebar</li>
+            <li>Enter: <code>sitemap.xml</code> → click <strong>"Submit"</strong></li>
+            <li>Google will begin crawling your 172 articles within 24-48 hours</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+
+    <div class="task">
+      <input type="checkbox" onchange="updateProgress()">
+      <div class="task-content">
+        <div class="task-title">7. Submit to Bing Webmaster Tools</div>
+        <div class="task-meta">
+          <span class="tag tag-effort">5 MIN</span>
+          <span class="tag tag-impact">MEDIUM</span>
+          <span class="tag tag-cost">FREE</span>
+        </div>
+        <div class="task-desc">Bing powers DuckDuckGo and Yahoo search too. Same process as Google.</div>
+        <button class="step-toggle" onclick="toggleSteps(this)">Show Steps</button>
+        <div class="steps">
+          <ol>
+            <li>Go to <a href="https://www.bing.com/webmasters" target="_blank">bing.com/webmasters</a></li>
+            <li>Sign in with Microsoft account</li>
+            <li>Click <strong>"Import from Google Search Console"</strong> (fastest) or add manually</li>
+            <li>Submit your sitemap: <code>sitemap.xml</code></li>
+          </ol>
+        </div>
+      </div>
+    </div>
+
+    <div class="task">
+      <input type="checkbox" onchange="updateProgress()">
+      <div class="task-content">
+        <div class="task-title">8. Build Era Taxonomy Pages</div>
+        <div class="task-meta">
+          <span class="tag tag-effort">30 MIN</span>
+          <span class="tag tag-impact">HIGH</span>
+          <span class="tag tag-cost">FREE</span>
+        </div>
+        <div class="task-desc">Fix the Hugo taxonomy warning and create SEO-friendly landing pages like /eras/world-war-ii/ that rank in Google.</div>
+        <button class="step-toggle" onclick="toggleSteps(this)">Show Steps</button>
+        <div class="steps">
+          <ol>
+            <li>Create <code>layouts/_default/taxonomy.html</code> and <code>layouts/_default/term.html</code></li>
+            <li>The taxonomy page lists all eras; the term page shows articles in that era</li>
+            <li>Add <code>eras = "eras"</code> to the <code>[taxonomies]</code> section in <code>config.toml</code> (already done)</li>
+            <li>Run <code>hugo</code> — the warning should disappear</li>
+            <li>Each era now has its own URL: <code>/eras/world-war-ii/</code>, <code>/eras/cold-war/</code>, etc.</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+
+    <div class="task">
+      <input type="checkbox" onchange="updateProgress()">
+      <div class="task-content">
+        <div class="task-title">9. Add Breadcrumb Navigation</div>
+        <div class="task-meta">
+          <span class="tag tag-effort">15 MIN</span>
+          <span class="tag tag-impact">MEDIUM</span>
+          <span class="tag tag-cost">FREE</span>
+        </div>
+        <div class="task-desc">Breadcrumbs (Home > Articles > Era > Title) appear in Google search results and improve click-through rate.</div>
+        <button class="step-toggle" onclick="toggleSteps(this)">Show Steps</button>
+        <div class="steps">
+          <ol>
+            <li>Create <code>layouts/partials/breadcrumbs.html</code> with structured data</li>
+            <li>Add <code>BreadcrumbList</code> JSON-LD schema</li>
+            <li>Include the partial at the top of <code>layouts/articles/single.html</code></li>
+            <li>Style with CSS for visual breadcrumbs</li>
+            <li>Test with <a href="https://search.google.com/test/rich-results" target="_blank">Google Rich Results Test</a></li>
+          </ol>
+        </div>
+      </div>
+    </div>
+
+    <div class="task">
+      <input type="checkbox" onchange="updateProgress()">
+      <div class="task-content">
+        <div class="task-title">10. Create a Human-Readable Sitemap Page</div>
+        <div class="task-meta">
+          <span class="tag tag-effort">15 MIN</span>
+          <span class="tag tag-impact">MEDIUM</span>
+          <span class="tag tag-cost">FREE</span>
+        </div>
+        <div class="task-desc">An A-Z listing of all 172 articles on one page. Google loves crawling these, and visitors use them for discovery.</div>
+        <button class="step-toggle" onclick="toggleSteps(this)">Show Steps</button>
+        <div class="steps">
+          <ol>
+            <li>Create <code>content/sitemap-page.md</code> with a custom layout</li>
+            <li>The template loops through all articles and displays them grouped by era</li>
+            <li>Link it from the footer and nav menu</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- PHASE 3 -->
+<div class="phase">
+  <div class="phase-header" onclick="togglePhase(this)">
+    <h2>Phase 3: Automate Content (Day 3)</h2>
+    <div><span class="phase-badge">AUTOMATION</span> <span class="arrow">▼</span></div>
+  </div>
+  <div class="phase-body">
+
+    <div class="task">
+      <input type="checkbox" onchange="updateProgress()">
+      <div class="task-content">
+        <div class="task-title">11. Build "This Day in History" Page</div>
+        <div class="task-meta">
+          <span class="tag tag-effort">2 HRS</span>
+          <span class="tag tag-impact">VERY HIGH</span>
+          <span class="tag tag-cost">FREE</span>
+        </div>
+        <div class="task-desc">Fresh content every single day using the free Wikipedia "On This Day" API. Zero manual work. The #1 traffic driver for history sites.</div>
+        <button class="step-toggle" onclick="toggleSteps(this)">Show Steps</button>
+        <div class="steps">
+          <ol>
+            <li>Create <code>content/today-in-history.md</code> with a custom layout</li>
+            <li>The page loads today's events via JavaScript from:<br>
+              <pre>https://api.wikimedia.org/feed/v1/wikipedia/en/onthisday/all/MM/DD</pre>
+            </li>
+            <li>Display events, births, and deaths for today's date</li>
+            <li>Cross-reference against your articles — highlight matches with "Read our full article" links</li>
+            <li>Add to nav menu: <strong>Home | Articles | Today | About</strong></li>
+          </ol>
+        </div>
+      </div>
+    </div>
+
+    <div class="task">
+      <input type="checkbox" onchange="updateProgress()">
+      <div class="task-content">
+        <div class="task-title">12. Schedule Daily Social Media Posts</div>
+        <div class="task-meta">
+          <span class="tag tag-effort">30 MIN</span>
+          <span class="tag tag-impact">HIGH</span>
+          <span class="tag tag-cost">FREE TIER</span>
+        </div>
+        <div class="task-desc">You already have 150 social posts in CSV format. Upload them to Buffer or Hootsuite and schedule for the next 6 months.</div>
+        <button class="step-toggle" onclick="toggleSteps(this)">Show Steps</button>
+        <div class="steps">
+          <ol>
+            <li>Sign up for <a href="https://buffer.com/" target="_blank">Buffer</a> (free: 3 channels, 10 posts each)</li>
+            <li>Connect your Instagram, Facebook, and TikTok accounts</li>
+            <li>Open <code>social-media/social-posts-batch1.csv</code> and <code>batch2.csv</code></li>
+            <li>Use Buffer's <strong>Bulk Upload</strong> feature to import the CSV</li>
+            <li>Set a posting schedule (e.g., 9 AM, 12 PM, 6 PM)</li>
+            <li>For "This Day in History" daily posts, create a recurring template</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+
+    <div class="task">
+      <input type="checkbox" onchange="updateProgress()">
+      <div class="task-content">
+        <div class="task-title">13. Set Up GitHub Actions CI/CD</div>
+        <div class="task-meta">
+          <span class="tag tag-effort">30 MIN</span>
+          <span class="tag tag-impact">HIGH</span>
+          <span class="tag tag-cost">FREE</span>
+        </div>
+        <div class="task-desc">Auto-run quality-check.py and video embed check on every push. Rejects bad content before it goes live.</div>
+        <button class="step-toggle" onclick="toggleSteps(this)">Show Steps</button>
+        <div class="steps">
+          <ol>
+            <li>Create <code>.github/workflows/quality-check.yml</code> in your repo</li>
+            <li>The workflow should:
+              <pre>on: [push, pull_request]
+jobs:
+  quality-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+      - run: python scripts/quality-check.py
+      - run: python scripts/check-video-embeds.py</pre>
+            </li>
+            <li>Push the file — GitHub Actions runs automatically</li>
+            <li>You'll see a green ✓ or red ✗ on every commit</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+
+    <div class="task">
+      <input type="checkbox" onchange="updateProgress()">
+      <div class="task-content">
+        <div class="task-title">14. Create Article Template Snippet</div>
+        <div class="task-meta">
+          <span class="tag tag-effort">10 MIN</span>
+          <span class="tag tag-impact">MEDIUM</span>
+          <span class="tag tag-cost">FREE</span>
+        </div>
+        <div class="task-desc">Type <code>newhistory</code> + Tab in VS Code and get a full article scaffold with all fields pre-filled.</div>
+        <button class="step-toggle" onclick="toggleSteps(this)">Show Steps</button>
+        <div class="steps">
+          <ol>
+            <li>In VS Code: <strong>File → Preferences → Configure User Snippets → markdown</strong></li>
+            <li>Add a snippet with all front matter fields pre-filled</li>
+            <li>Use tab stops (<code>$1</code>, <code>$2</code>, etc.) for fields you need to fill in</li>
+            <li>Alternatively, use the existing <code>python scripts/new-article.py</code> CLI tool</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+
+    <div class="task">
+      <input type="checkbox" onchange="updateProgress()">
+      <div class="task-content">
+        <div class="task-title">15. Set Up RSS-to-Email Pipeline</div>
+        <div class="task-meta">
+          <span class="tag tag-effort">20 MIN</span>
+          <span class="tag tag-impact">HIGH</span>
+          <span class="tag tag-cost">FREE TIER</span>
+        </div>
+        <div class="task-desc">Hugo generates RSS. Connect to Buttondown or Mailchimp — every new article auto-sends to subscribers.</div>
+        <button class="step-toggle" onclick="toggleSteps(this)">Show Steps</button>
+        <div class="steps">
+          <ol>
+            <li>Sign up for <a href="https://buttondown.email/" target="_blank">Buttondown</a> (free up to 100 subscribers) or <a href="https://mailchimp.com/" target="_blank">Mailchimp</a> (free up to 500)</li>
+            <li>In settings, find <strong>"RSS to Email"</strong> or <strong>"RSS Campaign"</strong></li>
+            <li>Enter your RSS feed URL: <code>https://yourdomain.com/index.xml</code></li>
+            <li>Set frequency: weekly digest recommended</li>
+            <li>Add a signup form to your site (embed code in footer or sidebar)</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- PHASE 4 -->
+<div class="phase">
+  <div class="phase-header" onclick="togglePhase(this)">
+    <h2>Phase 4: Build Audience (Day 4-5)</h2>
+    <div><span class="phase-badge">GROWTH</span> <span class="arrow">▼</span></div>
+  </div>
+  <div class="phase-body">
+
+    <div class="task">
+      <input type="checkbox" onchange="updateProgress()">
+      <div class="task-content">
+        <div class="task-title">16. Add Email Signup with Lead Magnet</div>
+        <div class="task-meta">
+          <span class="tag tag-effort">30 MIN</span>
+          <span class="tag tag-impact">VERY HIGH</span>
+          <span class="tag tag-cost">FREE</span>
+        </div>
+        <div class="task-desc">"Get our free PDF: 10 History Moments That Changed Everything" in exchange for email. This is how you build a repeat audience.</div>
+        <button class="step-toggle" onclick="toggleSteps(this)">Show Steps</button>
+        <div class="steps">
+          <ol>
+            <li>Create a 1-page PDF from your 10 best article summaries (Canva or Google Docs)</li>
+            <li>Host the PDF on your site: <code>static/downloads/top-10-history-moments.pdf</code></li>
+            <li>Set up a signup form in Buttondown/ConvertKit with auto-delivery of the PDF</li>
+            <li>Add a signup box to: article pages (after the body), homepage sidebar, and footer</li>
+            <li>Create a dedicated landing page at <code>/subscribe/</code></li>
+          </ol>
+        </div>
+      </div>
+    </div>
+
+    <div class="task">
+      <input type="checkbox" onchange="updateProgress()">
+      <div class="task-content">
+        <div class="task-title">17. Create a "Start Here" Page</div>
+        <div class="task-meta">
+          <span class="tag tag-effort">20 MIN</span>
+          <span class="tag tag-impact">MEDIUM</span>
+          <span class="tag tag-cost">FREE</span>
+        </div>
+        <div class="task-desc">Curated list of your 10 best articles for new visitors. Reduces bounce rate and helps people fall in love with your site.</div>
+        <button class="step-toggle" onclick="toggleSteps(this)">Show Steps</button>
+        <div class="steps">
+          <ol>
+            <li>Create <code>content/start-here.md</code></li>
+            <li>Pick your 10 most engaging articles (mix of positive + dramatic)</li>
+            <li>Write a brief intro: "New here? Start with these 10 stories."</li>
+            <li>Add to nav menu between Home and Articles</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+
+    <div class="task">
+      <input type="checkbox" onchange="updateProgress()">
+      <div class="task-content">
+        <div class="task-title">18. Add History Quizzes</div>
+        <div class="task-meta">
+          <span class="tag tag-effort">1 HR</span>
+          <span class="tag tag-impact">HIGH</span>
+          <span class="tag tag-cost">FREE</span>
+        </div>
+        <div class="task-desc">JavaScript quiz at the bottom of articles ("Test what you learned!"). Increases time on site and makes results shareable.</div>
+        <button class="step-toggle" onclick="toggleSteps(this)">Show Steps</button>
+        <div class="steps">
+          <ol>
+            <li>Create a quiz partial: <code>layouts/partials/quiz.html</code></li>
+            <li>Store quiz questions in article front matter as a YAML list</li>
+            <li>Build a simple JS quiz engine (multiple choice, 5 questions)</li>
+            <li>Show score at the end with a "Share your score!" button</li>
+            <li>Start with 10 articles, then expand</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+
+    <div class="task">
+      <input type="checkbox" onchange="updateProgress()">
+      <div class="task-content">
+        <div class="task-title">19. Set Up a Newsletter</div>
+        <div class="task-meta">
+          <span class="tag tag-effort">15 MIN</span>
+          <span class="tag tag-impact">HIGH</span>
+          <span class="tag tag-cost">FREE</span>
+        </div>
+        <div class="task-desc">Weekly "This Week in History" email. Repurpose your existing articles — no new writing needed.</div>
+        <button class="step-toggle" onclick="toggleSteps(this)">Show Steps</button>
+        <div class="steps">
+          <ol>
+            <li>Sign up for <a href="https://substack.com/" target="_blank">Substack</a> (free, built-in audience) or <a href="https://ghost.org/" target="_blank">Ghost</a> (free self-hosted)</li>
+            <li>Create a weekly template: 3 article summaries + links back to your site</li>
+            <li>Schedule for Sunday mornings (best open rates for history content)</li>
+            <li>Cross-promote: link to newsletter signup from every article</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+
+    <div class="task">
+      <input type="checkbox" onchange="updateProgress()">
+      <div class="task-content">
+        <div class="task-title">20. Create Pinterest Pins</div>
+        <div class="task-meta">
+          <span class="tag tag-effort">1 HR</span>
+          <span class="tag tag-impact">HIGH</span>
+          <span class="tag tag-cost">FREE</span>
+        </div>
+        <div class="task-desc">History is HUGE on Pinterest. Each article image + headline = a pin. Use Canva's bulk create from CSV.</div>
+        <button class="step-toggle" onclick="toggleSteps(this)">Show Steps</button>
+        <div class="steps">
+          <ol>
+            <li>Create a Pinterest Business account</li>
+            <li>Design a pin template in <a href="https://www.canva.com/" target="_blank">Canva</a> (1000×1500px)</li>
+            <li>Use Canva's <strong>"Bulk Create"</strong> feature with your article titles + images as data</li>
+            <li>Export all pins and upload to Pinterest with links to your articles</li>
+            <li>Create boards by era: "World War II History," "Ancient World," etc.</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- PHASE 5 -->
+<div class="phase">
+  <div class="phase-header" onclick="togglePhase(this)">
+    <h2>Phase 5: Revenue & Sustainability</h2>
+    <div><span class="phase-badge">MONETIZE</span> <span class="arrow">▼</span></div>
+  </div>
+  <div class="phase-body">
+
+    <div class="task">
+      <input type="checkbox" onchange="updateProgress()">
+      <div class="task-content">
+        <div class="task-title">21. Apply for Google AdSense</div>
+        <div class="task-meta">
+          <span class="tag tag-effort">15 MIN</span>
+          <span class="tag tag-impact">MEDIUM</span>
+          <span class="tag tag-cost">FREE</span>
+        </div>
+        <div class="task-desc">Passive income from ad placements. History sites get $5-15 RPM. Wait until you have consistent traffic (~1,000 visits/month).</div>
+        <button class="step-toggle" onclick="toggleSteps(this)">Show Steps</button>
+        <div class="steps">
+          <ol>
+            <li>Wait until your site has 30+ days of consistent content and traffic</li>
+            <li>Go to <a href="https://www.google.com/adsense/" target="_blank">google.com/adsense</a> — apply</li>
+            <li>Add the verification snippet to your <code>baseof.html</code></li>
+            <li>Wait 1-14 days for approval</li>
+            <li>Place ad units: one below the article header, one between body sections</li>
+            <li>Don't overdo it — 2-3 ads per article maximum</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+
+    <div class="task">
+      <input type="checkbox" onchange="updateProgress()">
+      <div class="task-content">
+        <div class="task-title">22. Add Book Affiliate Links</div>
+        <div class="task-meta">
+          <span class="tag tag-effort">1 HR</span>
+          <span class="tag tag-impact">MEDIUM</span>
+          <span class="tag tag-cost">FREE</span>
+        </div>
+        <div class="task-desc">Your articles cite books in the sources section. Replace plain text with affiliate links to Amazon or Bookshop.org.</div>
+        <button class="step-toggle" onclick="toggleSteps(this)">Show Steps</button>
+        <div class="steps">
+          <ol>
+            <li>Sign up for <a href="https://affiliate-program.amazon.com/" target="_blank">Amazon Associates</a> or <a href="https://bookshop.org/affiliates" target="_blank">Bookshop.org Affiliates</a></li>
+            <li>For each book cited in your articles, get the affiliate link</li>
+            <li>Update the sources section to link to the book with your affiliate tag</li>
+            <li>Bookshop.org gives 10% commission and supports independent bookstores</li>
+            <li>Disclose: add "Some links are affiliate links" to your About page</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+
+    <div class="task">
+      <input type="checkbox" onchange="updateProgress()">
+      <div class="task-content">
+        <div class="task-title">23. Create Premium Content for Teachers</div>
+        <div class="task-meta">
+          <span class="tag tag-effort">2 HRS</span>
+          <span class="tag tag-impact">MEDIUM</span>
+          <span class="tag tag-cost">FREE (STRIPE 2.9%)</span>
+        </div>
+        <div class="task-desc">Offer downloadable lesson plans, printable article PDFs, and quiz worksheets for teachers at $3-5/month.</div>
+        <button class="step-toggle" onclick="toggleSteps(this)">Show Steps</button>
+        <div class="steps">
+          <ol>
+            <li>Create lesson plan templates for 10 articles (PDF format)</li>
+            <li>Include: reading comprehension questions, discussion prompts, timeline activities</li>
+            <li>Set up <a href="https://gumroad.com/" target="_blank">Gumroad</a> or <a href="https://stripe.com/" target="_blank">Stripe</a> for payments</li>
+            <li>Create a <code>/teachers/</code> landing page on your site</li>
+            <li>Price at $3/month or $25/year — accessible for individual teachers</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- PHASE 6 -->
+<div class="phase">
+  <div class="phase-header" onclick="togglePhase(this)">
+    <h2>Phase 6: Future-Proofing</h2>
+    <div><span class="phase-badge">MAINTENANCE</span> <span class="arrow">▼</span></div>
+  </div>
+  <div class="phase-body">
+
+    <div class="task">
+      <input type="checkbox" onchange="updateProgress()">
+      <div class="task-content">
+        <div class="task-title">24. Set Up Automated Link Checking</div>
+        <div class="task-meta">
+          <span class="tag tag-effort">15 MIN</span>
+          <span class="tag tag-impact">MEDIUM</span>
+          <span class="tag tag-cost">FREE</span>
+        </div>
+        <div class="task-desc">GitHub Actions runs a weekly link check that catches dead source URLs, broken images, and removed YouTube videos.</div>
+        <button class="step-toggle" onclick="toggleSteps(this)">Show Steps</button>
+        <div class="steps">
+          <ol>
+            <li>Create <code>.github/workflows/weekly-link-check.yml</code></li>
+            <li>Schedule with cron: <code>schedule: [{cron: '0 8 * * 1'}]</code> (every Monday 8 AM)</li>
+            <li>Use <code>lycheeverse/lychee-action@v1</code> to check all links in markdown files</li>
+            <li>Run <code>python scripts/check-video-embeds.py</code> to verify videos</li>
+            <li>Send results to email or Slack on failure</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+
+    <div class="task">
+      <input type="checkbox" onchange="updateProgress()">
+      <div class="task-content">
+        <div class="task-title">25. Build a Content Calendar with AI</div>
+        <div class="task-meta">
+          <span class="tag tag-effort">30 MIN</span>
+          <span class="tag tag-impact">HIGH</span>
+          <span class="tag tag-cost">FREE</span>
+        </div>
+        <div class="task-desc">Script that checks which "This Day in History" dates match articles you DON'T have yet, and suggests new topics ranked by search volume.</div>
+        <button class="step-toggle" onclick="toggleSteps(this)">Show Steps</button>
+        <div class="steps">
+          <ol>
+            <li>Build a script that maps all your article <code>historydate</code> fields to calendar dates</li>
+            <li>Cross-reference with Wikipedia's "On This Day" data for every day of the year</li>
+            <li>Identify gaps: dates with major events but no matching article</li>
+            <li>Use Google Trends API or SEMrush (free tier) to rank gaps by search interest</li>
+            <li>Generate a priority list: "Write about [EVENT] — 50K monthly searches, no article yet"</li>
+            <li>Schedule 1-2 new articles per week targeting the highest-traffic gaps</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+</div>
+
+<div class="footer">
+  <p>History News Launch Checklist — Generated May 10, 2026</p>
+  <p>172 articles • 182 Hugo pages • 0 quality-check errors</p>
+</div>
+
+<script>
+function togglePhase(header) {
+  header.parentElement.classList.toggle('open');
+}
+function toggleSteps(btn) {
+  var steps = btn.nextElementSibling;
+  steps.classList.toggle('open');
+  btn.textContent = steps.classList.contains('open') ? 'Hide Steps' : 'Show Steps';
+}
+function updateProgress() {
+  var checks = document.querySelectorAll('.task input[type="checkbox"]');
+  var checked = document.querySelectorAll('.task input[type="checkbox"]:checked');
+  var pct = Math.round((checked.length / checks.length) * 100);
+  document.getElementById('progressFill').style.width = pct + '%';
+  document.getElementById('progressText').textContent = checked.length + ' of ' + checks.length + ' completed (' + pct + '%)';
+  // Mark completed tasks
+  checks.forEach(function(cb) {
+    cb.closest('.task').classList.toggle('completed', cb.checked);
+  });
+  // Save state
+  var state = [];
+  checks.forEach(function(cb) { state.push(cb.checked); });
+  localStorage.setItem('historynews-checklist', JSON.stringify(state));
+}
+// Restore state on load
+document.addEventListener('DOMContentLoaded', function() {
+  var saved = localStorage.getItem('historynews-checklist');
+  if (saved) {
+    var state = JSON.parse(saved);
+    var checks = document.querySelectorAll('.task input[type="checkbox"]');
+    state.forEach(function(checked, i) {
+      if (checks[i]) {
+        checks[i].checked = checked;
+        checks[i].closest('.task').classList.toggle('completed', checked);
+      }
+    });
+  }
+  updateProgress();
+});
+</script>
+
+</body>
+</html>
