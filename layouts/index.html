@@ -49,6 +49,7 @@
           "Roaring Twenties"
           "Great Depression"
           "Civil War"
+          "Renaissance"
           "World War II"
           "Post-World War II"
           "Cold War"
@@ -60,6 +61,8 @@
           "Civil Rights Era"
           "Watergate Era"
           "21st Century"
+          "Peace & Cooperation"
+          "Positive History"
         }}
         {{ range $eraOrder }}
           {{ $era := . }}
@@ -73,19 +76,21 @@
           </li>
           {{ end }}
         {{ end }}
-        {{/* Catch any eras not in the ordered list */}}
+        {{/* Catch any eras not in the ordered list — deduplicated */}}
+        {{ $seen := slice }}
         {{ range $articles }}
           {{ $era := .Params.era }}
-          {{ if not (in $eraOrder $era) }}
-          {{ $pages := where $articles ".Params.era" $era }}
-          {{ if $pages }}
-          <li class="era-item">
-            <a href="#era-{{ $era | urlize }}" class="era-link" data-era="{{ $era }}">
-              <span class="era-name">{{ $era }}</span>
-              <span class="era-count">{{ len $pages }}</span>
-            </a>
-          </li>
-          {{ end }}
+          {{ if and (not (in $eraOrder $era)) (not (in $seen $era)) }}
+            {{ $seen = $seen | append $era }}
+            {{ $pages := where $articles ".Params.era" $era }}
+            {{ if $pages }}
+            <li class="era-item">
+              <a href="#era-{{ $era | urlize }}" class="era-link" data-era="{{ $era }}">
+                <span class="era-name">{{ $era }}</span>
+                <span class="era-count">{{ len $pages }}</span>
+              </a>
+            </li>
+            {{ end }}
           {{ end }}
         {{ end }}
       </ul>
