@@ -6,7 +6,7 @@ date: 2026-05-10T16:25:00
 historydate: "2024"
 era: "Positive History"
 source: "Australian Institute of Marine Science"
-image: "https://upload.wikimedia.org/wikipedia/commons/2/2b/Part_of_Great_Barrier_Reef_from_Helicopter.jpg"
+image: "/images/articles/great-barrier-reef-recovery.jpg"
 imagealt: "Aerial photograph of the Great Barrier Reef showing turquoise water and coral formations off the coast of Australia"
 imagecaption: "An aerial view of the Great Barrier Reef, the largest coral reef system on Earth."
 imagecredit: "Toby Hudson, CC BY-SA 3.0, via Wikimedia Commons"

@@ -6,7 +6,7 @@ date: 2026-05-10T13:10:00
 historydate: "September 19, 1893"
 era: "Positive History"
 source: "New Zealand Parliament"
-image: "https://upload.wikimedia.org/wikipedia/commons/4/4d/Kate_Sheppard.jpg"
+image: "/images/articles/new-zealand-womens-vote.jpg"
 imagealt: "Portrait photograph of Kate Sheppard, leader of the New Zealand women's suffrage movement"
 imagecaption: "Kate Sheppard, the determined leader who organized the campaign that made New Zealand the first self-governing nation to give women the vote."
 imagecredit: "Auckland Libraries / Wikimedia Commons / Public Domain"

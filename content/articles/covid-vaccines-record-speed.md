@@ -6,7 +6,7 @@ date: 2026-05-10T11:00:00
 historydate: "December 11, 2020"
 era: "Positive History"
 source: "WHO"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/COVID-19_vaccine_vial.jpg/1280px-COVID-19_vaccine_vial.jpg"
+image: "/images/articles/covid-vaccines-record-speed.jpg"
 imagealt: "A vial of COVID-19 vaccine being prepared for administration"
 imagecaption: "A vial of COVID-19 vaccine — the product of the fastest vaccine development effort in history."
 imagecredit: "Wikimedia Commons"

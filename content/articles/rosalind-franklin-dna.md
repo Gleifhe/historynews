@@ -6,7 +6,7 @@ date: 2026-05-08T21:00:00
 historydate: "1953"
 era: "Science & Discovery"
 source: "Google Scholar"
-image: "https://upload.wikimedia.org/wikipedia/commons/0/0c/DNA_animation.gif"
+image: "/images/articles/rosalind-franklin-dna.jpg"
 imagealt: "The double helix structure of DNA"
 imagecaption: "The double helix structure of DNA discovered with Rosalind Franklin's critical X-ray work"
 imagecredit: "Wikimedia Commons / Public Domain"

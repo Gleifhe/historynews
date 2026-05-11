@@ -6,7 +6,7 @@ date: 2026-05-09T12:15:00
 historydate: "1963 – 1965"
 era: "Civil Rights Era"
 source: "National Archives (NARA)"
-image: "https://upload.wikimedia.org/wikipedia/commons/3/3d/Birmingham_campaign_water_hoses.jpg"
+image: "/images/articles/birmingham-bloody-sunday.jpg"
 imagealt: "Firefighters turning high-pressure water hoses on civil rights demonstrators in Birmingham, Alabama, 1963"
 imagecaption: "Birmingham firefighters use high-pressure hoses against civil rights demonstrators, May 1963"
 imagecredit: "Wikimedia Commons / Public Domain"

@@ -6,7 +6,7 @@ date: 2026-05-09T13:50:00
 historydate: "476 AD"
 era: "Ancient World"
 source: "HathiTrust Digital Library"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/The_Course_of_Empire_Destruction_1836_Thomas_Cole.jpg/1280px-The_Course_of_Empire_Destruction_1836_Thomas_Cole.jpg"
+image: "/images/articles/fall-of-roman-empire.jpg"
 imagealt: "The Course of Empire: Destruction by Thomas Cole, depicting the fall of a great civilization"
 imagecaption: "The Course of Empire: Destruction by Thomas Cole (1836) — a powerful vision of civilization's collapse"
 imagecredit: "New-York Historical Society / Wikimedia Commons / Public Domain"

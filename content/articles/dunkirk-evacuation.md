@@ -6,7 +6,7 @@ date: 2026-05-10T09:50:00
 historydate: "May 26 - June 4, 1940"
 era: "Positive History"
 source: "Imperial War Museum"
-image: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Dunkirk_26-29_May_1940_NYP_68075.jpg"
+image: "/images/articles/dunkirk-evacuation.jpg"
 imagealt: "British soldiers wading through water to reach rescue boats at Dunkirk beach"
 imagecaption: "Soldiers line up on the beaches of Dunkirk, waiting for rescue during Operation Dynamo."
 imagecredit: "Wikimedia Commons / Imperial War Museum"

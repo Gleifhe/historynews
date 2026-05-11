@@ -6,7 +6,7 @@ date: 2026-05-10T09:55:00
 historydate: "December 25, 1914"
 era: "Positive History"
 source: "Imperial War Museum"
-image: "https://upload.wikimedia.org/wikipedia/commons/1/1f/Christmas_Truce_1914.png"
+image: "/images/articles/christmas-truce-1914.jpg"
 imagealt: "Illustration of British and German soldiers meeting in no man's land during the Christmas Truce of 1914"
 imagecaption: "British and German soldiers set aside their weapons to share Christmas together in the trenches."
 imagecredit: "Wikimedia Commons"

@@ -6,7 +6,7 @@ date: 2026-05-10T12:25:00
 historydate: "1864"
 era: "Positive History"
 source: "Institut Pasteur"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Louis_Pasteur%2C_foto_av_F%C3%A9lix_Nadar.jpg/440px-Louis_Pasteur%2C_foto_av_F%C3%A9lix_Nadar.jpg"
+image: "/images/articles/pasteurization-invented.jpg"
 imagealt: "Photograph of Louis Pasteur, the French scientist who invented pasteurization"
 imagecaption: "Louis Pasteur, whose discovery that heating liquids kills dangerous germs has saved millions of lives."
 imagecredit: "Wikimedia Commons / Félix Nadar / Public Domain"

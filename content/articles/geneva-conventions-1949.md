@@ -6,7 +6,7 @@ date: 2026-05-10T13:15:00
 historydate: "August 12, 1949"
 era: "Positive History"
 source: "International Committee of the Red Cross"
-image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Flag_of_the_Red_Cross.svg"
+image: "/images/articles/geneva-conventions-1949.jpg"
 imagealt: "Red Cross flag, the symbol of the Geneva Conventions and humanitarian protection during war"
 imagecaption: "The Red Cross emblem, recognized worldwide as a symbol of humanitarian protection, is central to the Geneva Conventions."
 imagecredit: "Wikimedia Commons / Public Domain"

@@ -6,7 +6,7 @@ date: 2026-05-10T14:50:00
 historydate: "March 1, 1961"
 era: "Positive History"
 source: "Peace Corps"
-image: "https://upload.wikimedia.org/wikipedia/commons/a/ab/President_Kennedy_signing_the_Peace_Corps_bill.jpg"
+image: "/images/articles/peace-corps-established.jpg"
 imagealt: "President John F. Kennedy signing the Peace Corps executive order"
 imagecaption: "President John F. Kennedy signs the executive order establishing the Peace Corps on March 1, 1961, creating a new way for Americans to serve the world."
 imagecredit: "Wikimedia Commons / Public Domain"

@@ -6,7 +6,7 @@ date: 2026-05-10T13:20:00
 historydate: "April 10, 1998"
 era: "Positive History"
 source: "CAIN Web Service"
-image: "https://upload.wikimedia.org/wikipedia/commons/4/48/Peace_Line%2C_Belfast.jpg"
+image: "/images/articles/good-friday-agreement.jpg"
 imagealt: "A peace wall in Belfast, Northern Ireland, a physical reminder of the divisions that the Good Friday Agreement helped to heal"
 imagecaption: "Peace walls in Belfast separated communities during The Troubles. The Good Friday Agreement began the process of healing these deep divisions."
 imagecredit: "Wikimedia Commons / CC BY-SA 3.0"

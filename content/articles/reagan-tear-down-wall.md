@@ -6,7 +6,7 @@ date: 2026-05-08T13:00:00
 historydate: "June 12, 1987"
 era: "Cold War"
 source: "C-SPAN Video Library"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Photograph_of_President_Reagan_giving_a_speech_at_the_Berlin_Wall%2C_Brandenburg_Gate%2C_Federal_Republic_of_Germany_-_NARA_-_198585.jpg/1280px-Photograph_of_President_Reagan_giving_a_speech_at_the_Berlin_Wall%2C_Brandenburg_Gate%2C_Federal_Republic_of_Germany_-_NARA_-_198585.jpg"
+image: "/images/articles/reagan-tear-down-wall.jpg"
 imagealt: "President Reagan delivers his Berlin Wall speech, June 12, 1987"
 imagecaption: "Reagan at the Brandenburg Gate: 'Mr. Gorbachev, tear down this wall!'"
 imagecredit: "NARA / Wikimedia Commons"

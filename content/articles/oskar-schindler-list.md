@@ -6,7 +6,7 @@ date: 2026-05-10T15:10:00
 historydate: "1944"
 era: "Positive History"
 source: "Yad Vashem"
-image: "https://upload.wikimedia.org/wikipedia/commons/7/7d/Schindler%2C_Oskar.jpg"
+image: "/images/articles/oskar-schindler-list.jpg"
 imagealt: "Portrait photograph of Oskar Schindler, the German industrialist who saved over 1,200 Jewish lives during the Holocaust"
 imagecaption: "Oskar Schindler, whose factory in Krakow became a lifeline for Jewish workers during the Nazi occupation of Poland."
 imagecredit: "Yad Vashem / Wikimedia Commons / Public Domain"

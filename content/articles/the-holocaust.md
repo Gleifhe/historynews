@@ -6,7 +6,7 @@ date: 2026-05-09T11:00:00
 historydate: "1933-1945"
 era: "World War II"
 source: "United States Holocaust Memorial Museum"
-image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Auschwitz-Work_Set_Free-new.JPG"
+image: "/images/articles/the-holocaust.jpg"
 imagealt: "The entrance gate to Auschwitz I concentration camp with the words Arbeit macht frei"
 imagecaption: "The infamous gate of Auschwitz I bearing the words 'Arbeit macht frei' (Work sets you free)"
 imagecredit: "Wikimedia Commons / CC BY-SA"

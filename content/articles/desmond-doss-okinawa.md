@@ -6,7 +6,7 @@ date: 2026-05-10T10:00:00
 historydate: "May 1945"
 era: "Positive History"
 source: "National WWII Museum"
-image: "https://upload.wikimedia.org/wikipedia/commons/5/57/Desmond_Doss_CMH.jpg"
+image: "/images/articles/desmond-doss-okinawa.jpg"
 imagealt: "Desmond Doss in military uniform receiving the Medal of Honor"
 imagecaption: "Desmond Doss received the Medal of Honor for his incredible bravery at Okinawa, all without ever carrying a weapon."
 imagecredit: "Wikimedia Commons / U.S. Army"

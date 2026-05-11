@@ -6,7 +6,7 @@ date: 2026-05-09T13:00:00
 historydate: "October 16-28, 1962"
 era: "Cold War"
 source: "JFK Presidential Library"
-image: "https://upload.wikimedia.org/wikipedia/commons/5/5f/P-2_reconnaissance_photo_-_Cuba_-_October_1962.jpg"
+image: "/images/articles/cuban-missile-crisis-13-days.jpg"
 imagealt: "U-2 reconnaissance photograph showing Soviet missile installations in Cuba, October 1962"
 imagecaption: "U-2 spy plane photograph showing Soviet medium-range ballistic missile sites under construction in Cuba"
 imagecredit: "Wikimedia Commons / Public Domain (U.S. Government)"

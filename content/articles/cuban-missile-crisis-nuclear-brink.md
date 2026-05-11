@@ -6,7 +6,7 @@ date: 2026-05-09T13:05:00
 historydate: "October 27, 1962"
 era: "Cold War"
 source: "National Security Archive"
-image: "https://upload.wikimedia.org/wikipedia/commons/0/09/Jupiter_IRBM.jpg"
+image: "/images/articles/cuban-missile-crisis-nuclear-brink.jpg"
 imagealt: "A U.S. Jupiter intermediate-range ballistic missile on its launch pad"
 imagecaption: "A Jupiter IRBM — the type of missile secretly stationed in Turkey that became a key bargaining chip in the crisis"
 imagecredit: "Wikimedia Commons / Public Domain (U.S. Army)"

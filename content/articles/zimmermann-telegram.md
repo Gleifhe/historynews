@@ -6,7 +6,7 @@ date: 2026-05-07
 historydate: "January 17, 1917"
 era: "World War I"
 source: "British National Archives"
-image: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Zimmermann_Telegram_as_Received_by_the_German_Ambassador_to_Mexico_-_NARA_-_302025.jpg"
+image: "/images/articles/zimmermann-telegram.jpg"
 imagealt: "The decoded Zimmermann Telegram sent to Mexico"
 imagecaption: "The Zimmermann Telegram — the secret coded message that helped bring America into World War I"
 imagecredit: "National Archives / Wikimedia Commons"

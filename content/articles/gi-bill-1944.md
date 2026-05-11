@@ -6,7 +6,7 @@ date: 2026-05-10T09:40:00
 historydate: "June 22, 1944"
 era: "Positive History"
 source: "National Archives (NARA)"
-image: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Gi_bill_signing.jpg"
+image: "/images/articles/gi-bill-1944.jpg"
 imagealt: "President Franklin D. Roosevelt signs the GI Bill into law on June 22, 1944"
 imagecaption: "President Roosevelt signs the Servicemen's Readjustment Act (GI Bill) on June 22, 1944, opening the doors of opportunity to millions of returning veterans."
 imagecredit: "Wikimedia Commons / National Archives / Public Domain"

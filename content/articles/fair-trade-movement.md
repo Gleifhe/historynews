@@ -6,7 +6,7 @@ date: 2026-05-10T15:45:00
 historydate: "1988"
 era: "Positive History"
 source: "Fairtrade International"
-image: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Coffee_Beans_-_Flickr_-_Amanda_Oliveira.jpg"
+image: "/images/articles/fair-trade-movement.jpg"
 imagealt: "A farmer's hands holding freshly harvested coffee beans, representing the Fair Trade movement's commitment to fair prices for growers"
 imagecaption: "Fair Trade certification ensures that farmers like coffee growers receive fair prices for their labor, helping lift communities out of poverty."
 imagecredit: "Wikimedia Commons / CC BY 2.0"

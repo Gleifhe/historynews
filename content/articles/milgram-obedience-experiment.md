@@ -6,7 +6,7 @@ date: 2026-04-27
 historydate: "1961-1963"
 era: "1960s America"
 source: "Google Scholar"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Milgram_experiment_v2.svg/1280px-Milgram_experiment_v2.svg.png"
+image: "/images/articles/milgram-obedience-experiment.jpg"
 imagealt: "Diagram of the Milgram obedience experiment"
 imagecaption: "Diagram showing the setup of Milgram's famous obedience experiment"
 imagecredit: "Wikimedia Commons / CC BY-SA"

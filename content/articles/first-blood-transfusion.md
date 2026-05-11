@@ -6,7 +6,7 @@ date: 2026-05-10T12:15:00
 historydate: "1818"
 era: "Positive History"
 source: "British Journal of Haematology"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/James_Blundell.jpg/440px-James_Blundell.jpg"
+image: "/images/articles/first-blood-transfusion.jpg"
 imagealt: "Portrait of Dr. James Blundell, pioneer of blood transfusion"
 imagecaption: "Dr. James Blundell, the British obstetrician who performed the first successful human-to-human blood transfusion in 1818."
 imagecredit: "Wikimedia Commons / Public Domain"

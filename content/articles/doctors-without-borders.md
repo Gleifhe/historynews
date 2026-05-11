@@ -6,7 +6,7 @@ date: 2026-05-10T08:45:00
 historydate: "December 22, 1971"
 era: "Peace & Cooperation"
 source: "MSF International"
-image: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Humanitarian_aid_OCPA-2005-10-28-090517a.jpg"
+image: "/images/articles/doctors-without-borders.jpg"
 imagealt: "Humanitarian aid supplies being delivered to people in need"
 imagecaption: "Humanitarian aid delivery — the kind of emergency response that Doctors Without Borders carries out in more than 70 countries"
 imagecredit: "Wikimedia Commons / U.S. Air Force / Public Domain"

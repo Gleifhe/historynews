@@ -6,7 +6,7 @@ date: 2026-05-09T12:45:00
 historydate: "July 1-3, 1863"
 era: "Civil War"
 source: "National Park Service"
-image: "https://upload.wikimedia.org/wikipedia/commons/7/76/Gettysburg_Battle_Map_Day3.png"
+image: "/images/articles/battle-of-gettysburg.jpg"
 imagealt: "Map showing troop positions during the third day of the Battle of Gettysburg, July 3, 1863"
 imagecaption: "Battle map of Gettysburg, Day 3 — the day of Pickett's fateful charge across open ground"
 imagecredit: "Wikimedia Commons / Public Domain"

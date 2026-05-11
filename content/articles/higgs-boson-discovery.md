@@ -6,7 +6,7 @@ date: 2026-05-10T13:55:00
 historydate: "July 4, 2012"
 era: "Positive History"
 source: "CERN"
-image: "https://upload.wikimedia.org/wikipedia/commons/1/1c/CERN_LHC_Tunnel1.jpg"
+image: "/images/articles/higgs-boson-discovery.jpg"
 imagealt: "Inside the tunnel of the Large Hadron Collider at CERN, the world's largest particle accelerator"
 imagecaption: "The tunnel of CERN's Large Hadron Collider, the massive particle accelerator where the Higgs boson was discovered."
 imagecredit: "Julian Herzog / Wikimedia Commons / CC BY-SA 3.0"

@@ -6,7 +6,7 @@ date: 2026-05-10T08:15:00
 historydate: "August 5, 1963"
 era: "Peace & Cooperation"
 source: "JFK Presidential Library"
-image: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Upshot-Knothole_GRABLE.jpg"
+image: "/images/articles/nuclear-test-ban-treaty.jpg"
 imagealt: "A nuclear test explosion during Operation Upshot-Knothole in 1953"
 imagecaption: "A nuclear weapon test at the Nevada Test Site — the kind of atmospheric testing banned by the 1963 treaty"
 imagecredit: "Wikimedia Commons / U.S. Department of Energy / Public Domain"

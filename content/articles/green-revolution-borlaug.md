@@ -6,7 +6,7 @@ date: 2026-05-10T09:45:00
 historydate: "1960s"
 era: "Positive History"
 source: "World Food Prize Foundation"
-image: "https://upload.wikimedia.org/wikipedia/commons/5/55/Norman_Borlaug%2C_2004_%28cropped%29.jpg"
+image: "/images/articles/green-revolution-borlaug.jpg"
 imagealt: "Norman Borlaug examining wheat in a field"
 imagecaption: "Norman Borlaug devoted his life to ending hunger through agricultural science."
 imagecredit: "Wikimedia Commons"

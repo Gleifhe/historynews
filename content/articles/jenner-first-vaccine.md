@@ -6,7 +6,7 @@ date: 2026-05-10T12:45:00
 historydate: "May 14, 1796"
 era: "Positive History"
 source: "Jenner Museum"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Edward_Jenner_by_James_Northcote.jpg/440px-Edward_Jenner_by_James_Northcote.jpg"
+image: "/images/articles/jenner-first-vaccine.jpg"
 imagealt: "Portrait of Edward Jenner, the English physician who invented vaccination"
 imagecaption: "Edward Jenner, the English country doctor whose bold experiment in 1796 led to the invention of vaccination."
 imagecredit: "Wikimedia Commons / James Northcote / Public Domain"

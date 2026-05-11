@@ -6,7 +6,7 @@ date: 2026-05-10T10:35:00
 historydate: "June 23 - July 10, 2018"
 era: "Positive History"
 source: "BBC News Archives"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Tham_Luang_Nang_Non_from_the_outside.jpg/1280px-Tham_Luang_Nang_Non_from_the_outside.jpg"
+image: "/images/articles/thai-cave-rescue-2018.jpg"
 imagealt: "The entrance to the Tham Luang cave complex in Chiang Rai, Thailand"
 imagecaption: "The entrance to Tham Luang Nang Non cave in Chiang Rai province, where 12 boys and their coach were trapped for 18 days."
 imagecredit: "Wikimedia Commons"

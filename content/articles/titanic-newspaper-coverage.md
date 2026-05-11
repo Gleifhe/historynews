@@ -6,7 +6,7 @@ date: 2026-05-04
 historydate: "April 15, 1912"
 era: "Early 20th Century"
 source: "Chronicling America (LOC)"
-image: "https://upload.wikimedia.org/wikipedia/commons/f/fd/RMS_Titanic_3.jpg"
+image: "/images/articles/titanic-newspaper-coverage.jpg"
 imagealt: "The RMS Titanic departing Southampton on its maiden voyage, April 10, 1912"
 imagecaption: "The RMS Titanic departing Southampton, England on April 10, 1912 — five days before it sank"
 imagecredit: "F.G.O. Stuart / Wikimedia Commons / Public Domain"

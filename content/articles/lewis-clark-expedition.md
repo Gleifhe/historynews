@@ -6,7 +6,7 @@ date: 2026-05-10T13:40:00
 historydate: "1804-1806"
 era: "Positive History"
 source: "Library of Congress"
-image: "https://upload.wikimedia.org/wikipedia/commons/2/2e/Lewis_and_Clark_Expedition.jpg"
+image: "/images/articles/lewis-clark-expedition.jpg"
 imagealt: "Painting depicting the Lewis and Clark expedition exploring the American West"
 imagecaption: "Lewis and Clark and their Corps of Discovery journeyed across 8,000 miles of wilderness, mapping the American West for the first time."
 imagecredit: "Library of Congress / Wikimedia Commons / Public Domain"

@@ -6,7 +6,7 @@ date: 2026-05-09T13:15:00
 historydate: "February-March 1917"
 era: "World War I Era"
 source: "British National Archives"
-image: "https://upload.wikimedia.org/wikipedia/commons/f/f9/Nicholas_II_of_Russia_in_military_uniform.jpg"
+image: "/images/articles/russian-revolution-fall-of-tsar.jpg"
 imagealt: "Tsar Nicholas II of Russia in military uniform, circa 1910"
 imagecaption: "Tsar Nicholas II — the last emperor of Russia, whose refusal to reform led to revolution and the end of the Romanov dynasty"
 imagecredit: "Wikimedia Commons / Public Domain"

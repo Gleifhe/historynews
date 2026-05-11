@@ -6,7 +6,7 @@ date: 2026-05-10T09:05:00
 historydate: "April 12, 1955"
 era: "Positive History"
 source: "University of Pittsburgh Archives"
-image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Jonas_Salk_1955.jpg"
+image: "/images/articles/polio-vaccine-salk.jpg"
 imagealt: "Dr. Jonas Salk administering a polio vaccination in 1955"
 imagecaption: "Dr. Jonas Salk devoted his career to ending the terror of polio and then gave his vaccine to the world for free."
 imagecredit: "Wikimedia Commons / Public Domain"

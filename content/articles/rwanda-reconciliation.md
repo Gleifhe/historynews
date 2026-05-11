@@ -6,7 +6,7 @@ date: 2026-05-10T15:00:00
 historydate: "1994-present"
 era: "Positive History"
 source: "Republic of Rwanda"
-image: "https://upload.wikimedia.org/wikipedia/commons/1/17/Kigali_Genocide_Memorial_-_Pair_of_skulls.jpg"
+image: "/images/articles/rwanda-reconciliation.jpg"
 imagealt: "The Kigali Genocide Memorial in Rwanda, honoring the victims of the 1994 genocide"
 imagecaption: "The Kigali Genocide Memorial, a place of remembrance and reflection where Rwanda honors the victims and commits to a future of reconciliation."
 imagecredit: "Wikimedia Commons / CC BY-SA 4.0"

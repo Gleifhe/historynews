@@ -6,7 +6,7 @@ date: 2026-05-10T14:15:00
 historydate: "August 16, 1858"
 era: "Positive History"
 source: "Smithsonian"
-image: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Atlantic_cable_Map.jpg"
+image: "/images/articles/transatlantic-telegraph-cable.jpg"
 imagealt: "Map showing the route of the first transatlantic telegraph cable across the Atlantic Ocean"
 imagecaption: "The route of the transatlantic telegraph cable, connecting North America to Europe across the ocean floor."
 imagecredit: "Wikimedia Commons / Public Domain"

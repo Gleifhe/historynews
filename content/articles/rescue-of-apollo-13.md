@@ -6,7 +6,7 @@ date: 2026-05-10T10:30:00
 historydate: "April 11-17, 1970"
 era: "Positive History"
 source: "NASA"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Apollo_13_Crew_Before_Launch_-_GPN-2000-001166.jpg/1280px-Apollo_13_Crew_Before_Launch_-_GPN-2000-001166.jpg"
+image: "/images/articles/rescue-of-apollo-13.jpg"
 imagealt: "The Apollo 13 crew before launch: Jim Lovell, Jack Swigert, and Fred Haise"
 imagecaption: "The Apollo 13 crew — Jim Lovell, Jack Swigert, and Fred Haise — before their fateful mission in April 1970."
 imagecredit: "NASA, Public domain, via Wikimedia Commons"

@@ -6,7 +6,7 @@ date: 2026-05-10T10:50:00
 historydate: "January 12, 1995"
 era: "Positive History"
 source: "National Park Service"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Canis_lupus_laying_in_grass.jpg/1280px-Canis_lupus_laying_in_grass.jpg"
+image: "/images/articles/wolves-yellowstone.jpg"
 imagealt: "A gray wolf resting in the grass at Yellowstone National Park"
 imagecaption: "A gray wolf in Yellowstone National Park, part of the population reintroduced in 1995 that transformed the park's ecosystem."
 imagecredit: "Wikimedia Commons"

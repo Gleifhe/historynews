@@ -6,7 +6,7 @@ date: 2026-05-10T14:35:00
 historydate: "1883-1929"
 era: "Positive History"
 source: "Carnegie Corporation"
-image: "https://upload.wikimedia.org/wikipedia/commons/0/09/Andrew_Carnegie%2C_three-quarter_length_portrait%2C_seated%2C_facing_slightly_left%2C_1913.jpg"
+image: "/images/articles/public-libraries-carnegie.jpg"
 imagealt: "Portrait of Andrew Carnegie seated in a chair, circa 1913"
 imagecaption: "Andrew Carnegie, the Scottish-American industrialist who used his vast fortune to build 2,509 free public libraries around the world."
 imagecredit: "Wikimedia Commons / Public Domain"

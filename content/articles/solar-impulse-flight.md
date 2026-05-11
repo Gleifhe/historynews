@@ -6,7 +6,7 @@ date: 2026-05-10T16:45:00
 historydate: "July 26, 2016"
 era: "Positive History"
 source: "Solar Impulse Foundation"
-image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Solar_Impulse_2_in_Hawaii.jpg"
+image: "/images/articles/solar-impulse-flight.jpg"
 imagealt: "Solar Impulse 2 aircraft in flight showing its massive wingspan covered in solar panels"
 imagecaption: "Solar Impulse 2 during its historic round-the-world flight. The aircraft's wingspan was wider than a Boeing 747 but weighed less than a car."
 imagecredit: "Solar Impulse / CC BY 2.0, via Wikimedia Commons"

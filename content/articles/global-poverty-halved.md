@@ -6,7 +6,7 @@ date: 2026-05-10T10:45:00
 historydate: "1990-2015"
 era: "Positive History"
 source: "World Bank"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Millennium_Development_Goals.svg/1280px-Millennium_Development_Goals.svg.png"
+image: "/images/articles/global-poverty-halved.jpg"
 imagealt: "The United Nations Millennium Development Goals logo"
 imagecaption: "The UN Millennium Development Goals set global targets for reducing poverty, hunger, and disease between 2000 and 2015."
 imagecredit: "United Nations, Public domain, via Wikimedia Commons"

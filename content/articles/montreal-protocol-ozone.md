@@ -6,7 +6,7 @@ date: 2026-05-10T08:20:00
 historydate: "September 16, 1987"
 era: "Peace & Cooperation"
 source: "United Nations Environment Programme"
-image: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Ozone_hole_in_2006.jpg"
+image: "/images/articles/montreal-protocol-ozone.jpg"
 imagealt: "NASA satellite image showing the ozone hole over Antarctica in 2006"
 imagecaption: "NASA satellite image of the ozone hole over Antarctica — the hole has been slowly healing since the Montreal Protocol banned CFCs"
 imagecredit: "Wikimedia Commons / NASA / Public Domain"

@@ -6,7 +6,7 @@ date: 2026-05-10T16:30:00
 historydate: "2023"
 era: "Positive History"
 source: "INPE (Brazil National Institute for Space Research)"
-image: "https://upload.wikimedia.org/wikipedia/commons/c/c7/Amazon_river_near_Iquitos_Peru.jpg"
+image: "/images/articles/amazon-deforestation-drops.jpg"
 imagealt: "Aerial view of the Amazon River winding through dense green rainforest in South America"
 imagecaption: "The Amazon rainforest, the largest tropical forest on Earth, produces about 20 percent of the world's oxygen."
 imagecredit: "Jlwad, CC BY-SA 4.0, via Wikimedia Commons"

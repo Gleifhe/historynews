@@ -6,7 +6,7 @@ date: 2026-05-10T12:40:00
 historydate: "July 25, 1978"
 era: "Positive History"
 source: "Nobel Prize Archives"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Blausen_0060_AssistedReproductiveTechnology.png/800px-Blausen_0060_AssistedReproductiveTechnology.png"
+image: "/images/articles/first-ivf-baby.jpg"
 imagealt: "Illustration of in vitro fertilization showing the process of combining egg and sperm outside the body"
 imagecaption: "In vitro fertilization combines egg and sperm outside the body — a revolutionary technique that has helped millions of families."
 imagecredit: "Wikimedia Commons / BruceBlaus"

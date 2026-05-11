@@ -6,7 +6,7 @@ date: 2026-05-10T16:05:00
 historydate: "1970-1996"
 era: "Positive History"
 source: "National Dairy Development Board (India)"
-image: "https://upload.wikimedia.org/wikipedia/commons/d/d6/Verghese_Kurien_at_the_Worldwide_Hearing_on_Hunger.jpg"
+image: "/images/articles/india-milk-revolution.jpg"
 imagealt: "Dr. Verghese Kurien, the 'Milk Man of India,' who led Operation Flood and made India the world's largest milk producer"
 imagecaption: "Dr. Verghese Kurien, whose cooperative model transformed India's dairy industry and lifted millions of small farmers out of poverty."
 imagecredit: "Wikimedia Commons / Public Domain"

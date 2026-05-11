@@ -6,7 +6,7 @@ date: 2026-05-10T12:10:00
 historydate: "April 14, 2003"
 era: "Positive History"
 source: "National Human Genome Research Institute"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DNA_Overview2.png/800px-DNA_Overview2.png"
+image: "/images/articles/human-genome-project.jpg"
 imagealt: "Illustration of the DNA double helix structure representing the Human Genome Project"
 imagecaption: "The DNA double helix — the Human Genome Project mapped all 3 billion base pairs of this remarkable molecule."
 imagecredit: "Wikimedia Commons"

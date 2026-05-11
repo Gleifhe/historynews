@@ -6,7 +6,7 @@ date: 2026-05-10T15:25:00
 historydate: "1942-1943"
 era: "Positive History"
 source: "Yad Vashem"
-image: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Irena_Sendlerowa_1942.jpg"
+image: "/images/articles/irena-sendler-warsaw.jpg"
 imagealt: "Portrait photograph of Irena Sendler, the Polish social worker who saved 2,500 Jewish children from the Warsaw Ghetto"
 imagecaption: "Irena Sendler in 1942, during the period when she was risking her life daily to smuggle Jewish children out of the Warsaw Ghetto."
 imagecredit: "Wikimedia Commons / Public Domain"

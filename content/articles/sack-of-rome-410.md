@@ -6,7 +6,7 @@ date: 2026-05-09T13:45:00
 historydate: "August 24, 410 AD"
 era: "Ancient World"
 source: "Project Gutenberg"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sack_of_Rome_by_the_Visigoths_on_24_August_410_by_JN_Sylvestre_1890.jpg/1280px-Sack_of_Rome_by_the_Visigoths_on_24_August_410_by_JN_Sylvestre_1890.jpg"
+image: "/images/articles/sack-of-rome-410.jpg"
 imagealt: "Painting depicting the Visigoths sacking Rome in 410 AD"
 imagecaption: "The Sack of Rome by the Visigoths, 410 AD — painting by Joseph-Noël Sylvestre (1890)"
 imagecredit: "Wikimedia Commons / Public Domain"

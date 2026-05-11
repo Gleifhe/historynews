@@ -6,7 +6,7 @@ date: 2026-05-09T12:50:00
 historydate: "1861-1865"
 era: "Civil War"
 source: "Library of Congress"
-image: "https://upload.wikimedia.org/wikipedia/commons/5/58/Fort_Sumter_1861.jpg"
+image: "/images/articles/fort-sumter-to-appomattox.jpg"
 imagealt: "Fort Sumter in Charleston Harbor after the Confederate bombardment, April 1861"
 imagecaption: "Fort Sumter, Charleston Harbor — where the first shots of the Civil War were fired on April 12, 1861"
 imagecredit: "Wikimedia Commons / Public Domain"

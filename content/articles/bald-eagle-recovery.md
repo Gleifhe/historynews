@@ -6,7 +6,7 @@ date: 2026-05-10T10:10:00
 historydate: "June 28, 2007"
 era: "Positive History"
 source: "U.S. Fish and Wildlife Service"
-image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/About_to_Launch_%2826075320352%29.jpg"
+image: "/images/articles/bald-eagle-recovery.jpg"
 imagealt: "A bald eagle perched on a branch with wings spread, ready to take flight"
 imagecaption: "The bald eagle's recovery from near extinction is one of the greatest conservation success stories in history."
 imagecredit: "Wikimedia Commons / U.S. Fish and Wildlife Service"

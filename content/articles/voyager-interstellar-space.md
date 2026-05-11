@@ -6,7 +6,7 @@ date: 2026-05-10T14:00:00
 historydate: "August 25, 2012"
 era: "Positive History"
 source: "NASA Jet Propulsion Laboratory"
-image: "https://upload.wikimedia.org/wikipedia/commons/6/60/Voyager_spacecraft_model.png"
+image: "/images/articles/voyager-interstellar-space.jpg"
 imagealt: "Model of the Voyager spacecraft showing its distinctive large dish antenna and scientific instruments"
 imagecaption: "A model of the Voyager spacecraft, which has been traveling through space since 1977 and is now the most distant human-made object in existence."
 imagecredit: "NASA/JPL-Caltech / Wikimedia Commons / Public Domain"

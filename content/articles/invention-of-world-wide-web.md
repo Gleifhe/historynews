@@ -6,7 +6,7 @@ date: 2026-05-10T09:35:00
 historydate: "March 12, 1989"
 era: "Positive History"
 source: "CERN Archives"
-image: "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sir_Tim_Berners-Lee_%28cropped%29.jpg"
+image: "/images/articles/invention-of-world-wide-web.jpg"
 imagealt: "Tim Berners-Lee, inventor of the World Wide Web"
 imagecaption: "Sir Tim Berners-Lee created the World Wide Web and chose to give it to the world for free, changing the course of human history."
 imagecredit: "Wikimedia Commons / Paul Clarke / CC BY-SA 4.0"

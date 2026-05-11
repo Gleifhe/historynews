@@ -6,7 +6,7 @@ date: 2026-05-09T14:00:00
 historydate: "508 BC"
 era: "Ancient World"
 source: "Encyclopedia Britannica"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Discurso_funebre_pericles.PNG/800px-Discurso_funebre_pericles.PNG"
+image: "/images/articles/birth-of-democracy-athens.jpg"
 imagealt: "Painting of Pericles delivering his famous funeral oration in ancient Athens"
 imagecaption: "Pericles delivers his Funeral Oration, celebrating Athenian democracy and the citizens who died defending it"
 imagecredit: "Wikimedia Commons / Public Domain"

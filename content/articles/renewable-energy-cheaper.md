@@ -6,7 +6,7 @@ date: 2026-05-10T16:00:00
 historydate: "2020s"
 era: "Positive History"
 source: "International Renewable Energy Agency"
-image: "https://upload.wikimedia.org/wikipedia/commons/b/b8/Shepherds_Flat_Wind_Farm_2011.jpg"
+image: "/images/articles/renewable-energy-cheaper.jpg"
 imagealt: "A large-scale wind farm with dozens of wind turbines generating clean electricity, representing the global shift to renewable energy"
 imagecaption: "Wind farms like this one are part of the global renewable energy revolution. Wind power costs have dropped 70% since 2010, making clean energy the cheapest option in most countries."
 imagecredit: "Wikimedia Commons / CC BY 2.0"

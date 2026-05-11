@@ -6,7 +6,7 @@ date: 2026-05-09T12:05:00
 historydate: "January 27, 1945"
 era: "World War II"
 source: "USHMM Archives"
-image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Auschwitz-Work_Set_Free-new.JPG"
+image: "/images/articles/liberation-of-auschwitz.jpg"
 imagealt: "The entrance gate to Auschwitz concentration camp with the infamous Arbeit Macht Frei sign"
 imagecaption: "The gate at Auschwitz bearing the words 'Arbeit Macht Frei' — Work Sets You Free"
 imagecredit: "Wikimedia Commons / Public Domain"

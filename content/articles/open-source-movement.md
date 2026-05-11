@@ -6,7 +6,7 @@ date: 2026-05-10T14:25:00
 historydate: "1983-present"
 era: "Positive History"
 source: "Free Software Foundation"
-image: "https://upload.wikimedia.org/wikipedia/commons/4/42/Opensource.svg"
+image: "/images/articles/open-source-movement.jpg"
 imagealt: "The open source initiative logo representing the global open source software movement"
 imagecaption: "The Open Source Initiative logo, a symbol of the worldwide movement to make software freely available for anyone to use and improve."
 imagecredit: "Wikimedia Commons / Public Domain"

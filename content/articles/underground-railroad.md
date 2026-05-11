@@ -6,7 +6,7 @@ date: 2026-05-09T12:55:00
 historydate: "1850-1860"
 era: "Civil War"
 source: "National Park Service"
-image: "https://upload.wikimedia.org/wikipedia/commons/0/03/Harriet_Tubman_c1868-69.jpg"
+image: "/images/articles/underground-railroad.jpg"
 imagealt: "Portrait photograph of Harriet Tubman, circa 1868-69"
 imagecaption: "Harriet Tubman — former enslaved person, Underground Railroad conductor, Union spy, and American hero"
 imagecredit: "Wikimedia Commons / Public Domain"

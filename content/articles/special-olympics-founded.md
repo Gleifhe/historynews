@@ -6,7 +6,7 @@ date: 2026-05-10T10:40:00
 historydate: "July 20, 1968"
 era: "Positive History"
 source: "Special Olympics International"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Eunice_Kennedy_Shriver_speaking.jpg/800px-Eunice_Kennedy_Shriver_speaking.jpg"
+image: "/images/articles/special-olympics-founded.jpg"
 imagealt: "Eunice Kennedy Shriver, founder of the Special Olympics"
 imagecaption: "Eunice Kennedy Shriver, who turned her vision of inclusion into a worldwide movement for athletes with intellectual disabilities."
 imagecredit: "Wikimedia Commons"

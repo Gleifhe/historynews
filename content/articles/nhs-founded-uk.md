@@ -6,7 +6,7 @@ date: 2026-05-10T14:45:00
 historydate: "July 5, 1948"
 era: "Positive History"
 source: "NHS England"
-image: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Aneurin_Bevan.jpg"
+image: "/images/articles/nhs-founded-uk.jpg"
 imagealt: "Portrait of Aneurin Bevan, the founder of the National Health Service"
 imagecaption: "Aneurin Bevan, the British Health Minister who created the National Health Service in 1948, fulfilling a promise of free healthcare for all."
 imagecredit: "Wikimedia Commons / Public Domain"

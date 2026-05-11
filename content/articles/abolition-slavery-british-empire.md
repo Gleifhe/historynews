@@ -6,7 +6,7 @@ date: 2026-05-10T09:30:00
 historydate: "August 28, 1833"
 era: "Positive History"
 source: "British National Archives"
-image: "https://upload.wikimedia.org/wikipedia/commons/2/24/Official_medallion_of_the_British_Anti-Slavery_Society_%281795%29.jpg"
+image: "/images/articles/abolition-slavery-british-empire.jpg"
 imagealt: "Medallion of the British Anti-Slavery Society showing a kneeling enslaved person with the words 'Am I Not a Man and a Brother'"
 imagecaption: "The famous anti-slavery medallion designed by Josiah Wedgwood became one of the most recognized symbols of the abolitionist movement."
 imagecredit: "Wikimedia Commons / Public Domain"

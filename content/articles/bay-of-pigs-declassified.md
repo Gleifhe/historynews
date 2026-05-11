@@ -6,7 +6,7 @@ date: 2026-04-25
 historydate: "April 17, 1961"
 era: "Cold War"
 source: "CIA FOIA Reading Room"
-image: "https://upload.wikimedia.org/wikipedia/commons/a/ad/Playa-larga-6.jpg"
+image: "/images/articles/bay-of-pigs-declassified.jpg"
 imagealt: "Bay of Pigs invasion site at Playa Larga, Cuba"
 imagecaption: "The Bay of Pigs landing site at Playa Larga, Cuba — where the 1961 invasion failed"
 imagecredit: "Wikimedia Commons"

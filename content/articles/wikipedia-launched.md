@@ -6,7 +6,7 @@ date: 2026-05-10T10:55:00
 historydate: "January 15, 2001"
 era: "Positive History"
 source: "Wikimedia Foundation"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wikipedia-logo-v2-en.svg/1024px-Wikipedia-logo-v2-en.svg.png"
+image: "/images/articles/wikipedia-launched.jpg"
 imagealt: "The Wikipedia globe logo made of puzzle pieces with letters from different writing systems"
 imagecaption: "The Wikipedia logo, a globe made of puzzle pieces, symbolizes the project's mission to assemble the world's knowledge from contributions in every language."
 imagecredit: "Wikimedia Foundation, CC BY-SA 3.0, via Wikimedia Commons"

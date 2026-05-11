@@ -6,7 +6,7 @@ date: 2026-05-10T13:00:00
 historydate: "December 10, 1948"
 era: "Positive History"
 source: "United Nations"
-image: "https://upload.wikimedia.org/wikipedia/commons/3/3e/Eleanor_Roosevelt_UDHR.jpg"
+image: "/images/articles/universal-declaration-human-rights.jpg"
 imagealt: "Eleanor Roosevelt holding a poster of the Universal Declaration of Human Rights in 1949"
 imagecaption: "Eleanor Roosevelt holds the English version of the Universal Declaration of Human Rights, the landmark document she helped bring to life."
 imagecredit: "FDR Presidential Library / Wikimedia Commons / Public Domain"

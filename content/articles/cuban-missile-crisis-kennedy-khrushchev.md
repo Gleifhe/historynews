@@ -6,7 +6,7 @@ date: 2026-05-09T13:10:00
 historydate: "October 1962"
 era: "Cold War"
 source: "CIA FOIA Reading Room"
-image: "https://upload.wikimedia.org/wikipedia/commons/e/e7/Kennedy_and_Khrushchev_in_Vienna_1961.png"
+image: "/images/articles/cuban-missile-crisis-kennedy-khrushchev.jpg"
 imagealt: "President Kennedy and Premier Khrushchev meeting in Vienna, June 1961"
 imagecaption: "Kennedy and Khrushchev at their tense Vienna summit in June 1961 — just 16 months before the missile crisis"
 imagecredit: "Wikimedia Commons / Public Domain (U.S. Government)"

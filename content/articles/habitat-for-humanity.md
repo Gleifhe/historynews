@@ -6,7 +6,7 @@ date: 2026-05-10T14:55:00
 historydate: "1976"
 era: "Positive History"
 source: "Habitat for Humanity International"
-image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Habitat_for_Humanity_logo.svg"
+image: "/images/articles/habitat-for-humanity.jpg"
 imagealt: "Habitat for Humanity logo showing figures working together to build a house"
 imagecaption: "The Habitat for Humanity logo, representing the organization's mission to build homes and hope around the world."
 imagecredit: "Wikimedia Commons / Fair Use"

@@ -6,7 +6,7 @@ date: 2026-05-09T12:00:00
 historydate: "June 12, 1942 – August 1, 1944"
 era: "World War II"
 source: "Anne Frank House Archives"
-image: "https://upload.wikimedia.org/wikipedia/commons/7/7e/Anne_Frank_lridge.jpg"
+image: "/images/articles/anne-frank-diary.jpg"
 imagealt: "Photograph of Anne Frank as a young girl"
 imagecaption: "Anne Frank in a school photograph before going into hiding"
 imagecredit: "Wikimedia Commons / Public Domain"

@@ -6,7 +6,7 @@ date: 2026-05-10T08:10:00
 historydate: "November 1, 1993"
 era: "Peace & Cooperation"
 source: "European Commission Archives"
-image: "https://upload.wikimedia.org/wikipedia/commons/b/b0/European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg"
+image: "/images/articles/european-union-formation.jpg"
 imagealt: "The European Parliament hemicycle chamber in Strasbourg, France"
 imagecaption: "The European Parliament in Strasbourg — where representatives from 27 nations make laws together"
 imagecredit: "Wikimedia Commons / Diliff / CC BY-SA 3.0"

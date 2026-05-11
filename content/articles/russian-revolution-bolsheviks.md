@@ -6,7 +6,7 @@ date: 2026-05-09T13:20:00
 historydate: "October 25-26, 1917"
 era: "World War I Era"
 source: "Europeana"
-image: "https://upload.wikimedia.org/wikipedia/commons/6/6e/Stormningen_av_vinterpalatset_1917.jpg"
+image: "/images/articles/russian-revolution-bolsheviks.jpg"
 imagealt: "Painting depicting the storming of the Winter Palace during the October Revolution, 1917"
 imagecaption: "The storming of the Winter Palace in Petrograd — the dramatic climax of Lenin's Bolshevik Revolution"
 imagecredit: "Wikimedia Commons / Public Domain"

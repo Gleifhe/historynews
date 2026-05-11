@@ -6,7 +6,7 @@ date: 2026-05-10T13:30:00
 historydate: "October 10, 2014"
 era: "Positive History"
 source: "Nobel Prize Archives"
-image: "https://upload.wikimedia.org/wikipedia/commons/1/1e/Malala_Yousafzai_at_Girl_Summit_2014.jpg"
+image: "/images/articles/malala-nobel-prize.jpg"
 imagealt: "Malala Yousafzai speaking at the Girl Summit in 2014, the year she won the Nobel Peace Prize"
 imagecaption: "Malala Yousafzai speaks at an international summit on girls' education, continuing her mission to ensure every child has the right to learn."
 imagecredit: "DFID / Wikimedia Commons / CC BY 2.0"

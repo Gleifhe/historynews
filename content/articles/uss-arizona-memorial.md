@@ -6,7 +6,7 @@ date: 2026-05-09T12:25:00
 historydate: "December 7, 1941 – Present"
 era: "World War II"
 source: "National Park Service"
-image: "https://upload.wikimedia.org/wikipedia/commons/4/47/USS_Arizona_Memorial_%28aerial_view%29.jpg"
+image: "/images/articles/uss-arizona-memorial.jpg"
 imagealt: "Aerial view of the USS Arizona Memorial straddling the sunken hull in Pearl Harbor"
 imagecaption: "The USS Arizona Memorial spans the sunken battleship in Pearl Harbor, Hawaii"
 imagecredit: "Wikimedia Commons / Public Domain"

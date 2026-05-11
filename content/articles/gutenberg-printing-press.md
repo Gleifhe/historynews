@@ -6,7 +6,7 @@ date: 2026-05-09T13:35:00
 historydate: "c. 1440"
 era: "Renaissance"
 source: "British National Archives"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PrintingPress.jpg/800px-PrintingPress.jpg"
+image: "/images/articles/gutenberg-printing-press.jpg"
 imagealt: "Replica of Gutenberg's printing press"
 imagecaption: "A replica of Gutenberg's movable-type printing press, the invention that revolutionized communication"
 imagecredit: "Wikimedia Commons / Public Domain"

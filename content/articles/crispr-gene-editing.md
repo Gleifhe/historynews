@@ -6,7 +6,7 @@ date: 2026-05-10T12:35:00
 historydate: "2012"
 era: "Positive History"
 source: "Nobel Prize Archives"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/GRNA-Cas9.svg/800px-GRNA-Cas9.svg.png"
+image: "/images/articles/crispr-gene-editing.jpg"
 imagealt: "Illustration of the CRISPR-Cas9 gene editing mechanism acting on DNA"
 imagecaption: "The CRISPR-Cas9 system acts like molecular scissors, cutting DNA at precise locations to enable gene editing."
 imagecredit: "Wikimedia Commons"

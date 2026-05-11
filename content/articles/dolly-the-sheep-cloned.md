@@ -6,7 +6,7 @@ date: 2026-05-10T12:30:00
 historydate: "July 5, 1996"
 era: "Positive History"
 source: "Roslin Institute"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Dolly_the_sheep_2016.JPG/800px-Dolly_the_sheep_2016.JPG"
+image: "/images/articles/dolly-the-sheep-cloned.jpg"
 imagealt: "Dolly the sheep, the first mammal cloned from an adult somatic cell, on display at the National Museum of Scotland"
 imagecaption: "Dolly the sheep, preserved and on display at the National Museum of Scotland in Edinburgh."
 imagecredit: "Wikimedia Commons"

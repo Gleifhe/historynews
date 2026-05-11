@@ -6,7 +6,7 @@ date: 2026-05-10T15:35:00
 historydate: "1849-1860s"
 era: "Positive History"
 source: "National Park Service"
-image: "https://upload.wikimedia.org/wikipedia/commons/d/d4/Harriet_Tubman_c1868-69.jpg"
+image: "/images/articles/harriet-tubman-freedom.jpg"
 imagealt: "Portrait photograph of Harriet Tubman, American abolitionist and Underground Railroad conductor, taken around 1868-69"
 imagecaption: "Harriet Tubman, photographed around 1868-69. Known as 'Moses,' she guided approximately 70 people out of slavery and never lost a single passenger."
 imagecredit: "Benjamin F. Powelson / Wikimedia Commons / Public Domain"

@@ -6,7 +6,7 @@ date: 2026-05-10T10:05:00
 historydate: "April 24, 1990"
 era: "Positive History"
 source: "NASA / Space Telescope Science Institute"
-image: "https://upload.wikimedia.org/wikipedia/commons/2/2f/Hubble_ultra_deep_field_high_rez_edit1.jpg"
+image: "/images/articles/hubble-space-telescope.jpg"
 imagealt: "Hubble Ultra Deep Field image showing thousands of galaxies in a tiny patch of sky"
 imagecaption: "The Hubble Deep Field image revealed thousands of galaxies in what appeared to be an empty patch of sky."
 imagecredit: "Wikimedia Commons / NASA / ESA"

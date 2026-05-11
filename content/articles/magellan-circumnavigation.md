@@ -6,7 +6,7 @@ date: 2026-05-10T13:35:00
 historydate: "September 6, 1522"
 era: "Positive History"
 source: "Britannica"
-image: "https://upload.wikimedia.org/wikipedia/commons/e/ea/Magellan%27s_route.png"
+image: "/images/articles/magellan-circumnavigation.jpg"
 imagealt: "Map showing Ferdinand Magellan's route around the world during the first circumnavigation"
 imagecaption: "The route of the first circumnavigation of the globe, begun by Ferdinand Magellan and completed by Juan Sebastián Elcano."
 imagecredit: "Wikimedia Commons / Public Domain"

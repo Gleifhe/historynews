@@ -1,0 +1,554 @@
+[
+  {
+    "slug": "first-public-school-system",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\first-public-school-system.md",
+    "title": "The First Public School System",
+    "wiki_title": "Horace Mann",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Southworth_and_Hawes_-_Horace_Mann_%28Zeno_Fotografie%29_%28cropped%29.jpg/1280px-Southworth_and_Hawes_-_Horace_Mann_%28Zeno_Fotografie%29_%28cropped%29.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "fort-sumter-to-appomattox",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\fort-sumter-to-appomattox.md",
+    "title": "From Fort Sumter to Appomattox",
+    "wiki_title": "American Civil War",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Battle_of_Gettysburg%2C_by_Currier_and_Ives.png",
+    "downloaded": true
+  },
+  {
+    "slug": "geneva-conventions-1949",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\geneva-conventions-1949.md",
+    "title": "Geneva Conventions of 1949",
+    "wiki_title": "Geneva Conventions",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Original_Geneva_Conventions.jpg/1280px-Original_Geneva_Conventions.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "gi-bill-1944",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\gi-bill-1944.md",
+    "title": "GI Bill of 1944",
+    "wiki_title": "G.I. Bill",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/1280px-Great_Seal_of_the_United_States_%28obverse%29.svg.png",
+    "downloaded": true
+  },
+  {
+    "slug": "global-literacy-milestone",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\global-literacy-milestone.md",
+    "title": "The Global Literacy Milestone",
+    "wiki_title": "Literacy",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Adult_literacy_rates%2C_Our_World_in_Data.svg/1280px-Adult_literacy_rates%2C_Our_World_in_Data.svg.png",
+    "downloaded": true
+  },
+  {
+    "slug": "global-poverty-halved",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\global-poverty-halved.md",
+    "title": "Global Extreme Poverty Halved",
+    "wiki_title": "Extreme poverty",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Above-or-below-extreme-poverty-line-world-bank.png/1280px-Above-or-below-extreme-poverty-line-world-bank.png",
+    "downloaded": true
+  },
+  {
+    "slug": "great-barrier-reef-recovery",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\great-barrier-reef-recovery.md",
+    "title": "Signs of Recovery at the Great Barrier Reef",
+    "wiki_title": "Great Barrier Reef",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/ISS-45_StoryOfWater%2C_Great_Barrier_Reef%2C_Australia.jpg/1280px-ISS-45_StoryOfWater%2C_Great_Barrier_Reef%2C_Australia.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "green-revolution-borlaug",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\green-revolution-borlaug.md",
+    "title": "Green Revolution: How Norman Borlaug Saved a Billion Lives",
+    "wiki_title": "Green Revolution",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Index-of-cereal-production-yield-and-land-use_World.svg/1280px-Index-of-cereal-production-yield-and-land-use_World.svg.png",
+    "downloaded": true
+  },
+  {
+    "slug": "gutenberg-printing-press",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\gutenberg-printing-press.md",
+    "title": "Gutenberg's Printing Press: The Invention That Changed Everything",
+    "wiki_title": "Printing press",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/PrintMus_038.jpg/1280px-PrintMus_038.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "habitat-for-humanity",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\habitat-for-humanity.md",
+    "title": "Habitat for Humanity",
+    "wiki_title": "Habitat for Humanity",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Habitat_for_Humanity_International_Headquarters_and_sign%2C_Americus.jpg/1280px-Habitat_for_Humanity_International_Headquarters_and_sign%2C_Americus.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "harriet-tubman-freedom",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\harriet-tubman-freedom.md",
+    "title": "Harriet Tubman and the Underground Railroad",
+    "wiki_title": "Harriet Tubman",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Carte-de-visite_portrait_of_Harriet_Tubman_%28cropped%29.jpg/1280px-Carte-de-visite_portrait_of_Harriet_Tubman_%28cropped%29.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "higgs-boson-discovery",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\higgs-boson-discovery.md",
+    "title": "Discovery of the Higgs Boson",
+    "wiki_title": "Higgs boson",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Candidate_Higgs_Events_in_ATLAS_and_CMS.png",
+    "downloaded": true
+  },
+  {
+    "slug": "hubble-space-telescope",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\hubble-space-telescope.md",
+    "title": "Hubble Space Telescope: The Eye That Showed Us Billions of Galaxies",
+    "wiki_title": "Hubble Space Telescope",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/STS-109-HST-s109e5700.jpg/1280px-STS-109-HST-s109e5700.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "human-genome-project",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\human-genome-project.md",
+    "title": "Human Genome Project",
+    "wiki_title": "Human Genome Project",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo_HGP.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "invention-of-world-wide-web",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\invention-of-world-wide-web.md",
+    "title": "Invention of the World Wide Web",
+    "wiki_title": "World Wide Web",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Chrome_on_Linux.png/1280px-Chrome_on_Linux.png",
+    "downloaded": true
+  },
+  {
+    "slug": "irena-sendler-warsaw",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\irena-sendler-warsaw.md",
+    "title": "Irena Sendler and the Warsaw Ghetto Children",
+    "wiki_title": "Irena Sendler",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Irena_Sendlerowa_1942.jpg/1280px-Irena_Sendlerowa_1942.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "james-webb-telescope",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\james-webb-telescope.md",
+    "title": "James Webb Space Telescope",
+    "wiki_title": "James Webb Space Telescope",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/JWST_spacecraft_model_3.png",
+    "downloaded": true
+  },
+  {
+    "slug": "jenner-first-vaccine",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\jenner-first-vaccine.md",
+    "title": "Jenner's First Vaccine",
+    "wiki_title": "Edward Jenner",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Edward_Jenner.jpg/1280px-Edward_Jenner.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "last-roman-emperor",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\last-roman-emperor.md",
+    "title": "Romulus Augustulus: The Boy Who Was Rome's Last Emperor",
+    "wiki_title": "Romulus Augustulus",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Gold_Solidus_of_Romulus_Augustulus.jpg/1280px-Gold_Solidus_of_Romulus_Augustulus.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "le-chambon-village-rescue",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\le-chambon-village-rescue.md",
+    "title": "Le Chambon-sur-Lignon Village Rescue",
+    "wiki_title": "Le Chambon-sur-Lignon",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Le_Chambon-sur-Lignon_%28Haute-Loire%2C_Fr%29_mairie.JPG/1280px-Le_Chambon-sur-Lignon_%28Haute-Loire%2C_Fr%29_mairie.JPG",
+    "downloaded": true
+  },
+  {
+    "slug": "leonardo-da-vinci",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\leonardo-da-vinci.md",
+    "title": "Leonardo da Vinci: The Original Renaissance Man",
+    "wiki_title": "Leonardo da Vinci",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Francesco_Melzi_-_Portrait_of_Leonardo.png/1280px-Francesco_Melzi_-_Portrait_of_Leonardo.png",
+    "downloaded": true
+  },
+  {
+    "slug": "lewis-clark-expedition",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\lewis-clark-expedition.md",
+    "title": "Lewis and Clark Expedition",
+    "wiki_title": "Lewis and Clark Expedition",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Lewis_and_Clark.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "lexington-concord",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\lexington-concord.md",
+    "title": "The Shot Heard Round the World",
+    "wiki_title": "Battles of Lexington and Concord",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/The_Battle_of_Lexington.jpg/1280px-The_Battle_of_Lexington.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "liberation-of-auschwitz",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\liberation-of-auschwitz.md",
+    "title": "The Gates of Hell Opened",
+    "wiki_title": "Auschwitz concentration camp",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Auschwitz_I_%2822_May_2010%29_b.jpg/1280px-Auschwitz_I_%2822_May_2010%29_b.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "magellan-circumnavigation",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\magellan-circumnavigation.md",
+    "title": "Magellan's Circumnavigation of the Globe",
+    "wiki_title": "Ferdinand Magellan",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Ferdinand_Magellan.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "malala-nobel-prize",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\malala-nobel-prize.md",
+    "title": "Malala Yousafzai Wins Nobel Peace Prize",
+    "wiki_title": "Malala Yousafzai",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Malala_Yousafzai_2023_portrait_2x3.jpg/1280px-Malala_Yousafzai_2023_portrait_2x3.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "marie-curie-radioactivity",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\marie-curie-radioactivity.md",
+    "title": "Marie Curie and Radioactivity",
+    "wiki_title": "Marie Curie",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Marie_Curie_c._1920s.jpg/1280px-Marie_Curie_c._1920s.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "marriage-equality-obergefell",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\marriage-equality-obergefell.md",
+    "title": "Marriage Equality \u2014 Obergefell v. Hodges",
+    "wiki_title": "Same-sex marriage in the United States",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Jack_Baker_and_Michael_McConnell_at_home%2C_Minneapolis%2C_Minnesota_LCCN2017648764_%28cropped%29.jpg/1280px-Jack_Baker_and_Michael_McConnell_at_home%2C_Minneapolis%2C_Minnesota_LCCN2017648764_%28cropped%29.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "milgram-obedience-experiment",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\milgram-obedience-experiment.md",
+    "title": "Would You Flip the Switch?",
+    "wiki_title": "Milgram experiment",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Milgram_experiment_v2.svg/1280px-Milgram_experiment_v2.svg.png",
+    "downloaded": true
+  },
+  {
+    "slug": "montgomery-bus-boycott",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\montgomery-bus-boycott.md",
+    "title": "The Woman Who Sat Down and the City That Stood Up",
+    "wiki_title": "Montgomery bus boycott",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rosa_Parks_1956.jpg/1280px-Rosa_Parks_1956.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "montreal-protocol-ozone",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\montreal-protocol-ozone.md",
+    "title": "The Montreal Protocol Saves the Ozone Layer",
+    "wiki_title": "Montreal Protocol",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ozone_Hole_2024_Update.webp/1280px-Ozone_Hole_2024_Update.webp.png",
+    "downloaded": true
+  },
+  {
+    "slug": "national-parks-created",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\national-parks-created.md",
+    "title": "The Creation of America's National Parks",
+    "wiki_title": "National Park Service",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_of_the_United_States_National_Park_Service.svg/1280px-Logo_of_the_United_States_National_Park_Service.svg.png",
+    "downloaded": true
+  },
+  {
+    "slug": "new-zealand-womens-vote",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\new-zealand-womens-vote.md",
+    "title": "New Zealand Women's Suffrage",
+    "wiki_title": "Women's suffrage in New Zealand",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Tribute_to_the_Suffragettes%2C_Christchurch%2C_NZ_-_cropped.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "nhs-founded-uk",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\nhs-founded-uk.md",
+    "title": "The NHS Founded in the United Kingdom",
+    "wiki_title": "National Health Service",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/NHS_Scotland_logo.svg/1280px-NHS_Scotland_logo.svg.png",
+    "downloaded": true
+  },
+  {
+    "slug": "nicholas-winton-kindertransport",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\nicholas-winton-kindertransport.md",
+    "title": "Nicholas Winton and the Kindertransport",
+    "wiki_title": "Nicholas Winton",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Nicholas_Winton_in_Prague.jpg/1280px-Nicholas_Winton_in_Prague.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "nuclear-test-ban-treaty",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\nuclear-test-ban-treaty.md",
+    "title": "The Nuclear Test Ban Treaty",
+    "wiki_title": "Partial Nuclear Test Ban Treaty",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/PTBT_Participation.svg/1280px-PTBT_Participation.svg.png",
+    "downloaded": true
+  },
+  {
+    "slug": "open-source-movement",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\open-source-movement.md",
+    "title": "The Open Source Movement",
+    "wiki_title": "Open-source software movement",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Open_Source_Initiative.svg/1280px-Open_Source_Initiative.svg.png",
+    "downloaded": true
+  },
+  {
+    "slug": "oskar-schindler-list",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\oskar-schindler-list.md",
+    "title": "Oskar Schindler's List",
+    "wiki_title": "Oskar Schindler",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Schindler%2C_Oskar_%283x4_cropped%29.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "paris-climate-agreement",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\paris-climate-agreement.md",
+    "title": "The Paris Climate Agreement",
+    "wiki_title": "Paris Agreement",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ParisAgreement.svg/1280px-ParisAgreement.svg.png",
+    "downloaded": true
+  },
+  {
+    "slug": "pasteurization-invented",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\pasteurization-invented.md",
+    "title": "Pasteurization Invented",
+    "wiki_title": "Pasteurization",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Give_The_Bottle-Fed_Baby_a_Chance_For_It%27s_Life_poster.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "peace-corps-established",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\peace-corps-established.md",
+    "title": "The Peace Corps Established",
+    "wiki_title": "Peace Corps",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Peace_corps_logo16.svg/1280px-Peace_corps_logo16.svg.png",
+    "downloaded": true
+  },
+  {
+    "slug": "pearl-harbor-attack",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\pearl-harbor-attack.md",
+    "title": "A Date Which Will Live in Infamy",
+    "wiki_title": "Attack on Pearl Harbor",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Attack_on_Pearl_Harbor_Japanese_planes_view.jpg/1280px-Attack_on_Pearl_Harbor_Japanese_planes_view.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "polio-vaccine-salk",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\polio-vaccine-salk.md",
+    "title": "Polio Vaccine \u2014 Jonas Salk",
+    "wiki_title": "Polio vaccine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Poliodrops.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "public-libraries-carnegie",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\public-libraries-carnegie.md",
+    "title": "Carnegie's Public Libraries",
+    "wiki_title": "Carnegie library",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Andrew_Carnegie_in_National_Portrait_Gallery_IMG_4441.JPG/1280px-Andrew_Carnegie_in_National_Portrait_Gallery_IMG_4441.JPG",
+    "downloaded": true
+  },
+  {
+    "slug": "reagan-tear-down-wall",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\reagan-tear-down-wall.md",
+    "title": "Four Words That Shook the World",
+    "wiki_title": "Tear down this wall!",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/President_Ronald_Reagan%27s_Speech_at_the_Berlin_Wall%2C_June_12%2C_1987.webm/500px--President_Ronald_Reagan%27s_Speech_at_the_Berlin_Wall%2C_June_12%2C_1987.webm.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "renewable-energy-cheaper",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\renewable-energy-cheaper.md",
+    "title": "The Renewable Energy Revolution",
+    "wiki_title": "Renewable energy",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Andasol_Guadix_4.jpg/1280px-Andasol_Guadix_4.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "rescue-of-apollo-13",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\rescue-of-apollo-13.md",
+    "title": "Rescue of Apollo 13",
+    "wiki_title": "Apollo 13",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Apollo_13-insignia.png/1280px-Apollo_13-insignia.png",
+    "downloaded": true
+  },
+  {
+    "slug": "rosalind-franklin-dna",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\rosalind-franklin-dna.md",
+    "title": "Rosalind Franklin and the Discovery of DNA's Structure",
+    "wiki_title": "Rosalind Franklin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Rosalind_Franklin_%28retouched%29.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "russian-revolution-bolsheviks",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\russian-revolution-bolsheviks.md",
+    "title": "Lenin Seizes Power",
+    "wiki_title": "October Revolution",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/After_the_capture_of_the_Winter_Palace_26_October_1917.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "russian-revolution-fall-of-tsar",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\russian-revolution-fall-of-tsar.md",
+    "title": "The Fall of the Last Tsar",
+    "wiki_title": "February Revolution",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Manifestaci%C3%B3nAFavorDeLaRep%C3%BAblicaPetrogrado1917--russiainrevolut00jone.jpg/1280px-Manifestaci%C3%B3nAFavorDeLaRep%C3%BAblicaPetrogrado1917--russiainrevolut00jone.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "russian-revolution-red-terror",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\russian-revolution-red-terror.md",
+    "title": "The Red Terror",
+    "wiki_title": "Red Terror",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/19180902-red_terror-banner.jpg/1280px-19180902-red_terror-banner.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "rwanda-reconciliation",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\rwanda-reconciliation.md",
+    "title": "Rwanda's Reconciliation",
+    "wiki_title": "Rwandan genocide",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Nyamata_Memorial_Site_13.jpg/1280px-Nyamata_Memorial_Site_13.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "sack-of-rome-410",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\sack-of-rome-410.md",
+    "title": "The Sack of Rome: The Day the Eternal City Fell",
+    "wiki_title": "Sack of Rome (410)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Visigoths_sack_Rome.jpg/1280px-Visigoths_sack_Rome.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "solar-impulse-flight",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\solar-impulse-flight.md",
+    "title": "Solar Impulse 2 Completes Round-the-World Flight",
+    "wiki_title": "Solar Impulse",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/SolarImpulse_HB-SIA_landing_Brussels_Airport_3-crop.jpg/1280px-SolarImpulse_HB-SIA_landing_Brussels_Airport_3-crop.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "special-olympics-founded",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\special-olympics-founded.md",
+    "title": "Special Olympics Founded",
+    "wiki_title": "Special Olympics",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Logo_Special_Olympics.svg/1280px-Logo_Special_Olympics.svg.png",
+    "downloaded": true
+  },
+  {
+    "slug": "sully-hudson-river",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\sully-hudson-river.md",
+    "title": "Miracle on the Hudson",
+    "wiki_title": "US Airways Flight 1549",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/US_Airways_Flight_1549_%28N106US%29_after_crashing_into_the_Hudson_River_%28crop_2%29.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "thai-cave-rescue-2018",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\thai-cave-rescue-2018.md",
+    "title": "Thai Cave Rescue of 2018",
+    "wiki_title": "Tham Luang cave rescue",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Rescue_equipment_in_Tham_Luang_entrance_chamber_%28cropped%29.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "the-holocaust",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\the-holocaust.md",
+    "title": "Six Million",
+    "wiki_title": "The Holocaust",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Selection_on_the_ramp_at_Auschwitz-Birkenau%2C_1944_%28Auschwitz_Album%29_1b.jpg/1280px-Selection_on_the_ramp_at_Auschwitz-Birkenau%2C_1944_%28Auschwitz_Album%29_1b.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "titanic-newspaper-coverage",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\titanic-newspaper-coverage.md",
+    "title": "Titanic Sunk",
+    "wiki_title": "Sinking of the Titanic",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/St%C3%B6wer_Titanic.jpg/1280px-St%C3%B6wer_Titanic.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "transatlantic-telegraph-cable",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\transatlantic-telegraph-cable.md",
+    "title": "The Transatlantic Telegraph Cable",
+    "wiki_title": "Transatlantic telegraph cable",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Landing_of_the_Atlantic_Cable_of_1866%2C_Heart%27s_Content%2C_Newfoundland.jpg/1280px-Landing_of_the_Atlantic_Cable_of_1866%2C_Heart%27s_Content%2C_Newfoundland.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "underground-railroad",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\underground-railroad.md",
+    "title": "Freedom's Secret Highway",
+    "wiki_title": "Underground Railroad",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Undergroundrailroadsmall2.jpg/1280px-Undergroundrailroadsmall2.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "universal-declaration-human-rights",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\universal-declaration-human-rights.md",
+    "title": "Universal Declaration of Human Rights",
+    "wiki_title": "Universal Declaration of Human Rights",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Eleanor_Roosevelt_UDHR.jpg/1280px-Eleanor_Roosevelt_UDHR.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "uss-arizona-memorial",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\uss-arizona-memorial.md",
+    "title": "The Ship That Became a Grave",
+    "wiki_title": "USS Arizona Memorial",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/USS_Arizona_Memorial_%28aerial_view%29.jpg/1280px-USS_Arizona_Memorial_%28aerial_view%29.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "valley-forge",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\valley-forge.md",
+    "title": "The Winter That Made an Army",
+    "wiki_title": "Valley Forge",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Washington_and_Lafayette_at_Valley_Forge.jpg/1280px-Washington_and_Lafayette_at_Valley_Forge.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "voyager-interstellar-space",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\voyager-interstellar-space.md",
+    "title": "Voyager 1 Enters Interstellar Space",
+    "wiki_title": "Voyager 1",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Voyager_spacecraft_model.png/1280px-Voyager_spacecraft_model.png",
+    "downloaded": true
+  },
+  {
+    "slug": "wikipedia-launched",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\wikipedia-launched.md",
+    "title": "Wikipedia Launched",
+    "wiki_title": "Wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/1280px-Wikipedia-logo-v2.svg.png",
+    "downloaded": true
+  },
+  {
+    "slug": "wolves-yellowstone",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\wolves-yellowstone.md",
+    "title": "Wolves Return to Yellowstone",
+    "wiki_title": "History of wolves in Yellowstone",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Yellowstone-wolf-17120.jpg/1280px-Yellowstone-wolf-17120.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "y2k-bug",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\y2k-bug.md",
+    "title": "Y2K Bug",
+    "wiki_title": "Year 2000 problem",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Bug_de_l%27an_2000.jpg",
+    "downloaded": true
+  },
+  {
+    "slug": "zimmermann-telegram",
+    "filepath": "C:\\repo\\historynews\\content\\articles\\zimmermann-telegram.md",
+    "title": "The Zimmermann Telegram",
+    "wiki_title": "Zimmermann telegram",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Zimmermann_Telegram_as_Received_by_the_German_Ambassador_to_Mexico_-_NARA_-_302025.jpg/1280px-Zimmermann_Telegram_as_Received_by_the_German_Ambassador_to_Mexico_-_NARA_-_302025.jpg",
+    "downloaded": true
+  }
+]

@@ -6,7 +6,7 @@ date: 2026-05-10T15:30:00
 historydate: "January 15, 2009"
 era: "Positive History"
 source: "NTSB"
-image: "https://upload.wikimedia.org/wikipedia/commons/7/72/Plane_crash_into_Hudson_River_%28crop%29.jpg"
+image: "/images/articles/sully-hudson-river.jpg"
 imagealt: "US Airways Flight 1549 floating in the Hudson River after Captain Sullenberger's emergency water landing on January 15, 2009"
 imagecaption: "US Airways Flight 1549 rests in the Hudson River as passengers stand on the wings awaiting rescue. All 155 people aboard survived."
 imagecredit: "Greg L / Wikimedia Commons / CC BY 2.0"

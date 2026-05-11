@@ -6,7 +6,7 @@ date: 2026-05-10T09:10:00
 historydate: "September 28, 1928"
 era: "Positive History"
 source: "British National Archives"
-image: "https://upload.wikimedia.org/wikipedia/commons/2/2d/Gruby_gruby_penicillin.jpg"
+image: "/images/articles/discovery-of-penicillin.jpg"
 imagealt: "Petri dish showing mold inhibiting bacterial growth, demonstrating the penicillin effect"
 imagecaption: "A petri dish showing the bacteria-killing power of penicillin mold — the observation that changed medicine forever."
 imagecredit: "Wikimedia Commons / Public Domain"

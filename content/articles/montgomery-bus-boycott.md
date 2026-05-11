@@ -6,7 +6,7 @@ date: 2026-05-09T12:10:00
 historydate: "December 1, 1955 – December 20, 1956"
 era: "Civil Rights Era"
 source: "Library of Congress Civil Rights History Project"
-image: "https://upload.wikimedia.org/wikipedia/commons/c/c4/Rosa_Parks_Booking.jpg"
+image: "/images/articles/montgomery-bus-boycott.jpg"
 imagealt: "Rosa Parks' booking photograph taken after her arrest in Montgomery, Alabama, 1955"
 imagecaption: "Rosa Parks' mugshot after her arrest for refusing to give up her bus seat, December 1, 1955"
 imagecredit: "Wikimedia Commons / Public Domain"

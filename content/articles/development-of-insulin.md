@@ -6,7 +6,7 @@ date: 2026-05-10T12:20:00
 historydate: "January 11, 1922"
 era: "Positive History"
 source: "Banting House Museum"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Insulin_pen.JPG/1280px-Insulin_pen.JPG"
+image: "/images/articles/development-of-insulin.jpg"
 imagealt: "Modern insulin pen used by diabetes patients"
 imagecaption: "A modern insulin pen — the direct descendant of Banting and Best's life-saving discovery in 1921."
 imagecredit: "Wikimedia Commons"

@@ -6,7 +6,7 @@ date: 2026-05-10T08:25:00
 historydate: "December 12, 2015"
 era: "Peace & Cooperation"
 source: "United Nations Framework Convention on Climate Change"
-image: "https://upload.wikimedia.org/wikipedia/commons/5/54/COP21_participants_-_30_Nov_2015_%2823430273715%29.jpg"
+image: "/images/articles/paris-climate-agreement.jpg"
 imagealt: "World leaders gathered at the COP21 United Nations Climate Change Conference in Paris, November 2015"
 imagecaption: "Heads of delegations at the 2015 United Nations Climate Change Conference (COP21) in Paris"
 imagecredit: "Wikimedia Commons / Presidencia de la República Mexicana / CC BY 2.0"

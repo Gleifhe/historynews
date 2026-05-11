@@ -6,7 +6,7 @@ date: 2026-05-10T12:50:00
 historydate: "1898"
 era: "Positive History"
 source: "Nobel Prize Archives"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Marie_Curie_c._1920s.jpg/440px-Marie_Curie_c._1920s.jpg"
+image: "/images/articles/marie-curie-radioactivity.jpg"
 imagealt: "Portrait photograph of Marie Curie, pioneering physicist and chemist"
 imagecaption: "Marie Curie, the first woman to win a Nobel Prize and the only person to win Nobels in two different sciences."
 imagecredit: "Wikimedia Commons / Public Domain"

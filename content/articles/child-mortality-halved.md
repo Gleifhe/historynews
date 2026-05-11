@@ -6,7 +6,7 @@ date: 2026-05-10T15:50:00
 historydate: "1990-2020"
 era: "Positive History"
 source: "UNICEF"
-image: "https://upload.wikimedia.org/wikipedia/commons/4/4e/Vaccination_of_a_child_in_Democratic_Republic_of_Congo.jpg"
+image: "/images/articles/child-mortality-halved.jpg"
 imagealt: "A young child receiving a vaccine from a healthcare worker, part of global immunization campaigns that have saved millions of lives"
 imagecaption: "Vaccination campaigns in developing countries have been one of the most effective tools in reducing child mortality worldwide."
 imagecredit: "UNICEF / Wikimedia Commons / CC BY 2.0"

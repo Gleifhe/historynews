@@ -6,7 +6,7 @@ date: 2026-05-08T17:00:00
 historydate: "April 9, 1942"
 era: "World War II"
 source: "National WWII Museum"
-image: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Burial_detail_at_Camp_O%27Donnell_after_Bataan_Death_March.jpg"
+image: "/images/articles/bataan-death-march.jpg"
 imagealt: "Prisoners at Camp O'Donnell after the Bataan Death March, 1942"
 imagecaption: "The grim aftermath of the Bataan Death March — burial detail at Camp O'Donnell, Philippines, 1942"
 imagecredit: "U.S. National Archives / Wikimedia Commons"

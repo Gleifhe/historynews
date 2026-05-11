@@ -6,7 +6,7 @@ date: 2026-05-10T15:55:00
 historydate: "1990-2015"
 era: "Positive History"
 source: "WHO/UNICEF JMP"
-image: "https://upload.wikimedia.org/wikipedia/commons/c/c2/Fetching_water_in_Mozambique_%285348160711%29.jpg"
+image: "/images/articles/clean-water-billions.jpg"
 imagealt: "A woman in Mozambique collecting clean water from an improved water source, representing global progress in water access"
 imagecaption: "Access to clean water transforms communities. Between 1990 and 2015, 2.6 billion people gained access to improved drinking water sources for the first time."
 imagecredit: "Wikimedia Commons / CC BY 2.0"

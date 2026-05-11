@@ -6,7 +6,7 @@ date: 2026-05-10T15:15:00
 historydate: "1938-1939"
 era: "Positive History"
 source: "Holocaust Memorial Day Trust"
-image: "https://upload.wikimedia.org/wikipedia/commons/5/55/Nicholas_Winton-Kindertransport-Prague.jpg"
+image: "/images/articles/nicholas-winton-kindertransport.jpg"
 imagealt: "Memorial statue of Nicholas Winton at Prague railway station, depicting him with one of the children he saved"
 imagecaption: "A memorial at Prague's main railway station honors Nicholas Winton and the 669 children he rescued from Nazi-occupied Czechoslovakia."
 imagecredit: "Wikimedia Commons / CC BY-SA 3.0"

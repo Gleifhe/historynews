@@ -6,7 +6,7 @@ date: 2026-05-10T14:40:00
 historydate: "1852"
 era: "Positive History"
 source: "Massachusetts Historical Society"
-image: "https://upload.wikimedia.org/wikipedia/commons/5/51/Horace_Mann_-_Daguerreotype_by_Southworth_%26_Hawes%2C_c1850.jpg"
+image: "/images/articles/first-public-school-system.jpg"
 imagealt: "Daguerreotype portrait of Horace Mann, the father of American public education"
 imagecaption: "Horace Mann, the Massachusetts educator and politician who fought to establish free public education for every American child."
 imagecredit: "Wikimedia Commons / Public Domain"

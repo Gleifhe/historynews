@@ -6,7 +6,7 @@ date: 2026-05-10T08:35:00
 historydate: "December 1, 1959"
 era: "Peace & Cooperation"
 source: "Antarctic Treaty Secretariat"
-image: "https://upload.wikimedia.org/wikipedia/commons/4/44/Fryxellsee_Opt.jpg"
+image: "/images/articles/antarctic-treaty.jpg"
 imagealt: "Lake Fryxell in the Transantarctic Mountains, Antarctica, surrounded by glaciers"
 imagecaption: "Lake Fryxell in Antarctica's Taylor Valley — the kind of pristine landscape preserved by the Antarctic Treaty"
 imagecredit: "Wikimedia Commons / Joe Mastroianni, NSF / Public Domain"

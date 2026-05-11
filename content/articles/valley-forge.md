@@ -6,7 +6,7 @@ date: 2026-05-09T12:35:00
 historydate: "December 19, 1777 – June 19, 1778"
 era: "18th Century"
 source: "National Archives (NARA)"
-image: "https://upload.wikimedia.org/wikipedia/commons/5/56/Washington_and_Lafayette_at_Valley_Forge.jpg"
+image: "/images/articles/valley-forge.jpg"
 imagealt: "Painting of George Washington and the Marquis de Lafayette at Valley Forge during the harsh winter encampment"
 imagecaption: "Washington and Lafayette at Valley Forge, winter 1777–78"
 imagecredit: "Wikimedia Commons / Public Domain"

@@ -6,7 +6,7 @@ date: 2026-05-10T16:10:00
 historydate: "April 26, 1956"
 era: "Positive History"
 source: "World Shipping Council"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Container_ship_Elly_Maersk.jpg/1280px-Container_ship_Elly_Maersk.jpg"
+image: "/images/articles/containerization-revolution.jpg"
 imagealt: "A massive container ship loaded with thousands of colorful standardized shipping containers, illustrating modern global trade"
 imagecaption: "Modern container ships carry thousands of standardized containers across the world's oceans, a system that began with Malcolm McLean's first shipment in 1956."
 imagecredit: "Wikimedia Commons / CC BY-SA 3.0"

@@ -6,7 +6,7 @@ date: 2026-05-10T13:25:00
 historydate: "September 17, 1978"
 era: "Positive History"
 source: "Jimmy Carter Presidential Library"
-image: "https://upload.wikimedia.org/wikipedia/commons/d/d2/Camp_David%2C_Menachem_Begin%2C_Anwar_Sadat%2C_1978.jpg"
+image: "/images/articles/camp-david-accords.jpg"
 imagealt: "Egyptian President Anwar Sadat, U.S. President Jimmy Carter, and Israeli Prime Minister Menachem Begin at Camp David in 1978"
 imagecaption: "Anwar Sadat, Jimmy Carter, and Menachem Begin at Camp David, where 12 days of intense negotiations produced a historic peace agreement."
 imagecredit: "U.S. Government / Wikimedia Commons / Public Domain"

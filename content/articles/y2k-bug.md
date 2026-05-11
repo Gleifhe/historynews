@@ -6,7 +6,7 @@ date: 2026-05-09T05:00:00
 historydate: "January 1, 2000"
 era: "21st Century"
 source: "Internet Archive"
-image: "https://upload.wikimedia.org/wikipedia/commons/f/fb/Bug_de_l%27an_2000.jpg"
+image: "/images/articles/y2k-bug.jpg"
 imagealt: "A Y2K bug warning display"
 imagecaption: "The Y2K bug — the global fear that computers would crash on January 1, 2000"
 imagecredit: "Wikimedia Commons / CC BY-SA"

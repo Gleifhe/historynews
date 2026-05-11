@@ -6,7 +6,7 @@ date: 2026-05-10T13:45:00
 historydate: "July 12, 2022"
 era: "Positive History"
 source: "NASA"
-image: "https://upload.wikimedia.org/wikipedia/commons/f/f3/James_Webb_Space_Telescope_Mirror37.jpg"
+image: "/images/articles/james-webb-telescope.jpg"
 imagealt: "The golden mirrors of the James Webb Space Telescope being assembled before launch"
 imagecaption: "The James Webb Space Telescope's 18 gold-coated mirror segments, designed to capture infrared light from the most distant objects in the universe."
 imagecredit: "NASA/MSFC/David Higginbotham / Wikimedia Commons / Public Domain"

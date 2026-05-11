@@ -6,7 +6,7 @@ date: 2026-05-09T13:25:00
 historydate: "1918-1922"
 era: "World War I Era"
 source: "HathiTrust Digital Library"
-image: "https://upload.wikimedia.org/wikipedia/commons/d/d4/Red_Army_soldiers%2C_Moscow%2C_August_1918.jpg"
+image: "/images/articles/russian-revolution-red-terror.jpg"
 imagealt: "Red Army soldiers marching through Moscow, August 1918"
 imagecaption: "Red Army soldiers march through Moscow during the Russian Civil War — the conflict that forged the Soviet Union"
 imagecredit: "Wikimedia Commons / Public Domain"

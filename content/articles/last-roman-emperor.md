@@ -6,7 +6,7 @@ date: 2026-05-09T13:55:00
 historydate: "476 AD"
 era: "Ancient World"
 source: "Britannica"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Romulus_Augustulus_and_Odoacer.jpg/800px-Romulus_Augustulus_and_Odoacer.jpg"
+image: "/images/articles/last-roman-emperor.jpg"
 imagealt: "Illustration of Romulus Augustulus resigning the crown to Odoacer"
 imagecaption: "Romulus Augustulus surrenders the imperial crown to the Germanic chieftain Odoacer in 476 AD"
 imagecredit: "Wikimedia Commons / Public Domain"

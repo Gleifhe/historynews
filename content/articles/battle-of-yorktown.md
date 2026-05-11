@@ -6,7 +6,7 @@ date: 2026-05-09T12:40:00
 historydate: "September 28 – October 19, 1781"
 era: "18th Century"
 source: "Library of Congress"
-image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/Surrender_of_Lord_Cornwallis.jpg"
+image: "/images/articles/battle-of-yorktown.jpg"
 imagealt: "John Trumbull's painting of the surrender of Lord Cornwallis at Yorktown, 1781"
 imagecaption: "The Surrender of Lord Cornwallis at Yorktown, painted by John Trumbull"
 imagecredit: "Wikimedia Commons / Public Domain"

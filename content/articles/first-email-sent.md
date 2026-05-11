@@ -6,7 +6,7 @@ date: 2026-05-10T10:20:00
 historydate: "1971"
 era: "Positive History"
 source: "Computer History Museum"
-image: "https://upload.wikimedia.org/wikipedia/commons/f/f6/Ray_Tomlinson_2004.jpg"
+image: "/images/articles/first-email-sent.jpg"
 imagealt: "Ray Tomlinson, the inventor of email, smiling at a computer"
 imagecaption: "Ray Tomlinson invented email and chose the @ symbol, forever changing how humans communicate."
 imagecredit: "Wikimedia Commons"

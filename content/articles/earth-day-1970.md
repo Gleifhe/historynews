@@ -6,7 +6,7 @@ date: 2026-05-10T10:25:00
 historydate: "April 22, 1970"
 era: "Positive History"
 source: "Earth Day Network"
-image: "https://upload.wikimedia.org/wikipedia/commons/a/a0/Earth_Day_Flag.png"
+image: "/images/articles/earth-day-1970.jpg"
 imagealt: "Earth Day flag showing the Earth on a blue background"
 imagecaption: "The first Earth Day in 1970 brought 20 million Americans together to demand a cleaner, healthier planet."
 imagecredit: "Wikimedia Commons"

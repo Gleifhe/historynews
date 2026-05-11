@@ -6,7 +6,7 @@ date: 2026-05-09T14:10:00
 historydate: "336-323 BC"
 era: "Ancient World"
 source: "Britannica"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Alexander_the_Great_mosaic.jpg/800px-Alexander_the_Great_mosaic.jpg"
+image: "/images/articles/alexander-the-great.jpg"
 imagealt: "The Alexander Mosaic from Pompeii showing Alexander the Great in battle"
 imagecaption: "The Alexander Mosaic from Pompeii, depicting Alexander the Great at the Battle of Issus against Darius III of Persia"
 imagecredit: "Naples National Archaeological Museum / Wikimedia Commons / Public Domain"

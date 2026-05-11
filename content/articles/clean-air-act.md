@@ -6,7 +6,7 @@ date: 2026-05-10T10:15:00
 historydate: "December 31, 1970"
 era: "Positive History"
 source: "Environmental Protection Agency"
-image: "https://upload.wikimedia.org/wikipedia/commons/3/3e/SmogNY.jpg"
+image: "/images/articles/clean-air-act.jpg"
 imagealt: "Smog covering a city skyline before clean air regulations took effect"
 imagecaption: "Scenes like this smog-choked skyline became increasingly rare after the Clean Air Act took effect."
 imagecredit: "Wikimedia Commons"

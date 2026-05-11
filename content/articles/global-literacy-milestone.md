@@ -6,7 +6,7 @@ date: 2026-05-10T15:05:00
 historydate: "2020s"
 era: "Positive History"
 source: "UNESCO Institute for Statistics"
-image: "https://upload.wikimedia.org/wikipedia/commons/b/bc/UNESCO_logo_English.svg"
+image: "/images/articles/global-literacy-milestone.jpg"
 imagealt: "UNESCO logo representing the organization's commitment to education and literacy worldwide"
 imagecaption: "UNESCO, the United Nations Educational, Scientific and Cultural Organization, has led global efforts to achieve universal literacy."
 imagecredit: "Wikimedia Commons / Public Domain"

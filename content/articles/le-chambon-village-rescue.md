@@ -6,7 +6,7 @@ date: 2026-05-10T15:20:00
 historydate: "1940-1944"
 era: "Positive History"
 source: "Yad Vashem"
-image: "https://upload.wikimedia.org/wikipedia/commons/a/a7/Le_Chambon-sur-Lignon_-_place_du_village.jpg"
+image: "/images/articles/le-chambon-village-rescue.jpg"
 imagealt: "The village square of Le Chambon-sur-Lignon in France, the village that sheltered thousands of Jewish refugees during World War II"
 imagecaption: "Le Chambon-sur-Lignon, the small French village whose residents collectively saved approximately 3,500 Jewish lives during the Nazi occupation."
 imagecredit: "Wikimedia Commons / CC BY-SA 3.0"

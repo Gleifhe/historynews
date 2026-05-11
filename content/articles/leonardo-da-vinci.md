@@ -6,7 +6,7 @@ date: 2026-05-09T13:30:00
 historydate: "1452-1519"
 era: "Renaissance"
 source: "Smithsonian Open Access"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Leonardo_da_Vinci_-_presumed_self-portrait_-_WGA12798.jpg/800px-Leonardo_da_Vinci_-_presumed_self-portrait_-_WGA12798.jpg"
+image: "/images/articles/leonardo-da-vinci.jpg"
 imagealt: "Presumed self-portrait of Leonardo da Vinci in red chalk"
 imagecaption: "Leonardo da Vinci's famous self-portrait in red chalk, drawn around 1512"
 imagecredit: "Wikimedia Commons / Public Domain"

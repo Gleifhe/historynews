@@ -6,7 +6,7 @@ date: 2026-05-10T15:40:00
 historydate: "1983"
 era: "Positive History"
 source: "Grameen Bank"
-image: "https://upload.wikimedia.org/wikipedia/commons/a/a5/Muhammad_Yunus_in_Houston_%28cropped%29.jpg"
+image: "/images/articles/grameen-bank-microfinance.jpg"
 imagealt: "Muhammad Yunus, founder of Grameen Bank and Nobel Peace Prize laureate, who pioneered microfinance to help the world's poorest people"
 imagecaption: "Muhammad Yunus, whose idea of lending small amounts of money to poor women in Bangladesh grew into a global movement that has helped millions escape poverty."
 imagecredit: "Wikimedia Commons / CC BY 2.0"

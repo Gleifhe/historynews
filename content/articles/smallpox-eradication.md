@@ -6,7 +6,7 @@ date: 2026-05-10T09:00:00
 historydate: "May 8, 1980"
 era: "Positive History"
 source: "World Health Organization Archives"
-image: "https://upload.wikimedia.org/wikipedia/commons/e/ed/Jenner_phipps_01.jpg"
+image: "/images/articles/smallpox-eradication.jpg"
 imagealt: "Painting of Edward Jenner vaccinating young James Phipps against smallpox in 1796"
 imagecaption: "Edward Jenner administers the first smallpox vaccination to James Phipps in 1796, beginning the journey toward eradication."
 imagecredit: "Wikimedia Commons / Public Domain"

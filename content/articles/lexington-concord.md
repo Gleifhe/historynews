@@ -6,7 +6,7 @@ date: 2026-05-09T12:30:00
 historydate: "April 19, 1775"
 era: "18th Century"
 source: "Massachusetts Historical Society"
-image: "https://upload.wikimedia.org/wikipedia/commons/f/fe/The_Battle_of_Lexington%2C_1775.png"
+image: "/images/articles/lexington-concord.jpg"
 imagealt: "Engraving depicting the Battle of Lexington, April 19, 1775"
 imagecaption: "The Battle of Lexington, April 19, 1775 — the opening engagement of the American Revolution"
 imagecredit: "Wikimedia Commons / Public Domain"
