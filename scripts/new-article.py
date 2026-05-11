@@ -5,10 +5,13 @@ new-article.py — Generate a new History News article scaffold.
 Usage:
     python scripts/new-article.py --title "The Boston Tea Party" \
         --era "18th Century" --historydate "December 16, 1773" \
-        --source "Library of Congress" --slug boston-tea-party
+        --source "Library of Congress" --slug boston-tea-party \
+        --image "https://upload.wikimedia.org/wikipedia/commons/..."
 
 This creates a ready-to-edit markdown file in content/articles/ with
-all front matter fields pre-populated.
+all front matter fields pre-populated. If --image is provided with a URL,
+the image is automatically downloaded to static/images/articles/ and
+the article references the local copy.
 """
 
 import argparse
@@ -26,10 +29,10 @@ date: {date}
 historydate: "{historydate}"
 era: "{era}"
 source: "{source}"
-image: ""
+image: "{image}"
 imagealt: ""
 imagecaption: ""
-imagecredit: "Library of Congress"
+imagecredit: ""
 video: ""
 weight: {weight}
 sources:
@@ -101,6 +104,7 @@ def main():
     parser.add_argument('--historydate', required=True, help='Historical date (e.g., "June 6, 1944")')
     parser.add_argument('--source', required=True, help='Primary source name')
     parser.add_argument('--slug', default='', help='URL slug (auto-generated from title if blank)')
+    parser.add_argument('--image', default='', help='Image URL to download locally (Wikimedia Commons, LOC, etc.)')
     args = parser.parse_args()
 
     slug = args.slug if args.slug else slugify(args.title)
@@ -110,6 +114,31 @@ def main():
     content_dir = os.path.join(root, 'content', 'articles')
     weight = get_next_weight(content_dir)
 
+    # Download image locally if URL provided
+    image_path = ''
+    if args.image:
+        image_dir = os.path.join(root, 'static', 'images', 'articles')
+        os.makedirs(image_dir, exist_ok=True)
+        local_file = os.path.join(image_dir, f'{slug}.jpg')
+        print(f'Downloading image to static/images/articles/{slug}.jpg ...')
+        try:
+            import urllib.request, ssl
+            ctx = ssl.create_default_context()
+            ctx.check_hostname = False
+            ctx.verify_mode = ssl.CERT_NONE
+            req = urllib.request.Request(args.image, headers={
+                'User-Agent': 'HistoryNews/1.0 (educational site; downloading licensed image)'
+            })
+            with urllib.request.urlopen(req, timeout=30, context=ctx) as resp:
+                with open(local_file, 'wb') as f:
+                    f.write(resp.read())
+            image_path = f'/images/articles/{slug}.jpg'
+            print(f'  OK — saved as {image_path}')
+        except Exception as e:
+            print(f'  FAILED to download image: {e}')
+            print(f'  Using remote URL as fallback.')
+            image_path = args.image
+
     output = TEMPLATE.format(
         title=args.title,
         headline=headline,
@@ -118,6 +147,7 @@ def main():
         historydate=args.historydate,
         era=args.era,
         source=args.source,
+        image=image_path,
         weight=weight
     )
 

@@ -3,14 +3,16 @@
 pull-article.py — Pull article content from a source URL and generate a draft.
 
 Fetches a web page, extracts key facts, and creates an article scaffold
-with pre-filled content suggestions.
+with pre-filled content suggestions. If an image URL is provided via --image,
+it is downloaded locally to static/images/articles/.
 
 Usage:
     python scripts/pull-article.py \
         --url "https://www.history.com/topics/..." \
         --title "The Boston Tea Party" \
         --era "18th Century" \
-        --historydate "December 16, 1773"
+        --historydate "December 16, 1773" \
+        --image "https://upload.wikimedia.org/wikipedia/commons/..."
 
 Requirements:
     pip install requests beautifulsoup4
@@ -90,9 +92,36 @@ def main():
     parser.add_argument('--era', required=True, help='Historical era')
     parser.add_argument('--historydate', required=True, help='Historical date')
     parser.add_argument('--slug', default='', help='URL slug')
+    parser.add_argument('--image', default='', help='Image URL to download locally')
     args = parser.parse_args()
 
     slug = args.slug if args.slug else slugify(args.title)
+
+    # Download image locally if provided
+    image_path = ''
+    if args.image:
+        root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        image_dir = os.path.join(root, 'static', 'images', 'articles')
+        os.makedirs(image_dir, exist_ok=True)
+        local_file = os.path.join(image_dir, f'{slug}.jpg')
+        print(f'Downloading image...')
+        try:
+            import urllib.request as urlreq
+            import ssl as sslmod
+            ctx = sslmod.create_default_context()
+            ctx.check_hostname = False
+            ctx.verify_mode = sslmod.CERT_NONE
+            req = urlreq.Request(args.image, headers={
+                'User-Agent': 'HistoryNews/1.0 (educational site)'
+            })
+            with urlreq.urlopen(req, timeout=30, context=ctx) as resp:
+                with open(local_file, 'wb') as f:
+                    f.write(resp.read())
+            image_path = f'/images/articles/{slug}.jpg'
+            print(f'  OK — {image_path}')
+        except Exception as e:
+            print(f'  FAILED: {e}')
+            image_path = args.image  # Fallback to remote
 
     print(f'Fetching content from: {args.url}')
     content = fetch_article(args.url)
@@ -110,10 +139,10 @@ date: {datetime.datetime.now().isoformat()[:19]}
 historydate: "{args.historydate}"
 era: "{args.era}"
 source: "{args.url}"
-image: ""
+image: "{image_path}"
 imagealt: ""
 imagecaption: ""
-imagecredit: "Library of Congress"
+imagecredit: ""
 video: ""
 weight: {weight}
 sources:
