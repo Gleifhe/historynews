@@ -6,7 +6,7 @@ date: 2026-05-10T13:50:00
 historydate: "April 10, 2019"
 era: "Positive History"
 source: "Event Horizon Telescope Collaboration"
-image: "https://upload.wikimedia.org/wikipedia/commons/4/4f/Black_hole_-_Messier_87_crop_max_res.jpg"
+image: "/images/articles/first-black-hole-photo.jpg"
 imagealt: "First photograph of a black hole showing the glowing ring of hot gas around the shadow of the black hole in galaxy M87"
 imagecaption: "The first image of a black hole, captured by the Event Horizon Telescope, shows the shadow of the supermassive black hole at the center of galaxy M87."
 imagecredit: "Event Horizon Telescope Collaboration / Wikimedia Commons / CC BY 4.0"

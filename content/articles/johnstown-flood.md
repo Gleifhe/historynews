@@ -6,7 +6,7 @@ date: 2026-05-08T22:00:00
 historydate: "May 31, 1889"
 era: "Industrial Age"
 source: "HathiTrust"
-image: "https://tile.loc.gov/storage-services/service/pnp/cph/3a30000/3a30000/3a30000/3a30021r.jpg"
+image: "/images/articles/johnstown-flood.jpg"
 imagealt: "Aftermath of the Johnstown Flood showing destruction"
 imagecaption: "The Johnstown Flood of 1889 left behind a landscape of total devastation, wiping out entire neighborhoods in minutes."
 imagecredit: "Library of Congress, Prints & Photographs Division"

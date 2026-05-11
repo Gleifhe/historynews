@@ -6,7 +6,7 @@ date: 2026-04-18
 historydate: "June 28, 1914"
 era: "Pre-World War I"
 source: "History.com"
-image: "https://tile.loc.gov/storage-services/service/pnp/ggbain/15800/15844r.jpg"
+image: "/images/articles/assassination-franz-ferdinand.jpg"
 imagealt: "Archduke Franz Ferdinand"
 imagecaption: "Archduke Franz Ferdinand of Austria-Hungary, whose assassination triggered World War I"
 imagecredit: "Bain News Service / Library of Congress"

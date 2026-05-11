@@ -6,7 +6,7 @@ date: 2026-05-09T02:00:00
 historydate: "January 28, 1986"
 era: "Space Age"
 source: "Google News Archive"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Challenger_explosion.jpg/1280px-Challenger_explosion.jpg"
+image: "/images/articles/challenger-disaster.jpg"
 imagealt: "The Space Shuttle Challenger explodes 73 seconds after launch, January 28, 1986"
 imagecaption: "The Space Shuttle Challenger breaks apart over the Atlantic Ocean, January 28, 1986"
 imagecredit: "NASA / Wikimedia Commons"

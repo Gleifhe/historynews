@@ -6,7 +6,7 @@ date: 2026-04-30
 historydate: "1918-1920"
 era: "World War I Era"
 source: "JSTOR"
-image: "https://tile.loc.gov/storage-services/service/pnp/anrc/06500/06520r.jpg"
+image: "/images/articles/1918-spanish-flu-pandemic.jpg"
 imagealt: "Red Cross nurses during the 1918 influenza pandemic"
 imagecaption: "Red Cross volunteers assemble cotton masks during the 1918 influenza pandemic"
 imagecredit: "American Red Cross / Library of Congress"

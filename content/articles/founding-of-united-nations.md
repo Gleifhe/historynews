@@ -6,7 +6,7 @@ date: 2026-05-10T08:00:00
 historydate: "October 24, 1945"
 era: "Peace & Cooperation"
 source: "United Nations Archives"
-image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Marshall_Plan_poster.JPG"
+image: "/images/articles/founding-of-united-nations.jpg"
 imagealt: "Post-war cooperation poster symbolizing international rebuilding efforts"
 imagecaption: "A poster promoting post-war cooperation — the same spirit that drove the founding of the United Nations"
 imagecredit: "Wikimedia Commons / Public Domain"

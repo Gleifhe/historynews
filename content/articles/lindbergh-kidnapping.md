@@ -6,7 +6,7 @@ date: 2026-05-03
 historydate: "March 1, 1932"
 era: "Great Depression"
 source: "Newspapers.com"
-image: "https://tile.loc.gov/storage-services/service/pnp/cph/3b10000/3b18000/3b18700/3b18725r.jpg"
+image: "/images/articles/lindbergh-kidnapping.jpg"
 imagealt: "Charles Lindbergh"
 imagecaption: "Charles Lindbergh, America's most famous aviator, whose infant son was kidnapped in 1932"
 imagecredit: "Library of Congress"

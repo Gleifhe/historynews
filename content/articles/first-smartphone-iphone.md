@@ -6,7 +6,7 @@ date: 2026-05-10T16:15:00
 historydate: "January 9, 2007"
 era: "Positive History"
 source: "Computer History Museum"
-image: "https://upload.wikimedia.org/wikipedia/commons/a/ad/IPhone_1st_Gen.svg"
+image: "/images/articles/first-smartphone-iphone.jpg"
 imagealt: "The original iPhone from 2007, the device that launched the smartphone revolution and changed how humans interact with technology"
 imagecaption: "The original iPhone, unveiled by Steve Jobs on January 9, 2007. Its touchscreen interface and app ecosystem changed the world."
 imagecredit: "Wikimedia Commons / Public Domain"

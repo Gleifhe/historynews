@@ -6,7 +6,7 @@ date: 2026-05-08T10:00:00
 historydate: "August 6 and 9, 1945"
 era: "World War II"
 source: "Encyclopedia Britannica"
-image: "https://tile.loc.gov/storage-services/service/pnp/cph/3c30000/3c30000/3c30600/3c30662r.jpg"
+image: "/images/articles/hiroshima-nagasaki.jpg"
 imagealt: "Atomic bomb mushroom cloud over Japan, 1945"
 imagecaption: "The atomic bombings of Hiroshima and Nagasaki in August 1945 killed over 200,000 people and ushered in the nuclear age"
 imagecredit: "Library of Congress"

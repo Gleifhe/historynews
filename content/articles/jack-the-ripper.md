@@ -6,7 +6,7 @@ date: 2026-05-09T03:00:00
 historydate: "Autumn 1888"
 era: "Victorian Era"
 source: "British Newspaper Archive"
-image: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Jack-the-Ripper-The-Nemesis-of-Neglect-Punch-London-Charivari-cartoon-poem-1888-09-29.jpg"
+image: "/images/articles/jack-the-ripper.jpg"
 imagealt: "1888 Punch cartoon about Jack the Ripper"
 imagecaption: "The Nemesis of Neglect — an 1888 Punch cartoon about the Ripper murders"
 imagecredit: "Punch Magazine / Public Domain"

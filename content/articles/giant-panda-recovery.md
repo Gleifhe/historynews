@@ -6,7 +6,7 @@ date: 2026-05-10T16:40:00
 historydate: "September 4, 2016"
 era: "Positive History"
 source: "IUCN Red List"
-image: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Grosser_Panda.JPG"
+image: "/images/articles/giant-panda-recovery.jpg"
 imagealt: "A giant panda sitting and eating bamboo in a lush green habitat"
 imagecaption: "A giant panda eats bamboo. The species was reclassified from endangered to vulnerable in 2016 after decades of conservation success."
 imagecredit: "J. Patrick Fischer, CC BY-SA 3.0, via Wikimedia Commons"

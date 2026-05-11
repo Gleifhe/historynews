@@ -6,7 +6,7 @@ date: 2026-05-06
 historydate: "November 9, 1989"
 era: "Cold War"
 source: "Europeana"
-image: "https://upload.wikimedia.org/wikipedia/commons/1/1c/West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg"
+image: "/images/articles/berlin-wall-falls.jpg"
 imagealt: "Crowds at the Brandenburg Gate as the Berlin Wall falls, November 1989"
 imagecaption: "East and West Germans celebrate at the Brandenburg Gate after the fall of the Berlin Wall"
 imagecredit: "Wikimedia Commons / Public Domain"

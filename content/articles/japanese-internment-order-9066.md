@@ -6,7 +6,7 @@ date: 2026-05-08
 historydate: "February 19, 1942"
 era: "World War II"
 source: "National Archives (NARA)"
-image: "https://tile.loc.gov/storage-services/service/pnp/ppmsca/75000/75019r.jpg"
+image: "/images/articles/japanese-internment-order-9066.jpg"
 imagealt: "Japanese American evacuation notice in San Francisco, 1942"
 imagecaption: "A store window in San Francisco's Chinatown during the Japanese American evacuation, April 1942"
 imagecredit: "Dorothea Lange, Library of Congress"

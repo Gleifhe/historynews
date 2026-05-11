@@ -6,7 +6,7 @@ date: 2026-04-26
 historydate: "December 17, 1903"
 era: "Turn of the Century"
 source: "Smithsonian Open Access"
-image: "https://tile.loc.gov/storage-services/service/pnp/ppprs/00600/00626r.jpg"
+image: "/images/articles/wright-brothers-first-flight.jpg"
 imagealt: "Wright Brothers first flight at Kitty Hawk"
 imagecaption: "The Wright Flyer lifts off at Kitty Hawk, North Carolina, December 17, 1903 — the first powered flight in history"
 imagecredit: "Wright Brothers / Library of Congress"

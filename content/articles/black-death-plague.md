@@ -6,7 +6,7 @@ date: 2026-05-09T07:00:00
 historydate: "1346-1353"
 era: "Medieval"
 source: "Europeana"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Plague_in_an_Ancient_City_LACMA_AC1997.10.1_%281_of_2%29.jpg/1280px-Plague_in_an_Ancient_City_LACMA_AC1997.10.1_%281_of_2%29.jpg"
+image: "/images/articles/black-death-plague.jpg"
 imagealt: "Painting depicting plague victims in a medieval city"
 imagecaption: "The Black Death devastated medieval Europe, killing one-third to one-half of the population"
 imagecredit: "LACMA / Wikimedia Commons"

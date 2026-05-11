@@ -6,7 +6,7 @@ date: 2026-05-09T13:40:00
 historydate: "1508-1512"
 era: "Renaissance"
 source: "Europeana"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg/1280px-Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg"
+image: "/images/articles/michelangelo-sistine-chapel.jpg"
 imagealt: "The Creation of Adam by Michelangelo on the Sistine Chapel ceiling"
 imagecaption: "The Creation of Adam, the most iconic panel of the Sistine Chapel ceiling"
 imagecredit: "Wikimedia Commons / Public Domain"

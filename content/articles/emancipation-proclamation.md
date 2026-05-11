@@ -6,7 +6,7 @@ date: 2026-05-09T09:00:00
 historydate: "January 1, 1863"
 era: "Civil War"
 source: "National Archives (NARA)"
-image: "https://tile.loc.gov/storage-services/service/pnp/cph/3a10000/3a10000/3a10300/3a10345r.jpg"
+image: "/images/articles/emancipation-proclamation.jpg"
 imagealt: "Portrait of Abraham Lincoln"
 imagecaption: "President Abraham Lincoln, who issued the Emancipation Proclamation on January 1, 1863"
 imagecredit: "Library of Congress"

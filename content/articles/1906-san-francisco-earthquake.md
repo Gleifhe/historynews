@@ -6,7 +6,7 @@ date: 2026-05-09
 historydate: "April 18, 1906"
 era: "Early 20th Century"
 source: "Library of Congress Digital Collections"
-image: "https://tile.loc.gov/storage-services/service/pnp/cph/3a40000/3a49000/3a49200/3a49206r.jpg"
+image: "/images/articles/1906-san-francisco-earthquake.jpg"
 imagealt: "Ruins after San Francisco earthquake, 1906"
 imagecaption: "Ruins stretch for blocks after the 1906 San Francisco earthquake and fire"
 imagecredit: "Arnold Genthe, Library of Congress"

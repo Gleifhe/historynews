@@ -6,7 +6,7 @@ date: 2026-04-15
 historydate: "July 14, 1789"
 era: "18th Century"
 source: "Wikipedia / Wikimedia Commons"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Prise_de_la_Bastille.jpg/1280px-Prise_de_la_Bastille.jpg"
+image: "/images/articles/storming-of-the-bastille.jpg"
 imagealt: "Storming of the Bastille painting"
 imagecaption: "The Storming of the Bastille on July 14, 1789 — the event that ignited the French Revolution"
 imagecredit: "Jean-Pierre Houël / Wikimedia Commons (Public Domain)"

@@ -6,7 +6,7 @@ date: 2026-05-10T14:05:00
 historydate: "March 10, 1876"
 era: "Positive History"
 source: "Smithsonian"
-image: "https://upload.wikimedia.org/wikipedia/commons/1/10/Alexander_Graham_Bell.jpg"
+image: "/images/articles/invention-of-telephone.jpg"
 imagealt: "Alexander Graham Bell speaking into an early telephone device"
 imagecaption: "Alexander Graham Bell demonstrates an early model of the telephone, the invention that changed human communication forever."
 imagecredit: "Wikimedia Commons / Public Domain"

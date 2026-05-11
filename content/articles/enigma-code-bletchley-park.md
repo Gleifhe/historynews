@@ -6,7 +6,7 @@ date: 2026-05-09T08:00:00
 historydate: "1939-1945"
 era: "World War II"
 source: "British National Archives"
-image: "https://upload.wikimedia.org/wikipedia/commons/b/bd/Enigma_%28crittografia%29_-_Museo_scienza_e_tecnologia_Milano.jpg"
+image: "/images/articles/enigma-code-bletchley-park.jpg"
 imagealt: "An Enigma cipher machine used by Nazi Germany"
 imagecaption: "An Enigma cipher machine — the encryption device that Nazi Germany believed was unbreakable"
 imagecredit: "Wikimedia Commons / CC BY-SA"

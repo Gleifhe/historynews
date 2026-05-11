@@ -6,7 +6,7 @@ date: 2026-05-01
 historydate: "July 20, 1969"
 era: "Space Age"
 source: "Google News Archive"
-image: "https://tile.loc.gov/storage-services/service/pnp/gtfy/07700/07747r.jpg"
+image: "/images/articles/moon-landing-headlines.jpg"
 imagealt: "Apollo 11 lunar module at Grumman, 1969"
 imagecaption: "An Apollo 11 astronaut walks on the surface of the moon, July 20, 1969"
 imagecredit: "NASA / Library of Congress"

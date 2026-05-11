@@ -6,7 +6,7 @@ date: 2026-05-05
 historydate: "September 11, 2001"
 era: "21st Century"
 source: "Internet Archive / Wayback Machine"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/WTC_smoking_on_9-11.jpeg/1280px-WTC_smoking_on_9-11.jpeg"
+image: "/images/articles/internet-on-911.jpg"
 imagealt: "The World Trade Center towers burning on September 11, 2001"
 imagecaption: "Smoke pours from the World Trade Center on September 11, 2001"
 imagecredit: "Wikimedia Commons / Public Domain"

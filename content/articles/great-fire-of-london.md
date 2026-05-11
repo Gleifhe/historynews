@@ -6,7 +6,7 @@ date: 2026-04-20
 historydate: "September 2-5, 1666"
 era: "17th Century"
 source: "BBC History"
-image: "https://tile.loc.gov/storage-services/service/pnp/cph/3a00000/3a04000/3a04300/3a04359r.jpg"
+image: "/images/articles/great-fire-of-london.jpg"
 imagealt: "Historic print of the Great Fire of London, 1666"
 imagecaption: "A contemporary engraving depicting the Great Fire of London, September 1666"
 imagecredit: "Library of Congress"

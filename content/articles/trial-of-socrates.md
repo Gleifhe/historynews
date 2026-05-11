@@ -6,7 +6,7 @@ date: 2026-05-09T14:05:00
 historydate: "399 BC"
 era: "Ancient World"
 source: "Project Gutenberg"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/David_-_The_Death_of_Socrates.jpg/1280px-David_-_The_Death_of_Socrates.jpg"
+image: "/images/articles/trial-of-socrates.jpg"
 imagealt: "The Death of Socrates by Jacques-Louis David, showing Socrates reaching for the cup of hemlock"
 imagecaption: "The Death of Socrates by Jacques-Louis David (1787) — Socrates reaches for the hemlock while his students grieve"
 imagecredit: "The Metropolitan Museum of Art / Wikimedia Commons / Public Domain"

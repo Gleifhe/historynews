@@ -6,7 +6,7 @@ date: 2026-04-19
 historydate: "August 8, 1974"
 era: "Watergate Era"
 source: "C-SPAN Video Library"
-image: "https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c24000/3c24100/3c24180r.jpg"
+image: "/images/articles/nixon-resignation-speech.jpg"
 imagealt: "President Richard Nixon"
 imagecaption: "President Richard Nixon addresses the nation on August 8, 1974 — announcing his resignation"
 imagecredit: "Library of Congress"

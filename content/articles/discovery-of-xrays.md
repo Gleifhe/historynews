@@ -6,7 +6,7 @@ date: 2026-05-10T12:05:00
 historydate: "November 8, 1895"
 era: "Positive History"
 source: "Nobel Prize Archives"
-image: "https://upload.wikimedia.org/wikipedia/commons/e/e3/First_medical_X-ray_by_Wilhelm_R%C3%B6ntgen_of_his_wife_Anna_Bertha_Ludwig%27s_hand_-_18951222.gif"
+image: "/images/articles/discovery-of-xrays.jpg"
 imagealt: "The first medical X-ray photograph, showing the hand of Wilhelm Röntgen's wife Anna Bertha"
 imagecaption: "The first medical X-ray image, taken by Wilhelm Röntgen of his wife Anna Bertha's hand in 1895, showing her bones and wedding ring."
 imagecredit: "Wikimedia Commons / Public Domain"

@@ -6,7 +6,7 @@ date: 2026-05-10T09:25:00
 historydate: "July 20, 1969"
 era: "Positive History"
 source: "NASA Archives"
-image: "https://upload.wikimedia.org/wikipedia/commons/9/98/Aldrin_Apollo_11_original.jpg"
+image: "/images/articles/apollo-11-mission.jpg"
 imagealt: "Astronaut Buzz Aldrin standing on the surface of the Moon during the Apollo 11 mission in 1969"
 imagecaption: "Buzz Aldrin stands on the lunar surface, photographed by Neil Armstrong. The reflection of Armstrong can be seen in Aldrin's visor."
 imagecredit: "NASA / Wikimedia Commons / Public Domain"

@@ -6,7 +6,7 @@ date: 2026-05-09T01:00:00
 historydate: "August 1971"
 era: "1970s America"
 source: "JSTOR"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Philip_Zimbardo.jpg/1280px-Philip_Zimbardo.jpg"
+image: "/images/articles/stanford-prison-experiment.jpg"
 imagealt: "Philip Zimbardo, psychologist who conducted the Stanford Prison Experiment"
 imagecaption: "Dr. Philip Zimbardo, designer of the Stanford Prison Experiment"
 imagecredit: "Wikimedia Commons / CC BY-SA"

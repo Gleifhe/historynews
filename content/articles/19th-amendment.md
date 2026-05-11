@@ -6,7 +6,7 @@ date: 2026-05-09T04:00:00
 historydate: "August 18, 1920"
 era: "Women's Suffrage"
 source: "Chronicling America"
-image: "https://tile.loc.gov/storage-services/service/pnp/ppmsca/12500/12514r.jpg"
+image: "/images/articles/19th-amendment.jpg"
 imagealt: "Suffragists marching for women's right to vote"
 imagecaption: "Women fought for decades to secure the right to vote in the United States."
 imagecredit: "Library of Congress, Prints & Photographs Division"

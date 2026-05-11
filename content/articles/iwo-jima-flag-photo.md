@@ -6,7 +6,7 @@ date: 2026-04-22
 historydate: "February 23, 1945"
 era: "World War II"
 source: "AP Images"
-image: "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g09000/3g09000/3g09065r.jpg"
+image: "/images/articles/iwo-jima-flag-photo.jpg"
 imagealt: "Marines raising flag on Iwo Jima"
 imagecaption: "U.S. Marines raise the American flag atop Mount Suribachi, Iwo Jima, February 23, 1945"
 imagecredit: "Joe Rosenthal / Associated Press / Library of Congress"

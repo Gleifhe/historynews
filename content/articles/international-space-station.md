@@ -6,7 +6,7 @@ date: 2026-05-10T08:30:00
 historydate: "November 2, 2000"
 era: "Peace & Cooperation"
 source: "NASA"
-image: "https://upload.wikimedia.org/wikipedia/commons/c/c9/STS-134_International_Space_Station_after_undocking.jpg"
+image: "/images/articles/international-space-station.jpg"
 imagealt: "The International Space Station photographed from the Space Shuttle Endeavour after undocking in 2011"
 imagecaption: "The International Space Station as seen from Space Shuttle Endeavour, May 2011"
 imagecredit: "NASA / Public Domain"

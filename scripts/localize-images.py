@@ -44,7 +44,7 @@ except ImportError:
 # Config
 MAX_WIDTH = 1200       # Max image width in pixels (if Pillow available)
 JPEG_QUALITY = 85      # JPEG compression quality
-DELAY = 1.0            # Seconds between downloads (be polite)
+DELAY = 5.0            # Seconds between downloads (Wikimedia needs 5s+)
 USER_AGENT = 'HistoryNews/1.0 (educational history site; downloading licensed images for local hosting)'
 
 # SSL context
@@ -63,6 +63,39 @@ def get_image_dir():
     img_dir = get_root() / 'static' / 'images' / 'articles'
     img_dir.mkdir(parents=True, exist_ok=True)
     return img_dir
+
+
+def to_wikimedia_thumbnail(url, width=1200):
+    """Convert a Wikimedia Commons full-size URL to a thumbnail URL.
+    
+    Full:  https://upload.wikimedia.org/wikipedia/commons/f/fd/RMS_Titanic_3.jpg
+    Thumb: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/1200px-RMS_Titanic_3.jpg
+    
+    If already a thumbnail URL or not a Wikimedia URL, returns the original.
+    """
+    if 'upload.wikimedia.org' not in url:
+        return url  # Not Wikimedia — return as-is
+    if '/thumb/' in url:
+        return url  # Already a thumbnail URL
+    
+    # Convert: .../commons/X/XX/File.jpg -> .../commons/thumb/X/XX/File.jpg/1200px-File.jpg
+    # Also handles: .../wikipedia/en/X/XX/File.jpg
+    import re
+    match = re.match(
+        r'(https://upload\.wikimedia\.org/wikipedia/\w+/)([a-f0-9]/[a-f0-9]{2})/(.+)',
+        url
+    )
+    if match:
+        base = match.group(1)
+        hash_path = match.group(2)
+        filename = match.group(3)
+        thumb_url = f'{base}thumb/{hash_path}/{filename}/{width}px-{filename}'
+        # Handle SVG -> PNG conversion (Wikimedia serves SVG thumbs as PNG)
+        if thumb_url.lower().endswith('.svg'):
+            thumb_url += '.png'
+        return thumb_url
+    
+    return url  # Couldn't parse — return original
 
 
 def download_image(url, local_path):
@@ -186,7 +219,9 @@ def main():
     for article in articles:
         slug = article['slug']
         url = article['remote_url']
-        ext = get_extension(url)
+
+        # Convert Wikimedia URLs to 1200px thumbnails (much smaller, faster download)
+        download_url = to_wikimedia_thumbnail(url, width=MAX_WIDTH)
 
         # Use .jpg for all (will convert via Pillow)
         local_filename = f'{slug}.jpg'
@@ -199,15 +234,22 @@ def main():
             continue
 
         if args.dry_run:
+            is_thumb = download_url != url
             print(f'  [DRY] {slug}')
-            print(f'        FROM: {url[:80]}...')
+            print(f'        FROM: {download_url[:90]}...')
+            print(f'        {"(thumbnail)" if is_thumb else "(original)"}')
             print(f'        TO:   {hugo_path}')
             downloaded += 1
             continue
 
-        # Download
+        # Download (try thumbnail first, fall back to original)
         print(f'  Downloading {slug}...', end=' ', flush=True)
-        success, detail = download_image(url, local_path)
+        success, detail = download_image(download_url, local_path)
+
+        if not success and download_url != url:
+            # Thumbnail failed — try original
+            print(f'thumb failed, trying original...', end=' ', flush=True)
+            success, detail = download_image(url, local_path)
 
         if success:
             downloaded += 1

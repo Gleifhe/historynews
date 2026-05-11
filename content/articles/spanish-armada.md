@@ -6,7 +6,7 @@ date: 2026-05-08T14:00:00
 historydate: "July–August 1588"
 era: "16th Century"
 source: "BBC History"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Invincible_Armada.jpg/1280px-Invincible_Armada.jpg"
+image: "/images/articles/spanish-armada.jpg"
 imagealt: "Painting of the Spanish Armada battle, 1588"
 imagecaption: "The battle between the English fleet and the Spanish Armada, 1588"
 imagecredit: "Wikimedia Commons / Public Domain"

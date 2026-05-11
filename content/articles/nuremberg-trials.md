@@ -6,7 +6,7 @@ date: 2026-04-24
 historydate: "November 20, 1945"
 era: "Post-World War II"
 source: "Avalon Project (Yale Law School)"
-image: "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c10000/3c10000/3c10099r.jpg"
+image: "/images/articles/nuremberg-trials.jpg"
 imagealt: "Nuremberg Trial courtroom"
 imagecaption: "The courtroom at Nuremberg, where Nazi leaders were tried for crimes against humanity"
 imagecredit: "Library of Congress"

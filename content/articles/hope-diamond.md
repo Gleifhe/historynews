@@ -6,7 +6,7 @@ date: 2026-05-08T20:00:00
 historydate: "Centuries-spanning"
 era: "Ancient World"
 source: "Smithsonian Open Access"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/The_Hope_Diamond_-_SIA.jpg/1280px-The_Hope_Diamond_-_SIA.jpg"
+image: "/images/articles/hope-diamond.jpg"
 imagealt: "The Hope Diamond at the Smithsonian"
 imagecaption: "The Hope Diamond, a 45.52-carat deep blue diamond at the Smithsonian"
 imagecredit: "Smithsonian Institution Archives / Wikimedia Commons"

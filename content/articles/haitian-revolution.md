@@ -6,7 +6,7 @@ date: 2026-05-08T09:00:00
 historydate: "1791–1804"
 era: "18th Century"
 source: "Wikipedia/Wikimedia Commons"
-image: "https://upload.wikimedia.org/wikipedia/commons/2/2e/Toussaint_Louverture.jpg"
+image: "/images/articles/haitian-revolution.jpg"
 imagealt: "Portrait of Toussaint Louverture"
 imagecaption: "Toussaint Louverture — the leader of the Haitian Revolution"
 imagecredit: "Wikimedia Commons / Public Domain"

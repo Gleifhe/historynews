@@ -6,7 +6,7 @@ date: 2026-05-09T12:20:00
 historydate: "November – December 7, 1941"
 era: "World War II"
 source: "National Security Agency Archives"
-image: "https://upload.wikimedia.org/wikipedia/commons/0/09/The_USS_Arizona_%28BB-39%29_burning_after_the_Japanese_attack_on_Pearl_Harbor_-_NARA_195617_-_Edit.jpg"
+image: "/images/articles/pearl-harbor-intelligence-failures.jpg"
 imagealt: "The USS Arizona burning after the Japanese attack on Pearl Harbor, December 7, 1941"
 imagecaption: "The USS Arizona burns during the Japanese attack on Pearl Harbor, December 7, 1941"
 imagecredit: "National Archives / Public Domain"

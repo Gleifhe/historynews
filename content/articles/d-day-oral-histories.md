@@ -6,7 +6,7 @@ date: 2026-04-23
 historydate: "June 6, 1944"
 era: "World War II"
 source: "National WWII Museum"
-image: "https://tile.loc.gov/storage-services/service/pnp/cph/3c30000/3c30000/3c30600/3c30635r.jpg"
+image: "/images/articles/d-day-oral-histories.jpg"
 imagealt: "D-Day troops wading ashore"
 imagecaption: "American soldiers wade through the surf on D-Day, June 6, 1944"
 imagecredit: "Library of Congress"

@@ -6,7 +6,7 @@ date: 2026-04-17
 historydate: "November 26, 1922"
 era: "Roaring Twenties"
 source: "Smithsonian Magazine"
-image: "https://tile.loc.gov/storage-services/service/pnp/matpc/14000/14019r.jpg"
+image: "/images/articles/tutankhamun-tomb-discovery.jpg"
 imagealt: "Egyptian archaeological artifacts"
 imagecaption: "Ancient Egyptian treasures similar to those discovered in Tutankhamun's tomb in the Valley of the Kings"
 imagecredit: "Library of Congress"

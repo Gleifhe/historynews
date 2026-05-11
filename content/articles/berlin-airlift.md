@@ -6,7 +6,7 @@ date: 2026-05-10T08:40:00
 historydate: "June 24, 1948 - May 12, 1949"
 era: "Peace & Cooperation"
 source: "Harry S. Truman Presidential Library"
-image: "https://upload.wikimedia.org/wikipedia/commons/9/92/C-54_landing_at_Tempelhof.jpg"
+image: "/images/articles/berlin-airlift.jpg"
 imagealt: "German children watch a C-54 cargo plane land at Berlin Tempelhof Airport during the Berlin Airlift, 1948"
 imagecaption: "German children watch an American C-54 Skymaster land at Berlin's Tempelhof Airport during the Airlift, 1948"
 imagecredit: "Henry Ries / USAF / Public Domain"

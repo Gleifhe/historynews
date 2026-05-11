@@ -6,7 +6,7 @@ date: 2026-05-09T10:00:00
 historydate: "1930-1936"
 era: "Great Depression"
 source: "Library of Congress Digital Collections"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Dust_Bowl_-_Dallas%2C_South_Dakota_1936.jpg/1280px-Dust_Bowl_-_Dallas%2C_South_Dakota_1936.jpg"
+image: "/images/articles/dust-bowl.jpg"
 imagealt: "A dust storm approaches Dallas, South Dakota, 1936"
 imagecaption: "A massive dust storm engulfs Dallas, South Dakota during the Dust Bowl"
 imagecredit: "NOAA / Wikimedia Commons"

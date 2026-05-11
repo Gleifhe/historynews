@@ -6,7 +6,7 @@ date: 2026-05-10T14:10:00
 historydate: "October 21, 1879"
 era: "Positive History"
 source: "Thomas Edison National Historical Park"
-image: "https://upload.wikimedia.org/wikipedia/commons/9/9d/Thomas_Edison2.jpg"
+image: "/images/articles/edison-electric-light.jpg"
 imagealt: "Thomas Edison in his laboratory at Menlo Park"
 imagecaption: "Thomas Edison at his famous Menlo Park laboratory, where he and his team developed the practical incandescent light bulb."
 imagecredit: "Wikimedia Commons / Public Domain"

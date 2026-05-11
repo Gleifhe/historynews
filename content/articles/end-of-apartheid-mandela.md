@@ -6,7 +6,7 @@ date: 2026-05-10T09:15:00
 historydate: "April 27, 1994"
 era: "Positive History"
 source: "Nelson Mandela Foundation"
-image: "https://upload.wikimedia.org/wikipedia/commons/0/02/Nelson_Mandela_1994.jpg"
+image: "/images/articles/end-of-apartheid-mandela.jpg"
 imagealt: "Nelson Mandela smiling after becoming President of South Africa in 1994"
 imagecaption: "Nelson Mandela, freed from prison after 27 years, became South Africa's first democratically elected president in 1994."
 imagecredit: "Wikimedia Commons / Public Domain"

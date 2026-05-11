@@ -6,7 +6,7 @@ date: 2026-05-08T12:00:00
 historydate: "February 1692 – May 1693"
 era: "17th Century"
 source: "History.com"
-image: "https://tile.loc.gov/storage-services/service/pnp/cph/3a40000/3a46000/3a46200/3a46232r.jpg"
+image: "/images/articles/salem-witch-trials.jpg"
 imagealt: "Illustration of the Salem Witch Trials"
 imagecaption: "The Salem Witch Trials of 1692 led to the execution of 20 people accused of practicing witchcraft"
 imagecredit: "Library of Congress"

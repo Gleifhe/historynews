@@ -6,7 +6,7 @@ date: 2026-05-08T23:00:00
 historydate: "February 21, 1848"
 era: "Victorian Era"
 source: "Project Gutenberg"
-image: "https://tile.loc.gov/storage-services/service/pnp/cph/3a30000/3a33000/3a33100/3a33184r.jpg"
+image: "/images/articles/communist-manifesto.jpg"
 imagealt: "Portrait of Karl Marx"
 imagecaption: "Karl Marx, co-author of The Communist Manifesto, became one of the most influential — and controversial — thinkers of the modern era."
 imagecredit: "Library of Congress, Prints & Photographs Division"

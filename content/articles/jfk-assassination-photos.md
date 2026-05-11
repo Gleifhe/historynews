@@ -6,7 +6,7 @@ date: 2026-04-21
 historydate: "November 22, 1963"
 era: "1960s America"
 source: "Getty Images Editorial"
-image: "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c15000/3c15000/3c15058r.jpg"
+image: "/images/articles/jfk-assassination-photos.jpg"
 imagealt: "President John F. Kennedy"
 imagecaption: "President John F. Kennedy, whose assassination in Dallas on November 22, 1963, shocked the world"
 imagecredit: "Library of Congress"

@@ -6,7 +6,7 @@ date: 2026-05-08T11:00:00
 historydate: "July 15, 1799"
 era: "Ancient World"
 source: "Smithsonian Magazine"
-image: "https://tile.loc.gov/storage-services/service/pnp/matpc/14000/14022r.jpg"
+image: "/images/articles/rosetta-stone.jpg"
 imagealt: "Ancient Egyptian archaeological site"
 imagecaption: "The Rosetta Stone unlocked the mystery of Egyptian hieroglyphics — a writing system that had been unreadable for over 1,400 years"
 imagecredit: "Library of Congress"

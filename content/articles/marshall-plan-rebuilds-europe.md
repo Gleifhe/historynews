@@ -6,7 +6,7 @@ date: 2026-05-10T08:05:00
 historydate: "April 3, 1948"
 era: "Peace & Cooperation"
 source: "National Archives (NARA)"
-image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Marshall_Plan_poster.JPG"
+image: "/images/articles/marshall-plan-rebuilds-europe.jpg"
 imagealt: "A Marshall Plan poster promoting European recovery with American aid"
 imagecaption: "A poster promoting the Marshall Plan — the American-funded program that rebuilt post-war Europe"
 imagecredit: "Wikimedia Commons / Public Domain"

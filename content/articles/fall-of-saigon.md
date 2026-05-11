@@ -6,7 +6,7 @@ date: 2026-05-08T15:00:00
 historydate: "April 30, 1975"
 era: "Vietnam War"
 source: "Getty Images Editorial"
-image: "https://upload.wikimedia.org/wikipedia/commons/c/c8/CH-47_lands_on_USS_Hancock_%28CVA-19%29_during_evacuation_of_South_Vietnam_1975.jpeg"
+image: "/images/articles/fall-of-saigon.jpg"
 imagealt: "Helicopter lands on USS Hancock during the evacuation of South Vietnam, 1975"
 imagecaption: "A helicopter lands on USS Hancock during the emergency evacuation of South Vietnam, April 1975"
 imagecredit: "U.S. Navy / Wikimedia Commons"

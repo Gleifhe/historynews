@@ -6,7 +6,7 @@ date: 2026-05-02
 historydate: "June 4, 1913"
 era: "Women's Suffrage"
 source: "British Newspaper Archive"
-image: "https://tile.loc.gov/storage-services/service/pnp/ds/12500/12582r.jpg"
+image: "/images/articles/suffragette-emily-davison.jpg"
 imagealt: "Suffragette parade in Washington, D.C., March 3, 1913"
 imagecaption: "Suffragettes march for women's right to vote — a movement that Emily Davison gave her life for"
 imagecredit: "Library of Congress"

@@ -6,7 +6,7 @@ date: 2026-05-10T14:30:00
 historydate: "August 25, 1991"
 era: "Positive History"
 source: "Linux Foundation"
-image: "https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"
+image: "/images/articles/linux-kernel-released.jpg"
 imagealt: "Tux the penguin, the official mascot of the Linux operating system"
 imagecaption: "Tux the penguin, created by Larry Ewing, became the beloved mascot of Linux and a symbol of the open source community."
 imagecredit: "Wikimedia Commons / Larry Ewing / Public Domain"

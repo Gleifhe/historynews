@@ -6,7 +6,7 @@ date: 2026-04-29
 historydate: "November 24, 1859"
 era: "Victorian Era"
 source: "Project Gutenberg"
-image: "https://tile.loc.gov/storage-services/service/pnp/cwpbh/04600/04631r.jpg"
+image: "/images/articles/darwins-origin-of-species.jpg"
 imagealt: "Portrait of Charles Darwin"
 imagecaption: "Charles Darwin, the naturalist whose book On the Origin of Species revolutionized our understanding of life"
 imagecredit: "Library of Congress"

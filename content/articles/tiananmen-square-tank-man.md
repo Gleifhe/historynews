@@ -6,7 +6,7 @@ date: 2026-05-08T16:00:00
 historydate: "June 5, 1989"
 era: "Cold War"
 source: "AP Images"
-image: "https://upload.wikimedia.org/wikipedia/en/d/dd/Tank_Man_%28Tiananmen_Square_protester%29.jpg"
+image: "/images/articles/tiananmen-square-tank-man.jpg"
 imagealt: "Tiananmen Square in Beijing, China"
 imagecaption: "Tiananmen Square in Beijing — the site of the 1989 pro-democracy protests and the famous Tank Man standoff"
 imagecredit: "Wikimedia Commons / CC BY-SA"

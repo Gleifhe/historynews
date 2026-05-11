@@ -6,7 +6,7 @@ date: 2026-05-09T06:00:00
 historydate: "May 6, 1937"
 era: "Great Depression"
 source: "Newspapers.com"
-image: "https://tile.loc.gov/storage-services/service/pnp/cph/3a00000/3a09000/3a09700/3a09756r.jpg"
+image: "/images/articles/hindenburg-disaster.jpg"
 imagealt: "The airship Hindenburg"
 imagecaption: "The German airship Hindenburg — the largest aircraft ever built, before its catastrophic destruction"
 imagecredit: "Library of Congress"

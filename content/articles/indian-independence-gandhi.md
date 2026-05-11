@@ -6,7 +6,7 @@ date: 2026-05-10T09:20:00
 historydate: "August 15, 1947"
 era: "Positive History"
 source: "National Archives of India"
-image: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg"
+image: "/images/articles/indian-independence-gandhi.jpg"
 imagealt: "Portrait of Mahatma Gandhi, leader of India's independence movement"
 imagecaption: "Mahatma Gandhi led India to independence through nonviolent resistance, inspiring movements for freedom around the world."
 imagecredit: "Wikimedia Commons / Public Domain"

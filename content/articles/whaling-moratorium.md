@@ -6,7 +6,7 @@ date: 2026-05-10T16:35:00
 historydate: "1986"
 era: "Positive History"
 source: "International Whaling Commission"
-image: "https://upload.wikimedia.org/wikipedia/commons/9/9e/Humpback_stellwagen_edit.jpg"
+image: "/images/articles/whaling-moratorium.jpg"
 imagealt: "A humpback whale breaching the ocean surface with water splashing around it"
 imagecaption: "A humpback whale breaches off the coast of Massachusetts. Humpback populations have recovered dramatically since the whaling moratorium."
 imagecredit: "Whit Welles, CC BY 3.0, via Wikimedia Commons"

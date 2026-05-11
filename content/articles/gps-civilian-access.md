@@ -6,7 +6,7 @@ date: 2026-05-10T14:20:00
 historydate: "May 1, 2000"
 era: "Positive History"
 source: "GPS.gov"
-image: "https://upload.wikimedia.org/wikipedia/commons/9/9c/ConstellationGPS.gif"
+image: "/images/articles/gps-civilian-access.jpg"
 imagealt: "Illustration of GPS satellite constellation orbiting the Earth"
 imagecaption: "The GPS satellite constellation orbiting Earth, providing precise location data to billions of devices worldwide."
 imagecredit: "Wikimedia Commons / Public Domain"

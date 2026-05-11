@@ -6,7 +6,7 @@ date: 2026-05-09T11:30:00
 historydate: "August 28, 1963"
 era: "Civil Rights Era"
 source: "Library of Congress Civil Rights History Project"
-image: "https://upload.wikimedia.org/wikipedia/commons/0/01/March_on_Washington_for_Jobs_and_Freedom_-_Lincoln_Memorial_Program_1.jpg"
+image: "/images/articles/civil-rights-march-on-washington.jpg"
 imagealt: "Program from the March on Washington for Jobs and Freedom at the Lincoln Memorial, 1963"
 imagecaption: "More than 250,000 people gathered at the Lincoln Memorial for the March on Washington, August 28, 1963"
 imagecredit: "U.S. Information Agency / Wikimedia Commons / Public Domain"

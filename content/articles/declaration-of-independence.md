@@ -6,7 +6,7 @@ date: 2026-05-08T18:00:00
 historydate: "July 4, 1776"
 era: "18th Century"
 source: "Avalon Project, Yale"
-image: "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a14000/4a14200/4a14277r.jpg"
+image: "/images/articles/declaration-of-independence.jpg"
 imagealt: "The Declaration of Independence document"
 imagecaption: "The Declaration of Independence declared the thirteen American colonies free from British rule on July 4, 1776"
 imagecredit: "Library of Congress"
