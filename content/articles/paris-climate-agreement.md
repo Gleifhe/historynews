@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Presidencia de la República Mexicana / CC BY 
 video: "https://www.youtube.com/embed/G4H1N_yXBiA"
 weight: 86
 sources:
-  - '<a href="https://unfccc.int/process-and-meetings/the-paris-agreement">UNFCCC — The Paris Agreement</a>'
-  - '<a href="https://www.bbc.com/news/science-environment-35084374">BBC — COP21: Paris Climate Deal</a>'
-  - '<a href="https://www.nrdc.org/stories/paris-climate-agreement-everything-you-need-know">NRDC — Paris Climate Agreement Explained</a>'
-  - '<a href="https://www.history.com/articles/paris-climate-agreement">History.com — Paris Climate Agreement</a>'
+  - "UNFCCC — The Paris Agreement — https://unfccc.int/process-and-meetings/the-paris-agreement"
+  - "BBC — COP21: Paris Climate Deal — https://www.bbc.com/news/science-environment-35084374"
+  - "NRDC — Paris Climate Agreement Explained — https://www.nrdc.org/stories/paris-climate-agreement-everything-you-need-know"
+  - "History.com — Paris Climate Agreement — https://www.history.com/articles/paris-climate-agreement"
 ---
 
 ## A Planet in Trouble

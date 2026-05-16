@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 117
 sources:
-  - "<a href='https://www.nobelprize.org/prizes/physics/1901/rontgen/biographical/'>Nobel Prize — Wilhelm Röntgen Biography</a>"
-  - "<a href='https://www.aps.org/apsnews/2001/11/this-month-in-physics-history-november-8-1895'>American Physical Society — Discovery of X-Rays</a>"
-  - "<a href='https://www.britannica.com/biography/Wilhelm-Rontgen'>Britannica — Wilhelm Röntgen</a>"
-  - "<a href='https://www.sciencemuseum.org.uk/objects-and-stories/medicine/x-ray-photography'>Science Museum London — X-Ray Photography</a>"
+  - "Nobel Prize — Wilhelm Röntgen Biography — https://www.nobelprize.org/prizes/physics/1901/rontgen/biographical/"
+  - "American Physical Society — Discovery of X-Rays — https://www.aps.org/apsnews/2001/11/this-month-in-physics-history-november-8-1895"
+  - "Britannica — Wilhelm Röntgen — https://www.britannica.com/biography/Wilhelm-Rontgen"
+  - "Science Museum London — X-Ray Photography — https://www.sciencemuseum.org.uk/objects-and-stories/medicine/x-ray-photography"
 ---
 
 On the evening of November 8, 1895, a German physicist named Wilhelm Röntgen was working alone in his laboratory at the University of Würzburg. He was experimenting with cathode rays — streams of electrons inside a glass tube — when he noticed something strange. A screen coated with a special chemical on the other side of the room was glowing, even though it was too far away to be affected by the cathode rays. Something invisible was traveling through the air and making the screen light up.

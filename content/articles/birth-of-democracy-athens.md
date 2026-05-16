@@ -13,9 +13,9 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 78
 sources:
-  - '<a href="https://www.britannica.com/topic/Athenian-democracy">Encyclopedia Britannica — Athenian Democracy</a>'
-  - '<a href="https://www.history.com/topics/ancient-greece/ancient-greece-democracy">History.com — Ancient Greek Democracy</a>'
-  - '<a href="https://www.worldhistory.org/Athenian_Democracy/">World History Encyclopedia — Athenian Democracy</a>'
+  - "Encyclopedia Britannica — Athenian Democracy — https://www.britannica.com/topic/Athenian-democracy"
+  - "History.com — Ancient Greek Democracy — https://www.history.com/topics/ancient-greece/ancient-greece-democracy"
+  - "World History Encyclopedia — Athenian Democracy — https://www.worldhistory.org/Athenian_Democracy/"
   - 'Josiah Ober, <em>The Rise and Fall of Classical Greece</em> (2015, Princeton University Press)'
 ---
 

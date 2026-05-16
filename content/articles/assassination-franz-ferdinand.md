@@ -13,9 +13,9 @@ imagecredit: "Bain News Service / Library of Congress"
 weight: 22
 video: "https://www.youtube.com/embed/OfO7TduevHA"
 sources:
-  - '<a href="https://www.history.com/articles/how-a-wrong-turn-started-world-war-i">History.com — How a Wrong Turn Started World War I</a>'
-  - '<a href="https://www.loc.gov/pictures/item/2014697571/">LOC — Archduke Franz Ferdinand portrait</a>'
-  - '<a href="https://www.bbc.co.uk/history/0/26616635">BBC — Assassination of Franz Ferdinand</a>'
+  - "History.com — How a Wrong Turn Started World War I — https://www.history.com/articles/how-a-wrong-turn-started-world-war-i"
+  - "LOC — Archduke Franz Ferdinand portrait — https://www.loc.gov/pictures/item/2014697571/"
+  - "BBC — Assassination of Franz Ferdinand — https://www.bbc.co.uk/history/0/26616635"
   - 'Christopher Clark, <em>The Sleepwalkers: How Europe Went to War in 1914</em> (2012, Harper)'
 ---
 

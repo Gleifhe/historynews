@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 115
 sources:
-  - '<a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/covid-19-vaccines">WHO - COVID-19 Vaccines</a>'
-  - '<a href="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/index.html">CDC - COVID-19 Vaccination</a>'
-  - '<a href="https://www.nature.com/articles/d41586-020-03626-1">Nature - The Race for COVID-19 Vaccines</a>'
-  - '<a href="https://ourworldindata.org/covid-vaccinations">Our World in Data - COVID-19 Vaccinations</a>'
+  - "WHO - COVID-19 Vaccines — https://www.who.int/emergencies/diseases/novel-coronavirus-2019/covid-19-vaccines"
+  - "CDC - COVID-19 Vaccination — https://www.cdc.gov/coronavirus/2019-ncov/vaccines/index.html"
+  - "Nature - The Race for COVID-19 Vaccines — https://www.nature.com/articles/d41586-020-03626-1"
+  - "Our World in Data - COVID-19 Vaccinations — https://ourworldindata.org/covid-vaccinations"
 ---
 
 In January 2020, scientists in China published the genetic sequence of a new virus that was making people very sick. It was a coronavirus, similar to the one that caused SARS in 2003, but it spread much faster. Within weeks, the virus — later named SARS-CoV-2, causing the disease COVID-19 — was spreading around the world.

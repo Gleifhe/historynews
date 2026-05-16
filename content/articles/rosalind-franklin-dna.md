@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/BIP0lYrdirI"
 weight: 38
 sources:
-  - '<a href="https://scholar.google.com/scholar?q=rosalind+franklin+dna+structure+photo+51">Google Scholar — Rosalind Franklin DNA Research</a>'
-  - '<a href="https://www.nature.com/articles/171737a0">Nature — Molecular Structure of Nucleic Acids, Watson & Crick, 1953</a>'
-  - '<a href="https://profiles.nlm.nih.gov/spotlight/kr">National Library of Medicine — Rosalind Franklin Papers</a>'
-  - '<a href="https://www.britannica.com/biography/Rosalind-Franklin">Britannica — Rosalind Franklin</a>'
+  - "Google Scholar — Rosalind Franklin DNA Research — https://scholar.google.com/scholar?q=rosalind+franklin+dna+structure+photo+51"
+  - "Nature — Molecular Structure of Nucleic Acids, Watson & Crick, 1953 — https://www.nature.com/articles/171737a0"
+  - "National Library of Medicine — Rosalind Franklin Papers — https://profiles.nlm.nih.gov/spotlight/kr"
+  - "Britannica — Rosalind Franklin — https://www.britannica.com/biography/Rosalind-Franklin"
 ---
 
 In 1953, two scientists at Cambridge University announced that they had discovered the structure of DNA — the molecule that carries the genetic instructions for all living things. James Watson and Francis Crick became famous around the world, and they eventually won the Nobel Prize. But the crucial evidence that made their discovery possible came from someone whose name most people have never heard: Rosalind Franklin, a brilliant scientist whose work was used without her knowledge and whose contributions were ignored for decades.

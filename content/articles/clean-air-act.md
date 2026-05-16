@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons"
 video: "https://www.youtube.com/embed/G4H1N_yXBiA"
 weight: 106
 sources:
-  - '<a href="https://www.epa.gov/clean-air-act-overview">EPA – Clean Air Act Overview</a>'
-  - '<a href="https://www.epa.gov/clean-air-act-overview/progress-cleaning-air-and-improving-peoples-health">EPA – Progress Cleaning the Air</a>'
-  - '<a href="https://www.lung.org/clean-air/outdoors/who-is-at-risk/disparities-in-the-impact-of-air-pollution">American Lung Association – Air Pollution Impact</a>'
-  - '<a href="https://www.britannica.com/topic/Clean-Air-Act-United-States-1970">Britannica – Clean Air Act</a>'
+  - "EPA – Clean Air Act Overview — https://www.epa.gov/clean-air-act-overview"
+  - "EPA – Progress Cleaning the Air — https://www.epa.gov/clean-air-act-overview/progress-cleaning-air-and-improving-peoples-health"
+  - "American Lung Association – Air Pollution Impact — https://www.lung.org/clean-air/outdoors/who-is-at-risk/disparities-in-the-impact-of-air-pollution"
+  - "Britannica – Clean Air Act — https://www.britannica.com/topic/Clean-Air-Act-United-States-1970"
 ---
 
 In the 1960s, the air in many American cities was dangerous to breathe. Thick smog blanketed cities like Los Angeles, Pittsburgh, and New York. Factory smokestacks pumped out black clouds of pollution around the clock. Car exhaust filled the streets with visible haze. Rivers caught fire from industrial waste. In some cities, people could taste the air — and it tasted like metal and chemicals.

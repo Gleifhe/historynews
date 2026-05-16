@@ -13,9 +13,9 @@ imagecredit: "Library of Congress"
 video: "https://www.youtube.com/embed/FTAW1PvEcAk"
 weight: 17
 sources:
-  - '<a href="https://www.nationalww2museum.org/war/topics/d-day">National WWII Museum — D-Day Collection</a>'
-  - '<a href="https://www.nationalww2museum.org/war/articles/oral-histories">National WWII Museum — Oral History Collection</a>'
-  - '<a href="https://www.loc.gov/collections/veterans-history-project/">LOC — Veterans History Project</a>'
+  - "National WWII Museum — D-Day Collection — https://www.nationalww2museum.org/war/topics/d-day"
+  - "National WWII Museum — Oral History Collection — https://www.nationalww2museum.org/war/articles/oral-histories"
+  - "LOC — Veterans History Project — https://www.loc.gov/collections/veterans-history-project/"
   - 'Stephen Ambrose, <em>D-Day: June 6, 1944</em> (1994, Simon & Schuster)'
 ---
 

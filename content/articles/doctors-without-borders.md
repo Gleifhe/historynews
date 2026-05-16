@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / U.S. Air Force / Public Domain"
 video: "https://www.youtube.com/embed/fo2Rb9h788s"
 weight: 90
 sources:
-  - '<a href="https://www.msf.org/history-heritage">MSF — History and Heritage</a>'
-  - '<a href="https://www.nobelprize.org/prizes/peace/1999/msf/history/">Nobel Prize — MSF History</a>'
-  - '<a href="https://www.britannica.com/topic/Medecins-Sans-Frontieres">Britannica — Médecins Sans Frontières</a>'
-  - '<a href="https://www.history.com/articles/doctors-without-borders">History.com — Doctors Without Borders</a>'
+  - "MSF — History and Heritage — https://www.msf.org/history-heritage"
+  - "Nobel Prize — MSF History — https://www.nobelprize.org/prizes/peace/1999/msf/history/"
+  - "Britannica — Médecins Sans Frontières — https://www.britannica.com/topic/Medecins-Sans-Frontieres"
+  - "History.com — Doctors Without Borders — https://www.history.com/articles/doctors-without-borders"
 ---
 
 ## When Silence Is Not an Option

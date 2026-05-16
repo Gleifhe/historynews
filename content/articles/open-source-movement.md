@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 144
 sources:
-  - "<a href='https://www.fsf.org/about/'>Free Software Foundation – About</a>"
-  - "<a href='https://opensource.org/history'>Open Source Initiative – History</a>"
-  - "<a href='https://www.britannica.com/topic/open-source'>Britannica – Open Source</a>"
-  - "<a href='https://www.linuxfoundation.org/'>Linux Foundation</a>"
+  - "Free Software Foundation – About — https://www.fsf.org/about/"
+  - "Open Source Initiative – History — https://opensource.org/history"
+  - "Britannica – Open Source — https://www.britannica.com/topic/open-source"
+  - "Linux Foundation — https://www.linuxfoundation.org/"
 ---
 
 In the early 1980s, a programmer at MIT named Richard Stallman had a problem with his printer. It kept jamming, and he wanted to fix the software that controlled it. But the company that made the printer refused to share the code. Stallman could not even look at the instructions that made the printer work, let alone fix them. This small frustration sparked one of the most important movements in the history of technology.

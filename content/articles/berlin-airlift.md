@@ -13,10 +13,10 @@ imagecredit: "Henry Ries / USAF / Public Domain"
 video: "https://www.youtube.com/embed/OIYy32RuHao"
 weight: 89
 sources:
-  - '<a href="https://www.trumanlibrary.gov/education/presidential-inquiries/berlin-airlift">Truman Library — The Berlin Airlift</a>'
-  - '<a href="https://www.history.com/articles/berlin-airlift">History.com — Berlin Airlift</a>'
-  - '<a href="https://www.britannica.com/event/Berlin-blockade">Britannica — Berlin Blockade and Airlift</a>'
-  - '<a href="https://www.airforcemag.com/article/the-berlin-airlift/">Air Force Magazine — The Berlin Airlift</a>'
+  - "Truman Library — The Berlin Airlift — https://www.trumanlibrary.gov/education/presidential-inquiries/berlin-airlift"
+  - "History.com — Berlin Airlift — https://www.history.com/articles/berlin-airlift"
+  - "Britannica — Berlin Blockade and Airlift — https://www.britannica.com/event/Berlin-blockade"
+  - "Air Force Magazine — The Berlin Airlift — https://www.airforcemag.com/article/the-berlin-airlift/"
 ---
 
 ## A City Under Siege

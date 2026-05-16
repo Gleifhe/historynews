@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / CC BY-SA 3.0"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 155
 sources:
-  - '<a href="https://www.yadvashem.org/righteous/stories/trocme.html" target="_blank">Yad Vashem — Le Chambon-sur-Lignon</a>'
-  - '<a href="https://encyclopedia.ushmm.org/content/en/article/le-chambon-sur-lignon" target="_blank">United States Holocaust Memorial Museum — Le Chambon-sur-Lignon</a>'
-  - '<a href="https://www.britannica.com/place/Le-Chambon-sur-Lignon" target="_blank">Encyclopaedia Britannica — Le Chambon-sur-Lignon</a>'
-  - '<a href="https://chambon.org/" target="_blank">The Chambon Foundation</a>'
+  - "Yad Vashem — Le Chambon-sur-Lignon — https://www.yadvashem.org/righteous/stories/trocme.html"
+  - "United States Holocaust Memorial Museum — Le Chambon-sur-Lignon — https://encyclopedia.ushmm.org/content/en/article/le-chambon-sur-lignon"
+  - "Encyclopaedia Britannica — Le Chambon-sur-Lignon — https://www.britannica.com/place/Le-Chambon-sur-Lignon"
+  - "The Chambon Foundation — https://chambon.org/"
 ---
 
 High on a plateau in south-central France sits a small village called Le Chambon-sur-Lignon. During World War II, this quiet community of about 5,000 people did something almost unbelievable — they worked together to hide and protect approximately 3,500 Jewish refugees from the Nazis. Not a single person in the village betrayed the secret. It was one of the largest collective rescue efforts of the entire war.

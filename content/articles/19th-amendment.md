@@ -13,10 +13,10 @@ imagecredit: "Library of Congress, Prints & Photographs Division"
 video: "https://www.youtube.com/embed/HGEMscZE5dY"
 weight: 32
 sources:
-  - '<a href="https://chroniclingamerica.loc.gov/lccn/sn83045433/1920-08-19/ed-1/seq-1/">Chronicling America — Women Win the Vote, 1920</a>'
-  - '<a href="https://www.archives.gov/historical-docs/19th-amendment">National Archives — 19th Amendment</a>'
-  - '<a href="https://www.history.com/topics/womens-history/19th-amendment-1">History.com — 19th Amendment</a>'
-  - '<a href="https://www.nps.gov/articles/19th-amendment.htm">National Park Service — The 19th Amendment</a>'
+  - "Chronicling America — Women Win the Vote, 1920 — https://chroniclingamerica.loc.gov/lccn/sn83045433/1920-08-19/ed-1/seq-1/"
+  - "National Archives — 19th Amendment — https://www.archives.gov/historical-docs/19th-amendment"
+  - "History.com — 19th Amendment — https://www.history.com/topics/womens-history/19th-amendment-1"
+  - "National Park Service — The 19th Amendment — https://www.nps.gov/articles/19th-amendment.htm"
 ---
 
 On August 18, 1920, something remarkable happened in the United States. After 72 years of fighting, protesting, and suffering, American women finally won the right to vote. The 19th Amendment to the Constitution was ratified, and with a stroke of a pen, roughly 26 million women became eligible to cast ballots for the first time.

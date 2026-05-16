@@ -13,9 +13,9 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/rr5Dw3VGkQI"
 weight: 54
 sources:
-  - '<a href="https://www.annefrank.org/en/anne-frank/diary/">Anne Frank House — The Diary</a>'
-  - '<a href="https://www.ushmm.org/collections/bibliography/anne-frank">USHMM — Anne Frank Bibliography</a>'
-  - '<a href="https://www.history.com/topics/world-war-ii/anne-frank">History.com — Anne Frank</a>'
+  - "Anne Frank House — The Diary — https://www.annefrank.org/en/anne-frank/diary/"
+  - "USHMM — Anne Frank Bibliography — https://www.ushmm.org/collections/bibliography/anne-frank"
+  - "History.com — Anne Frank — https://www.history.com/topics/world-war-ii/anne-frank"
   - 'Anne Frank, <em>The Diary of a Young Girl</em> (1947, Contact Publishing)'
 ---
 

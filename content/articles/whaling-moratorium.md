@@ -13,10 +13,10 @@ imagecredit: "Whit Welles, CC BY 3.0, via Wikimedia Commons"
 video: "https://www.youtube.com/embed/G4H1N_yXBiA"
 weight: 170
 sources:
-  - '<a href="https://iwc.int/management-and-conservation/whaling/moratorium">International Whaling Commission – Moratorium</a>'
-  - '<a href="https://www.iucnredlist.org/species/13006/155390893">IUCN Red List – Humpback Whale</a>'
-  - '<a href="https://www.noaa.gov/education/resource-collections/marine-life/humpback-whales">NOAA – Humpback Whales</a>'
-  - '<a href="https://www.worldwildlife.org/species/whale">World Wildlife Fund – Whales</a>'
+  - "International Whaling Commission – Moratorium — https://iwc.int/management-and-conservation/whaling/moratorium"
+  - "IUCN Red List – Humpback Whale — https://www.iucnredlist.org/species/13006/155390893"
+  - "NOAA – Humpback Whales — https://www.noaa.gov/education/resource-collections/marine-life/humpback-whales"
+  - "World Wildlife Fund – Whales — https://www.worldwildlife.org/species/whale"
 ---
 
 For centuries, humans hunted whales on a massive scale. Whale oil lit the lamps of cities around the world. Whale bones were used in corsets and umbrellas. Whale meat fed millions of people. By the mid-1900s, industrial whaling ships with explosive harpoons were killing tens of thousands of whales every year. Species after species was pushed toward extinction. The blue whale, the largest animal to ever live on Earth, was reduced to just a few thousand individuals. Humpback whales, known for their haunting songs and spectacular breaches, fell to roughly 1,400 in the North Atlantic.

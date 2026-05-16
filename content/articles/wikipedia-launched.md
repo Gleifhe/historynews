@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Foundation, CC BY-SA 3.0, via Wikimedia Commons"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 114
 sources:
-  - '<a href="https://wikimediafoundation.org/about/">Wikimedia Foundation - About Us</a>'
-  - '<a href="https://en.wikipedia.org/wiki/History_of_Wikipedia">Wikipedia - History of Wikipedia</a>'
-  - '<a href="https://www.britannica.com/topic/Wikipedia">Britannica - Wikipedia</a>'
-  - '<a href="https://www.wired.com/story/wikipedia-20th-anniversary/">Wired - Wikipedia at 20</a>'
+  - "Wikimedia Foundation - About Us — https://wikimediafoundation.org/about/"
+  - "Wikipedia - History of Wikipedia — https://en.wikipedia.org/wiki/History_of_Wikipedia"
+  - "Britannica - Wikipedia — https://www.britannica.com/topic/Wikipedia"
+  - "Wired - Wikipedia at 20 — https://www.wired.com/story/wikipedia-20th-anniversary/"
 ---
 
 Before the internet, if you wanted to look something up, you needed an encyclopedia. These were expensive sets of books — sometimes 20 or 30 volumes — that only some families could afford. Libraries had them, but you had to travel there. The information was written by experts, edited by publishers, and updated only when a new edition came out, sometimes years later.

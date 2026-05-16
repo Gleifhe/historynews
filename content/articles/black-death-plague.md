@@ -13,9 +13,9 @@ imagecredit: "LACMA / Wikimedia Commons"
 video: "https://www.youtube.com/embed/rZy6XilXDZQ"
 weight: 29
 sources:
-  - '<a href="https://www.europeana.eu/en/collections">Europeana — European Cultural Heritage Collections</a>'
-  - '<a href="https://www.britannica.com/event/Black-Death">Britannica — Black Death</a>'
-  - '<a href="https://www.history.com/topics/middle-ages/black-death">History.com — Black Death</a>'
+  - "Europeana — European Cultural Heritage Collections — https://www.europeana.eu/en/collections"
+  - "Britannica — Black Death — https://www.britannica.com/event/Black-Death"
+  - "History.com — Black Death — https://www.history.com/topics/middle-ages/black-death"
   - 'John Kelly, <em>The Great Mortality</em> (2005, Harper Perennial)'
 ---
 

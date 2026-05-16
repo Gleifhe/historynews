@@ -13,9 +13,9 @@ imagecredit: "U.S. Navy / National Archives / Wikimedia Commons"
 video: "https://www.youtube.com/embed/f6cz9gtMTeI"
 weight: 53
 sources:
-  - '<a href="https://www.archives.gov/education/lessons/day-of-infamy">NARA — FDR Day of Infamy Speech</a>'
-  - '<a href="https://www.britannica.com/event/attack-on-Pearl-Harbor">Britannica — Attack on Pearl Harbor</a>'
-  - '<a href="https://www.history.com/topics/world-war-ii/pearl-harbor">History.com — Pearl Harbor</a>'
+  - "NARA — FDR Day of Infamy Speech — https://www.archives.gov/education/lessons/day-of-infamy"
+  - "Britannica — Attack on Pearl Harbor — https://www.britannica.com/event/attack-on-Pearl-Harbor"
+  - "History.com — Pearl Harbor — https://www.history.com/topics/world-war-ii/pearl-harbor"
   - 'Craig Nelson, <em>Pearl Harbor: From Infamy to Greatness</em> (2016, Scribner)'
 ---
 

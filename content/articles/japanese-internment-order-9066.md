@@ -13,10 +13,10 @@ imagecredit: "Dorothea Lange, Library of Congress"
 weight: 2
 video: "https://www.youtube.com/embed/lhGcz0URFOk"
 sources:
-  - '<a href="https://catalog.archives.gov/id/5730387">National Archives — Executive Order 9066</a>'
-  - '<a href="https://www.loc.gov/pictures/item/2004665381/">LOC — I Am an American sign, Oakland, 1942</a>'
-  - '<a href="https://www.archives.gov/education/lessons/japanese-relocation">NARA — Japanese Relocation During World War II</a>'
-  - '<a href="https://encyclopedia.densho.org/Executive_Order_9066/">Densho Encyclopedia — Executive Order 9066</a>'
+  - "National Archives — Executive Order 9066 — https://catalog.archives.gov/id/5730387"
+  - "LOC — I Am an American sign, Oakland, 1942 — https://www.loc.gov/pictures/item/2004665381/"
+  - "NARA — Japanese Relocation During World War II — https://www.archives.gov/education/lessons/japanese-relocation"
+  - "Densho Encyclopedia — Executive Order 9066 — https://encyclopedia.densho.org/Executive_Order_9066/"
 ---
 
 ## A Stroke of a Pen

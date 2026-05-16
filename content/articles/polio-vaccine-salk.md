@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 92
 sources:
-  - '<a href="https://www.historyofvaccines.org/content/timelines/polio" target="_blank">College of Physicians — History of Polio Vaccine</a>'
-  - '<a href="https://www.salk.edu/about/history-of-salk/jonas-salk/" target="_blank">Salk Institute — Jonas Salk Biography</a>'
-  - '<a href="https://www.cdc.gov/polio/what-is-polio/polio-us.html" target="_blank">CDC — Polio Elimination in the United States</a>'
-  - '<a href="https://www.britannica.com/biography/Jonas-Salk" target="_blank">Encyclopaedia Britannica — Jonas Salk</a>'
+  - "College of Physicians — History of Polio Vaccine — https://www.historyofvaccines.org/content/timelines/polio"
+  - "Salk Institute — Jonas Salk Biography — https://www.salk.edu/about/history-of-salk/jonas-salk/"
+  - "CDC — Polio Elimination in the United States — https://www.cdc.gov/polio/what-is-polio/polio-us.html"
+  - "Encyclopaedia Britannica — Jonas Salk — https://www.britannica.com/biography/Jonas-Salk"
 ---
 
 In the summer, parents lived in fear. They watched their children for any sign of fever, stiff neck, or sore muscles. Swimming pools closed. Movie theaters emptied. Playgrounds went silent. The reason was polio — a crippling disease that struck without warning and left thousands of children paralyzed every year.

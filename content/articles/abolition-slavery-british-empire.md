@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 97
 sources:
-  - '<a href="https://www.britannica.com/event/Slavery-Abolition-Act" target="_blank">Encyclopaedia Britannica — Slavery Abolition Act</a>'
-  - '<a href="https://www.nationalarchives.gov.uk/slavery/pdf/abolition.pdf" target="_blank">UK National Archives — Abolition of Slavery</a>'
-  - '<a href="https://www.history.com/topics/british-history/abolition-of-slavery" target="_blank">History.com — Abolition of Slavery in Britain</a>'
-  - '<a href="https://www.bbc.co.uk/history/british/abolition/abolition_overview_article_shtml.shtml" target="_blank">BBC History — Abolition of Slavery</a>'
+  - "Encyclopaedia Britannica — Slavery Abolition Act — https://www.britannica.com/event/Slavery-Abolition-Act"
+  - "UK National Archives — Abolition of Slavery — https://www.nationalarchives.gov.uk/slavery/pdf/abolition.pdf"
+  - "History.com — Abolition of Slavery in Britain — https://www.history.com/topics/british-history/abolition-of-slavery"
+  - "BBC History — Abolition of Slavery — https://www.bbc.co.uk/history/british/abolition/abolition_overview_article_shtml.shtml"
 ---
 
 On August 28, 1833, the British Parliament passed the Slavery Abolition Act, a law that would free approximately 800,000 enslaved people across the British Empire. It was one of the most important moments in the long, painful history of human bondage — and it came after decades of struggle by people who refused to accept that one human being could own another.

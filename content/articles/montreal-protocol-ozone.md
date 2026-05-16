@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / NASA / Public Domain"
 video: "https://www.youtube.com/embed/G4H1N_yXBiA"
 weight: 85
 sources:
-  - '<a href="https://www.britannica.com/event/Montreal-Protocol">Britannica — Montreal Protocol</a>'
-  - '<a href="https://www.history.com/this-day-in-history/montreal-protocol-signed">History.com — Montreal Protocol Signed</a>'
-  - '<a href="https://www.unep.org/ozonaction/who-we-are/about-montreal-protocol">UNEP — About the Montreal Protocol</a>'
-  - '<a href="https://www.nasa.gov/feature/goddard/2023/ozone-hole-continues-to-shrink">NASA — Ozone Hole Continues to Shrink</a>'
+  - "Britannica — Montreal Protocol — https://www.britannica.com/event/Montreal-Protocol"
+  - "History.com — Montreal Protocol Signed — https://www.history.com/this-day-in-history/montreal-protocol-signed"
+  - "UNEP — About the Montreal Protocol — https://www.unep.org/ozonaction/who-we-are/about-montreal-protocol"
+  - "NASA — Ozone Hole Continues to Shrink — https://www.nasa.gov/feature/goddard/2023/ozone-hole-continues-to-shrink"
 ---
 
 ## An Invisible Shield Under Attack

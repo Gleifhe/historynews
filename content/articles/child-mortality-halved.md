@@ -13,10 +13,10 @@ imagecredit: "UNICEF / Wikimedia Commons / CC BY 2.0"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 161
 sources:
-  - '<a href="https://data.unicef.org/topic/child-survival/under-five-mortality/" target="_blank">UNICEF — Under-Five Mortality Data</a>'
-  - '<a href="https://www.who.int/news-room/fact-sheets/detail/children-reducing-mortality" target="_blank">World Health Organization — Reducing Child Mortality</a>'
-  - '<a href="https://www.gapminder.org/topics/child-mortality/" target="_blank">Gapminder — Child Mortality</a>'
-  - '<a href="https://ourworldindata.org/child-mortality" target="_blank">Our World in Data — Child Mortality</a>'
+  - "UNICEF — Under-Five Mortality Data — https://data.unicef.org/topic/child-survival/under-five-mortality/"
+  - "World Health Organization — Reducing Child Mortality — https://www.who.int/news-room/fact-sheets/detail/children-reducing-mortality"
+  - "Gapminder — Child Mortality — https://www.gapminder.org/topics/child-mortality/"
+  - "Our World in Data — Child Mortality — https://ourworldindata.org/child-mortality"
 ---
 
 There is a story happening right now that barely makes the news, but it might be the most important story of our time. In 1990, about 12.6 million children under the age of five died every single year. That means roughly 34,000 children died every day — mostly from causes that were entirely preventable. By 2020, that number had fallen to under 5 million per year. The world had saved the lives of more than 7 million children annually — and most people don't even know it happened.

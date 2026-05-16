@@ -13,7 +13,7 @@ imagecredit: "Auckland Libraries / Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 129
 sources:
-  - '<a href="https://nzhistory.govt.nz/politics/womens-suffrage" target="_blank">New Zealand History — Women and the Vote</a>'
+  - "New Zealand History — Women and the Vote — https://nzhistory.govt.nz/politics/womens-suffrage"
   - "<a href=\"https://www.parliament.nz/en/visit-and-learn/how-parliament-works/fact-sheets/pbrief-womens-suffrage/\" target=\"_blank\">New Zealand Parliament — Women's Suffrage</a>"
   - "<a href=\"https://www.britannica.com/event/womens-suffrage-in-New-Zealand\" target=\"_blank\">Encyclopaedia Britannica — Women's Suffrage in New Zealand</a>"
   - "<a href=\"https://teara.govt.nz/en/womens-suffrage/page-1\" target=\"_blank\">Te Ara — The Encyclopedia of New Zealand — Women's Suffrage</a>"

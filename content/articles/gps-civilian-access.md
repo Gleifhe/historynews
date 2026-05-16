@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 143
 sources:
-  - "<a href='https://www.gps.gov/systems/gps/modernization/sa/'>GPS.gov – Selective Availability</a>"
-  - "<a href='https://www.federalregister.gov/documents/2000/05/01'>Federal Register – SA Discontinuation</a>"
-  - "<a href='https://www.britannica.com/technology/Global-Positioning-System'>Britannica – GPS</a>"
-  - "<a href='https://www.nasa.gov/directorates/heo/scan/communications/policy/GPS.html'>NASA – GPS Overview</a>"
+  - "GPS.gov – Selective Availability — https://www.gps.gov/systems/gps/modernization/sa/"
+  - "Federal Register – SA Discontinuation — https://www.federalregister.gov/documents/2000/05/01"
+  - "Britannica – GPS — https://www.britannica.com/technology/Global-Positioning-System"
+  - "NASA – GPS Overview — https://www.nasa.gov/directorates/heo/scan/communications/policy/GPS.html"
 ---
 
 Imagine trying to find a new restaurant, but your map could only tell you that it was "somewhere within a football field of where you are standing." That was what GPS was like for regular people before May 1, 2000. On that day, President Bill Clinton made a decision that quietly changed the lives of billions of people around the world.

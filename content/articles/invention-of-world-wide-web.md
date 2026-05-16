@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Paul Clarke / CC BY-SA 4.0"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 98
 sources:
-  - '<a href="https://home.cern/science/computing/birth-web" target="_blank">CERN — The Birth of the Web</a>'
-  - '<a href="https://www.w3.org/History.html" target="_blank">World Wide Web Consortium — History of the Web</a>'
-  - '<a href="https://www.britannica.com/topic/World-Wide-Web" target="_blank">Encyclopaedia Britannica — World Wide Web</a>'
-  - '<a href="https://webfoundation.org/about/vision/history-of-the-web/" target="_blank">World Wide Web Foundation — History of the Web</a>'
+  - "CERN — The Birth of the Web — https://home.cern/science/computing/birth-web"
+  - "World Wide Web Consortium — History of the Web — https://www.w3.org/History.html"
+  - "Encyclopaedia Britannica — World Wide Web — https://www.britannica.com/topic/World-Wide-Web"
+  - "World Wide Web Foundation — History of the Web — https://webfoundation.org/about/vision/history-of-the-web/"
 ---
 
 In March 1989, a British computer scientist working at CERN — the European Organization for Nuclear Research in Geneva, Switzerland — wrote a proposal that would change the world. His name was Tim Berners-Lee, and his idea was simple but revolutionary: a system that would let scientists share information by linking documents together across computer networks. He called it the "World Wide Web."

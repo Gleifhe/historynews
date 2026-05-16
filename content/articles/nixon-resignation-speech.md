@@ -13,9 +13,9 @@ imagecredit: "Library of Congress"
 video: "https://www.youtube.com/embed/32GaowQnGRw"
 weight: 21
 sources:
-  - '<a href="https://www.c-span.org/video/?3921-1/president-nixon-resignation-address">C-SPAN — Nixon Resignation Address (full video)</a>'
-  - '<a href="https://www.loc.gov/pictures/item/96523440/">LOC — Richard Nixon portrait</a>'
-  - '<a href="https://www.archives.gov/education/lessons/watergate-702">NARA — Watergate Files</a>'
+  - "C-SPAN — Nixon Resignation Address (full video) — https://www.c-span.org/video/?3921-1/president-nixon-resignation-address"
+  - "LOC — Richard Nixon portrait — https://www.loc.gov/pictures/item/96523440/"
+  - "NARA — Watergate Files — https://www.archives.gov/education/lessons/watergate-702"
   - "Bob Woodward and Carl Bernstein, <em>All the President's Men</em> (1974, Simon & Schuster)"
 ---
 

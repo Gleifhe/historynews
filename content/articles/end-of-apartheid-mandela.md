@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 94
 sources:
-  - '<a href="https://www.nelsonmandela.org/content/page/biography" target="_blank">Nelson Mandela Foundation — Biography</a>'
-  - '<a href="https://www.britannica.com/biography/Nelson-Mandela" target="_blank">Encyclopaedia Britannica — Nelson Mandela</a>'
-  - '<a href="https://www.history.com/topics/africa/nelson-mandela" target="_blank">History.com — Nelson Mandela</a>'
-  - '<a href="https://www.nobelprize.org/prizes/peace/1993/mandela/biographical/" target="_blank">Nobel Prize — Nelson Mandela Biography</a>'
+  - "Nelson Mandela Foundation — Biography — https://www.nelsonmandela.org/content/page/biography"
+  - "Encyclopaedia Britannica — Nelson Mandela — https://www.britannica.com/biography/Nelson-Mandela"
+  - "History.com — Nelson Mandela — https://www.history.com/topics/africa/nelson-mandela"
+  - "Nobel Prize — Nelson Mandela Biography — https://www.nobelprize.org/prizes/peace/1993/mandela/biographical/"
 ---
 
 For decades, South Africa operated under a brutal system called apartheid. The word means "apartness" in Afrikaans, and that's exactly what it was — a set of laws designed to separate people by race. The white minority, about 15 percent of the population, controlled the government, the economy, and the best land. Black South Africans, who made up the vast majority, were forced to live in poor, overcrowded areas called townships. They couldn't vote, couldn't use the same beaches or buses as white people, and were treated as second-class citizens in their own country.

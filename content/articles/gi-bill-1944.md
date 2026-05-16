@@ -14,9 +14,9 @@ video: "https://www.youtube.com/embed/fo2Rb9h788s"
 weight: 99
 sources:
   - "<a href=\"https://www.archives.gov/milestone-documents/servicemens-readjustment-act\">National Archives - Servicemen's Readjustment Act (GI Bill)</a>"
-  - '<a href="https://www.history.com/topics/world-war-ii/gi-bill" target="_blank">History.com — GI Bill</a>'
-  - '<a href="https://www.va.gov/education/about-gi-bill-benefits/" target="_blank">U.S. Department of Veterans Affairs — About GI Bill Benefits</a>'
-  - '<a href="https://www.britannica.com/topic/GI-Bill-of-Rights" target="_blank">Encyclopaedia Britannica — GI Bill of Rights</a>'
+  - "History.com — GI Bill — https://www.history.com/topics/world-war-ii/gi-bill"
+  - "U.S. Department of Veterans Affairs — About GI Bill Benefits — https://www.va.gov/education/about-gi-bill-benefits/"
+  - "Encyclopaedia Britannica — GI Bill of Rights — https://www.britannica.com/topic/GI-Bill-of-Rights"
 ---
 
 When World War II ended, the United States faced an enormous challenge. Over 16 million Americans had served in the military. Now they were coming home — millions of young men and women who had spent years fighting overseas. They needed jobs, education, housing, and a path back to normal life. The nation was terrified of what might happen if these veterans returned to unemployment and poverty, as many had after World War I.

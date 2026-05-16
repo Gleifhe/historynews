@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / CC BY-SA"
 video: "https://www.youtube.com/embed/Z0jYx8nwjFQ"
 weight: 35
 sources:
-  - '<a href="https://www.jstor.org/stable/2786139">JSTOR — Interpersonal Dynamics in a Simulated Prison</a>'
-  - '<a href="https://www.prisonexp.org/">Stanford Prison Experiment Official Website</a>'
-  - '<a href="https://www.apa.org/monitor/2011/07/stanford-prison">American Psychological Association — Revisiting the Stanford Prison Experiment</a>'
-  - '<a href="https://www.britannica.com/event/Stanford-Prison-Experiment">Britannica — Stanford Prison Experiment</a>'
+  - "JSTOR — Interpersonal Dynamics in a Simulated Prison — https://www.jstor.org/stable/2786139"
+  - "Stanford Prison Experiment Official Website — https://www.prisonexp.org/"
+  - "American Psychological Association — Revisiting the Stanford Prison Experiment — https://www.apa.org/monitor/2011/07/stanford-prison"
+  - "Britannica — Stanford Prison Experiment — https://www.britannica.com/event/Stanford-Prison-Experiment"
 ---
 
 In the summer of 1971, a quiet hallway in the basement of Stanford University's psychology building was transformed into a fake prison. What happened next became one of the most talked-about — and most criticized — experiments in the history of psychology. Within days, ordinary college students turned into either cruel guards or broken prisoners, and the study had to be shut down early because things got so out of hand.

@@ -13,9 +13,9 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/HGEMscZE5dY"
 weight: 60
 sources:
-  - '<a href="https://www.masshist.org/revolution">Massachusetts Historical Society — Coming of the American Revolution</a>'
-  - '<a href="https://www.nps.gov/mima/learn/historyculture/index.htm">NPS — Minute Man National Historical Park</a>'
-  - '<a href="https://www.history.com/topics/american-revolution/battles-of-lexington-and-concord">History.com — Lexington and Concord</a>'
+  - "Massachusetts Historical Society — Coming of the American Revolution — https://www.masshist.org/revolution"
+  - "NPS — Minute Man National Historical Park — https://www.nps.gov/mima/learn/historyculture/index.htm"
+  - "History.com — Lexington and Concord — https://www.history.com/topics/american-revolution/battles-of-lexington-and-concord"
   - "David Hackett Fischer, <em>Paul Revere's Ride</em> (1994, Oxford University Press)"
 ---
 

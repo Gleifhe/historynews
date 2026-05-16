@@ -13,9 +13,9 @@ imagecredit: "Library of Congress"
 video: "https://www.youtube.com/embed/AJwLz7vWApM"
 weight: 8
 sources:
-  - '<a href="https://www.britishnewspaperarchive.co.uk/">British Newspaper Archive — Epsom Derby 1913 coverage</a>'
-  - '<a href="https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/case-study-the-suffragettes/">UK Parliament — The Suffragettes</a>'
-  - '<a href="https://www.loc.gov/pictures/search/?q=suffragette">LOC — Suffragette photographs</a>'
+  - "British Newspaper Archive — Epsom Derby 1913 coverage — https://www.britishnewspaperarchive.co.uk/"
+  - "UK Parliament — The Suffragettes — https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/case-study-the-suffragettes/"
+  - "LOC — Suffragette photographs — https://www.loc.gov/pictures/search/?q=suffragette"
   - 'Lucy Worsley, "Emily Davison: The Suffragette Who Became a Martyr" (BBC History, 2013)'
 ---
 

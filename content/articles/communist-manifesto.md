@@ -13,10 +13,10 @@ imagecredit: "Library of Congress, Prints & Photographs Division"
 video: "https://www.youtube.com/embed/PJy8vTu66tE"
 weight: 36
 sources:
-  - '<a href="https://www.gutenberg.org/ebooks/61">Project Gutenberg — The Communist Manifesto</a>'
-  - '<a href="https://www.britannica.com/topic/The-Communist-Manifesto">Britannica — The Communist Manifesto</a>'
-  - '<a href="https://www.bl.uk/collection-items/the-communist-manifesto">British Library — The Communist Manifesto</a>'
-  - '<a href="https://www.history.com/topics/industrial-revolution/communist-manifesto">History.com — Communist Manifesto</a>'
+  - "Project Gutenberg — The Communist Manifesto — https://www.gutenberg.org/ebooks/61"
+  - "Britannica — The Communist Manifesto — https://www.britannica.com/topic/The-Communist-Manifesto"
+  - "British Library — The Communist Manifesto — https://www.bl.uk/collection-items/the-communist-manifesto"
+  - "History.com — Communist Manifesto — https://www.history.com/topics/industrial-revolution/communist-manifesto"
 ---
 
 In February 1848, a short pamphlet appeared in London that would go on to change the course of world history. Written by two young German thinkers, Karl Marx and Friedrich Engels, "The Communist Manifesto" was only about 23 pages long. But its ideas about class struggle, workers' rights, and revolution would echo across the next two centuries, shaping governments, sparking wars, and inspiring millions of people around the globe.

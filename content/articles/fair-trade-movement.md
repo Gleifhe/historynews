@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / CC BY 2.0"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 160
 sources:
-  - '<a href="https://www.fairtrade.net/" target="_blank">Fairtrade International Official Website</a>'
-  - '<a href="https://wfto.com/" target="_blank">World Fair Trade Organization</a>'
-  - '<a href="https://www.britannica.com/topic/fair-trade" target="_blank">Encyclopaedia Britannica — Fair Trade</a>'
-  - '<a href="https://www.globalcitizen.org/en/content/what-is-fair-trade/" target="_blank">Global Citizen — What Is Fair Trade?</a>'
+  - "Fairtrade International Official Website — https://www.fairtrade.net/"
+  - "World Fair Trade Organization — https://wfto.com/"
+  - "Encyclopaedia Britannica — Fair Trade — https://www.britannica.com/topic/fair-trade"
+  - "Global Citizen — What Is Fair Trade? — https://www.globalcitizen.org/en/content/what-is-fair-trade/"
 ---
 
 Imagine you're a coffee farmer in Guatemala. You wake up before dawn, walk to your small plot of land, and spend hours in the hot sun picking coffee beans by hand. At the end of the season, you sell your harvest — but the price you receive barely covers the cost of the seeds and fertilizer you bought. Meanwhile, the coffee you grew is sold in a café thousands of miles away for $5 a cup. Something about this picture isn't fair.

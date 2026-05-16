@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 122
 sources:
-  - "<a href='https://www.ed.ac.uk/roslin'>Roslin Institute — University of Edinburgh</a>"
-  - "<a href='https://www.nature.com/articles/385810a0'>Nature — Viable Offspring Derived from Fetal and Adult Mammalian Cells (Original Paper)</a>"
-  - "<a href='https://www.britannica.com/topic/Dolly-cloned-sheep'>Britannica — Dolly the Sheep</a>"
-  - "<a href='https://www.nms.ac.uk/explore-our-collections/stories/natural-sciences/dolly-the-sheep/'>National Museum of Scotland — Dolly the Sheep</a>"
+  - "Roslin Institute — University of Edinburgh — https://www.ed.ac.uk/roslin"
+  - "Nature — Viable Offspring Derived from Fetal and Adult Mammalian Cells (Original Paper) — https://www.nature.com/articles/385810a0"
+  - "Britannica — Dolly the Sheep — https://www.britannica.com/topic/Dolly-cloned-sheep"
+  - "National Museum of Scotland — Dolly the Sheep — https://www.nms.ac.uk/explore-our-collections/stories/natural-sciences/dolly-the-sheep/"
 ---
 
 On July 5, 1996, a lamb was born in a barn at the Roslin Institute near Edinburgh, Scotland. She looked like any other Finn Dorset lamb — white, fluffy, and bleating for her mother. But this lamb was like no animal that had ever existed before. She had no father. She was an exact genetic copy of another adult sheep. Her name was Dolly, and she changed the world.

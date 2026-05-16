@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 126
 sources:
-  - "<a href='https://www.nobelprize.org/prizes/physics/1903/marie-curie/biographical/'>Nobel Prize — Marie Curie Biography (Physics 1903)</a>"
-  - "<a href='https://www.nobelprize.org/prizes/chemistry/1911/marie-curie/biographical/'>Nobel Prize — Marie Curie Biography (Chemistry 1911)</a>"
-  - "<a href='https://www.britannica.com/biography/Marie-Curie'>Britannica — Marie Curie</a>"
-  - "<a href='https://musee.curie.fr/en'>Musée Curie — Official Site</a>"
+  - "Nobel Prize — Marie Curie Biography (Physics 1903) — https://www.nobelprize.org/prizes/physics/1903/marie-curie/biographical/"
+  - "Nobel Prize — Marie Curie Biography (Chemistry 1911) — https://www.nobelprize.org/prizes/chemistry/1911/marie-curie/biographical/"
+  - "Britannica — Marie Curie — https://www.britannica.com/biography/Marie-Curie"
+  - "Musée Curie — Official Site — https://musee.curie.fr/en"
 ---
 
 Marie Sklodowska was born in Warsaw, Poland, in 1867, at a time when women were not allowed to attend university in her country. But Marie was brilliant, determined, and unwilling to let anyone else define what she could achieve. She saved money for years working as a governess and tutor before finally moving to Paris in 1891 to study at the Sorbonne, one of the great universities of Europe.

@@ -13,9 +13,9 @@ imagecredit: "Library of Congress"
 weight: 16
 video: "https://www.youtube.com/embed/RsA6AdCRI-k"
 sources:
-  - '<a href="https://avalon.law.yale.edu/subject_menus/imt.asp">Avalon Project, Yale Law School — Nuremberg Trial Documents</a>'
-  - '<a href="https://avalon.law.yale.edu/imt/imtconst.asp">Avalon Project — Charter of the International Military Tribunal</a>'
-  - '<a href="https://www.loc.gov/rr/frd/Military_Law/Nuremberg_Trials.html">LOC — Nuremberg Trials Collection</a>'
+  - "Avalon Project, Yale Law School — Nuremberg Trial Documents — https://avalon.law.yale.edu/subject_menus/imt.asp"
+  - "Avalon Project — Charter of the International Military Tribunal — https://avalon.law.yale.edu/imt/imtconst.asp"
+  - "LOC — Nuremberg Trials Collection — https://www.loc.gov/rr/frd/Military_Law/Nuremberg_Trials.html"
   - 'Telford Taylor, <em>The Anatomy of the Nuremberg Trials</em> (1992, Little, Brown)'
 ---
 

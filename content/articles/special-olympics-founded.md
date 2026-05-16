@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 111
 sources:
-  - '<a href="https://www.specialolympics.org/about/history">Special Olympics - Our History</a>'
-  - '<a href="https://www.jfklibrary.org/learn/about-jfk/the-kennedy-family/eunice-kennedy-shriver">JFK Library - Eunice Kennedy Shriver Biography</a>'
-  - '<a href="https://www.britannica.com/topic/Special-Olympics">Britannica - Special Olympics</a>'
-  - '<a href="https://www.nytimes.com/2009/08/12/us/12shriver.html">New York Times - Eunice Kennedy Shriver Obituary</a>'
+  - "Special Olympics - Our History — https://www.specialolympics.org/about/history"
+  - "JFK Library - Eunice Kennedy Shriver Biography — https://www.jfklibrary.org/learn/about-jfk/the-kennedy-family/eunice-kennedy-shriver"
+  - "Britannica - Special Olympics — https://www.britannica.com/topic/Special-Olympics"
+  - "New York Times - Eunice Kennedy Shriver Obituary — https://www.nytimes.com/2009/08/12/us/12shriver.html"
 ---
 
 In the early 1960s, Eunice Kennedy Shriver looked at the world and saw something deeply wrong. People with intellectual disabilities were hidden away. Many were locked in institutions, forgotten by society. They were told they could not learn, could not play, and could not compete. Eunice refused to accept that.

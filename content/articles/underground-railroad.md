@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 65
 sources:
-  - '<a href="https://www.nps.gov/subjects/undergroundrailroad/index.htm">National Park Service — Underground Railroad</a>'
-  - '<a href="https://www.harriettubmanbyway.org/">Harriet Tubman Byway — Historical Resources</a>'
-  - '<a href="https://www.loc.gov/collections/harriet-tubman/">Library of Congress — Harriet Tubman Collection</a>'
-  - '<a href="https://www.history.com/articles/harriet-tubman-underground-railroad">History.com — Harriet Tubman and the Underground Railroad</a>'
+  - "National Park Service — Underground Railroad — https://www.nps.gov/subjects/undergroundrailroad/index.htm"
+  - "Harriet Tubman Byway — Historical Resources — https://www.harriettubmanbyway.org/"
+  - "Library of Congress — Harriet Tubman Collection — https://www.loc.gov/collections/harriet-tubman/"
+  - "History.com — Harriet Tubman and the Underground Railroad — https://www.history.com/articles/harriet-tubman-underground-railroad"
 ---
 
 ## Running in the Dark

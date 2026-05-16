@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/xaoCs1NFcVc"
 weight: 45
 sources:
-  - '<a href="https://www.bbc.co.uk/history/british/tudors/spanish_armada_01.shtml">BBC History — The Spanish Armada</a>'
-  - '<a href="https://www.britannica.com/event/Spanish-Armada">Encyclopedia Britannica — Spanish Armada</a>'
-  - '<a href="https://www.history.com/articles/spanish-armada">History.com — Spanish Armada</a>'
-  - '<a href="https://www.rmg.co.uk/stories/topics/spanish-armada">Royal Museums Greenwich — The Spanish Armada</a>'
+  - "BBC History — The Spanish Armada — https://www.bbc.co.uk/history/british/tudors/spanish_armada_01.shtml"
+  - "Encyclopedia Britannica — Spanish Armada — https://www.britannica.com/event/Spanish-Armada"
+  - "History.com — Spanish Armada — https://www.history.com/articles/spanish-armada"
+  - "Royal Museums Greenwich — The Spanish Armada — https://www.rmg.co.uk/stories/topics/spanish-armada"
 ---
 
 ## The Most Powerful Empire on Earth

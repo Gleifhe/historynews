@@ -13,10 +13,10 @@ imagecredit: "American Red Cross / Library of Congress"
 weight: 10
 video: "https://www.youtube.com/embed/d0AoRkmj9YM"
 sources:
-  - '<a href="https://www.jstor.org/stable/4576062">JSTOR — Public Health Reports on the 1918 Influenza Pandemic</a>'
-  - '<a href="https://www.loc.gov/pictures/item/2017672561/">LOC — Red Cross workers during 1918 pandemic</a>'
+  - "JSTOR — Public Health Reports on the 1918 Influenza Pandemic — https://www.jstor.org/stable/4576062"
+  - "LOC — Red Cross workers during 1918 pandemic — https://www.loc.gov/pictures/item/2017672561/"
   - 'John M. Barry, <em>The Great Influenza</em> (2004, Penguin Books)'
-  - '<a href="https://www.cdc.gov/flu/pandemic-resources/1918-pandemic-h1n1.html">CDC — 1918 Pandemic (H1N1 virus)</a>'
+  - "CDC — 1918 Pandemic (H1N1 virus) — https://www.cdc.gov/flu/pandemic-resources/1918-pandemic-h1n1.html"
 ---
 
 ## The Deadliest Pandemic in Modern History

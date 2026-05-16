@@ -13,9 +13,9 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 73
 sources:
-  - '<a href="https://www.nationalarchives.gov.uk/">The National Archives (UK) — Historical Records</a>'
-  - '<a href="https://www.britannica.com/biography/Johannes-Gutenberg">Britannica — Johannes Gutenberg</a>'
-  - '<a href="https://www.loc.gov/exhibits/bibles/gutenberg.html">Library of Congress — The Gutenberg Bible</a>'
+  - "The National Archives (UK) — Historical Records — https://www.nationalarchives.gov.uk/"
+  - "Britannica — Johannes Gutenberg — https://www.britannica.com/biography/Johannes-Gutenberg"
+  - "Library of Congress — The Gutenberg Bible — https://www.loc.gov/exhibits/bibles/gutenberg.html"
   - 'Elizabeth Eisenstein, <em>The Printing Press as an Agent of Change</em> (1979, Cambridge University Press)'
 ---
 

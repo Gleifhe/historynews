@@ -13,9 +13,9 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 74
 sources:
-  - '<a href="https://www.europeana.eu/en/collections">Europeana — European Cultural Heritage Collections</a>'
-  - '<a href="https://www.britannica.com/topic/Sistine-Chapel">Britannica — Sistine Chapel</a>'
-  - '<a href="https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/cappella-sistina.html">Vatican Museums — Sistine Chapel</a>'
+  - "Europeana — European Cultural Heritage Collections — https://www.europeana.eu/en/collections"
+  - "Britannica — Sistine Chapel — https://www.britannica.com/topic/Sistine-Chapel"
+  - "Vatican Museums — Sistine Chapel — https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/cappella-sistina.html"
   - "Ross King, <em>Michelangelo and the Pope's Ceiling</em> (2003, Penguin Books)"
 ---
 

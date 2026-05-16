@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 119
 sources:
-  - "<a href='https://onlinelibrary.wiley.com/journal/13652141'>British Journal of Haematology — History of Transfusion</a>"
-  - "<a href='https://www.redcrossblood.org/donate-blood/blood-donation-process/what-happens-to-donated-blood/blood-transfusions/history-blood-transfusion.html'>American Red Cross — History of Blood Transfusion</a>"
-  - "<a href='https://www.britannica.com/science/blood-transfusion'>Britannica — Blood Transfusion</a>"
-  - "<a href='https://www.nobelprize.org/prizes/medicine/1930/landsteiner/biographical/'>Nobel Prize — Karl Landsteiner Biography</a>"
+  - "British Journal of Haematology — History of Transfusion — https://onlinelibrary.wiley.com/journal/13652141"
+  - "American Red Cross — History of Blood Transfusion — https://www.redcrossblood.org/donate-blood/blood-donation-process/what-happens-to-donated-blood/blood-transfusions/history-blood-transfusion.html"
+  - "Britannica — Blood Transfusion — https://www.britannica.com/science/blood-transfusion"
+  - "Nobel Prize — Karl Landsteiner Biography — https://www.nobelprize.org/prizes/medicine/1930/landsteiner/biographical/"
 ---
 
 In the early 1800s, women who hemorrhaged during childbirth almost always died. Doctors could do nothing but watch helplessly as their patients bled to death. Dr. James Blundell, a British obstetrician working at Guy's Hospital in London, refused to accept this. He believed that if blood was leaving the body too fast, the solution was to put blood back in.

@@ -13,10 +13,10 @@ imagecredit: "Library of Congress"
 video: "https://www.youtube.com/embed/yeQ-6eyMQ_o"
 weight: 48
 sources:
-  - '<a href="https://www.smithsonianmag.com/history/the-rosetta-stone-78455474/">Smithsonian Magazine — The Rosetta Stone</a>'
-  - '<a href="https://www.britishmuseum.org/collection/object/Y_EA24">British Museum — The Rosetta Stone</a>'
-  - '<a href="https://www.britannica.com/topic/Rosetta-Stone">Encyclopedia Britannica — Rosetta Stone</a>'
-  - '<a href="https://www.history.com/articles/what-is-the-rosetta-stone">History.com — What Is the Rosetta Stone?</a>'
+  - "Smithsonian Magazine — The Rosetta Stone — https://www.smithsonianmag.com/history/the-rosetta-stone-78455474/"
+  - "British Museum — The Rosetta Stone — https://www.britishmuseum.org/collection/object/Y_EA24"
+  - "Encyclopedia Britannica — Rosetta Stone — https://www.britannica.com/topic/Rosetta-Stone"
+  - "History.com — What Is the Rosetta Stone? — https://www.history.com/articles/what-is-the-rosetta-stone"
 ---
 
 ## A Language Lost for 1,400 Years

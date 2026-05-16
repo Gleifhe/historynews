@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 118
 sources:
-  - "<a href='https://www.genome.gov/human-genome-project'>National Human Genome Research Institute — Human Genome Project</a>"
-  - "<a href='https://www.nature.com/articles/nature01262'>Nature — Initial Sequencing and Analysis of the Human Genome</a>"
-  - "<a href='https://www.britannica.com/event/Human-Genome-Project'>Britannica — Human Genome Project</a>"
-  - "<a href='https://www.genome.gov/25520492/online-education-kit-understanding-the-human-genome-project'>NIH — Understanding the Human Genome Project</a>"
+  - "National Human Genome Research Institute — Human Genome Project — https://www.genome.gov/human-genome-project"
+  - "Nature — Initial Sequencing and Analysis of the Human Genome — https://www.nature.com/articles/nature01262"
+  - "Britannica — Human Genome Project — https://www.britannica.com/event/Human-Genome-Project"
+  - "NIH — Understanding the Human Genome Project — https://www.genome.gov/25520492/online-education-kit-understanding-the-human-genome-project"
 ---
 
 Imagine trying to read a book that is three billion letters long, written in a language no one fully understands, using an alphabet of just four letters. That is essentially what scientists set out to do when they launched the Human Genome Project in 1990. Their goal was breathtaking in its ambition: to identify and map every single gene in the human body.

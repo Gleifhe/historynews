@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / U.S. Army"
 video: "https://www.youtube.com/embed/fo2Rb9h788s"
 weight: 103
 sources:
-  - '<a href="https://www.nationalww2museum.org/war/articles/desmond-doss-medal-of-honor">National WWII Museum – Desmond Doss</a>'
-  - '<a href="https://www.army.mil/medalofhonor/doss/">U.S. Army – Desmond Doss Medal of Honor</a>'
-  - '<a href="https://www.desmonddoss.com/">Desmond Doss Council – Official Site</a>'
-  - '<a href="https://www.history.com/topics/world-war-ii/desmond-doss">History.com – Desmond Doss</a>'
+  - "National WWII Museum – Desmond Doss — https://www.nationalww2museum.org/war/articles/desmond-doss-medal-of-honor"
+  - "U.S. Army – Desmond Doss Medal of Honor — https://www.army.mil/medalofhonor/doss/"
+  - "Desmond Doss Council – Official Site — https://www.desmonddoss.com/"
+  - "History.com – Desmond Doss — https://www.history.com/topics/world-war-ii/desmond-doss"
 ---
 
 When Desmond Doss enlisted in the United States Army in 1942, he told his commanding officers something they had never heard before: he wanted to serve his country, but he would not carry a weapon. He would not even touch a gun. As a devout Seventh-day Adventist, Doss believed that killing was wrong, but he also believed that he had a duty to serve. He wanted to be a combat medic — to save lives instead of taking them.

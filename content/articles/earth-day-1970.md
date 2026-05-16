@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons"
 video: "https://www.youtube.com/embed/G4H1N_yXBiA"
 weight: 108
 sources:
-  - '<a href="https://www.earthday.org/history/">Earth Day Network – History of Earth Day</a>'
-  - '<a href="https://www.epa.gov/history/epa-history-earth-day">EPA – Earth Day History</a>'
-  - '<a href="https://www.nrdc.org/stories/story-earth-day">NRDC – The Story of Earth Day</a>'
-  - '<a href="https://www.britannica.com/topic/Earth-Day">Britannica – Earth Day</a>'
+  - "Earth Day Network – History of Earth Day — https://www.earthday.org/history/"
+  - "EPA – Earth Day History — https://www.epa.gov/history/epa-history-earth-day"
+  - "NRDC – The Story of Earth Day — https://www.nrdc.org/stories/story-earth-day"
+  - "Britannica – Earth Day — https://www.britannica.com/topic/Earth-Day"
 ---
 
 By the late 1960s, the American environment was in terrible shape. Rivers were so polluted they caught fire. The Cuyahoga River in Cleveland, Ohio, had burned at least 13 times. Thick smog choked major cities, making it hard to see across the street on bad days. Factories dumped waste directly into waterways without consequences. Pesticides were killing birds and wildlife at an alarming rate. And yet, there were almost no federal laws protecting the environment.

@@ -13,9 +13,9 @@ imagecredit: "New-York Historical Society / Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 76
 sources:
-  - '<a href="https://www.hathitrust.org/">HathiTrust Digital Library — Historical Collections</a>'
-  - '<a href="https://www.britannica.com/event/Fall-of-Rome">Britannica — Fall of Rome</a>'
-  - '<a href="https://www.worldhistory.org/article/835/the-fall-of-the-western-roman-empire/">World History Encyclopedia — Fall of the Western Roman Empire</a>'
+  - "HathiTrust Digital Library — Historical Collections — https://www.hathitrust.org/"
+  - "Britannica — Fall of Rome — https://www.britannica.com/event/Fall-of-Rome"
+  - "World History Encyclopedia — Fall of the Western Roman Empire — https://www.worldhistory.org/article/835/the-fall-of-the-western-roman-empire/"
   - 'Edward Gibbon, <em>The History of the Decline and Fall of the Roman Empire</em> (1776-1789)'
 ---
 

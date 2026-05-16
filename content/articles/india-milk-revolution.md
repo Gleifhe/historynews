@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 164
 sources:
-  - '<a href="https://www.nddb.coop/about/genesis/flood" target="_blank">National Dairy Development Board — Operation Flood</a>'
-  - '<a href="https://www.amul.com/m/about-us" target="_blank">Amul — The Amul Story</a>'
-  - '<a href="https://www.britannica.com/biography/Verghese-Kurien" target="_blank">Encyclopaedia Britannica — Verghese Kurien</a>'
-  - '<a href="https://www.fao.org/dairy-production-products/en/" target="_blank">Food and Agriculture Organization — Dairy Production</a>'
+  - "National Dairy Development Board — Operation Flood — https://www.nddb.coop/about/genesis/flood"
+  - "Amul — The Amul Story — https://www.amul.com/m/about-us"
+  - "Encyclopaedia Britannica — Verghese Kurien — https://www.britannica.com/biography/Verghese-Kurien"
+  - "Food and Agriculture Organization — Dairy Production — https://www.fao.org/dairy-production-products/en/"
 ---
 
 In the 1960s, India had a serious problem. The country of hundreds of millions of people didn't have enough milk. Most families couldn't afford it, and the supply that existed was controlled by middlemen who bought milk cheaply from poor farmers and sold it at high prices in the cities. Farmers were trapped in poverty, children were malnourished, and India had to import dairy products from abroad. It seemed like an impossible situation.

@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/dHSQAEam2yc"
 weight: 70
 sources:
-  - '<a href="https://www.europeana.eu/en/collections/topic/83-1989-fall-of-the-iron-curtain">Europeana — Revolution and Political Change Collections</a>'
-  - '<a href="https://www.britannica.com/event/October-Revolution">Britannica — October Revolution</a>'
-  - '<a href="https://www.loc.gov/exhibits/archives/reps.html">Library of Congress — Soviet Archives Exhibit</a>'
-  - '<a href="https://www.history.com/articles/russian-revolution-october-1917">History.com — October Revolution</a>'
+  - "Europeana — Revolution and Political Change Collections — https://www.europeana.eu/en/collections/topic/83-1989-fall-of-the-iron-curtain"
+  - "Britannica — October Revolution — https://www.britannica.com/event/October-Revolution"
+  - "Library of Congress — Soviet Archives Exhibit — https://www.loc.gov/exhibits/archives/reps.html"
+  - "History.com — October Revolution — https://www.history.com/articles/russian-revolution-october-1917"
 ---
 
 ## The Man on the Train

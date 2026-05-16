@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain (U.S. Government)"
 video: "https://www.youtube.com/embed/I79TpDe3t2g"
 weight: 66
 sources:
-  - '<a href="https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/cuban-missile-crisis">JFK Presidential Library — Cuban Missile Crisis</a>'
-  - '<a href="https://nsarchive.gwu.edu/nsa/cuba_mis_cri/">National Security Archive — Cuban Missile Crisis Documents</a>'
-  - '<a href="https://microsites.jfklibrary.org/cmc/">JFK Library — Cuban Missile Crisis Interactive</a>'
-  - '<a href="https://www.history.com/topics/cold-war/cuban-missile-crisis">History.com — Cuban Missile Crisis</a>'
+  - "JFK Presidential Library — Cuban Missile Crisis — https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/cuban-missile-crisis"
+  - "National Security Archive — Cuban Missile Crisis Documents — https://nsarchive.gwu.edu/nsa/cuba_mis_cri/"
+  - "JFK Library — Cuban Missile Crisis Interactive — https://microsites.jfklibrary.org/cmc/"
+  - "History.com — Cuban Missile Crisis — https://www.history.com/topics/cold-war/cuban-missile-crisis"
 ---
 
 ## The Discovery

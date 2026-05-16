@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Fair Use"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 150
 sources:
-  - "<a href='https://www.habitat.org/about'>Habitat for Humanity International – About</a>"
-  - "<a href='https://www.britannica.com/topic/Habitat-for-Humanity'>Britannica – Habitat for Humanity</a>"
-  - "<a href='https://www.cartercenter.org/'>The Carter Center – Jimmy Carter</a>"
-  - "<a href='https://www.habitat.org/stories'>Habitat for Humanity – Stories of Impact</a>"
+  - "Habitat for Humanity International – About — https://www.habitat.org/about"
+  - "Britannica – Habitat for Humanity — https://www.britannica.com/topic/Habitat-for-Humanity"
+  - "The Carter Center – Jimmy Carter — https://www.cartercenter.org/"
+  - "Habitat for Humanity – Stories of Impact — https://www.habitat.org/stories"
 ---
 
 In the early 1970s, a wealthy businessman named Millard Fuller had a crisis. He had made a fortune in business, but his marriage was falling apart and he felt empty inside. He and his wife, Linda, decided to give away their wealth and find a more meaningful way to live. They ended up at Koinonia Farm, a small Christian community in rural Georgia, where they discovered a powerful idea: what if volunteers and future homeowners worked side by side to build simple, affordable houses?

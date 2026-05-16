@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 156
 sources:
-  - '<a href="https://www.yadvashem.org/righteous/stories/sendler.html" target="_blank">Yad Vashem — Irena Sendler</a>'
-  - '<a href="https://encyclopedia.ushmm.org/content/en/article/irena-sendler" target="_blank">United States Holocaust Memorial Museum — Irena Sendler</a>'
-  - '<a href="https://www.britannica.com/biography/Irena-Sendler" target="_blank">Encyclopaedia Britannica — Irena Sendler</a>'
-  - '<a href="https://www.irenasendler.org/" target="_blank">Life in a Jar — The Irena Sendler Project</a>'
+  - "Yad Vashem — Irena Sendler — https://www.yadvashem.org/righteous/stories/sendler.html"
+  - "United States Holocaust Memorial Museum — Irena Sendler — https://encyclopedia.ushmm.org/content/en/article/irena-sendler"
+  - "Encyclopaedia Britannica — Irena Sendler — https://www.britannica.com/biography/Irena-Sendler"
+  - "Life in a Jar — The Irena Sendler Project — https://www.irenasendler.org/"
 ---
 
 In the fall of 1940, the Nazis sealed off a section of Warsaw, Poland, and forced nearly 400,000 Jewish people to live inside its walls. The Warsaw Ghetto was a place of unspeakable suffering — overcrowded, filthy, and starving. Disease spread quickly. People died in the streets every day. And the worst was yet to come: beginning in 1942, the Nazis began shipping ghetto residents to the Treblinka extermination camp, where most were murdered upon arrival.

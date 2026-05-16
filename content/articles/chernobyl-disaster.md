@@ -13,10 +13,10 @@ imagecredit: "Voice of America / Wikimedia Commons"
 video: "https://www.youtube.com/embed/nsGXeCpSJmM"
 weight: 24
 sources:
-  - '<a href="https://www.britannica.com/event/Chernobyl-disaster">Encyclopedia Britannica — Chernobyl disaster</a>'
-  - '<a href="https://www.iaea.org/newscenter/focus/chernobyl">IAEA — Chernobyl: A Timeline of Events</a>'
+  - "Encyclopedia Britannica — Chernobyl disaster — https://www.britannica.com/event/Chernobyl-disaster"
+  - "IAEA — Chernobyl: A Timeline of Events — https://www.iaea.org/newscenter/focus/chernobyl"
   - 'Serhii Plokhy, <em>Chernobyl: The History of a Nuclear Catastrophe</em> (2018, Basic Books)'
-  - '<a href="https://www.world-nuclear.org/information-library/safety-and-security/safety-of-plants/chernobyl-accident.aspx">World Nuclear Association — Chernobyl Accident</a>'
+  - "World Nuclear Association — Chernobyl Accident — https://www.world-nuclear.org/information-library/safety-and-security/safety-of-plants/chernobyl-accident.aspx"
 ---
 
 ## A Safety Test Gone Wrong

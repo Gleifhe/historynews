@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 64
 sources:
-  - '<a href="https://www.loc.gov/collections/civil-war-maps/">Library of Congress — Civil War Maps Collection</a>'
-  - '<a href="https://www.archives.gov/education/lessons/civil-war-702nd">National Archives — Teaching with Documents: The Civil War</a>'
-  - '<a href="https://www.battlefields.org/learn/civil-war">American Battlefield Trust — The Civil War</a>'
-  - '<a href="https://www.history.com/topics/american-civil-war">History.com — American Civil War</a>'
+  - "Library of Congress — Civil War Maps Collection — https://www.loc.gov/collections/civil-war-maps/"
+  - "National Archives — Teaching with Documents: The Civil War — https://www.archives.gov/education/lessons/civil-war-702nd"
+  - "American Battlefield Trust — The Civil War — https://www.battlefields.org/learn/civil-war"
+  - "History.com — American Civil War — https://www.history.com/topics/american-civil-war"
 ---
 
 ## A Nation Tears Itself Apart

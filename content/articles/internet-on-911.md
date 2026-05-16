@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/3DRDJUHvlnk"
 weight: 5
 sources:
-  - '<a href="https://web.archive.org/web/20010911/">Internet Archive — Wayback Machine September 11, 2001 snapshots</a>'
-  - '<a href="https://archive.org/details/911">Internet Archive — September 11 Television Archive</a>'
-  - '<a href="https://www.loc.gov/collections/september-11th-2001-documentary-project/">LOC — September 11 Documentary Project</a>'
-  - '<a href="https://www.pewresearch.org/internet/2001/09/15/how-americans-used-the-internet-after-the-terror-attack/">Pew Research — How Americans Used the Internet After 9/11</a>'
+  - "Internet Archive — Wayback Machine September 11, 2001 snapshots — https://web.archive.org/web/20010911/"
+  - "Internet Archive — September 11 Television Archive — https://archive.org/details/911"
+  - "LOC — September 11 Documentary Project — https://www.loc.gov/collections/september-11th-2001-documentary-project/"
+  - "Pew Research — How Americans Used the Internet After 9/11 — https://www.pewresearch.org/internet/2001/09/15/how-americans-used-the-internet-after-the-terror-attack/"
 ---
 
 ## A Tuesday Morning Like No Other

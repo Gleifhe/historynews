@@ -13,10 +13,10 @@ imagecredit: "U.S. Navy / Wikimedia Commons"
 video: "https://www.youtube.com/embed/-oBFX8R15BQ"
 weight: 44
 sources:
-  - '<a href="https://www.gettyimages.com/photos/fall-of-saigon">Getty Images — Fall of Saigon</a>'
-  - '<a href="https://www.history.com/articles/the-fall-of-saigon">History.com — The Fall of Saigon</a>'
-  - '<a href="https://www.pbs.org/wgbh/americanexperience/films/lastdays/">PBS — Last Days in Vietnam</a>'
-  - '<a href="https://www.archives.gov/research/military/vietnam-war">National Archives — Vietnam War Records</a>'
+  - "Getty Images — Fall of Saigon — https://www.gettyimages.com/photos/fall-of-saigon"
+  - "History.com — The Fall of Saigon — https://www.history.com/articles/the-fall-of-saigon"
+  - "PBS — Last Days in Vietnam — https://www.pbs.org/wgbh/americanexperience/films/lastdays/"
+  - "National Archives — Vietnam War Records — https://www.archives.gov/research/military/vietnam-war"
 ---
 
 ## The War That Divided America

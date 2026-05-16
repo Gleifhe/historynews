@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons"
 weight: 15
 video: "https://www.youtube.com/embed/8I7X9tX3fK0"
 sources:
-  - '<a href="https://www.cia.gov/readingroom/collection/bay-pigs-release">CIA FOIA Reading Room — Bay of Pigs Declassified Documents</a>'
-  - '<a href="https://nsarchive2.gwu.edu/bayofpigs/chron.html">National Security Archive — Bay of Pigs Chronology</a>'
+  - "CIA FOIA Reading Room — Bay of Pigs Declassified Documents — https://www.cia.gov/readingroom/collection/bay-pigs-release"
+  - "National Security Archive — Bay of Pigs Chronology — https://nsarchive2.gwu.edu/bayofpigs/chron.html"
   - 'Jim Rasenberger, <em>The Brilliant Disaster</em> (2011, Scribner)'
-  - '<a href="https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/the-bay-of-pigs">JFK Library — The Bay of Pigs</a>'
+  - "JFK Library — The Bay of Pigs — https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/the-bay-of-pigs"
 ---
 
 ## The Plan to Overthrow Castro

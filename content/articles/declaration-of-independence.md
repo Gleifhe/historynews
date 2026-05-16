@@ -13,10 +13,10 @@ imagecredit: "Library of Congress"
 video: "https://www.youtube.com/embed/yb7MI8NQLoo"
 weight: 41
 sources:
-  - '<a href="https://avalon.law.yale.edu/18th_century/declare.asp">Avalon Project, Yale — The Declaration of Independence</a>'
-  - '<a href="https://www.archives.gov/founding-docs/declaration">National Archives — Declaration of Independence</a>'
-  - '<a href="https://www.loc.gov/exhibits/declara/">Library of Congress — The Declaration of Independence</a>'
-  - '<a href="https://www.history.com/articles/the-declaration-of-independence">History.com — Declaration of Independence</a>'
+  - "Avalon Project, Yale — The Declaration of Independence — https://avalon.law.yale.edu/18th_century/declare.asp"
+  - "National Archives — Declaration of Independence — https://www.archives.gov/founding-docs/declaration"
+  - "Library of Congress — The Declaration of Independence — https://www.loc.gov/exhibits/declara/"
+  - "History.com — Declaration of Independence — https://www.history.com/articles/the-declaration-of-independence"
 ---
 
 ## A Dangerous Idea

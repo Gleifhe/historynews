@@ -13,10 +13,10 @@ imagecredit: "NARA / Wikimedia Commons"
 video: "https://www.youtube.com/embed/5MDFX-dNtsM"
 weight: 46
 sources:
-  - '<a href="https://www.c-span.org/program/public-affairs-event/president-reagans-berlin-wall-speech/96680">C-SPAN — President Reagan Berlin Wall Speech</a>'
-  - '<a href="https://www.reaganlibrary.gov/archives/speech/remarks-east-west-relations-brandenburg-gate-west-berlin">Reagan Library — Brandenburg Gate Speech</a>'
-  - '<a href="https://www.history.com/articles/reagans-tear-down-this-wall-speech">History.com — Tear Down This Wall Speech</a>'
-  - '<a href="https://www.bbc.com/news/av/magazine-23373323">BBC — Reagan: Tear Down This Wall</a>'
+  - "C-SPAN — President Reagan Berlin Wall Speech — https://www.c-span.org/program/public-affairs-event/president-reagans-berlin-wall-speech/96680"
+  - "Reagan Library — Brandenburg Gate Speech — https://www.reaganlibrary.gov/archives/speech/remarks-east-west-relations-brandenburg-gate-west-berlin"
+  - "History.com — Tear Down This Wall Speech — https://www.history.com/articles/reagans-tear-down-this-wall-speech"
+  - "BBC — Reagan: Tear Down This Wall — https://www.bbc.com/news/av/magazine-23373323"
 ---
 
 ## A City Still Divided

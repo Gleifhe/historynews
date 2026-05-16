@@ -13,10 +13,10 @@ imagecredit: "Library of Congress"
 weight: 23
 video: "https://www.youtube.com/embed/B2GV_QGb5_g"
 sources:
-  - '<a href="https://www.smithsonianmag.com/history/the-discovery-of-tutankhamuns-tomb-11078/">Smithsonian Magazine — The Discovery of Tutankhamun</a>'
-  - '<a href="https://www.loc.gov/pictures/search/?q=tutankhamun">LOC — Tutankhamun-related images</a>'
+  - "Smithsonian Magazine — The Discovery of Tutankhamun — https://www.smithsonianmag.com/history/the-discovery-of-tutankhamuns-tomb-11078/"
+  - "LOC — Tutankhamun-related images — https://www.loc.gov/pictures/search/?q=tutankhamun"
   - 'Howard Carter, <em>The Tomb of Tut-Ankh-Amen</em> (1923, Cassell and Company)'
-  - '<a href="https://www.griffith.ox.ac.uk/gri/carter/">Griffith Institute, Oxford — Carter Archives</a>'
+  - "Griffith Institute, Oxford — Carter Archives — https://www.griffith.ox.ac.uk/gri/carter/"
 ---
 
 ## Six Years of Digging

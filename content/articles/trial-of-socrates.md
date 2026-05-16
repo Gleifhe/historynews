@@ -13,9 +13,9 @@ imagecredit: "The Metropolitan Museum of Art / Wikimedia Commons / Public Domain
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 79
 sources:
-  - '<a href="https://www.gutenberg.org/ebooks/1656">Project Gutenberg — Apology by Plato (translated by Benjamin Jowett)</a>'
-  - '<a href="https://www.britannica.com/biography/Socrates">Britannica — Socrates</a>'
-  - '<a href="https://plato.stanford.edu/entries/socrates/">Stanford Encyclopedia of Philosophy — Socrates</a>'
+  - "Project Gutenberg — Apology by Plato (translated by Benjamin Jowett) — https://www.gutenberg.org/ebooks/1656"
+  - "Britannica — Socrates — https://www.britannica.com/biography/Socrates"
+  - "Stanford Encyclopedia of Philosophy — Socrates — https://plato.stanford.edu/entries/socrates/"
   - 'I. F. Stone, <em>The Trial of Socrates</em> (1988, Little, Brown and Company)'
 ---
 

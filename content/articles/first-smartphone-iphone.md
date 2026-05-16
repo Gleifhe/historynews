@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 166
 sources:
-  - '<a href="https://www.computerhistory.org/revolution/personal-computers/17/intro" target="_blank">Computer History Museum — Personal Computing Revolution</a>'
-  - '<a href="https://www.britannica.com/technology/iPhone" target="_blank">Encyclopaedia Britannica — iPhone</a>'
-  - '<a href="https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/" target="_blank">Apple Newsroom — Apple Reinvents the Phone (2007)</a>'
-  - '<a href="https://time.com/4628515/iphone-history-anniversary/" target="_blank">TIME — The iPhone at 10</a>'
+  - "Computer History Museum — Personal Computing Revolution — https://www.computerhistory.org/revolution/personal-computers/17/intro"
+  - "Encyclopaedia Britannica — iPhone — https://www.britannica.com/technology/iPhone"
+  - "Apple Newsroom — Apple Reinvents the Phone (2007) — https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/"
+  - "TIME — The iPhone at 10 — https://time.com/4628515/iphone-history-anniversary/"
 ---
 
 On January 9, 2007, a man in a black turtleneck and jeans walked onto a stage in San Francisco and changed the world. Steve Jobs, the co-founder and CEO of Apple, stood before a packed audience at the Macworld conference and made an announcement that would reshape how billions of people live their daily lives.

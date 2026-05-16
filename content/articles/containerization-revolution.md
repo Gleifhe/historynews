@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / CC BY-SA 3.0"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 165
 sources:
-  - '<a href="https://www.worldshipping.org/about-the-industry/history-of-containerization" target="_blank">World Shipping Council — History of Containerization</a>'
-  - '<a href="https://www.britannica.com/technology/containerization" target="_blank">Encyclopaedia Britannica — Containerization</a>'
-  - '<a href="https://www.history.com/news/how-the-shipping-container-changed-the-world" target="_blank">History.com — How the Shipping Container Changed the World</a>'
-  - '<a href="https://www.smithsonianmag.com/innovation/how-the-shipping-container-made-the-world-smaller-180959939/" target="_blank">Smithsonian Magazine — The Shipping Container</a>'
+  - "World Shipping Council — History of Containerization — https://www.worldshipping.org/about-the-industry/history-of-containerization"
+  - "Encyclopaedia Britannica — Containerization — https://www.britannica.com/technology/containerization"
+  - "History.com — How the Shipping Container Changed the World — https://www.history.com/news/how-the-shipping-container-changed-the-world"
+  - "Smithsonian Magazine — The Shipping Container — https://www.smithsonianmag.com/innovation/how-the-shipping-container-made-the-world-smaller-180959939/"
 ---
 
 Look around the room you're sitting in right now. Your phone, your clothes, your furniture — chances are, almost everything you own spent time inside a metal box on a ship crossing an ocean. That metal box is the standardized shipping container, and its invention in 1956 changed the world economy more than almost anything else in the twentieth century.

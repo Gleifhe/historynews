@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 95
 sources:
-  - '<a href="https://www.britannica.com/event/Indian-independence-movement" target="_blank">Encyclopaedia Britannica — Indian Independence Movement</a>'
-  - '<a href="https://www.nationalarchives.gov.uk/education/empire/g3/cs4/background.htm" target="_blank">UK National Archives — Indian Independence</a>'
-  - '<a href="https://www.history.com/topics/india/mahatma-gandhi" target="_blank">History.com — Mahatma Gandhi</a>'
-  - '<a href="https://www.mkgandhi.org/main.htm" target="_blank">Mahatma Gandhi Foundation — Gandhi Heritage Portal</a>'
+  - "Encyclopaedia Britannica — Indian Independence Movement — https://www.britannica.com/event/Indian-independence-movement"
+  - "UK National Archives — Indian Independence — https://www.nationalarchives.gov.uk/education/empire/g3/cs4/background.htm"
+  - "History.com — Mahatma Gandhi — https://www.history.com/topics/india/mahatma-gandhi"
+  - "Mahatma Gandhi Foundation — Gandhi Heritage Portal — https://www.mkgandhi.org/main.htm"
 ---
 
 At midnight on August 15, 1947, India became free. After nearly 200 years of British colonial rule, the world's largest colony won its independence. Jawaharlal Nehru, India's first prime minister, spoke to the nation in words that still echo today: "At the stroke of the midnight hour, when the world sleeps, India will awake to life and freedom."

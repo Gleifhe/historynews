@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / CC BY 2.0"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 159
 sources:
-  - '<a href="https://grameenbank.org/" target="_blank">Grameen Bank Official Website</a>'
-  - '<a href="https://www.nobelprize.org/prizes/peace/2006/yunus/biographical/" target="_blank">Nobel Prize — Muhammad Yunus Biography</a>'
-  - '<a href="https://www.britannica.com/topic/Grameen-Bank" target="_blank">Encyclopaedia Britannica — Grameen Bank</a>'
-  - '<a href="https://www.worldbank.org/en/topic/financialinclusion" target="_blank">World Bank — Financial Inclusion</a>'
+  - "Grameen Bank Official Website — https://grameenbank.org/"
+  - "Nobel Prize — Muhammad Yunus Biography — https://www.nobelprize.org/prizes/peace/2006/yunus/biographical/"
+  - "Encyclopaedia Britannica — Grameen Bank — https://www.britannica.com/topic/Grameen-Bank"
+  - "World Bank — Financial Inclusion — https://www.worldbank.org/en/topic/financialinclusion"
 ---
 
 In 1976, a young economics professor named Muhammad Yunus was walking through a village in Bangladesh when he met a woman named Sufiya Begum. She made bamboo stools for a living, but she couldn't afford to buy her own bamboo. Instead, she had to borrow money from a local trader at extremely high interest rates. After paying him back, she earned just two cents per day for her hard work. She was trapped in a cycle of poverty with no way out.

@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Imperial War Museum"
 video: "https://www.youtube.com/embed/fo2Rb9h788s"
 weight: 101
 sources:
-  - '<a href="https://www.iwm.org.uk/history/the-evacuation-of-dunkirk">Imperial War Museum – The Evacuation of Dunkirk</a>'
-  - '<a href="https://www.nationalww2museum.org/war/articles/dunkirk-operation-dynamo">National WWII Museum – Operation Dynamo</a>'
-  - '<a href="https://www.britannica.com/event/Dunkirk-evacuation">Britannica – Dunkirk Evacuation</a>'
-  - '<a href="https://www.bbc.co.uk/history/worldwars/wwtwo/dunkirk_01.shtml">BBC History – Dunkirk</a>'
+  - "Imperial War Museum – The Evacuation of Dunkirk — https://www.iwm.org.uk/history/the-evacuation-of-dunkirk"
+  - "National WWII Museum – Operation Dynamo — https://www.nationalww2museum.org/war/articles/dunkirk-operation-dynamo"
+  - "Britannica – Dunkirk Evacuation — https://www.britannica.com/event/Dunkirk-evacuation"
+  - "BBC History – Dunkirk — https://www.bbc.co.uk/history/worldwars/wwtwo/dunkirk_01.shtml"
 ---
 
 By late May 1940, the situation looked hopeless. The German army had swept through France with shocking speed, trapping more than 300,000 British and Allied soldiers on the beaches of Dunkirk, a small port city on the northern coast of France. With the enemy closing in from all sides, the soldiers had nowhere to go. Their backs were to the English Channel, and the German forces were just miles away.

@@ -13,9 +13,9 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/fo2Rb9h788s"
 weight: 55
 sources:
-  - '<a href="https://www.ushmm.org/learn/timeline-of-events/1942-1945/liberation-of-auschwitz">USHMM — Liberation of Auschwitz</a>'
-  - '<a href="https://encyclopedia.ushmm.org/content/en/article/auschwitz">USHMM — Auschwitz Encyclopedia Entry</a>'
-  - '<a href="https://www.auschwitz.org/en/history/">Auschwitz-Birkenau Memorial — History</a>'
+  - "USHMM — Liberation of Auschwitz — https://www.ushmm.org/learn/timeline-of-events/1942-1945/liberation-of-auschwitz"
+  - "USHMM — Auschwitz Encyclopedia Entry — https://encyclopedia.ushmm.org/content/en/article/auschwitz"
+  - "Auschwitz-Birkenau Memorial — History — https://www.auschwitz.org/en/history/"
   - 'Laurence Rees, <em>Auschwitz: A New History</em> (2005, PublicAffairs)'
 ---
 

@@ -13,9 +13,9 @@ imagecredit: "Library of Congress"
 weight: 11
 video: "https://www.youtube.com/embed/XOiUZ3ycZwU"
 sources:
-  - '<a href="https://www.gutenberg.org/ebooks/1228">Project Gutenberg — On the Origin of Species by Charles Darwin</a>'
-  - '<a href="https://www.loc.gov/pictures/item/2004672601/">LOC — Charles Darwin portrait</a>'
-  - '<a href="https://www.nhm.ac.uk/discover/charles-darwin.html">Natural History Museum — Charles Darwin</a>'
+  - "Project Gutenberg — On the Origin of Species by Charles Darwin — https://www.gutenberg.org/ebooks/1228"
+  - "LOC — Charles Darwin portrait — https://www.loc.gov/pictures/item/2004672601/"
+  - "Natural History Museum — Charles Darwin — https://www.nhm.ac.uk/discover/charles-darwin.html"
   - 'Janet Browne, <em>Charles Darwin: The Power of Place</em> (2002, Princeton University Press)'
 ---
 

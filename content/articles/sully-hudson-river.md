@@ -13,10 +13,10 @@ imagecredit: "Greg L / Wikimedia Commons / CC BY 2.0"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 157
 sources:
-  - '<a href="https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR1003.pdf" target="_blank">National Transportation Safety Board — Flight 1549 Report</a>'
-  - '<a href="https://airandspace.si.edu/stories/editorial/miracle-hudson" target="_blank">Smithsonian Air and Space Museum — Miracle on the Hudson</a>'
-  - '<a href="https://www.britannica.com/event/US-Airways-flight-1549" target="_blank">Encyclopaedia Britannica — US Airways Flight 1549</a>'
-  - '<a href="https://www.history.com/this-day-in-history/miracle-on-the-hudson" target="_blank">History.com — Miracle on the Hudson</a>'
+  - "National Transportation Safety Board — Flight 1549 Report — https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR1003.pdf"
+  - "Smithsonian Air and Space Museum — Miracle on the Hudson — https://airandspace.si.edu/stories/editorial/miracle-hudson"
+  - "Encyclopaedia Britannica — US Airways Flight 1549 — https://www.britannica.com/event/US-Airways-flight-1549"
+  - "History.com — Miracle on the Hudson — https://www.history.com/this-day-in-history/miracle-on-the-hudson"
 ---
 
 At 3:25 p.m. on January 15, 2009, US Airways Flight 1549 took off from LaGuardia Airport in New York City, bound for Charlotte, North Carolina. It was a cold, clear afternoon. There were 150 passengers and 5 crew members on board the Airbus A320. At the controls was Captain Chesley "Sully" Sullenberger, a 57-year-old former Air Force fighter pilot with over 40 years of flying experience.

@@ -13,10 +13,10 @@ imagecredit: "White House / Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 128
 sources:
-  - '<a href="https://www.supremecourt.gov/opinions/14pdf/14-556_3204.pdf" target="_blank">Supreme Court of the United States — Obergefell v. Hodges Opinion</a>'
-  - '<a href="https://www.history.com/topics/gay-rights/obergefell-v-hodges" target="_blank">History.com — Obergefell v. Hodges</a>'
-  - '<a href="https://www.aclu.org/cases/obergefell-v-hodges" target="_blank">ACLU — Obergefell v. Hodges</a>'
-  - '<a href="https://www.britannica.com/event/Obergefell-v-Hodges" target="_blank">Encyclopaedia Britannica — Obergefell v. Hodges</a>'
+  - "Supreme Court of the United States — Obergefell v. Hodges Opinion — https://www.supremecourt.gov/opinions/14pdf/14-556_3204.pdf"
+  - "History.com — Obergefell v. Hodges — https://www.history.com/topics/gay-rights/obergefell-v-hodges"
+  - "ACLU — Obergefell v. Hodges — https://www.aclu.org/cases/obergefell-v-hodges"
+  - "Encyclopaedia Britannica — Obergefell v. Hodges — https://www.britannica.com/event/Obergefell-v-Hodges"
 ---
 
 On the morning of June 26, 2015, Jim Obergefell sat outside the Supreme Court of the United States, waiting for a decision that would change his life and the lives of millions of Americans. When the ruling came down — 5 votes to 4 — he broke down in tears. The highest court in the land had declared that same-sex couples have a constitutional right to marry. Love had won.

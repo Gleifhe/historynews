@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 107
 sources:
-  - '<a href="https://www.computerhistory.org/revolution/networking/19/313">Computer History Museum – Email History</a>'
-  - '<a href="https://www.internethalloffame.org/inductees/ray-tomlinson">Internet Hall of Fame – Ray Tomlinson</a>'
-  - '<a href="https://www.arpanet.org/history/">ARPANET History Project</a>'
-  - '<a href="https://www.britannica.com/topic/e-mail">Britannica – Email</a>'
+  - "Computer History Museum – Email History — https://www.computerhistory.org/revolution/networking/19/313"
+  - "Internet Hall of Fame – Ray Tomlinson — https://www.internethalloffame.org/inductees/ray-tomlinson"
+  - "ARPANET History Project — https://www.arpanet.org/history/"
+  - "Britannica – Email — https://www.britannica.com/topic/e-mail"
 ---
 
 Sometime in late 1971, a quiet engineer named Ray Tomlinson sat down at a computer terminal in Cambridge, Massachusetts, and did something no one had ever done before. He sent a message from one computer to another computer sitting right next to it — and in doing so, he invented email.

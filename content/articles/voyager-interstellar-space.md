@@ -13,10 +13,10 @@ imagecredit: "NASA/JPL-Caltech / Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 139
 sources:
-  - '<a href="https://voyager.jpl.nasa.gov/" target="_blank">NASA Jet Propulsion Laboratory — Voyager Mission</a>'
-  - '<a href="https://www.nasa.gov/mission_pages/voyager/index.html" target="_blank">NASA — Voyager</a>'
-  - '<a href="https://www.britannica.com/topic/Voyager" target="_blank">Encyclopaedia Britannica — Voyager</a>'
-  - '<a href="https://www.smithsonianmag.com/science-nature/voyager-still-reaching-for-the-stars-126459567/" target="_blank">Smithsonian Magazine — Voyager: Still Reaching for the Stars</a>'
+  - "NASA Jet Propulsion Laboratory — Voyager Mission — https://voyager.jpl.nasa.gov/"
+  - "NASA — Voyager — https://www.nasa.gov/mission_pages/voyager/index.html"
+  - "Encyclopaedia Britannica — Voyager — https://www.britannica.com/topic/Voyager"
+  - "Smithsonian Magazine — Voyager: Still Reaching for the Stars — https://www.smithsonianmag.com/science-nature/voyager-still-reaching-for-the-stars-126459567/"
 ---
 
 Somewhere in the cold darkness beyond our solar system, a small spacecraft the size of a compact car is hurtling through space at over 38,000 miles per hour. It has been traveling for more than 48 years. It is now over 16 billion miles from Earth — so far away that its radio signals, traveling at the speed of light, take more than 23 hours to reach us. This is Voyager 1, the most distant human-made object in existence, and it is still talking to us.

@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 123
 sources:
-  - "<a href='https://www.nobelprize.org/prizes/chemistry/2020/press-release/'>Nobel Prize — 2020 Chemistry Prize Press Release</a>"
-  - "<a href='https://www.science.org/doi/10.1126/science.1225829'>Science — A Programmable Dual-RNA-Guided DNA Endonuclease (Original Paper)</a>"
-  - "<a href='https://www.broadinstitute.org/what-broad/areas-focus/project-spotlight/questions-and-answers-about-crispr'>Broad Institute — CRISPR Questions and Answers</a>"
-  - "<a href='https://www.britannica.com/science/CRISPR'>Britannica — CRISPR</a>"
+  - "Nobel Prize — 2020 Chemistry Prize Press Release — https://www.nobelprize.org/prizes/chemistry/2020/press-release/"
+  - "Science — A Programmable Dual-RNA-Guided DNA Endonuclease (Original Paper) — https://www.science.org/doi/10.1126/science.1225829"
+  - "Broad Institute — CRISPR Questions and Answers — https://www.broadinstitute.org/what-broad/areas-focus/project-spotlight/questions-and-answers-about-crispr"
+  - "Britannica — CRISPR — https://www.britannica.com/science/CRISPR"
 ---
 
 Imagine having a pair of molecular scissors so precise that they could find one specific sentence in a book the length of 262,000 pages, cut it out, and replace it with a corrected version. That is essentially what CRISPR-Cas9 does to DNA, and it is one of the most powerful tools science has ever created.

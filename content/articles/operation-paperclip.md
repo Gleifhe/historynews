@@ -13,10 +13,10 @@ imagecredit: "NASA / Wikimedia Commons"
 video: "https://www.youtube.com/embed/uyzaTnKhhr0"
 weight: 40
 sources:
-  - '<a href="https://www.cia.gov/readingroom/collection/operation-paperclip">CIA FOIA Reading Room — Operation Paperclip</a>'
-  - '<a href="https://www.archives.gov/iwg/declassified-records/rg-330-defense-secretary">National Archives — Operation Paperclip Records</a>'
-  - '<a href="https://www.britannica.com/topic/Operation-Paperclip">Britannica — Operation Paperclip</a>'
-  - '<a href="https://airandspace.si.edu/stories/editorial/operation-paperclip">Smithsonian Air & Space — Operation Paperclip</a>'
+  - "CIA FOIA Reading Room — Operation Paperclip — https://www.cia.gov/readingroom/collection/operation-paperclip"
+  - "National Archives — Operation Paperclip Records — https://www.archives.gov/iwg/declassified-records/rg-330-defense-secretary"
+  - "Britannica — Operation Paperclip — https://www.britannica.com/topic/Operation-Paperclip"
+  - "Smithsonian Air & Space — Operation Paperclip — https://airandspace.si.edu/stories/editorial/operation-paperclip"
 ---
 
 When World War II ended in 1945, the United States and the Soviet Union scrambled to grab the most valuable prize left behind by Nazi Germany: its scientists. The Germans had built the world's most advanced rockets, jet aircraft, and chemical weapons. Both superpowers wanted those scientists — and the knowledge in their heads — for themselves. The result was Operation Paperclip, one of the most controversial secret programs in American history.

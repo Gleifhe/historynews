@@ -13,10 +13,10 @@ imagecredit: "Solar Impulse / CC BY 2.0, via Wikimedia Commons"
 video: "https://www.youtube.com/embed/G4H1N_yXBiA"
 weight: 172
 sources:
-  - '<a href="https://aroundtheworld.solarimpulse.com/">Solar Impulse Foundation – Around the World</a>'
-  - '<a href="https://www.smithsonianmag.com/smart-news/solar-impulse-2-has-completed-its-round-world-trip-180959872/">Smithsonian Magazine – Solar Impulse Completes Trip</a>'
-  - '<a href="https://www.bbc.com/news/science-environment-36890563">BBC News – Solar Impulse Lands in Abu Dhabi</a>'
-  - '<a href="https://airandspace.si.edu/collection/solar-impulse">Smithsonian National Air and Space Museum – Solar Impulse</a>'
+  - "Solar Impulse Foundation – Around the World — https://aroundtheworld.solarimpulse.com/"
+  - "Smithsonian Magazine – Solar Impulse Completes Trip — https://www.smithsonianmag.com/smart-news/solar-impulse-2-has-completed-its-round-world-trip-180959872/"
+  - "BBC News – Solar Impulse Lands in Abu Dhabi — https://www.bbc.com/news/science-environment-36890563"
+  - "Smithsonian National Air and Space Museum – Solar Impulse — https://airandspace.si.edu/collection/solar-impulse"
 ---
 
 On July 26, 2016, a strange-looking airplane touched down in Abu Dhabi, United Arab Emirates. It had enormous wings — wider than a Boeing 747 — covered in more than 17,000 solar cells. It weighed only about 5,000 pounds, less than most cars. And it had just done something no aircraft had ever done before: it flew all the way around the world without using a single drop of fuel.

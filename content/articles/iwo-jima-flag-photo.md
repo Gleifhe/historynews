@@ -13,9 +13,9 @@ imagecredit: "Joe Rosenthal / Associated Press / Library of Congress"
 weight: 18
 video: "https://www.youtube.com/embed/d0Y38jcdl9s"
 sources:
-  - '<a href="https://www.loc.gov/pictures/item/96515062/">LOC — Iwo Jima flag raising photograph</a>'
-  - '<a href="https://www.loc.gov/pictures/item/2003665232/">LOC — Marines raise flag on Suribachi</a>'
-  - '<a href="https://www.nationalww2museum.org/war/articles/iwo-jima-flag-raising">National WWII Museum — Iwo Jima Flag Raising</a>'
+  - "LOC — Iwo Jima flag raising photograph — https://www.loc.gov/pictures/item/96515062/"
+  - "LOC — Marines raise flag on Suribachi — https://www.loc.gov/pictures/item/2003665232/"
+  - "National WWII Museum — Iwo Jima Flag Raising — https://www.nationalww2museum.org/war/articles/iwo-jima-flag-raising"
   - 'James Bradley, <em>Flags of Our Fathers</em> (2000, Bantam Books)'
 ---
 

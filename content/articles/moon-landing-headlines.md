@@ -13,10 +13,10 @@ imagecredit: "NASA / Library of Congress"
 video: "https://www.youtube.com/embed/S9HdPi9Ikhk"
 weight: 9
 sources:
-  - '<a href="https://news.google.com/newspapers">Google News Archive — Moon Landing coverage</a>'
-  - '<a href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/">LOC — Space Collections</a>'
-  - '<a href="https://www.nasa.gov/mission_pages/apollo/apollo11.html">NASA — Apollo 11 Mission</a>'
-  - '<a href="https://www.si.edu/spotlight/apollo-11">Smithsonian — Apollo 11</a>'
+  - "Google News Archive — Moon Landing coverage — https://news.google.com/newspapers"
+  - "LOC — Space Collections — https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/"
+  - "NASA — Apollo 11 Mission — https://www.nasa.gov/mission_pages/apollo/apollo11.html"
+  - "Smithsonian — Apollo 11 — https://www.si.edu/spotlight/apollo-11"
 ---
 
 ## One Small Step

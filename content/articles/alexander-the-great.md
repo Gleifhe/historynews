@@ -13,9 +13,9 @@ imagecredit: "Naples National Archaeological Museum / Wikimedia Commons / Public
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 80
 sources:
-  - '<a href="https://www.britannica.com/biography/Alexander-the-Great">Britannica — Alexander the Great</a>'
-  - '<a href="https://www.worldhistory.org/Alexander_the_Great/">World History Encyclopedia — Alexander the Great</a>'
-  - '<a href="https://www.history.com/topics/ancient-greece/alexander-the-great">History.com — Alexander the Great</a>'
+  - "Britannica — Alexander the Great — https://www.britannica.com/biography/Alexander-the-Great"
+  - "World History Encyclopedia — Alexander the Great — https://www.worldhistory.org/Alexander_the_Great/"
+  - "History.com — Alexander the Great — https://www.history.com/topics/ancient-greece/alexander-the-great"
   - 'Robin Lane Fox, <em>Alexander the Great</em> (1973, Penguin Books)'
 ---
 

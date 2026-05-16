@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 140
 sources:
-  - "<a href='https://www.si.edu/spotlight/alexander-graham-bell'>Smithsonian – Alexander Graham Bell</a>"
-  - "<a href='https://www.loc.gov/collections/alexander-graham-bell-papers/'>Library of Congress – Bell Papers</a>"
-  - "<a href='https://www.britannica.com/biography/Alexander-Graham-Bell'>Britannica – Alexander Graham Bell</a>"
-  - "<a href='https://www.nps.gov/albe/index.htm'>National Park Service – Bell Historic Site</a>"
+  - "Smithsonian – Alexander Graham Bell — https://www.si.edu/spotlight/alexander-graham-bell"
+  - "Library of Congress – Bell Papers — https://www.loc.gov/collections/alexander-graham-bell-papers/"
+  - "Britannica – Alexander Graham Bell — https://www.britannica.com/biography/Alexander-Graham-Bell"
+  - "National Park Service – Bell Historic Site — https://www.nps.gov/albe/index.htm"
 ---
 
 On a cold March evening in 1876, a young inventor named Alexander Graham Bell leaned toward a strange device in his Boston workshop. He had been working for years on an idea that many people thought was impossible — sending the human voice through a wire. His assistant, Thomas Watson, waited in another room, pressing his ear against a similar device. Then Bell spoke the words that changed history: "Mr. Watson, come here, I want to see you."

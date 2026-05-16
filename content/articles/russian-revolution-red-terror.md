@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/dHSQAEam2yc"
 weight: 71
 sources:
-  - '<a href="https://catalog.hathitrust.org/Search/Home?lookfor=russian+civil+war&type=all">HathiTrust Digital Library — Russian Civil War Resources</a>'
-  - '<a href="https://www.britannica.com/event/Russian-Civil-War">Britannica — Russian Civil War</a>'
-  - '<a href="https://www.loc.gov/exhibits/archives/reps.html">Library of Congress — Soviet Archives Exhibit</a>'
-  - '<a href="https://www.history.com/articles/red-terror-russian-revolution">History.com — The Red Terror</a>'
+  - "HathiTrust Digital Library — Russian Civil War Resources — https://catalog.hathitrust.org/Search/Home?lookfor=russian+civil+war&type=all"
+  - "Britannica — Russian Civil War — https://www.britannica.com/event/Russian-Civil-War"
+  - "Library of Congress — Soviet Archives Exhibit — https://www.loc.gov/exhibits/archives/reps.html"
+  - "History.com — The Red Terror — https://www.history.com/articles/red-terror-russian-revolution"
 ---
 
 ## Revolution Devours Its Children

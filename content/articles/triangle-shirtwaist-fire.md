@@ -13,9 +13,9 @@ imagecredit: "Library of Congress"
 weight: 12
 video: "https://www.youtube.com/embed/YABBwNxgBHw"
 sources:
-  - '<a href="https://catalog.hathitrust.org/Record/009024514">HathiTrust — Preliminary Report of the Factory Investigating Commission, 1912</a>'
-  - '<a href="https://www.loc.gov/pictures/item/2002709198/">LOC — Fire engines at Triangle Shirtwaist fire, 1911</a>'
-  - '<a href="https://trianglefire.ilr.cornell.edu/">Cornell University — Triangle Factory Fire</a>'
+  - "HathiTrust — Preliminary Report of the Factory Investigating Commission, 1912 — https://catalog.hathitrust.org/Record/009024514"
+  - "LOC — Fire engines at Triangle Shirtwaist fire, 1911 — https://www.loc.gov/pictures/item/2002709198/"
+  - "Cornell University — Triangle Factory Fire — https://trianglefire.ilr.cornell.edu/"
   - 'David Von Drehle, <em>Triangle: The Fire That Changed America</em> (2003, Grove Press)'
 ---
 

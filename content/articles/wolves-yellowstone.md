@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons"
 video: "https://www.youtube.com/embed/G4H1N_yXBiA"
 weight: 113
 sources:
-  - '<a href="https://www.nps.gov/yell/learn/nature/wolf-restoration.htm">National Park Service - Wolf Restoration in Yellowstone</a>'
-  - '<a href="https://www.yellowstonepark.com/things-to-do/wildlife/wolf-reintroduction-changes-ecosystem/">Yellowstone Park - How Wolves Changed the Ecosystem</a>'
-  - '<a href="https://www.nationalgeographic.com/animals/article/wolves-yellowstone-national-park-restoration">National Geographic - Wolves in Yellowstone</a>'
-  - '<a href="https://www.sciencedirect.com/science/article/pii/S0006320714004017">Biological Conservation - Trophic Cascades in Yellowstone</a>'
+  - "National Park Service - Wolf Restoration in Yellowstone — https://www.nps.gov/yell/learn/nature/wolf-restoration.htm"
+  - "Yellowstone Park - How Wolves Changed the Ecosystem — https://www.yellowstonepark.com/things-to-do/wildlife/wolf-reintroduction-changes-ecosystem/"
+  - "National Geographic - Wolves in Yellowstone — https://www.nationalgeographic.com/animals/article/wolves-yellowstone-national-park-restoration"
+  - "Biological Conservation - Trophic Cascades in Yellowstone — https://www.sciencedirect.com/science/article/pii/S0006320714004017"
 ---
 
 For nearly 70 years, there were no wolves in Yellowstone National Park. Hunters and government programs had killed every last one by 1926. Without wolves, the park slowly changed in ways that nobody fully understood at the time. Elk herds grew large and bold. They stood in open meadows and along riverbanks, eating everything in sight. Young trees could not grow. Streamside plants disappeared. Songbirds lost their nesting habitat. Beavers, which need willows to survive, vanished from many areas. The land itself began to erode.

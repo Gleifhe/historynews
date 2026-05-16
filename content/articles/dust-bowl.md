@@ -13,9 +13,9 @@ imagecredit: "NOAA / Wikimedia Commons"
 video: "https://www.youtube.com/embed/3jSdDU9mUqQ"
 weight: 26
 sources:
-  - '<a href="https://www.loc.gov/collections/fsa-owi-black-and-white-negatives/">LOC — FSA/OWI Black-and-White Negatives Collection</a>'
-  - '<a href="https://www.history.com/topics/great-depression/dust-bowl">History.com — Dust Bowl</a>'
-  - '<a href="https://www.britannica.com/event/Dust-Bowl">Britannica — Dust Bowl</a>'
+  - "LOC — FSA/OWI Black-and-White Negatives Collection — https://www.loc.gov/collections/fsa-owi-black-and-white-negatives/"
+  - "History.com — Dust Bowl — https://www.history.com/topics/great-depression/dust-bowl"
+  - "Britannica — Dust Bowl — https://www.britannica.com/event/Dust-Bowl"
   - 'Timothy Egan, <em>The Worst Hard Time</em> (2006, Mariner Books)'
 ---
 

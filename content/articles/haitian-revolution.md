@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/5A_o-nU5s2U"
 weight: 50
 sources:
-  - '<a href="https://en.wikipedia.org/wiki/Haitian_Revolution">Wikipedia — Haitian Revolution</a>'
-  - '<a href="https://www.britannica.com/topic/Haitian-Revolution">Encyclopedia Britannica — Haitian Revolution</a>'
-  - '<a href="https://nmaahc.si.edu/explore/stories/haitian-revolution">Smithsonian NMAAHC — The Haitian Revolution</a>'
-  - '<a href="https://www.history.com/articles/haitian-revolution">History.com — Haitian Revolution</a>'
+  - "Wikipedia — Haitian Revolution — https://en.wikipedia.org/wiki/Haitian_Revolution"
+  - "Encyclopedia Britannica — Haitian Revolution — https://www.britannica.com/topic/Haitian-Revolution"
+  - "Smithsonian NMAAHC — The Haitian Revolution — https://nmaahc.si.edu/explore/stories/haitian-revolution"
+  - "History.com — Haitian Revolution — https://www.history.com/articles/haitian-revolution"
 ---
 
 ## The Richest Colony in the World

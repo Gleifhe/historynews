@@ -13,10 +13,10 @@ imagecredit: "Library of Congress / Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 135
 sources:
-  - '<a href="https://www.loc.gov/collections/lewis-and-clark/" target="_blank">Library of Congress — Lewis and Clark Expedition</a>'
-  - '<a href="https://www.britannica.com/event/Lewis-and-Clark-Expedition" target="_blank">Encyclopaedia Britannica — Lewis and Clark Expedition</a>'
-  - '<a href="https://www.history.com/topics/westward-expansion/lewis-and-clark" target="_blank">History.com — Lewis and Clark</a>'
-  - '<a href="https://www.nps.gov/lecl/index.htm" target="_blank">National Park Service — Lewis and Clark National Historic Trail</a>'
+  - "Library of Congress — Lewis and Clark Expedition — https://www.loc.gov/collections/lewis-and-clark/"
+  - "Encyclopaedia Britannica — Lewis and Clark Expedition — https://www.britannica.com/event/Lewis-and-Clark-Expedition"
+  - "History.com — Lewis and Clark — https://www.history.com/topics/westward-expansion/lewis-and-clark"
+  - "National Park Service — Lewis and Clark National Historic Trail — https://www.nps.gov/lecl/index.htm"
 ---
 
 On May 14, 1804, a group of about 45 men pushed their boats into the muddy waters of the Missouri River near St. Louis. They were setting out on one of the greatest adventures in American history — a journey into lands that no person of European descent had ever explored. Their mission: to find a route across the continent to the Pacific Ocean, to study the land, the plants, the animals, and the native peoples they would encounter, and to claim the vast western territory for the United States.

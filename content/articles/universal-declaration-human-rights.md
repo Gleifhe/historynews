@@ -13,10 +13,10 @@ imagecredit: "FDR Presidential Library / Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 127
 sources:
-  - '<a href="https://www.un.org/en/about-us/universal-declaration-of-human-rights" target="_blank">United Nations — Universal Declaration of Human Rights</a>'
-  - '<a href="https://www.amnesty.org/en/what-we-do/universal-declaration-of-human-rights/" target="_blank">Amnesty International — The UDHR</a>'
-  - '<a href="https://www.history.com/topics/united-nations/universal-declaration-of-human-rights" target="_blank">History.com — Universal Declaration of Human Rights</a>'
-  - '<a href="https://www.britannica.com/topic/Universal-Declaration-of-Human-Rights" target="_blank">Encyclopaedia Britannica — Universal Declaration of Human Rights</a>'
+  - "United Nations — Universal Declaration of Human Rights — https://www.un.org/en/about-us/universal-declaration-of-human-rights"
+  - "Amnesty International — The UDHR — https://www.amnesty.org/en/what-we-do/universal-declaration-of-human-rights/"
+  - "History.com — Universal Declaration of Human Rights — https://www.history.com/topics/united-nations/universal-declaration-of-human-rights"
+  - "Encyclopaedia Britannica — Universal Declaration of Human Rights — https://www.britannica.com/topic/Universal-Declaration-of-Human-Rights"
 ---
 
 On the night of December 10, 1948, the grand hall of the Palais de Chaillot in Paris buzzed with tension and hope. Delegates from 58 nations sat in their seats, preparing to vote on one of the most important documents in human history. When the final count came in — 48 in favor, none against, and 8 abstentions — the room erupted in applause. The Universal Declaration of Human Rights had been adopted, and the world would never be the same.

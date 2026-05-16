@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / U.S. Department of Energy / Public Domain"
 video: "https://www.youtube.com/embed/I79TpDe3t2g"
 weight: 84
 sources:
-  - '<a href="https://www.britannica.com/event/Nuclear-Test-Ban-Treaty">Britannica — Nuclear Test-Ban Treaty</a>'
-  - '<a href="https://www.history.com/topics/cold-war/nuclear-test-ban-treaty">History.com — Nuclear Test Ban Treaty</a>'
-  - '<a href="https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/nuclear-test-ban-treaty">JFK Presidential Library — Nuclear Test Ban Treaty</a>'
-  - '<a href="https://www.ctbto.org/our-mission/history-of-nuclear-testing">CTBTO — History of Nuclear Testing</a>'
+  - "Britannica — Nuclear Test-Ban Treaty — https://www.britannica.com/event/Nuclear-Test-Ban-Treaty"
+  - "History.com — Nuclear Test Ban Treaty — https://www.history.com/topics/cold-war/nuclear-test-ban-treaty"
+  - "JFK Presidential Library — Nuclear Test Ban Treaty — https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/nuclear-test-ban-treaty"
+  - "CTBTO — History of Nuclear Testing — https://www.ctbto.org/our-mission/history-of-nuclear-testing"
 ---
 
 ## A World Living in Fear

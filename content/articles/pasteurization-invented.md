@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Félix Nadar / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 121
 sources:
-  - "<a href='https://www.pasteur.fr/en/institut-pasteur/history'>Institut Pasteur — History</a>"
-  - "<a href='https://www.britannica.com/biography/Louis-Pasteur'>Britannica — Louis Pasteur Biography</a>"
-  - "<a href='https://www.sciencehistory.org/education/scientific-biographies/louis-pasteur/'>Science History Institute — Louis Pasteur</a>"
-  - "<a href='https://www.nlm.nih.gov/exhibition/fromdnatobeer/exhibition-interactive/illustrations/louis-pasteur.html'>National Library of Medicine — Pasteur and Fermentation</a>"
+  - "Institut Pasteur — History — https://www.pasteur.fr/en/institut-pasteur/history"
+  - "Britannica — Louis Pasteur Biography — https://www.britannica.com/biography/Louis-Pasteur"
+  - "Science History Institute — Louis Pasteur — https://www.sciencehistory.org/education/scientific-biographies/louis-pasteur/"
+  - "National Library of Medicine — Pasteur and Fermentation — https://www.nlm.nih.gov/exhibition/fromdnatobeer/exhibition-interactive/illustrations/louis-pasteur.html"
 ---
 
 In the 1860s, no one knew why people got sick. The most popular theory was that diseases were caused by "bad air" — invisible, foul-smelling vapors that rose from swamps and garbage. Doctors did not wash their hands before surgery. Milk was sold without refrigeration and often carried deadly bacteria. Children died by the thousands from diseases that we now know are entirely preventable.

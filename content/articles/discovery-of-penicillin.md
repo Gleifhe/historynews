@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 93
 sources:
-  - '<a href="https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html" target="_blank">American Chemical Society — Discovery of Penicillin</a>'
-  - '<a href="https://www.nobelprize.org/prizes/medicine/1945/fleming/biographical/" target="_blank">Nobel Prize — Alexander Fleming Biography</a>'
-  - '<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2048009/" target="_blank">National Library of Medicine — Penicillin: The Medicine With the Greatest Impact</a>'
-  - '<a href="https://www.britannica.com/science/penicillin" target="_blank">Encyclopaedia Britannica — Penicillin</a>'
+  - "American Chemical Society — Discovery of Penicillin — https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html"
+  - "Nobel Prize — Alexander Fleming Biography — https://www.nobelprize.org/prizes/medicine/1945/fleming/biographical/"
+  - "National Library of Medicine — Penicillin: The Medicine With the Greatest Impact — https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2048009/"
+  - "Encyclopaedia Britannica — Penicillin — https://www.britannica.com/science/penicillin"
 ---
 
 Sometimes the greatest discoveries happen by accident. In September 1928, a Scottish scientist named Alexander Fleming returned to his laboratory at St. Mary's Hospital in London after a vacation. His lab was famously messy. Before leaving, he had been growing bacteria called Staphylococcus in small glass dishes called petri dishes. He had left them stacked on his bench, and something unexpected had happened while he was away.

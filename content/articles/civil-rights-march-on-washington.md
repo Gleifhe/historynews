@@ -13,9 +13,9 @@ imagecredit: "U.S. Information Agency / Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/I47Y6VHc3Ms"
 weight: 52
 sources:
-  - '<a href="https://www.loc.gov/collections/civil-rights-history-project/">LOC — Civil Rights History Project</a>'
-  - '<a href="https://www.britannica.com/event/March-on-Washington">Britannica — March on Washington</a>'
-  - '<a href="https://www.history.com/topics/black-history/march-on-washington">History.com — March on Washington</a>'
+  - "LOC — Civil Rights History Project — https://www.loc.gov/collections/civil-rights-history-project/"
+  - "Britannica — March on Washington — https://www.britannica.com/event/March-on-Washington"
+  - "History.com — March on Washington — https://www.history.com/topics/black-history/march-on-washington"
   - 'Taylor Branch, <em>Parting the Waters: America in the King Years 1954-63</em> (1988, Simon & Schuster)'
 ---
 

@@ -13,10 +13,10 @@ imagecredit: "National Archives / Wikimedia Commons"
 video: "https://www.youtube.com/embed/dHSQAEam2yc"
 weight: 3
 sources:
-  - '<a href="https://www.nationalarchives.gov.uk/education/resources/the-zimmermann-telegram/">British National Archives — The Zimmermann Telegram</a>'
-  - '<a href="https://www.archives.gov/education/lessons/zimmermann">NARA — The Zimmermann Telegram</a>'
+  - "British National Archives — The Zimmermann Telegram — https://www.nationalarchives.gov.uk/education/resources/the-zimmermann-telegram/"
+  - "NARA — The Zimmermann Telegram — https://www.archives.gov/education/lessons/zimmermann"
   - 'Barbara Tuchman, <em>The Zimmermann Telegram</em> (1958, Ballantine Books)'
-  - '<a href="https://www.loc.gov/rr/program/bib/ourdocs/Zimmermann.html">LOC — Zimmermann Telegram Primary Documents</a>'
+  - "LOC — Zimmermann Telegram Primary Documents — https://www.loc.gov/rr/program/bib/ourdocs/Zimmermann.html"
 ---
 
 ## A Message Nobody Was Supposed to See

@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 82
 sources:
-  - '<a href="https://www.britannica.com/event/Marshall-Plan">Britannica — Marshall Plan</a>'
-  - '<a href="https://www.history.com/topics/world-war-ii/marshall-plan-1">History.com — Marshall Plan</a>'
-  - '<a href="https://www.archives.gov/milestone-documents/marshall-plan">National Archives — Marshall Plan</a>'
-  - '<a href="https://www.marshallfoundation.org/the-marshall-plan/">George C. Marshall Foundation — The Marshall Plan</a>'
+  - "Britannica — Marshall Plan — https://www.britannica.com/event/Marshall-Plan"
+  - "History.com — Marshall Plan — https://www.history.com/topics/world-war-ii/marshall-plan-1"
+  - "National Archives — Marshall Plan — https://www.archives.gov/milestone-documents/marshall-plan"
+  - "George C. Marshall Foundation — The Marshall Plan — https://www.marshallfoundation.org/the-marshall-plan/"
 ---
 
 ## A Continent in Ruins

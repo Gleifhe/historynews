@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Diliff / CC BY-SA 3.0"
 video: "https://www.youtube.com/embed/XxutY7ss1v4"
 weight: 83
 sources:
-  - '<a href="https://www.britannica.com/topic/European-Union">Britannica — European Union</a>'
-  - '<a href="https://www.history.com/topics/european-history/european-union-history">History.com — European Union History</a>'
-  - '<a href="https://european-union.europa.eu/principles-countries-history/history-eu_en">European Union — History of the EU</a>'
-  - '<a href="https://www.cvce.eu/en/collections/unit-content/-/unit/02bb76df-d066-4c08-a58a-d4686a3e68ff">CVCE — European Integration Studies</a>'
+  - "Britannica — European Union — https://www.britannica.com/topic/European-Union"
+  - "History.com — European Union History — https://www.history.com/topics/european-history/european-union-history"
+  - "European Union — History of the EU — https://european-union.europa.eu/principles-countries-history/history-eu_en"
+  - "CVCE — European Integration Studies — https://www.cvce.eu/en/collections/unit-content/-/unit/02bb76df-d066-4c08-a58a-d4686a3e68ff"
 ---
 
 ## Enemies Become Partners

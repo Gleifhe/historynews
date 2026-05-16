@@ -13,10 +13,10 @@ imagecredit: "NASA, Public domain, via Wikimedia Commons"
 video: "https://www.youtube.com/embed/SGP6Y0Pnhe4"
 weight: 109
 sources:
-  - '<a href="https://www.nasa.gov/mission_pages/apollo/missions/apollo13.html">NASA - Apollo 13 Mission Overview</a>'
-  - '<a href="https://history.nasa.gov/SP-350/toc.html">NASA History - Apollo Expeditions to the Moon</a>'
-  - '<a href="https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1970-029A">NASA Space Science Data Center - Apollo 13</a>'
-  - '<a href="https://airandspace.si.edu/explore/stories/apollo-13-mission">Smithsonian National Air and Space Museum - Apollo 13</a>'
+  - "NASA - Apollo 13 Mission Overview — https://www.nasa.gov/mission_pages/apollo/missions/apollo13.html"
+  - "NASA History - Apollo Expeditions to the Moon — https://history.nasa.gov/SP-350/toc.html"
+  - "NASA Space Science Data Center - Apollo 13 — https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1970-029A"
+  - "Smithsonian National Air and Space Museum - Apollo 13 — https://airandspace.si.edu/explore/stories/apollo-13-mission"
 ---
 
 On April 11, 1970, three American astronauts climbed into a spacecraft and launched toward the moon. Their names were Jim Lovell, Jack Swigert, and Fred Haise. It was supposed to be the third moon landing in NASA's Apollo program. Instead, it became one of the most dramatic rescues in human history.

@@ -13,10 +13,10 @@ imagecredit: "F.G.O. Stuart / Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/rs9w5bgtJC8"
 weight: 6
 sources:
-  - '<a href="https://chroniclingamerica.loc.gov/">Chronicling America — Historic American Newspapers (Library of Congress)</a>'
-  - '<a href="https://www.loc.gov/pictures/item/96503943/">LOC — Crowd at White Star office, Titanic, 1912</a>'
-  - '<a href="https://www.loc.gov/pictures/item/96508534/">LOC — Front page of The World, April 16, 1912</a>'
-  - '<a href="https://www.loc.gov/pictures/item/96503919/">LOC — Titanic on its last voyage</a>'
+  - "Chronicling America — Historic American Newspapers (Library of Congress) — https://chroniclingamerica.loc.gov/"
+  - "LOC — Crowd at White Star office, Titanic, 1912 — https://www.loc.gov/pictures/item/96503943/"
+  - "LOC — Front page of The World, April 16, 1912 — https://www.loc.gov/pictures/item/96508534/"
+  - "LOC — Titanic on its last voyage — https://www.loc.gov/pictures/item/96503919/"
 ---
 
 ## The Biggest Ship in the World

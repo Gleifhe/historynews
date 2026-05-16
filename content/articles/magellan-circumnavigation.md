@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 134
 sources:
-  - '<a href="https://www.britannica.com/biography/Ferdinand-Magellan" target="_blank">Encyclopaedia Britannica — Ferdinand Magellan</a>'
-  - '<a href="https://www.history.com/topics/exploration/ferdinand-magellan" target="_blank">History.com — Ferdinand Magellan</a>'
+  - "Encyclopaedia Britannica — Ferdinand Magellan — https://www.britannica.com/biography/Ferdinand-Magellan"
+  - "History.com — Ferdinand Magellan — https://www.history.com/topics/exploration/ferdinand-magellan"
   - "<a href=\"https://www.nationalgeographic.com/history/article/magellan-circumnavigation\" target=\"_blank\">National Geographic — Magellan's Circumnavigation</a>"
-  - '<a href="https://www.loc.gov/collections/magellan-maps/about-this-collection/" target="_blank">Library of Congress — Magellan Maps Collection</a>'
+  - "Library of Congress — Magellan Maps Collection — https://www.loc.gov/collections/magellan-maps/about-this-collection/"
 ---
 
 On September 20, 1519, a fleet of five small wooden ships set sail from the port of Sanlúcar de Barrameda in southern Spain. The 270 men aboard were about to begin the most dangerous and important voyage in the history of exploration. Their leader, a Portuguese navigator named Ferdinand Magellan, had convinced the Spanish king to fund an expedition to find a western route to the Spice Islands of Southeast Asia. What they would achieve — the first complete voyage around the Earth — would change humanity's understanding of the world forever.

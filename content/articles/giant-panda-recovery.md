@@ -13,10 +13,10 @@ imagecredit: "J. Patrick Fischer, CC BY-SA 3.0, via Wikimedia Commons"
 video: "https://www.youtube.com/embed/G4H1N_yXBiA"
 weight: 171
 sources:
-  - '<a href="https://www.iucnredlist.org/species/712/121745669">IUCN Red List – Giant Panda Assessment</a>'
-  - '<a href="https://www.worldwildlife.org/species/giant-panda">World Wildlife Fund – Giant Panda</a>'
-  - '<a href="https://www.nature.com/articles/s41559-016-0008">Nature Ecology & Evolution – Panda Conservation</a>'
-  - '<a href="https://english.mee.gov.cn/">China Ministry of Ecology and Environment</a>'
+  - "IUCN Red List – Giant Panda Assessment — https://www.iucnredlist.org/species/712/121745669"
+  - "World Wildlife Fund – Giant Panda — https://www.worldwildlife.org/species/giant-panda"
+  - "Nature Ecology & Evolution – Panda Conservation — https://www.nature.com/articles/s41559-016-0008"
+  - "China Ministry of Ecology and Environment — https://english.mee.gov.cn/"
 ---
 
 The giant panda is one of the most beloved animals on Earth. With its round face, black-and-white fur, and gentle manner, it has captured hearts around the world. But for decades, the panda was also a symbol of everything that could go wrong for wildlife. Habitat destruction, poaching, and low birth rates pushed the species toward extinction. By the 1980s, a nationwide survey found only about 1,114 giant pandas left in the wild. The animal that had come to represent conservation itself was disappearing.

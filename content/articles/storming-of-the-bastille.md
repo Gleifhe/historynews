@@ -13,10 +13,10 @@ imagecredit: "Jean-Pierre Houël / Wikimedia Commons (Public Domain)"
 weight: 25
 video: "https://www.youtube.com/embed/tstIW_bU6q8"
 sources:
-  - '<a href="https://en.wikipedia.org/wiki/Storming_of_the_Bastille">Wikipedia — Storming of the Bastille</a>'
-  - '<a href="https://commons.wikimedia.org/wiki/Category:Storming_of_the_Bastille">Wikimedia Commons — Bastille images</a>'
+  - "Wikipedia — Storming of the Bastille — https://en.wikipedia.org/wiki/Storming_of_the_Bastille"
+  - "Wikimedia Commons — Bastille images — https://commons.wikimedia.org/wiki/Category:Storming_of_the_Bastille"
   - 'Simon Schama, <em>Citizens: A Chronicle of the French Revolution</em> (1989, Knopf)'
-  - '<a href="https://www.britannica.com/event/Storming-of-the-Bastille">Britannica — Storming of the Bastille</a>'
+  - "Britannica — Storming of the Bastille — https://www.britannica.com/event/Storming-of-the-Bastille"
 ---
 
 ## A Country Ready to Explode

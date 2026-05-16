@@ -13,10 +13,10 @@ imagecredit: "Julian Herzog / Wikimedia Commons / CC BY-SA 3.0"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 138
 sources:
-  - '<a href="https://home.cern/science/physics/higgs-boson" target="_blank">CERN — The Higgs Boson</a>'
-  - '<a href="https://www.nobelprize.org/prizes/physics/2013/summary/" target="_blank">Nobel Prize — 2013 Physics Prize</a>'
-  - '<a href="https://www.britannica.com/science/Higgs-boson" target="_blank">Encyclopaedia Britannica — Higgs Boson</a>'
-  - '<a href="https://www.nature.com/articles/nature11226" target="_blank">Nature — Observation of a New Particle (Higgs Boson)</a>'
+  - "CERN — The Higgs Boson — https://home.cern/science/physics/higgs-boson"
+  - "Nobel Prize — 2013 Physics Prize — https://www.nobelprize.org/prizes/physics/2013/summary/"
+  - "Encyclopaedia Britannica — Higgs Boson — https://www.britannica.com/science/Higgs-boson"
+  - "Nature — Observation of a New Particle (Higgs Boson) — https://www.nature.com/articles/nature11226"
 ---
 
 On July 4, 2012, in a packed auditorium at CERN — the European Organization for Nuclear Research near Geneva, Switzerland — two teams of physicists took turns presenting their findings. When they finished, the room erupted in applause. Some scientists wiped away tears. In the audience, 83-year-old Peter Higgs, a quiet British physicist, pulled out a handkerchief and dabbed his eyes. After nearly 50 years, his prediction had been confirmed: the Higgs boson was real.

@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / James Northcote / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 125
 sources:
-  - "<a href='https://jennermuseum.com/'>The Jenner Museum — Official Site</a>"
-  - "<a href='https://www.britannica.com/biography/Edward-Jenner'>Britannica — Edward Jenner Biography</a>"
-  - "<a href='https://www.who.int/news-room/feature-stories/detail/smallpox-vaccines'>World Health Organization — Smallpox Vaccines</a>"
-  - "<a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1200696/'>National Library of Medicine — Edward Jenner and the History of Smallpox and Vaccination</a>"
+  - "The Jenner Museum — Official Site — https://jennermuseum.com/"
+  - "Britannica — Edward Jenner Biography — https://www.britannica.com/biography/Edward-Jenner"
+  - "World Health Organization — Smallpox Vaccines — https://www.who.int/news-room/feature-stories/detail/smallpox-vaccines"
+  - "National Library of Medicine — Edward Jenner and the History of Smallpox and Vaccination — https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1200696/"
 ---
 
 Smallpox was the most terrifying disease in human history. It killed roughly 300 million people in the 20th century alone — more than all the wars of that century combined. Those who survived were often left with horrific scars or blindness. Kings and peasants alike fell to the disease. There was no cure, and for centuries, there seemed to be no way to prevent it.

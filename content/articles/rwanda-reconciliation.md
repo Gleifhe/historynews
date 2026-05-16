@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / CC BY-SA 4.0"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 151
 sources:
-  - "<a href='https://www.gov.rw/'>Republic of Rwanda – Official Website</a>"
-  - "<a href='https://www.un.org/en/preventgenocide/rwanda/'>United Nations – Rwanda Genocide</a>"
-  - "<a href='https://www.britannica.com/event/Rwanda-genocide-of-1994'>Britannica – Rwanda Genocide</a>"
-  - "<a href='https://www.kgm.rw/'>Kigali Genocide Memorial</a>"
+  - "Republic of Rwanda – Official Website — https://www.gov.rw/"
+  - "United Nations – Rwanda Genocide — https://www.un.org/en/preventgenocide/rwanda/"
+  - "Britannica – Rwanda Genocide — https://www.britannica.com/event/Rwanda-genocide-of-1994"
+  - "Kigali Genocide Memorial — https://www.kgm.rw/"
 ---
 
 In the spring of 1994, the world watched in horror as Rwanda, a small country in East Africa, descended into one of the worst tragedies in human history. In just 100 days, between April and July, approximately 800,000 people — mostly ethnic Tutsis and moderate Hutus — were killed by Hutu extremists. Neighbors turned on neighbors. Teachers killed students. Families were destroyed. By the time it ended, nearly one in ten Rwandans was dead.

@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 152
 sources:
-  - "<a href='https://uis.unesco.org/en/topic/literacy'>UNESCO Institute for Statistics – Literacy</a>"
-  - "<a href='https://ourworldindata.org/literacy'>Our World in Data – Literacy</a>"
-  - "<a href='https://www.britannica.com/topic/literacy'>Britannica – Literacy</a>"
-  - "<a href='https://www.worldbank.org/en/topic/education'>World Bank – Education</a>"
+  - "UNESCO Institute for Statistics – Literacy — https://uis.unesco.org/en/topic/literacy"
+  - "Our World in Data – Literacy — https://ourworldindata.org/literacy"
+  - "Britannica – Literacy — https://www.britannica.com/topic/literacy"
+  - "World Bank – Education — https://www.worldbank.org/en/topic/education"
 ---
 
 Here is a fact that might surprise you: for most of human history, almost nobody could read. As recently as 1820, only about 12 percent of the world's population was literate. Books existed, but they were luxuries that only the wealthy and powerful could access. The vast majority of people — farmers, workers, women, and children — lived their entire lives without ever reading a single word.

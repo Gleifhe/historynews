@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons"
 video: "https://www.youtube.com/embed/dHSQAEam2yc"
 weight: 102
 sources:
-  - '<a href="https://www.iwm.org.uk/history/the-christmas-truce">Imperial War Museum – The Christmas Truce</a>'
-  - '<a href="https://www.britannica.com/event/Christmas-Truce">Britannica – Christmas Truce</a>'
-  - '<a href="https://www.nam.ac.uk/explore/christmas-truce">National Army Museum – Christmas Truce</a>'
-  - '<a href="https://www.history.com/topics/world-war-i/christmas-truce-of-1914">History.com – Christmas Truce of 1914</a>'
+  - "Imperial War Museum – The Christmas Truce — https://www.iwm.org.uk/history/the-christmas-truce"
+  - "Britannica – Christmas Truce — https://www.britannica.com/event/Christmas-Truce"
+  - "National Army Museum – Christmas Truce — https://www.nam.ac.uk/explore/christmas-truce"
+  - "History.com – Christmas Truce of 1914 — https://www.history.com/topics/world-war-i/christmas-truce-of-1914"
 ---
 
 By December 1914, World War I had been raging for five months. Millions of soldiers on both sides were stuck in muddy trenches that stretched across France and Belgium. The trenches were cold, wet, and miserable. Many soldiers had been told the war would be over by Christmas, but instead they found themselves huddled in freezing ditches, separated from the enemy by a narrow strip of destroyed land called no man's land.

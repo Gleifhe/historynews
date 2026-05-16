@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / CC BY 2.0"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 163
 sources:
-  - '<a href="https://www.irena.org/publications/2023/Aug/Renewable-Power-Generation-Costs-in-2022" target="_blank">IRENA — Renewable Power Generation Costs 2022</a>'
-  - '<a href="https://www.iea.org/reports/renewables-2023" target="_blank">International Energy Agency — Renewables 2023</a>'
-  - '<a href="https://www.lazard.com/research-insights/levelized-cost-of-energyplus/" target="_blank">Lazard — Levelized Cost of Energy Analysis</a>'
-  - '<a href="https://ourworldindata.org/cheap-renewables-growth" target="_blank">Our World in Data — Why Did Renewables Become So Cheap So Fast?</a>'
+  - "IRENA — Renewable Power Generation Costs 2022 — https://www.irena.org/publications/2023/Aug/Renewable-Power-Generation-Costs-in-2022"
+  - "International Energy Agency — Renewables 2023 — https://www.iea.org/reports/renewables-2023"
+  - "Lazard — Levelized Cost of Energy Analysis — https://www.lazard.com/research-insights/levelized-cost-of-energyplus/"
+  - "Our World in Data — Why Did Renewables Become So Cheap So Fast? — https://ourworldindata.org/cheap-renewables-growth"
 ---
 
 For more than a century, the world ran on fossil fuels — coal, oil, and natural gas. These energy sources powered the Industrial Revolution, built modern cities, and created unprecedented wealth. But they also came with enormous costs: air pollution that killed millions, oil spills that devastated ecosystems, and greenhouse gas emissions that are warming the planet. For decades, people argued that we couldn't afford to switch to cleaner energy. Then something unexpected happened — clean energy became cheaper than the dirty kind.

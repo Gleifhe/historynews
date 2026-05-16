@@ -13,10 +13,10 @@ imagecredit: "Jlwad, CC BY-SA 4.0, via Wikimedia Commons"
 video: "https://www.youtube.com/embed/G4H1N_yXBiA"
 weight: 169
 sources:
-  - '<a href="http://www.obt.inpe.br/OBT/assuntos/programas/amazonia/prodes">INPE PRODES – Amazon Deforestation Monitoring</a>'
-  - '<a href="https://www.gov.br/mma/pt-br">Brazil Ministry of the Environment</a>'
-  - '<a href="https://www.bbc.com/news/world-latin-america-67639"; >BBC News – Amazon Deforestation Falls</a>'
-  - '<a href="https://www.worldwildlife.org/places/amazon">World Wildlife Fund – Amazon</a>'
+  - "INPE PRODES – Amazon Deforestation Monitoring — http://www.obt.inpe.br/OBT/assuntos/programas/amazonia/prodes"
+  - "Brazil Ministry of the Environment — https://www.gov.br/mma/pt-br"
+  - "BBC News – Amazon Deforestation Falls — https://www.bbc.com/news/world-latin-america-67639"
+  - "World Wildlife Fund – Amazon — https://www.worldwildlife.org/places/amazon"
 ---
 
 The Amazon rainforest is often called the "lungs of the Earth." Covering about 2.1 million square miles across nine South American countries, it is the largest tropical forest on the planet. It produces roughly 20 percent of the world's oxygen, holds 10 percent of all species on Earth, and stores billions of tons of carbon that would otherwise warm the atmosphere. When the Amazon is cut down and burned, the whole world feels the impact.

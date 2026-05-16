@@ -13,10 +13,10 @@ imagecredit: "Library of Congress"
 video: "https://www.youtube.com/embed/3wxWNAM8Cso"
 weight: 49
 sources:
-  - '<a href="https://www.britannica.com/event/atomic-bombings-of-Hiroshima-and-Nagasaki">Encyclopedia Britannica — Atomic Bombings of Hiroshima and Nagasaki</a>'
-  - '<a href="https://www.atomicarchive.com/history/hiroshima-nagasaki/">Atomic Archive — Hiroshima and Nagasaki</a>'
-  - '<a href="https://www.history.com/articles/bombing-of-hiroshima-and-nagasaki">History.com — Bombing of Hiroshima and Nagasaki</a>'
-  - '<a href="https://ahf.nuclearmuseum.org/ahf/history/hiroshima-and-nagasaki/">Atomic Heritage Foundation — Hiroshima and Nagasaki</a>'
+  - "Encyclopedia Britannica — Atomic Bombings of Hiroshima and Nagasaki — https://www.britannica.com/event/atomic-bombings-of-Hiroshima-and-Nagasaki"
+  - "Atomic Archive — Hiroshima and Nagasaki — https://www.atomicarchive.com/history/hiroshima-nagasaki/"
+  - "History.com — Bombing of Hiroshima and Nagasaki — https://www.history.com/articles/bombing-of-hiroshima-and-nagasaki"
+  - "Atomic Heritage Foundation — Hiroshima and Nagasaki — https://ahf.nuclearmuseum.org/ahf/history/hiroshima-and-nagasaki/"
 ---
 
 ## The Secret Weapon

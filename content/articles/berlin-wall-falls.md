@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/OIYy32RuHao"
 weight: 4
 sources:
-  - '<a href="https://www.europeana.eu/en/collections/topic/83-1989-fall-of-the-iron-curtain">Europeana — Fall of the Iron Curtain Collection</a>'
-  - '<a href="https://www.bbc.com/news/world-europe-50013048">BBC — Berlin Wall: How it fell</a>'
-  - '<a href="https://www.history.com/articles/the-berlin-wall-fall-recalled">History.com — Fall of the Berlin Wall</a>'
-  - '<a href="https://www.loc.gov/collections/cold-war-era/">LOC — Cold War Era Collections</a>'
+  - "Europeana — Fall of the Iron Curtain Collection — https://www.europeana.eu/en/collections/topic/83-1989-fall-of-the-iron-curtain"
+  - "BBC — Berlin Wall: How it fell — https://www.bbc.com/news/world-europe-50013048"
+  - "History.com — Fall of the Berlin Wall — https://www.history.com/articles/the-berlin-wall-fall-recalled"
+  - "LOC — Cold War Era Collections — https://www.loc.gov/collections/cold-war-era/"
 ---
 
 ## A City Cut in Half

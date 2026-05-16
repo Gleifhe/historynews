@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 147
 sources:
-  - "<a href='https://www.masshist.org/database/viewer.php?item_id=1809'>Massachusetts Historical Society – Education</a>"
-  - "<a href='https://www.britannica.com/biography/Horace-Mann'>Britannica – Horace Mann</a>"
-  - "<a href='https://www.pbs.org/onlyateacher/horace.html'>PBS – Horace Mann</a>"
-  - "<a href='https://www.archives.gov/education'>National Archives – Education</a>"
+  - "Massachusetts Historical Society – Education — https://www.masshist.org/database/viewer.php?item_id=1809"
+  - "Britannica – Horace Mann — https://www.britannica.com/biography/Horace-Mann"
+  - "PBS – Horace Mann — https://www.pbs.org/onlyateacher/horace.html"
+  - "National Archives – Education — https://www.archives.gov/education"
 ---
 
 Today, we take it for granted that every child in America goes to school. But in the early 1800s, education was a luxury that only wealthy families could afford. Poor children worked in factories, on farms, or on the streets. Girls were rarely educated at all. The idea that the government should provide free schooling for every child was considered radical — even dangerous. One man changed all of that.

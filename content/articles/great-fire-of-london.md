@@ -13,9 +13,9 @@ imagecredit: "Library of Congress"
 weight: 20
 video: "https://www.youtube.com/embed/ycTRAJJexd4"
 sources:
-  - '<a href="https://www.bbc.co.uk/history/british/civil_war_revolution/great_fire_01.shtml">BBC History — The Great Fire of London</a>'
-  - '<a href="https://www.pepysdiary.com/">Samuel Pepys Diary — Eyewitness Account</a>'
-  - '<a href="https://www.loc.gov/pictures/search/?q=great+fire+london">LOC — Great Fire of London images</a>'
+  - "BBC History — The Great Fire of London — https://www.bbc.co.uk/history/british/civil_war_revolution/great_fire_01.shtml"
+  - "Samuel Pepys Diary — Eyewitness Account — https://www.pepysdiary.com/"
+  - "LOC — Great Fire of London images — https://www.loc.gov/pictures/search/?q=great+fire+london"
   - 'Adrian Tinniswood, <em>By Permission of Heaven: The True Story of the Great Fire of London</em> (2003, Riverhead Books)'
 ---
 

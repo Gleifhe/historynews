@@ -13,10 +13,10 @@ imagecredit: "United Nations, Public domain, via Wikimedia Commons"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 112
 sources:
-  - '<a href="https://www.worldbank.org/en/topic/poverty/overview">World Bank - Poverty Overview</a>'
-  - '<a href="https://www.un.org/millenniumgoals/">United Nations - Millennium Development Goals</a>'
-  - '<a href="https://ourworldindata.org/extreme-poverty">Our World in Data - Extreme Poverty</a>'
-  - '<a href="https://data.worldbank.org/topic/poverty">World Bank Open Data - Poverty</a>'
+  - "World Bank - Poverty Overview — https://www.worldbank.org/en/topic/poverty/overview"
+  - "United Nations - Millennium Development Goals — https://www.un.org/millenniumgoals/"
+  - "Our World in Data - Extreme Poverty — https://ourworldindata.org/extreme-poverty"
+  - "World Bank Open Data - Poverty — https://data.worldbank.org/topic/poverty"
 ---
 
 Here is a fact that might surprise you: the world has been getting better. Not in every way, and not for every person, but in one of the most important measures of human well-being — extreme poverty — the progress over the past few decades has been nothing short of extraordinary.

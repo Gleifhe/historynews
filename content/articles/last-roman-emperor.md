@@ -13,9 +13,9 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 77
 sources:
-  - '<a href="https://www.britannica.com/biography/Romulus-Augustulus">Britannica — Romulus Augustulus</a>'
-  - '<a href="https://www.worldhistory.org/Romulus_Augustulus/">World History Encyclopedia — Romulus Augustulus</a>'
-  - '<a href="https://www.history.com/articles/8-reasons-why-rome-fell">History.com — 8 Reasons Why Rome Fell</a>'
+  - "Britannica — Romulus Augustulus — https://www.britannica.com/biography/Romulus-Augustulus"
+  - "World History Encyclopedia — Romulus Augustulus — https://www.worldhistory.org/Romulus_Augustulus/"
+  - "History.com — 8 Reasons Why Rome Fell — https://www.history.com/articles/8-reasons-why-rome-fell"
   - 'Bryan Ward-Perkins, <em>The Fall of Rome and the End of Civilization</em> (2005, Oxford University Press)'
 ---
 

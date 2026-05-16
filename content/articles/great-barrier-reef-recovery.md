@@ -13,10 +13,10 @@ imagecredit: "Toby Hudson, CC BY-SA 3.0, via Wikimedia Commons"
 video: "https://www.youtube.com/embed/G4H1N_yXBiA"
 weight: 168
 sources:
-  - '<a href="https://www.aims.gov.au/monitoring/reef-monitoring">Australian Institute of Marine Science – Reef Monitoring</a>'
-  - '<a href="https://www.gbrmpa.gov.au/the-reef/reef-health">Great Barrier Reef Marine Park Authority – Reef Health</a>'
-  - '<a href="https://www.nature.com/articles/d41586-024-00585-3">Nature – Great Barrier Reef Coral Cover Report</a>'
-  - '<a href="https://www.iucn.org/resources/issues-brief/coral-reefs-and-climate-change">IUCN – Coral Reefs and Climate Change</a>'
+  - "Australian Institute of Marine Science – Reef Monitoring — https://www.aims.gov.au/monitoring/reef-monitoring"
+  - "Great Barrier Reef Marine Park Authority – Reef Health — https://www.gbrmpa.gov.au/the-reef/reef-health"
+  - "Nature – Great Barrier Reef Coral Cover Report — https://www.nature.com/articles/d41586-024-00585-3"
+  - "IUCN – Coral Reefs and Climate Change — https://www.iucn.org/resources/issues-brief/coral-reefs-and-climate-change"
 ---
 
 The Great Barrier Reef stretches for over 1,400 miles along the northeast coast of Australia. It is the largest living structure on Earth — so big it can be seen from space. Made up of nearly 3,000 individual reef systems, it is home to more than 1,500 species of fish, 400 types of coral, and countless other sea creatures. For decades, scientists watched in alarm as rising ocean temperatures caused massive coral bleaching events that turned vibrant reefs ghostly white. Many feared the reef was dying.

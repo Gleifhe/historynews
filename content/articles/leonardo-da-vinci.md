@@ -13,9 +13,9 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 72
 sources:
-  - '<a href="https://www.si.edu/openaccess">Smithsonian Open Access — Leonardo da Vinci Collections</a>'
-  - '<a href="https://www.britannica.com/biography/Leonardo-da-Vinci">Britannica — Leonardo da Vinci</a>'
-  - '<a href="https://www.metmuseum.org/toah/hd/leon/hd_leon.htm">The Met — Leonardo da Vinci (1452-1519)</a>'
+  - "Smithsonian Open Access — Leonardo da Vinci Collections — https://www.si.edu/openaccess"
+  - "Britannica — Leonardo da Vinci — https://www.britannica.com/biography/Leonardo-da-Vinci"
+  - "The Met — Leonardo da Vinci (1452-1519) — https://www.metmuseum.org/toah/hd/leon/hd_leon.htm"
   - 'Walter Isaacson, <em>Leonardo da Vinci</em> (2017, Simon & Schuster)'
 ---
 

@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / CC BY-SA"
 video: "https://www.youtube.com/embed/YeFzeNAHEhU"
 weight: 43
 sources:
-  - '<a href="https://www.ap.org/">AP Images — Tiananmen Square Coverage</a>'
-  - '<a href="https://www.bbc.com/news/world-asia-china-48445248">BBC — Tiananmen Square: What happened in the protests of 1989?</a>'
-  - '<a href="https://www.history.com/articles/tiananmen-square-protests-timeline">History.com — Tiananmen Square Protests Timeline</a>'
-  - '<a href="https://www.pbs.org/wgbh/frontline/documentary/the-tank-man/">PBS Frontline — The Tank Man</a>'
+  - "AP Images — Tiananmen Square Coverage — https://www.ap.org/"
+  - "BBC — Tiananmen Square: What happened in the protests of 1989? — https://www.bbc.com/news/world-asia-china-48445248"
+  - "History.com — Tiananmen Square Protests Timeline — https://www.history.com/articles/tiananmen-square-protests-timeline"
+  - "PBS Frontline — The Tank Man — https://www.pbs.org/wgbh/frontline/documentary/the-tank-man/"
 ---
 
 ## Seeds of Protest

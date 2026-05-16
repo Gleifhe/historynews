@@ -13,9 +13,9 @@ imagecredit: "National Archives / Public Domain"
 video: "https://www.youtube.com/embed/f6cz9gtMTeI"
 weight: 58
 sources:
-  - '<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/pearl-harbor-rev/collection.pdf">NSA — Pearl Harbor Declassified Documents</a>'
-  - '<a href="https://www.history.com/topics/world-war-ii/pearl-harbor-intelligence-failures">History.com — Pearl Harbor Intelligence</a>'
-  - '<a href="https://www.archives.gov/research/military/ww2/pearl-harbor">National Archives — Pearl Harbor Investigation</a>'
+  - "NSA — Pearl Harbor Declassified Documents — https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/pearl-harbor-rev/collection.pdf"
+  - "History.com — Pearl Harbor Intelligence — https://www.history.com/topics/world-war-ii/pearl-harbor-intelligence-failures"
+  - "National Archives — Pearl Harbor Investigation — https://www.archives.gov/research/military/ww2/pearl-harbor"
   - 'Roberta Wohlstetter, <em>Pearl Harbor: Warning and Decision</em> (1962, Stanford University Press)'
 ---
 

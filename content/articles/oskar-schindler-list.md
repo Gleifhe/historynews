@@ -13,10 +13,10 @@ imagecredit: "Yad Vashem / Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 153
 sources:
-  - '<a href="https://www.yadvashem.org/righteous/stories/schindler.html" target="_blank">Yad Vashem — Oskar Schindler</a>'
-  - '<a href="https://encyclopedia.ushmm.org/content/en/article/oskar-schindler" target="_blank">United States Holocaust Memorial Museum — Oskar Schindler</a>'
-  - '<a href="https://www.britannica.com/biography/Oskar-Schindler" target="_blank">Encyclopaedia Britannica — Oskar Schindler</a>'
-  - '<a href="https://www.history.com/topics/world-war-ii/oskar-schindler" target="_blank">History.com — Oskar Schindler</a>'
+  - "Yad Vashem — Oskar Schindler — https://www.yadvashem.org/righteous/stories/schindler.html"
+  - "United States Holocaust Memorial Museum — Oskar Schindler — https://encyclopedia.ushmm.org/content/en/article/oskar-schindler"
+  - "Encyclopaedia Britannica — Oskar Schindler — https://www.britannica.com/biography/Oskar-Schindler"
+  - "History.com — Oskar Schindler — https://www.history.com/topics/world-war-ii/oskar-schindler"
 ---
 
 In the darkest chapter of the twentieth century, when millions of Jewish people were being murdered across Europe, one unlikely hero stepped forward. Oskar Schindler was a German businessman — a member of the Nazi Party, a drinker, a gambler, and a man who had come to occupied Poland to make money. But something changed inside him when he saw the horror of what was happening to innocent people. By the end of World War II, he had saved more than 1,200 Jewish lives and spent every penny he had doing it.

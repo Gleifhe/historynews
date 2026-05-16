@@ -1,0 +1,252 @@
+{{ define "main" }}
+<section class="memorial-hero">
+  <div class="memorial-hero-inner">
+    <div class="memorial-flag">🇺🇸</div>
+    <h1 class="memorial-title">Memorial Day</h1>
+    <p class="memorial-subtitle">Honoring Those Who Gave Everything</p>
+    <p class="memorial-desc">75 stories of sacrifice, remembrance, and the growth lessons veterans carry home.</p>
+  </div>
+</section>
+
+{{ $all := where .Site.RegularPages "Section" "articles" }}
+{{ $memorial := where $all ".Params.era" "Memorial Day" }}
+
+{{/* Section 1: Origins & Remembrance */}}
+<section class="memorial-section">
+  <div class="memorial-section-header">
+    <h2 class="memorial-section-title">🏛️ Origins & Remembrance</h2>
+    <p class="memorial-section-desc">How America learned to honor its fallen — from Decoration Day to the Tomb of the Unknown Soldier.</p>
+  </div>
+  <div class="memorial-grid">
+    {{ $origins := slice
+      "birth-of-decoration-day" "general-logans-order" "arlington-national-cemetery"
+      "tomb-of-unknown-soldier" "taps-bugle-call" "gold-star-mothers"
+      "national-moment-of-remembrance" "normandy-american-cemetery"
+      "poppy-symbol-of-remembrance" "buglers-of-arlington"
+      "letters-home-last-words" "pow-mia-flag" "dover-test"
+    }}
+    {{ range $origins }}
+      {{ $slug := . }}
+      {{ $page := index (where $all ".File.ContentBaseName" $slug) 0 }}
+      {{ with $page }}
+      <a href="{{ .RelPermalink }}" class="memorial-card">
+        <div class="memorial-card-img" style="background-image: url('{{ .Params.image }}')"></div>
+        <div class="memorial-card-body">
+          <span class="memorial-card-era">{{ .Params.era }}</span>
+          <h3 class="memorial-card-title">{{ .Title }}</h3>
+          <p class="memorial-card-summary">{{ .Params.summary | truncate 100 }}</p>
+        </div>
+      </a>
+      {{ end }}
+    {{ end }}
+  </div>
+</section>
+
+{{/* Section 2: Stories of Sacrifice */}}
+<section class="memorial-section memorial-section-dark">
+  <div class="memorial-section-header">
+    <h2 class="memorial-section-title">⚔️ Stories of Sacrifice</h2>
+    <p class="memorial-section-desc">From the Revolution to Afghanistan — the battles, the heroes, and the price of freedom.</p>
+  </div>
+
+  <h3 class="memorial-era-label">Revolutionary War</h3>
+  <div class="memorial-grid">
+    {{ $rev := slice "culper-spy-ring" "nathan-hale-last-words" "marquis-de-lafayette" }}
+    {{ range $rev }}
+      {{ $page := index (where $all ".File.ContentBaseName" .) 0 }}
+      {{ with $page }}
+      <a href="{{ .RelPermalink }}" class="memorial-card">
+        <div class="memorial-card-img" style="background-image: url('{{ .Params.image }}')"></div>
+        <div class="memorial-card-body">
+          <h3 class="memorial-card-title">{{ .Title }}</h3>
+          <p class="memorial-card-summary">{{ .Params.summary | truncate 100 }}</p>
+        </div>
+      </a>
+      {{ end }}
+    {{ end }}
+  </div>
+
+  <h3 class="memorial-era-label">Civil War</h3>
+  <div class="memorial-grid">
+    {{ $cw := slice "54th-massachusetts-regiment" "clara-barton-angel-of-battlefield" "andersonville-prison" "sullivan-ballou-letter" }}
+    {{ range $cw }}
+      {{ $page := index (where $all ".File.ContentBaseName" .) 0 }}
+      {{ with $page }}
+      <a href="{{ .RelPermalink }}" class="memorial-card">
+        <div class="memorial-card-img" style="background-image: url('{{ .Params.image }}')"></div>
+        <div class="memorial-card-body">
+          <h3 class="memorial-card-title">{{ .Title }}</h3>
+          <p class="memorial-card-summary">{{ .Params.summary | truncate 100 }}</p>
+        </div>
+      </a>
+      {{ end }}
+    {{ end }}
+  </div>
+
+  <h3 class="memorial-era-label">World War I</h3>
+  <div class="memorial-grid">
+    {{ $ww1 := slice "harlem-hellfighters" "sergeant-alvin-york" "belleau-wood" "lost-battalion-argonne" "in-flanders-fields" }}
+    {{ range $ww1 }}
+      {{ $page := index (where $all ".File.ContentBaseName" .) 0 }}
+      {{ with $page }}
+      <a href="{{ .RelPermalink }}" class="memorial-card">
+        <div class="memorial-card-img" style="background-image: url('{{ .Params.image }}')"></div>
+        <div class="memorial-card-body">
+          <h3 class="memorial-card-title">{{ .Title }}</h3>
+          <p class="memorial-card-summary">{{ .Params.summary | truncate 100 }}</p>
+        </div>
+      </a>
+      {{ end }}
+    {{ end }}
+  </div>
+
+  <h3 class="memorial-era-label">World War II</h3>
+  <div class="memorial-grid">
+    {{ $ww2 := slice "tuskegee-airmen" "four-chaplains" "navajo-code-talkers" "audie-murphy-most-decorated" "sullivan-brothers" "battle-of-midway" "doolittle-raid" "omaha-beach-first-wave" "battle-of-the-bulge" "merchant-marines-wwii" "rosie-the-riveter" }}
+    {{ range $ww2 }}
+      {{ $page := index (where $all ".File.ContentBaseName" .) 0 }}
+      {{ with $page }}
+      <a href="{{ .RelPermalink }}" class="memorial-card">
+        <div class="memorial-card-img" style="background-image: url('{{ .Params.image }}')"></div>
+        <div class="memorial-card-body">
+          <h3 class="memorial-card-title">{{ .Title }}</h3>
+          <p class="memorial-card-summary">{{ .Params.summary | truncate 100 }}</p>
+        </div>
+      </a>
+      {{ end }}
+    {{ end }}
+  </div>
+
+  <h3 class="memorial-era-label">Korea & Vietnam</h3>
+  <div class="memorial-grid">
+    {{ $kv := slice "chosin-reservoir" "forgotten-war-forgotten-heroes" "vietnam-veterans-memorial-wall" "hanoi-hilton-pows" "hamburger-hill" "vietnam-mia-search" "operation-homecoming-1973" }}
+    {{ range $kv }}
+      {{ $page := index (where $all ".File.ContentBaseName" .) 0 }}
+      {{ with $page }}
+      <a href="{{ .RelPermalink }}" class="memorial-card">
+        <div class="memorial-card-img" style="background-image: url('{{ .Params.image }}')"></div>
+        <div class="memorial-card-body">
+          <h3 class="memorial-card-title">{{ .Title }}</h3>
+          <p class="memorial-card-summary">{{ .Params.summary | truncate 100 }}</p>
+        </div>
+      </a>
+      {{ end }}
+    {{ end }}
+  </div>
+
+  <h3 class="memorial-era-label">Modern Conflicts</h3>
+  <div class="memorial-grid">
+    {{ $modern := slice "beirut-barracks-bombing" "pat-tillman-chose-service" "mogadishu-black-hawk-down" "pentagon-on-911" "fallujah-bloodiest-battle" "afghanistan-war-fallen" "navy-seal-michael-murphy" }}
+    {{ range $modern }}
+      {{ $page := index (where $all ".File.ContentBaseName" .) 0 }}
+      {{ with $page }}
+      <a href="{{ .RelPermalink }}" class="memorial-card">
+        <div class="memorial-card-img" style="background-image: url('{{ .Params.image }}')"></div>
+        <div class="memorial-card-body">
+          <h3 class="memorial-card-title">{{ .Title }}</h3>
+          <p class="memorial-card-summary">{{ .Params.summary | truncate 100 }}</p>
+        </div>
+      </a>
+      {{ end }}
+    {{ end }}
+  </div>
+</section>
+
+{{/* Section 3: Lessons from Veterans */}}
+<section class="memorial-section">
+  <div class="memorial-section-header">
+    <h2 class="memorial-section-title">🌱 Lessons from Veterans</h2>
+    <p class="memorial-section-desc">What those who served learned about leadership, resilience, purpose, and what truly matters.</p>
+  </div>
+
+  <h3 class="memorial-era-label">Leadership & Character</h3>
+  <div class="memorial-grid">
+    {{ $lead := slice "eisenhowers-two-letters" "buddy-system-never-alone" "mission-first-people-always" "calm-is-contagious" "after-action-review" }}
+    {{ range $lead }}
+      {{ $page := index (where $all ".File.ContentBaseName" .) 0 }}
+      {{ with $page }}
+      <a href="{{ .RelPermalink }}" class="memorial-card memorial-card-growth">
+        <div class="memorial-card-img" style="background-image: url('{{ .Params.image }}')"></div>
+        <div class="memorial-card-body">
+          <h3 class="memorial-card-title">{{ .Title }}</h3>
+          <p class="memorial-card-summary">{{ .Params.summary | truncate 100 }}</p>
+        </div>
+      </a>
+      {{ end }}
+    {{ end }}
+  </div>
+
+  <h3 class="memorial-era-label">Resilience & Mental Toughness</h3>
+  <div class="memorial-grid">
+    {{ $res := slice "the-40-percent-rule" "embracing-the-suck" "post-traumatic-growth" "viktor-frankl-was-right" "power-of-the-debrief" }}
+    {{ range $res }}
+      {{ $page := index (where $all ".File.ContentBaseName" .) 0 }}
+      {{ with $page }}
+      <a href="{{ .RelPermalink }}" class="memorial-card memorial-card-growth">
+        <div class="memorial-card-img" style="background-image: url('{{ .Params.image }}')"></div>
+        <div class="memorial-card-body">
+          <h3 class="memorial-card-title">{{ .Title }}</h3>
+          <p class="memorial-card-summary">{{ .Params.summary | truncate 100 }}</p>
+        </div>
+      </a>
+      {{ end }}
+    {{ end }}
+  </div>
+
+  <h3 class="memorial-era-label">Purpose & Transition</h3>
+  <div class="memorial-grid">
+    {{ $pur := slice "platoon-to-purpose" "veteran-entrepreneur-boom" "team-rubicon-continued-service" "gi-bill-changed-america-twice" "service-doesnt-end-at-discharge" }}
+    {{ range $pur }}
+      {{ $page := index (where $all ".File.ContentBaseName" .) 0 }}
+      {{ with $page }}
+      <a href="{{ .RelPermalink }}" class="memorial-card memorial-card-growth">
+        <div class="memorial-card-img" style="background-image: url('{{ .Params.image }}')"></div>
+        <div class="memorial-card-body">
+          <h3 class="memorial-card-title">{{ .Title }}</h3>
+          <p class="memorial-card-summary">{{ .Params.summary | truncate 100 }}</p>
+        </div>
+      </a>
+      {{ end }}
+    {{ end }}
+  </div>
+
+  <h3 class="memorial-era-label">Relationships & Community</h3>
+  <div class="memorial-grid">
+    {{ $rel := slice "letters-home-what-matters" "foxhole-test" "veterans-make-great-mentors" "brotherhood-beyond-uniform" "coming-home-to-gratitude" }}
+    {{ range $rel }}
+      {{ $page := index (where $all ".File.ContentBaseName" .) 0 }}
+      {{ with $page }}
+      <a href="{{ .RelPermalink }}" class="memorial-card memorial-card-growth">
+        <div class="memorial-card-img" style="background-image: url('{{ .Params.image }}')"></div>
+        <div class="memorial-card-body">
+          <h3 class="memorial-card-title">{{ .Title }}</h3>
+          <p class="memorial-card-summary">{{ .Params.summary | truncate 100 }}</p>
+        </div>
+      </a>
+      {{ end }}
+    {{ end }}
+  </div>
+
+  <h3 class="memorial-era-label">Discipline & Daily Practice</h3>
+  <div class="memorial-grid">
+    {{ $disc := slice "make-your-bed-small-wins" "physical-fitness-mental-health" "veterans-morning-routine" "preparation-is-a-lifestyle" "servant-leadership" }}
+    {{ range $disc }}
+      {{ $page := index (where $all ".File.ContentBaseName" .) 0 }}
+      {{ with $page }}
+      <a href="{{ .RelPermalink }}" class="memorial-card memorial-card-growth">
+        <div class="memorial-card-img" style="background-image: url('{{ .Params.image }}')"></div>
+        <div class="memorial-card-body">
+          <h3 class="memorial-card-title">{{ .Title }}</h3>
+          <p class="memorial-card-summary">{{ .Params.summary | truncate 100 }}</p>
+        </div>
+      </a>
+      {{ end }}
+    {{ end }}
+  </div>
+</section>
+
+<section class="memorial-footer">
+  <p class="memorial-quote">"For love of country they accepted death, and thus resolved all doubts, and made immortal their patriotism and their virtue."</p>
+  <p class="memorial-attribution">— James A. Garfield, 1868</p>
+</section>
+{{ end }}

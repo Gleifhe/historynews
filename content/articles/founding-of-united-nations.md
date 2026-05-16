@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/fo2Rb9h788s"
 weight: 81
 sources:
-  - '<a href="https://www.britannica.com/topic/United-Nations">Britannica — United Nations</a>'
-  - '<a href="https://www.history.com/topics/world-war-ii/united-nations">History.com — United Nations</a>'
-  - '<a href="https://www.un.org/en/about-us/history-of-the-un">United Nations — History of the UN</a>'
-  - '<a href="https://avalon.law.yale.edu/20th_century/unchart.asp">Avalon Project, Yale Law School — Charter of the United Nations</a>'
+  - "Britannica — United Nations — https://www.britannica.com/topic/United-Nations"
+  - "History.com — United Nations — https://www.history.com/topics/world-war-ii/united-nations"
+  - "United Nations — History of the UN — https://www.un.org/en/about-us/history-of-the-un"
+  - "Avalon Project, Yale Law School — Charter of the United Nations — https://avalon.law.yale.edu/20th_century/unchart.asp"
 ---
 
 ## A World in Ruins

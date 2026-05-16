@@ -13,9 +13,9 @@ imagecredit: "Jim Peaco / National Park Service, Public Domain, via Wikimedia Co
 video: "https://www.youtube.com/embed/G4H1N_yXBiA"
 weight: 167
 sources:
-  - '<a href="https://www.nps.gov/yell/learn/historyculture/yellowstoneestablishment.htm">National Park Service – Yellowstone Establishment</a>'
-  - '<a href="https://www.nps.gov/thro/learn/historyculture/theodore-roosevelt-and-conservation.htm">NPS – Theodore Roosevelt and Conservation</a>'
-  - '<a href="https://irma.nps.gov/Stats/">National Park Service Visitor Use Statistics</a>'
+  - "National Park Service – Yellowstone Establishment — https://www.nps.gov/yell/learn/historyculture/yellowstoneestablishment.htm"
+  - "NPS – Theodore Roosevelt and Conservation — https://www.nps.gov/thro/learn/historyculture/theodore-roosevelt-and-conservation.htm"
+  - "National Park Service Visitor Use Statistics — https://irma.nps.gov/Stats/"
   - "<a href=\"https://www.doi.gov/blog/americas-best-idea\">U.S. Department of the Interior – America's Best Idea</a>"
 ---
 

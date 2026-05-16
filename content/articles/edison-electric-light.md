@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 141
 sources:
-  - "<a href='https://www.nps.gov/edis/index.htm'>National Park Service – Thomas Edison National Historical Park</a>"
-  - "<a href='https://www.si.edu/spotlight/thomas-edison'>Smithsonian – Thomas Edison</a>"
-  - "<a href='https://www.britannica.com/biography/Thomas-Edison'>Britannica – Thomas Edison</a>"
-  - "<a href='https://edison.rutgers.edu/'>Rutgers – Thomas Edison Papers</a>"
+  - "National Park Service – Thomas Edison National Historical Park — https://www.nps.gov/edis/index.htm"
+  - "Smithsonian – Thomas Edison — https://www.si.edu/spotlight/thomas-edison"
+  - "Britannica – Thomas Edison — https://www.britannica.com/biography/Thomas-Edison"
+  - "Rutgers – Thomas Edison Papers — https://edison.rutgers.edu/"
 ---
 
 For most of human history, darkness ruled the night. When the sun went down, people relied on candles, oil lamps, and gas lights — all of which were dim, dangerous, and expensive. Fires burned down homes. Factories could only operate during daylight hours. Streets were unsafe after dark. Then, in a small laboratory in Menlo Park, New Jersey, Thomas Edison and his team changed everything.

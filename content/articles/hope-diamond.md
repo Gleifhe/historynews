@@ -13,10 +13,10 @@ imagecredit: "Smithsonian Institution Archives / Wikimedia Commons"
 video: "https://www.youtube.com/embed/tqqYNfEY2qU"
 weight: 39
 sources:
-  - '<a href="https://www.si.edu/spotlight/hope-diamond">Smithsonian Open Access — The Hope Diamond</a>'
-  - '<a href="https://naturalhistory.si.edu/explore/collections/geogallery/10002089">Smithsonian National Museum of Natural History — Hope Diamond</a>'
-  - '<a href="https://www.britannica.com/topic/Hope-diamond">Britannica — Hope Diamond</a>'
-  - '<a href="https://www.gia.edu/gems-gemology/fall-2014-history-hope-diamond">Gemological Institute of America — History of the Hope Diamond</a>'
+  - "Smithsonian Open Access — The Hope Diamond — https://www.si.edu/spotlight/hope-diamond"
+  - "Smithsonian National Museum of Natural History — Hope Diamond — https://naturalhistory.si.edu/explore/collections/geogallery/10002089"
+  - "Britannica — Hope Diamond — https://www.britannica.com/topic/Hope-diamond"
+  - "Gemological Institute of America — History of the Hope Diamond — https://www.gia.edu/gems-gemology/fall-2014-history-hope-diamond"
 ---
 
 Deep inside the Smithsonian National Museum of Natural History in Washington, D.C., a single gemstone draws more visitors than almost any other object on display. It is a deep blue diamond weighing 45.52 carats, about the size of a walnut. It sits in a specially designed case, slowly rotating under carefully controlled lighting. This is the Hope Diamond — one of the most famous and supposedly cursed objects in human history.

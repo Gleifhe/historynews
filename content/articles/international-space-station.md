@@ -13,10 +13,10 @@ imagecredit: "NASA / Public Domain"
 video: "https://www.youtube.com/embed/SGP6Y0Pnhe4"
 weight: 87
 sources:
-  - '<a href="https://www.nasa.gov/international-space-station/">NASA — International Space Station</a>'
-  - '<a href="https://www.space.com/16748-international-space-station.html">Space.com — International Space Station: Facts, History & Tracking</a>'
-  - '<a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/International_Space_Station">ESA — International Space Station</a>'
-  - '<a href="https://www.britannica.com/topic/International-Space-Station">Britannica — International Space Station</a>'
+  - "NASA — International Space Station — https://www.nasa.gov/international-space-station/"
+  - "Space.com — International Space Station: Facts, History & Tracking — https://www.space.com/16748-international-space-station.html"
+  - "ESA — International Space Station — https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/International_Space_Station"
+  - "Britannica — International Space Station — https://www.britannica.com/topic/International-Space-Station"
 ---
 
 ## From Rivals to Partners

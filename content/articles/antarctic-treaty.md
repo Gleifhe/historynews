@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Joe Mastroianni, NSF / Public Domain"
 video: "https://www.youtube.com/embed/I79TpDe3t2g"
 weight: 88
 sources:
-  - '<a href="https://www.ats.aq/e/antarctictreaty.html">Antarctic Treaty Secretariat — The Antarctic Treaty</a>'
-  - '<a href="https://www.britannica.com/event/Antarctic-Treaty">Britannica — Antarctic Treaty</a>'
-  - '<a href="https://www.state.gov/the-antarctic-treaty/">U.S. State Department — The Antarctic Treaty</a>'
-  - '<a href="https://www.coolantarctica.com/Antarctica%20fact%20file/antarctic_treaty.php">Cool Antarctica — The Antarctic Treaty Explained</a>'
+  - "Antarctic Treaty Secretariat — The Antarctic Treaty — https://www.ats.aq/e/antarctictreaty.html"
+  - "Britannica — Antarctic Treaty — https://www.britannica.com/event/Antarctic-Treaty"
+  - "U.S. State Department — The Antarctic Treaty — https://www.state.gov/the-antarctic-treaty/"
+  - "Cool Antarctica — The Antarctic Treaty Explained — https://www.coolantarctica.com/Antarctica%20fact%20file/antarctic_treaty.php"
 ---
 
 ## The Continent Nobody Owns

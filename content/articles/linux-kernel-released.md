@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Larry Ewing / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 145
 sources:
-  - "<a href='https://www.linuxfoundation.org/'>Linux Foundation</a>"
-  - "<a href='https://www.britannica.com/technology/Linux'>Britannica – Linux</a>"
-  - "<a href='https://www.kernel.org/'>The Linux Kernel Archives</a>"
-  - "<a href='https://groups.google.com/g/comp.os.minix/c/dlNtH7RRrGA/m/SwRavCzVE7gJ'>Original Torvalds Usenet Post</a>"
+  - "Linux Foundation — https://www.linuxfoundation.org/"
+  - "Britannica – Linux — https://www.britannica.com/technology/Linux"
+  - "The Linux Kernel Archives — https://www.kernel.org/"
+  - "Original Torvalds Usenet Post — https://groups.google.com/g/comp.os.minix/c/dlNtH7RRrGA/m/SwRavCzVE7gJ"
 ---
 
 On August 25, 1991, a 21-year-old computer science student at the University of Helsinki posted a message to an online newsgroup called comp.os.minix. His name was Linus Torvalds, and his message was casual, even apologetic. "I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu)," he wrote. He asked if anyone had suggestions for features they would like to see.

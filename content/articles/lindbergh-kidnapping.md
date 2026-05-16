@@ -13,10 +13,10 @@ imagecredit: "Library of Congress"
 weight: 7
 video: "https://www.youtube.com/embed/B4q92nHtr1U"
 sources:
-  - '<a href="https://www.newspapers.com/topics/lindbergh-kidnapping/">Newspapers.com — Lindbergh Kidnapping Coverage</a>'
-  - '<a href="https://www.loc.gov/pictures/item/2002712268/">LOC — Charles Lindbergh portrait</a>'
-  - '<a href="https://www.fbi.gov/history/famous-cases/lindbergh-kidnapping">FBI — Lindbergh Kidnapping Case</a>'
-  - '<a href="https://www.nj.gov/state/archives/catslindbergh.html">New Jersey State Archives — Lindbergh Case Files</a>'
+  - "Newspapers.com — Lindbergh Kidnapping Coverage — https://www.newspapers.com/topics/lindbergh-kidnapping/"
+  - "LOC — Charles Lindbergh portrait — https://www.loc.gov/pictures/item/2002712268/"
+  - "FBI — Lindbergh Kidnapping Case — https://www.fbi.gov/history/famous-cases/lindbergh-kidnapping"
+  - "New Jersey State Archives — Lindbergh Case Files — https://www.nj.gov/state/archives/catslindbergh.html"
 ---
 
 ## America's Hero

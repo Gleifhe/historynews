@@ -13,10 +13,10 @@ imagecredit: "NASA/MSFC/David Higginbotham / Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 136
 sources:
-  - '<a href="https://www.nasa.gov/mission/webb/" target="_blank">NASA — James Webb Space Telescope</a>'
-  - '<a href="https://webbtelescope.org/home" target="_blank">Space Telescope Science Institute — Webb Telescope</a>'
-  - '<a href="https://www.esa.int/Science_Exploration/Space_Science/Webb" target="_blank">European Space Agency — Webb</a>'
-  - '<a href="https://www.britannica.com/topic/James-Webb-Space-Telescope" target="_blank">Encyclopaedia Britannica — James Webb Space Telescope</a>'
+  - "NASA — James Webb Space Telescope — https://www.nasa.gov/mission/webb/"
+  - "Space Telescope Science Institute — Webb Telescope — https://webbtelescope.org/home"
+  - "European Space Agency — Webb — https://www.esa.int/Science_Exploration/Space_Science/Webb"
+  - "Encyclopaedia Britannica — James Webb Space Telescope — https://www.britannica.com/topic/James-Webb-Space-Telescope"
 ---
 
 On the morning of July 12, 2022, the world held its breath. NASA was about to unveil the first full-color images from the James Webb Space Telescope — the most powerful observatory ever launched into space. When the images appeared on screens around the globe, they took everyone's breath away. Thousands of galaxies, some of them formed just a few hundred million years after the Big Bang, sparkled like jewels against the blackness of space. Humanity was seeing deeper into the universe — and further back in time — than ever before.

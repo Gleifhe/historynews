@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/dHSQAEam2yc"
 weight: 69
 sources:
-  - '<a href="https://www.nationalarchives.gov.uk/education/resources/russian-revolution/">British National Archives — The Russian Revolution</a>'
-  - '<a href="https://www.britannica.com/event/Russian-Revolution-of-1917">Britannica — Russian Revolution of 1917</a>'
-  - '<a href="https://www.loc.gov/collections/russian-empire/">Library of Congress — Russian Empire Collection</a>'
-  - '<a href="https://www.history.com/articles/russian-revolution">History.com — Russian Revolution</a>'
+  - "British National Archives — The Russian Revolution — https://www.nationalarchives.gov.uk/education/resources/russian-revolution/"
+  - "Britannica — Russian Revolution of 1917 — https://www.britannica.com/event/Russian-Revolution-of-1917"
+  - "Library of Congress — Russian Empire Collection — https://www.loc.gov/collections/russian-empire/"
+  - "History.com — Russian Revolution — https://www.history.com/articles/russian-revolution"
 ---
 
 ## An Empire Crumbling From Within

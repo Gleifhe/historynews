@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 148
 sources:
-  - "<a href='https://www.england.nhs.uk/about/'>NHS England – About the NHS</a>"
-  - "<a href='https://www.britannica.com/topic/National-Health-Service'>Britannica – National Health Service</a>"
-  - "<a href='https://www.bbc.co.uk/history/british/modern/nhs_01.shtml'>BBC – History of the NHS</a>"
-  - "<a href='https://www.who.int/'>World Health Organization</a>"
+  - "NHS England – About the NHS — https://www.england.nhs.uk/about/"
+  - "Britannica – National Health Service — https://www.britannica.com/topic/National-Health-Service"
+  - "BBC – History of the NHS — https://www.bbc.co.uk/history/british/modern/nhs_01.shtml"
+  - "World Health Organization — https://www.who.int/"
 ---
 
 On the morning of July 5, 1948, a 13-year-old girl named Sylvia Diggory walked into Park Hospital in Manchester, England. She had a liver condition that her family could not afford to treat. But on that day, something extraordinary happened: she received free medical care. No bill. No payment. No questions about whether her family had enough money.

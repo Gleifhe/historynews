@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 116
 sources:
-  - "<a href='https://www.heartofcapetown.co.za/'>Heart of Cape Town Museum — Official Site</a>"
-  - "<a href='https://www.nlm.nih.gov/exhibition/lifeandlimb/transplantation.html'>National Library of Medicine — History of Transplantation</a>"
-  - "<a href='https://www.britannica.com/biography/Christiaan-Barnard'>Britannica — Christiaan Barnard Biography</a>"
-  - "<a href='https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32986-0/fulltext'>The Lancet — 50 Years of Heart Transplantation</a>"
+  - "Heart of Cape Town Museum — Official Site — https://www.heartofcapetown.co.za/"
+  - "National Library of Medicine — History of Transplantation — https://www.nlm.nih.gov/exhibition/lifeandlimb/transplantation.html"
+  - "Britannica — Christiaan Barnard Biography — https://www.britannica.com/biography/Christiaan-Barnard"
+  - "The Lancet — 50 Years of Heart Transplantation — https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32986-0/fulltext"
 ---
 
 In the early morning hours of December 3, 1967, something happened in Cape Town, South Africa, that the world had never seen before. A surgeon named Christiaan Barnard carefully removed a damaged heart from a dying man's chest and replaced it with a healthy one from a young woman who had just passed away. For the first time in history, a human being lived with another person's heart beating inside them.

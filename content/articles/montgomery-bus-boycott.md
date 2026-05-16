@@ -13,9 +13,9 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Cd2ch4XV84s"
 weight: 56
 sources:
-  - '<a href="https://www.loc.gov/collections/civil-rights-history-project/">Library of Congress — Civil Rights History Project</a>'
-  - '<a href="https://www.history.com/topics/black-history/montgomery-bus-boycott">History.com — Montgomery Bus Boycott</a>'
-  - '<a href="https://kinginstitute.stanford.edu/montgomery-bus-boycott">King Institute at Stanford — Montgomery Bus Boycott</a>'
+  - "Library of Congress — Civil Rights History Project — https://www.loc.gov/collections/civil-rights-history-project/"
+  - "History.com — Montgomery Bus Boycott — https://www.history.com/topics/black-history/montgomery-bus-boycott"
+  - "King Institute at Stanford — Montgomery Bus Boycott — https://kinginstitute.stanford.edu/montgomery-bus-boycott"
   - 'Taylor Branch, <em>Parting the Waters: America in the King Years 1954–63</em> (1988, Simon & Schuster)'
 ---
 

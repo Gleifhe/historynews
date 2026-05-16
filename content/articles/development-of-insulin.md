@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 120
 sources:
-  - "<a href='https://www.bantinghousenhs.ca/'>Banting House National Historic Site — Official Site</a>"
-  - "<a href='https://www.nobelprize.org/prizes/medicine/1923/banting/biographical/'>Nobel Prize — Frederick Banting Biography</a>"
-  - "<a href='https://www.diabetes.org/about-diabetes/history'>American Diabetes Association — History of Diabetes</a>"
-  - "<a href='https://www.britannica.com/science/insulin'>Britannica — Insulin</a>"
+  - "Banting House National Historic Site — Official Site — https://www.bantinghousenhs.ca/"
+  - "Nobel Prize — Frederick Banting Biography — https://www.nobelprize.org/prizes/medicine/1923/banting/biographical/"
+  - "American Diabetes Association — History of Diabetes — https://www.diabetes.org/about-diabetes/history"
+  - "Britannica — Insulin — https://www.britannica.com/science/insulin"
 ---
 
 Before 1921, a diagnosis of Type 1 diabetes was a death sentence. The disease, which prevents the body from producing insulin — the hormone needed to turn sugar into energy — left patients wasting away. Children with diabetes were placed on near-starvation diets to slow the disease, but they rarely survived more than a year or two. Hospital wards full of skeletal, dying children were a heartbreaking reality of early 20th century medicine.

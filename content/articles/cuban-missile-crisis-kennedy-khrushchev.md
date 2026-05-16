@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain (U.S. Government)"
 video: "https://www.youtube.com/embed/I79TpDe3t2g"
 weight: 68
 sources:
-  - '<a href="https://www.cia.gov/readingroom/collection/cuban-missile-crisis">CIA FOIA Reading Room — Cuban Missile Crisis Collection</a>'
-  - '<a href="https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/cuban-missile-crisis">JFK Library — Cuban Missile Crisis</a>'
-  - '<a href="https://nsarchive.gwu.edu/briefing-book/cuba-russia-programs/2012-10-10/cuban-missile-crisis">National Security Archive — Kennedy-Khrushchev Exchanges</a>'
-  - '<a href="https://www.history.com/articles/cuban-missile-crisis-kennedy-khrushchev">History.com — Kennedy and Khrushchev</a>'
+  - "CIA FOIA Reading Room — Cuban Missile Crisis Collection — https://www.cia.gov/readingroom/collection/cuban-missile-crisis"
+  - "JFK Library — Cuban Missile Crisis — https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/cuban-missile-crisis"
+  - "National Security Archive — Kennedy-Khrushchev Exchanges — https://nsarchive.gwu.edu/briefing-book/cuba-russia-programs/2012-10-10/cuban-missile-crisis"
+  - "History.com — Kennedy and Khrushchev — https://www.history.com/articles/cuban-missile-crisis-kennedy-khrushchev"
 ---
 
 ## Two Men, One World

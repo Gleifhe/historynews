@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / CC BY-SA 3.0"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 131
 sources:
-  - '<a href="https://cain.ulster.ac.uk/events/peace/docs/agreement.htm" target="_blank">CAIN Web Service — The Belfast/Good Friday Agreement</a>'
-  - '<a href="https://www.britannica.com/event/Good-Friday-Agreement" target="_blank">Encyclopaedia Britannica — Good Friday Agreement</a>'
-  - '<a href="https://www.history.com/topics/british-history/the-good-friday-agreement" target="_blank">History.com — Good Friday Agreement</a>'
-  - '<a href="https://www.bbc.co.uk/history/events/good_friday_agreement" target="_blank">BBC History — Good Friday Agreement</a>'
+  - "CAIN Web Service — The Belfast/Good Friday Agreement — https://cain.ulster.ac.uk/events/peace/docs/agreement.htm"
+  - "Encyclopaedia Britannica — Good Friday Agreement — https://www.britannica.com/event/Good-Friday-Agreement"
+  - "History.com — Good Friday Agreement — https://www.history.com/topics/british-history/the-good-friday-agreement"
+  - "BBC History — Good Friday Agreement — https://www.bbc.co.uk/history/events/good_friday_agreement"
 ---
 
 On the evening of April 10, 1998 — Good Friday — exhausted negotiators in Belfast, Northern Ireland, finally reached an agreement that many people thought would never happen. After 30 years of bombs, shootings, and deep hatred between communities, peace had a chance. The Good Friday Agreement, as it became known, was one of the most remarkable peace deals in modern history.

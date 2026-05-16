@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / U.S. Fish and Wildlife Service"
 video: "https://www.youtube.com/embed/G4H1N_yXBiA"
 weight: 105
 sources:
-  - '<a href="https://www.fws.gov/species/bald-eagle-haliaeetus-leucocephalus">U.S. Fish and Wildlife Service – Bald Eagle</a>'
+  - "U.S. Fish and Wildlife Service – Bald Eagle — https://www.fws.gov/species/bald-eagle-haliaeetus-leucocephalus"
   - "<a href=\"https://www.audubon.org/news/the-bald-eagles-comeback\">National Audubon Society - The Bald Eagle's Comeback</a>"
-  - '<a href="https://www.epa.gov/history/epa-history-ddt">EPA – DDT History</a>'
-  - '<a href="https://www.doi.gov/blog/13-things-you-didnt-know-about-bald-eagles">U.S. Department of the Interior – Bald Eagle Facts</a>'
+  - "EPA – DDT History — https://www.epa.gov/history/epa-history-ddt"
+  - "U.S. Department of the Interior – Bald Eagle Facts — https://www.doi.gov/blog/13-things-you-didnt-know-about-bald-eagles"
 ---
 
 The bald eagle is the national symbol of the United States, representing freedom, strength, and independence. It appears on the Great Seal, on currency, and in countless patriotic images. But by the early 1960s, this magnificent bird was on the verge of disappearing forever. The story of how it came back is one of the greatest conservation victories in history.

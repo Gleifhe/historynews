@@ -13,9 +13,9 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/yb7MI8NQLoo"
 weight: 61
 sources:
-  - '<a href="https://www.archives.gov/milestone-documents/washingtons-letter-to-the-continental-congress">National Archives - Washington Letters</a>'
-  - '<a href="https://www.nps.gov/vafo/learn/historyculture/index.htm">NPS — Valley Forge National Historical Park</a>'
-  - '<a href="https://www.history.com/topics/american-revolution/valley-forge">History.com — Valley Forge</a>'
+  - "National Archives - Washington Letters — https://www.archives.gov/milestone-documents/washingtons-letter-to-the-continental-congress"
+  - "NPS — Valley Forge National Historical Park — https://www.nps.gov/vafo/learn/historyculture/index.htm"
+  - "History.com — Valley Forge — https://www.history.com/topics/american-revolution/valley-forge"
   - 'Wayne Bodle, <em>The Valley Forge Winter: Civilians and Soldiers in War</em> (2002, Penn State University Press)'
 ---
 

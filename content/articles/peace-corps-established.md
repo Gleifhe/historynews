@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 149
 sources:
-  - "<a href='https://www.peacecorps.gov/about/'>Peace Corps – About</a>"
-  - "<a href='https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/peace-corps'>JFK Library – Peace Corps</a>"
-  - "<a href='https://www.britannica.com/topic/Peace-Corps'>Britannica – Peace Corps</a>"
-  - "<a href='https://www.history.com/topics/us-government-and-politics/peace-corps'>History.com – Peace Corps</a>"
+  - "Peace Corps – About — https://www.peacecorps.gov/about/"
+  - "JFK Library – Peace Corps — https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/peace-corps"
+  - "Britannica – Peace Corps — https://www.britannica.com/topic/Peace-Corps"
+  - "History.com – Peace Corps — https://www.history.com/topics/us-government-and-politics/peace-corps"
 ---
 
 It was 2:00 in the morning on October 14, 1960, and Senator John F. Kennedy was running late. He arrived at the University of Michigan to find 10,000 students waiting for him on the steps of the student union. Instead of giving a standard campaign speech, Kennedy asked the crowd a question that would change history: Would they be willing to serve their country by living and working in developing nations around the world?

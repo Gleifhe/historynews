@@ -13,10 +13,10 @@ imagecredit: "DFID / Wikimedia Commons / CC BY 2.0"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 133
 sources:
-  - '<a href="https://www.nobelprize.org/prizes/peace/2014/yousafzai/biographical/" target="_blank">Nobel Prize — Malala Yousafzai Biographical</a>'
+  - "Nobel Prize — Malala Yousafzai Biographical — https://www.nobelprize.org/prizes/peace/2014/yousafzai/biographical/"
   - "<a href=\"https://malala.org/malalas-story\" target=\"_blank\">Malala Fund — Malala's Story</a>"
-  - '<a href="https://www.britannica.com/biography/Malala-Yousafzai" target="_blank">Encyclopaedia Britannica — Malala Yousafzai</a>'
-  - '<a href="https://www.bbc.co.uk/news/world-asia-23241937" target="_blank">BBC News — Malala Yousafzai: The Girl Who Was Shot for Going to School</a>'
+  - "Encyclopaedia Britannica — Malala Yousafzai — https://www.britannica.com/biography/Malala-Yousafzai"
+  - "BBC News — Malala Yousafzai: The Girl Who Was Shot for Going to School — https://www.bbc.co.uk/news/world-asia-23241937"
 ---
 
 On October 9, 2012, a 15-year-old girl named Malala Yousafzai was riding the school bus home in Pakistan's Swat Valley. A masked gunman climbed aboard, asked "Who is Malala?", and shot her in the head. The Taliban, the extremist group that controlled the area, had decided that a teenage girl who spoke up for education was too dangerous to live.

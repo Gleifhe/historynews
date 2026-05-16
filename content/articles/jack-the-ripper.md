@@ -13,10 +13,10 @@ imagecredit: "Punch Magazine / Public Domain"
 video: "https://www.youtube.com/embed/GVASftNawjY"
 weight: 33
 sources:
-  - '<a href="https://www.britishnewspaperarchive.co.uk/titles/east-london-observer">British Newspaper Archive — East London Observer, 1888</a>'
-  - '<a href="https://www.nationalarchives.gov.uk/education/resources/jack-the-ripper/">The National Archives UK — Jack the Ripper</a>'
-  - '<a href="https://www.britannica.com/biography/Jack-the-Ripper">Britannica — Jack the Ripper</a>'
-  - '<a href="https://www.historic-uk.com/HistoryUK/HistoryofEngland/Jack-the-Ripper/">Historic UK — Jack the Ripper</a>'
+  - "British Newspaper Archive — East London Observer, 1888 — https://www.britishnewspaperarchive.co.uk/titles/east-london-observer"
+  - "The National Archives UK — Jack the Ripper — https://www.nationalarchives.gov.uk/education/resources/jack-the-ripper/"
+  - "Britannica — Jack the Ripper — https://www.britannica.com/biography/Jack-the-Ripper"
+  - "Historic UK — Jack the Ripper — https://www.historic-uk.com/HistoryUK/HistoryofEngland/Jack-the-Ripper/"
 ---
 
 In the fall of 1888, the people of London's East End lived in terror. A mysterious killer was loose in the streets of Whitechapel, one of the poorest and most crowded neighborhoods in the city. The murderer targeted vulnerable women and committed crimes so horrifying that newspapers around the world reported every detail. The killer was never caught, and the case remains the most famous unsolved mystery in criminal history.

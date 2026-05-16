@@ -13,10 +13,10 @@ imagecredit: "Library of Congress"
 video: "https://www.youtube.com/embed/8gksEuJN04Q"
 weight: 47
 sources:
-  - '<a href="https://www.history.com/articles/history-of-the-salem-witch-trials">History.com — History of the Salem Witch Trials</a>'
-  - '<a href="https://www.smithsonianmag.com/history/a-brief-history-of-the-salem-witch-trials-175162489/">Smithsonian Magazine — Salem Witch Trials</a>'
-  - '<a href="https://www.loc.gov/collections/salem-witchcraft-trials/">Library of Congress — Salem Witchcraft Trials</a>'
-  - '<a href="https://salem.lib.virginia.edu/">University of Virginia — Salem Witch Trials Documentary Archive</a>'
+  - "History.com — History of the Salem Witch Trials — https://www.history.com/articles/history-of-the-salem-witch-trials"
+  - "Smithsonian Magazine — Salem Witch Trials — https://www.smithsonianmag.com/history/a-brief-history-of-the-salem-witch-trials-175162489/"
+  - "Library of Congress — Salem Witchcraft Trials — https://www.loc.gov/collections/salem-witchcraft-trials/"
+  - "University of Virginia — Salem Witch Trials Documentary Archive — https://salem.lib.virginia.edu/"
 ---
 
 ## Something Strange in Salem Village

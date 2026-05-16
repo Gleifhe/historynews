@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain (U.S. Army)"
 video: "https://www.youtube.com/embed/OIYy32RuHao"
 weight: 67
 sources:
-  - '<a href="https://nsarchive.gwu.edu/nsa/cuba_mis_cri/">National Security Archive — Cuban Missile Crisis Declassified</a>'
-  - '<a href="https://www.armscontrol.org/act/2002-11/features/cuban-missile-crisis-lessons">Arms Control Association — Cuban Missile Crisis Lessons</a>'
-  - '<a href="https://www.atomicarchive.com/history/cold-war/page-14.html">Atomic Archive — Cuban Missile Crisis</a>'
-  - '<a href="https://www.wilsoncenter.org/publication/the-cuban-missile-crisis-1962">Wilson Center — Cuban Missile Crisis Documents</a>'
+  - "National Security Archive — Cuban Missile Crisis Declassified — https://nsarchive.gwu.edu/nsa/cuba_mis_cri/"
+  - "Arms Control Association — Cuban Missile Crisis Lessons — https://www.armscontrol.org/act/2002-11/features/cuban-missile-crisis-lessons"
+  - "Atomic Archive — Cuban Missile Crisis — https://www.atomicarchive.com/history/cold-war/page-14.html"
+  - "Wilson Center — Cuban Missile Crisis Documents — https://www.wilsoncenter.org/publication/the-cuban-missile-crisis-1962"
 ---
 
 ## Closer Than Anyone Knew

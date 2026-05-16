@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / CC BY-SA"
 video: "https://www.youtube.com/embed/ddzbxJasID4"
 weight: 31
 sources:
-  - '<a href="https://archive.org/details/y2k-bug-collection">Internet Archive — Y2K Bug Collection</a>'
-  - '<a href="https://www.britannica.com/technology/Y2K-bug">Britannica — Y2K Bug</a>'
-  - '<a href="https://www.nytimes.com/2000/01/01/technology/the-y2k-bug.html">The New York Times — The Y2K Bug</a>'
-  - '<a href="https://www.computerhistory.org/revolution/digital-logic/12/330">Computer History Museum — Y2K and the Digital Revolution</a>'
+  - "Internet Archive — Y2K Bug Collection — https://archive.org/details/y2k-bug-collection"
+  - "Britannica — Y2K Bug — https://www.britannica.com/technology/Y2K-bug"
+  - "The New York Times — The Y2K Bug — https://www.nytimes.com/2000/01/01/technology/the-y2k-bug.html"
+  - "Computer History Museum — Y2K and the Digital Revolution — https://www.computerhistory.org/revolution/digital-logic/12/330"
 ---
 
 In the final months of 1999, the world held its breath. Governments warned their citizens to stockpile food and water. Banks prepared for massive withdrawals. Power companies ran emergency drills. The reason for all this fear? A tiny programming shortcut made decades earlier that could potentially shut down computers around the globe the moment the calendar flipped to January 1, 2000.

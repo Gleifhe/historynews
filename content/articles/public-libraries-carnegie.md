@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 146
 sources:
-  - "<a href='https://www.carnegie.org/interactives/foundersstory/'>Carnegie Corporation – Founder's Story</a>"
-  - "<a href='https://www.britannica.com/biography/Andrew-Carnegie'>Britannica – Andrew Carnegie</a>"
-  - "<a href='https://www.loc.gov/rr/program/bib/carnegie/'>Library of Congress – Carnegie Libraries</a>"
-  - "<a href='https://www.si.edu/spotlight/andrew-carnegie'>Smithsonian – Andrew Carnegie</a>"
+  - "Carnegie Corporation – Founder's Story — https://www.carnegie.org/interactives/foundersstory/"
+  - "Britannica – Andrew Carnegie — https://www.britannica.com/biography/Andrew-Carnegie"
+  - "Library of Congress – Carnegie Libraries — https://www.loc.gov/rr/program/bib/carnegie/"
+  - "Smithsonian – Andrew Carnegie — https://www.si.edu/spotlight/andrew-carnegie"
 ---
 
 In the 1850s, a young Scottish immigrant named Andrew Carnegie worked in a cotton factory in Pittsburgh, Pennsylvania. He earned $1.20 per week. He had no formal education and could not afford to buy books. But a local businessman named Colonel James Anderson opened his personal library to working boys every Saturday. Carnegie later wrote that those borrowed books "opened the windows of my mind to the world."

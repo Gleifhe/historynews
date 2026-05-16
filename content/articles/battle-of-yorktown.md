@@ -13,9 +13,9 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/yb7MI8NQLoo"
 weight: 62
 sources:
-  - '<a href="https://www.loc.gov/collections/george-washington-papers/">Library of Congress — George Washington Papers</a>'
-  - '<a href="https://www.nps.gov/york/learn/historyculture/index.htm">NPS — Yorktown Battlefield</a>'
-  - '<a href="https://www.history.com/topics/american-revolution/siege-of-yorktown">History.com — Siege of Yorktown</a>'
+  - "Library of Congress — George Washington Papers — https://www.loc.gov/collections/george-washington-papers/"
+  - "NPS — Yorktown Battlefield — https://www.nps.gov/york/learn/historyculture/index.htm"
+  - "History.com — Siege of Yorktown — https://www.history.com/topics/american-revolution/siege-of-yorktown"
   - 'Richard M. Ketchum, <em>Victory at Yorktown: The Campaign That Won the Revolution</em> (2004, Henry Holt and Company)'
 ---
 

@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 130
 sources:
-  - '<a href="https://www.icrc.org/en/doc/war-and-law/treaties-customary-law/geneva-conventions/overview-geneva-conventions.htm" target="_blank">ICRC — The Geneva Conventions of 1949</a>'
-  - '<a href="https://www.britannica.com/event/Geneva-Conventions" target="_blank">Encyclopaedia Britannica — Geneva Conventions</a>'
-  - '<a href="https://www.history.com/topics/world-war-ii/geneva-convention" target="_blank">History.com — Geneva Convention</a>'
-  - '<a href="https://ihl-databases.icrc.org/en/ihl-treaties/gciv-1949" target="_blank">ICRC — IHL Database: Fourth Geneva Convention</a>'
+  - "ICRC — The Geneva Conventions of 1949 — https://www.icrc.org/en/doc/war-and-law/treaties-customary-law/geneva-conventions/overview-geneva-conventions.htm"
+  - "Encyclopaedia Britannica — Geneva Conventions — https://www.britannica.com/event/Geneva-Conventions"
+  - "History.com — Geneva Convention — https://www.history.com/topics/world-war-ii/geneva-convention"
+  - "ICRC — IHL Database: Fourth Geneva Convention — https://ihl-databases.icrc.org/en/ihl-treaties/gciv-1949"
 ---
 
 On August 12, 1949, in the elegant Swiss city of Geneva, representatives from nations around the world gathered to sign four treaties that would change the rules of war forever. The Geneva Conventions, as they came to be known, established for the first time a comprehensive set of international laws designed to protect the most vulnerable people in armed conflict — wounded soldiers, prisoners of war, and ordinary civilians.

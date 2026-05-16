@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 110
 sources:
-  - '<a href="https://www.bbc.com/news/world-asia-44791998">BBC News - Thailand Cave Rescue: All 12 Boys and Coach Rescued</a>'
-  - '<a href="https://www.nationalgeographic.com/adventure/article/thai-cave-rescue-timeline">National Geographic - Thai Cave Rescue Timeline</a>'
-  - '<a href="https://www.reuters.com/article/us-thailand-accident-cave-idUSKBN1K00WP">Reuters - Thailand Cave Rescue Coverage</a>'
-  - '<a href="https://www.theguardian.com/world/2018/jul/10/thailand-cave-rescue-all-12-boys-and-football-coach-freed">The Guardian - Thailand Cave Rescue Complete</a>'
+  - "BBC News - Thailand Cave Rescue: All 12 Boys and Coach Rescued — https://www.bbc.com/news/world-asia-44791998"
+  - "National Geographic - Thai Cave Rescue Timeline — https://www.nationalgeographic.com/adventure/article/thai-cave-rescue-timeline"
+  - "Reuters - Thailand Cave Rescue Coverage — https://www.reuters.com/article/us-thailand-accident-cave-idUSKBN1K00WP"
+  - "The Guardian - Thailand Cave Rescue Complete — https://www.theguardian.com/world/2018/jul/10/thailand-cave-rescue-all-12-boys-and-football-coach-freed"
 ---
 
 On June 23, 2018, twelve boys from the Wild Boars soccer team and their 25-year-old assistant coach, Ekapol Chanthawong, entered the Tham Luang cave in northern Thailand. They planned a short, fun trip to explore the cave after practice. It was something they had done before. But this time, heavy monsoon rains began flooding the cave behind them. The water rose fast, pushing the group deeper and deeper underground. They could not get out.

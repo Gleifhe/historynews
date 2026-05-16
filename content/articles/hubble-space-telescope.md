@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / NASA / ESA"
 video: "https://www.youtube.com/embed/SGP6Y0Pnhe4"
 weight: 104
 sources:
-  - '<a href="https://hubblesite.org/mission-and-telescope">HubbleSite – Mission and Telescope</a>'
-  - '<a href="https://www.nasa.gov/mission_pages/hubble/main/index.html">NASA – Hubble Space Telescope</a>'
-  - '<a href="https://www.stsci.edu/hst">Space Telescope Science Institute – Hubble</a>'
-  - '<a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_overview">European Space Agency – Hubble Overview</a>'
+  - "HubbleSite – Mission and Telescope — https://hubblesite.org/mission-and-telescope"
+  - "NASA – Hubble Space Telescope — https://www.nasa.gov/mission_pages/hubble/main/index.html"
+  - "Space Telescope Science Institute – Hubble — https://www.stsci.edu/hst"
+  - "European Space Agency – Hubble Overview — https://www.esa.int/Science_Exploration/Space_Science/Hubble_overview"
 ---
 
 On April 24, 1990, the Space Shuttle Discovery carried the Hubble Space Telescope into orbit 340 miles above Earth. It was one of the most anticipated moments in the history of science. For decades, astronomers had dreamed of putting a telescope above the atmosphere, where the blurring effects of Earth's air would not interfere with observations. Hubble was supposed to give us the clearest view of the universe ever achieved.

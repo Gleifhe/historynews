@@ -13,9 +13,9 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 57
 sources:
-  - '<a href="https://www.archives.gov/research/civil-rights">National Archives — Civil Rights Research</a>'
-  - '<a href="https://kinginstitute.stanford.edu/birmingham-campaign">King Institute at Stanford — Birmingham Campaign</a>'
-  - '<a href="https://www.nps.gov/semo/learn/historyculture/selma-to-montgomery.htm">NPS — Selma to Montgomery March</a>'
+  - "National Archives — Civil Rights Research — https://www.archives.gov/research/civil-rights"
+  - "King Institute at Stanford — Birmingham Campaign — https://kinginstitute.stanford.edu/birmingham-campaign"
+  - "NPS — Selma to Montgomery March — https://www.nps.gov/semo/learn/historyculture/selma-to-montgomery.htm"
   - 'Diane McWhorter, <em>Carry Me Home: Birmingham, Alabama — The Climactic Battle of the Civil Rights Revolution</em> (2001, Simon & Schuster)'
 ---
 

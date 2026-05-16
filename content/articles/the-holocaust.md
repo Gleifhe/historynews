@@ -13,9 +13,9 @@ imagecredit: "Wikimedia Commons / CC BY-SA"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 51
 sources:
-  - '<a href="https://encyclopedia.ushmm.org/content/en/article/introduction-to-the-holocaust">USHMM — Introduction to the Holocaust</a>'
-  - '<a href="https://www.britannica.com/event/Holocaust">Britannica — Holocaust</a>'
-  - '<a href="https://www.history.com/topics/world-war-ii/the-holocaust">History.com — The Holocaust</a>'
+  - "USHMM — Introduction to the Holocaust — https://encyclopedia.ushmm.org/content/en/article/introduction-to-the-holocaust"
+  - "Britannica — Holocaust — https://www.britannica.com/event/Holocaust"
+  - "History.com — The Holocaust — https://www.history.com/topics/world-war-ii/the-holocaust"
   - 'Primo Levi, <em>Survival in Auschwitz</em> (1947, Orion Press)'
 ---
 

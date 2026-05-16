@@ -13,10 +13,10 @@ imagecredit: "Library of Congress, Prints & Photographs Division"
 video: "https://www.youtube.com/embed/Q_B3MaLgXUo"
 weight: 37
 sources:
-  - '<a href="https://catalog.hathitrust.org/Record/001111345">HathiTrust — The Johnstown Flood, David McCullough</a>'
-  - '<a href="https://www.jaha.org/attractions/johnstown-flood-museum/">Johnstown Flood Museum — Johnstown Area Heritage Association</a>'
-  - '<a href="https://www.nps.gov/jofl/index.htm">National Park Service — Johnstown Flood National Memorial</a>'
-  - '<a href="https://www.britannica.com/event/Johnstown-flood">Britannica — Johnstown Flood</a>'
+  - "HathiTrust — The Johnstown Flood, David McCullough — https://catalog.hathitrust.org/Record/001111345"
+  - "Johnstown Flood Museum — Johnstown Area Heritage Association — https://www.jaha.org/attractions/johnstown-flood-museum/"
+  - "National Park Service — Johnstown Flood National Memorial — https://www.nps.gov/jofl/index.htm"
+  - "Britannica — Johnstown Flood — https://www.britannica.com/event/Johnstown-flood"
 ---
 
 On the afternoon of May 31, 1889, the people of Johnstown, Pennsylvania, heard a low rumble that grew into a roar. Moments later, a wall of water 60 feet high and half a mile wide came crashing through the valley at 40 miles per hour. In just ten minutes, an entire city was destroyed. More than 2,200 people were killed, making the Johnstown Flood one of the deadliest disasters in American history — a distinction it would share with [the 1906 San Francisco earthquake](/articles/1906-san-francisco-earthquake/).

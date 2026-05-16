@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 100
 sources:
-  - '<a href="https://www.worldfoodprize.org/en/dr_norman_e_borlaug/about_norman_borlaug/">World Food Prize Foundation – About Norman Borlaug</a>'
-  - '<a href="https://www.nobelprize.org/prizes/peace/1970/borlaug/biographical/">Nobel Prize – Norman Borlaug Biography</a>'
-  - '<a href="https://www.agri-history.org/borlaug-green-revolution/">Agricultural History Society – The Green Revolution</a>'
-  - '<a href="https://www.fao.org/newsroom/en/focus/2004/51786/index.html">Food and Agriculture Organization – Green Revolution Legacy</a>'
+  - "World Food Prize Foundation – About Norman Borlaug — https://www.worldfoodprize.org/en/dr_norman_e_borlaug/about_norman_borlaug/"
+  - "Nobel Prize – Norman Borlaug Biography — https://www.nobelprize.org/prizes/peace/1970/borlaug/biographical/"
+  - "Agricultural History Society – The Green Revolution — https://www.agri-history.org/borlaug-green-revolution/"
+  - "Food and Agriculture Organization – Green Revolution Legacy — https://www.fao.org/newsroom/en/focus/2004/51786/index.html"
 ---
 
 In the early 1960s, the world was facing a terrifying problem. Populations were growing fast, but food supplies were not keeping up. Experts predicted that hundreds of millions of people in Asia and Africa would starve to death within a decade. Newspapers ran grim headlines about an approaching famine that no one could stop.

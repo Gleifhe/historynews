@@ -13,10 +13,10 @@ imagecredit: "NASA / Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/SGP6Y0Pnhe4"
 weight: 96
 sources:
-  - '<a href="https://www.nasa.gov/mission_pages/apollo/apollo11.html" target="_blank">NASA — Apollo 11 Mission</a>'
-  - '<a href="https://airandspace.si.edu/explore/stories/apollo-11-moon-landing" target="_blank">Smithsonian Air and Space Museum — Apollo 11</a>'
-  - '<a href="https://www.history.com/topics/space-exploration/moon-landing-1969" target="_blank">History.com — Moon Landing 1969</a>'
-  - '<a href="https://www.britannica.com/event/Apollo-11" target="_blank">Encyclopaedia Britannica — Apollo 11</a>'
+  - "NASA — Apollo 11 Mission — https://www.nasa.gov/mission_pages/apollo/apollo11.html"
+  - "Smithsonian Air and Space Museum — Apollo 11 — https://airandspace.si.edu/explore/stories/apollo-11-moon-landing"
+  - "History.com — Moon Landing 1969 — https://www.history.com/topics/space-exploration/moon-landing-1969"
+  - "Encyclopaedia Britannica — Apollo 11 — https://www.britannica.com/event/Apollo-11"
 ---
 
 On July 20, 1969, an estimated 600 million people — about one-fifth of the world's population — gathered around television sets and radios. They watched in breathless silence as a grainy, black-and-white image showed a figure in a bulky white suit slowly descending a ladder. Then came the words that would be remembered forever: "That's one small step for man, one giant leap for mankind."

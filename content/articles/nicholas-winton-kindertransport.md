@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / CC BY-SA 3.0"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 154
 sources:
-  - '<a href="https://www.hmd.org.uk/resource/nicholas-winton/" target="_blank">Holocaust Memorial Day Trust — Nicholas Winton</a>'
-  - '<a href="https://encyclopedia.ushmm.org/content/en/article/kindertransport-1938-40" target="_blank">United States Holocaust Memorial Museum — Kindertransport</a>'
-  - '<a href="https://www.bbc.com/news/uk-33284652" target="_blank">BBC — Sir Nicholas Winton Obituary</a>'
-  - '<a href="https://www.britannica.com/biography/Nicholas-Winton" target="_blank">Encyclopaedia Britannica — Nicholas Winton</a>'
+  - "Holocaust Memorial Day Trust — Nicholas Winton — https://www.hmd.org.uk/resource/nicholas-winton/"
+  - "United States Holocaust Memorial Museum — Kindertransport — https://encyclopedia.ushmm.org/content/en/article/kindertransport-1938-40"
+  - "BBC — Sir Nicholas Winton Obituary — https://www.bbc.com/news/uk-33284652"
+  - "Encyclopaedia Britannica — Nicholas Winton — https://www.britannica.com/biography/Nicholas-Winton"
 ---
 
 In December 1938, a young British stockbroker named Nicholas Winton canceled his ski vacation and traveled to Prague, Czechoslovakia. What he saw there changed his life — and saved the lives of 669 children. Nazi Germany had just taken over parts of Czechoslovakia, and Jewish families were desperate to get their children to safety. Winton decided he would help, even though he had no experience in rescue work and no official support.

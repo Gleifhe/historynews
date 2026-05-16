@@ -13,10 +13,10 @@ imagecredit: "Library of Congress"
 video: "https://www.youtube.com/embed/jdwVUBlK-Y0"
 weight: 19
 sources:
-  - '<a href="https://www.loc.gov/pictures/item/2003688092/">LOC — President John F. Kennedy portrait</a>'
-  - '<a href="https://www.archives.gov/research/jfk">NARA — JFK Assassination Records</a>'
-  - '<a href="https://www.gettyimages.com/editorial-images">Getty Images — JFK Dallas editorial photos</a>'
-  - '<a href="https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/november-22-1963-death-of-the-president">JFK Library — November 22, 1963</a>'
+  - "LOC — President John F. Kennedy portrait — https://www.loc.gov/pictures/item/2003688092/"
+  - "NARA — JFK Assassination Records — https://www.archives.gov/research/jfk"
+  - "Getty Images — JFK Dallas editorial photos — https://www.gettyimages.com/editorial-images"
+  - "JFK Library — November 22, 1963 — https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/november-22-1963-death-of-the-president"
 ---
 
 ## 12:30 PM, Dallas, Texas

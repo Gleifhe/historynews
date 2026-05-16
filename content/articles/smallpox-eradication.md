@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 91
 sources:
-  - '<a href="https://www.who.int/news-room/fact-sheets/detail/smallpox" target="_blank">World Health Organization — Smallpox Fact Sheet</a>'
-  - '<a href="https://www.cdc.gov/smallpox/history/history.html" target="_blank">CDC — History of Smallpox</a>'
-  - '<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1200696/" target="_blank">National Library of Medicine — The Global Eradication of Smallpox</a>'
-  - '<a href="https://www.britannica.com/science/smallpox" target="_blank">Encyclopaedia Britannica — Smallpox</a>'
+  - "World Health Organization — Smallpox Fact Sheet — https://www.who.int/news-room/fact-sheets/detail/smallpox"
+  - "CDC — History of Smallpox — https://www.cdc.gov/smallpox/history/history.html"
+  - "National Library of Medicine — The Global Eradication of Smallpox — https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1200696/"
+  - "Encyclopaedia Britannica — Smallpox — https://www.britannica.com/science/smallpox"
 ---
 
 For thousands of years, smallpox was one of the most terrifying diseases on Earth. It killed about 30 percent of the people who caught it. Those who survived were often left with deep scars covering their bodies. The disease didn't care if you were rich or poor, young or old. It struck kings, peasants, and entire civilizations without mercy.

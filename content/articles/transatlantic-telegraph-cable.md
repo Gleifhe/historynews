@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 142
 sources:
-  - "<a href='https://www.si.edu/spotlight/transatlantic-cable'>Smithsonian – Transatlantic Cable</a>"
-  - "<a href='https://www.britannica.com/topic/transatlantic-cable'>Britannica – Transatlantic Cable</a>"
-  - "<a href='https://www.history.com/topics/inventions/transatlantic-cable'>History.com – Transatlantic Cable</a>"
-  - "<a href='https://atlantic-cable.com/'>Atlantic Cable History</a>"
+  - "Smithsonian – Transatlantic Cable — https://www.si.edu/spotlight/transatlantic-cable"
+  - "Britannica – Transatlantic Cable — https://www.britannica.com/topic/transatlantic-cable"
+  - "History.com – Transatlantic Cable — https://www.history.com/topics/inventions/transatlantic-cable"
+  - "Atlantic Cable History — https://atlantic-cable.com/"
 ---
 
 In the summer of 1858, something happened that seemed almost magical. A message traveled from England to the United States — not by ship, which would take weeks, but through a thin copper wire lying on the bottom of the Atlantic Ocean. It arrived in minutes. For the first time in history, two continents could talk to each other almost instantly.

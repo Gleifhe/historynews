@@ -13,9 +13,9 @@ imagecredit: "Wright Brothers / Library of Congress"
 weight: 14
 video: "https://www.youtube.com/embed/sklryxX01D8"
 sources:
-  - '<a href="https://www.si.edu/object/1903-wright-flyer:NASM_A19610048000">Smithsonian Open Access — 1903 Wright Flyer</a>'
-  - '<a href="https://www.loc.gov/pictures/item/00649999/">LOC — Wright Brothers glass-plate negative collection</a>'
-  - '<a href="https://airandspace.si.edu/explore/stories/wright-brothers">Smithsonian Air & Space — The Wright Brothers</a>'
+  - "Smithsonian Open Access — 1903 Wright Flyer — https://www.si.edu/object/1903-wright-flyer:NASM_A19610048000"
+  - "LOC — Wright Brothers glass-plate negative collection — https://www.loc.gov/pictures/item/00649999/"
+  - "Smithsonian Air & Space — The Wright Brothers — https://airandspace.si.edu/explore/stories/wright-brothers"
   - 'David McCullough, <em>The Wright Brothers</em> (2015, Simon & Schuster)'
 ---
 

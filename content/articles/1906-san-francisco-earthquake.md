@@ -13,10 +13,10 @@ imagecredit: "Arnold Genthe, Library of Congress"
 video: "https://www.youtube.com/embed/4uXe3hvk6Yc"
 weight: 1
 sources:
-  - '<a href="https://www.loc.gov/pictures/item/00652579/">Library of Congress — Ruins after San Francisco earthquake, 1906</a>'
-  - '<a href="https://www.loc.gov/collections/san-francisco-earthquake-and-fire-of-1906/">LOC Digital Collection — San Francisco Earthquake, 1906</a>'
-  - '<a href="https://earthquake.usgs.gov/earthquakes/events/1906calif/18702.php">USGS — The Great 1906 San Francisco Earthquake</a>'
-  - '<a href="https://www.nps.gov/prsf/learn/historyculture/1906-earthquake.htm">National Park Service — The 1906 Earthquake</a>'
+  - "Library of Congress — Ruins after San Francisco earthquake, 1906 — https://www.loc.gov/pictures/item/00652579/"
+  - "LOC Digital Collection — San Francisco Earthquake, 1906 — https://www.loc.gov/collections/san-francisco-earthquake-and-fire-of-1906/"
+  - "USGS — The Great 1906 San Francisco Earthquake — https://earthquake.usgs.gov/earthquakes/events/1906calif/18702.php"
+  - "National Park Service — The 1906 Earthquake — https://www.nps.gov/prsf/learn/historyculture/1906-earthquake.htm"
 ---
 
 ## The Morning Everything Changed

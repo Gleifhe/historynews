@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 63
 sources:
-  - '<a href="https://www.nps.gov/gett/learn/historyculture/index.htm">National Park Service — Gettysburg National Military Park</a>'
-  - '<a href="https://www.battlefields.org/learn/civil-war/battles/gettysburg">American Battlefield Trust — Battle of Gettysburg</a>'
-  - '<a href="https://www.loc.gov/collections/civil-war-glass-negatives/">Library of Congress — Civil War Glass Negatives Collection</a>'
-  - '<a href="https://www.history.com/articles/battle-of-gettysburg">History.com — Battle of Gettysburg</a>'
+  - "National Park Service — Gettysburg National Military Park — https://www.nps.gov/gett/learn/historyculture/index.htm"
+  - "American Battlefield Trust — Battle of Gettysburg — https://www.battlefields.org/learn/civil-war/battles/gettysburg"
+  - "Library of Congress — Civil War Glass Negatives Collection — https://www.loc.gov/collections/civil-war-glass-negatives/"
+  - "History.com — Battle of Gettysburg — https://www.history.com/articles/battle-of-gettysburg"
 ---
 
 ## Two Armies Collide in a Small Town

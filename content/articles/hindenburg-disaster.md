@@ -13,9 +13,9 @@ imagecredit: "Library of Congress"
 video: "https://www.youtube.com/embed/CgWHbpMVQ1U"
 weight: 30
 sources:
-  - '<a href="https://www.newspapers.com/">Newspapers.com — Hindenburg Disaster Coverage</a>'
-  - '<a href="https://www.britannica.com/event/Hindenburg-disaster">Britannica — Hindenburg disaster</a>'
-  - '<a href="https://www.history.com/topics/early-20th-century-us/hindenburg">History.com — Hindenburg</a>'
+  - "Newspapers.com — Hindenburg Disaster Coverage — https://www.newspapers.com/"
+  - "Britannica — Hindenburg disaster — https://www.britannica.com/event/Hindenburg-disaster"
+  - "History.com — Hindenburg — https://www.history.com/topics/early-20th-century-us/hindenburg"
   - 'Michael Mooney, <em>The Hindenburg</em> (1972, Dodd, Mead)'
 ---
 

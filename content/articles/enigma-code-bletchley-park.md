@@ -13,9 +13,9 @@ imagecredit: "Wikimedia Commons / CC BY-SA"
 video: "https://www.youtube.com/embed/8FDeLnxCOXA"
 weight: 28
 sources:
-  - '<a href="https://www.nationalarchives.gov.uk/education/resources/enigma/">British National Archives — Enigma</a>'
-  - '<a href="https://www.britannica.com/topic/Enigma-cipher-machine">Britannica — Enigma cipher machine</a>'
-  - '<a href="https://www.history.com/topics/world-war-ii/enigma-machine">History.com — Enigma Machine</a>'
+  - "British National Archives — Enigma — https://www.nationalarchives.gov.uk/education/resources/enigma/"
+  - "Britannica — Enigma cipher machine — https://www.britannica.com/topic/Enigma-cipher-machine"
+  - "History.com — Enigma Machine — https://www.history.com/topics/world-war-ii/enigma-machine"
   - 'Andrew Hodges, <em>Alan Turing: The Enigma</em> (1983, Princeton University Press)'
 ---
 

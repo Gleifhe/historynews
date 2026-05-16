@@ -13,9 +13,9 @@ imagecredit: "Benjamin F. Powelson / Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 158
 sources:
-  - '<a href="https://www.nps.gov/hatu/learn/historyculture/tubman-biography.htm" target="_blank">National Park Service — Harriet Tubman Biography</a>'
-  - '<a href="https://www.history.com/topics/black-history/harriet-tubman" target="_blank">History.com — Harriet Tubman</a>'
-  - '<a href="https://www.britannica.com/biography/Harriet-Tubman" target="_blank">Encyclopaedia Britannica — Harriet Tubman</a>'
+  - "National Park Service — Harriet Tubman Biography — https://www.nps.gov/hatu/learn/historyculture/tubman-biography.htm"
+  - "History.com — Harriet Tubman — https://www.history.com/topics/black-history/harriet-tubman"
+  - "Encyclopaedia Britannica — Harriet Tubman — https://www.britannica.com/biography/Harriet-Tubman"
   - "<a href=\"https://www.womenshistory.org/education-resources/biographies/harriet-tubman\" target=\"_blank\">National Women's History Museum — Harriet Tubman</a>"
 ---
 

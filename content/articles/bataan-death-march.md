@@ -13,10 +13,10 @@ imagecredit: "U.S. National Archives / Wikimedia Commons"
 video: "https://www.youtube.com/embed/N86PrF8Hu54"
 weight: 42
 sources:
-  - '<a href="https://www.nationalww2museum.org/war/articles/bataan-death-march">National WWII Museum — The Bataan Death March</a>'
-  - '<a href="https://www.history.com/articles/bataan-death-march">History.com — Bataan Death March</a>'
-  - '<a href="https://www.archives.gov/research/military/ww2/bataan">National Archives — Bataan and Corregidor</a>'
-  - '<a href="https://www.pbs.org/wgbh/americanexperience/films/bataan/">PBS — Bataan Death March</a>'
+  - "National WWII Museum — The Bataan Death March — https://www.nationalww2museum.org/war/articles/bataan-death-march"
+  - "History.com — Bataan Death March — https://www.history.com/articles/bataan-death-march"
+  - "National Archives — Bataan and Corregidor — https://www.archives.gov/research/military/ww2/bataan"
+  - "PBS — Bataan Death March — https://www.pbs.org/wgbh/americanexperience/films/bataan/"
 ---
 
 ## The Fall of Bataan

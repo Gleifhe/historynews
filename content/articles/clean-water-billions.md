@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / CC BY 2.0"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 162
 sources:
-  - '<a href="https://washdata.org/" target="_blank">WHO/UNICEF Joint Monitoring Programme for Water Supply</a>'
-  - '<a href="https://www.who.int/news-room/fact-sheets/detail/drinking-water" target="_blank">World Health Organization — Drinking Water Fact Sheet</a>'
-  - '<a href="https://www.unicef.org/wash/water" target="_blank">UNICEF — Water, Sanitation and Hygiene</a>'
-  - '<a href="https://www.un.org/millenniumgoals/environ.shtml" target="_blank">United Nations — Millennium Development Goals: Water</a>'
+  - "WHO/UNICEF Joint Monitoring Programme for Water Supply — https://washdata.org/"
+  - "World Health Organization — Drinking Water Fact Sheet — https://www.who.int/news-room/fact-sheets/detail/drinking-water"
+  - "UNICEF — Water, Sanitation and Hygiene — https://www.unicef.org/wash/water"
+  - "United Nations — Millennium Development Goals: Water — https://www.un.org/millenniumgoals/environ.shtml"
 ---
 
 Water is the most basic human need. Without it, a person can die in just three days. Yet for billions of people throughout history, clean drinking water was something they could only dream of. Families walked hours to reach muddy rivers. Children drank from the same ponds where animals bathed. Waterborne diseases like cholera, typhoid, and dysentery killed millions every year, with children suffering the most.

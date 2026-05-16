@@ -13,10 +13,10 @@ imagecredit: "Wikimedia Commons / BruceBlaus"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 124
 sources:
-  - "<a href='https://www.nobelprize.org/prizes/medicine/2010/edwards/biographical/'>Nobel Prize — Robert Edwards Biography</a>"
-  - "<a href='https://www.britannica.com/biography/Louise-Brown'>Britannica — Louise Brown</a>"
-  - "<a href='https://www.sciencemuseum.org.uk/objects-and-stories/medicine/ivf'>Science Museum London — IVF History</a>"
-  - "<a href='https://www.eshre.eu/'>European Society of Human Reproduction and Embryology</a>"
+  - "Nobel Prize — Robert Edwards Biography — https://www.nobelprize.org/prizes/medicine/2010/edwards/biographical/"
+  - "Britannica — Louise Brown — https://www.britannica.com/biography/Louise-Brown"
+  - "Science Museum London — IVF History — https://www.sciencemuseum.org.uk/objects-and-stories/medicine/ivf"
+  - "European Society of Human Reproduction and Embryology — https://www.eshre.eu/"
 ---
 
 For most of human history, couples who could not have children had no options. Infertility was often treated as a source of shame, and in many cultures, women bore the blame even when the cause was unknown. Millions of people around the world longed for children but had no medical path to parenthood. That all changed on a summer night in 1978.

@@ -13,9 +13,9 @@ imagecredit: "Library of Congress"
 video: "https://www.youtube.com/embed/9En-HO5PjJ8"
 weight: 27
 sources:
-  - '<a href="https://www.archives.gov/exhibits/featured-documents/emancipation-proclamation">NARA — Emancipation Proclamation</a>'
-  - '<a href="https://www.britannica.com/event/Emancipation-Proclamation">Britannica — Emancipation Proclamation</a>'
-  - '<a href="https://www.history.com/topics/american-civil-war/emancipation-proclamation">History.com — Emancipation Proclamation</a>'
+  - "NARA — Emancipation Proclamation — https://www.archives.gov/exhibits/featured-documents/emancipation-proclamation"
+  - "Britannica — Emancipation Proclamation — https://www.britannica.com/event/Emancipation-Proclamation"
+  - "History.com — Emancipation Proclamation — https://www.history.com/topics/american-civil-war/emancipation-proclamation"
   - 'Eric Foner, <em>The Fiery Trial: Abraham Lincoln and American Slavery</em> (2010, W.W. Norton)'
 ---
 

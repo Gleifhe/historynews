@@ -46,3 +46,25 @@ When working on the History News site, follow these rules for all external servi
 - **Respect rate limits proactively** — don't wait to hit 429, space requests appropriately
 - **Use JSON format** for all API responses
 - **Log which Wikipedia article each image came from** for traceability and accuracy verification
+
+### Ethical API Usage — Mandatory for ALL External Services
+Before using ANY API or external service — whether listed above or new — you MUST:
+
+1. **Read the official documentation first**: Find the API's terms of use, rate limit policy, and best practices page. Do not guess how an API works based on what seems to work.
+2. **Identify the intended usage pattern**: Every API is designed for a specific access pattern. Use it as intended:
+   - If the API offers batching, batch your requests
+   - If the API offers CDN/thumbnail endpoints, use them instead of hitting origin servers
+   - If the API offers a `maxlag`, `retry-after`, or backoff mechanism, implement it
+3. **Set a proper User-Agent on every request**: Format: `HistoryNewsBot/1.0 (https://github.com/gleifhe/historynews; educational history site) library-name`. Never use a browser User-Agent for bot traffic. Never send requests with no User-Agent.
+4. **Never assume rate limits — look them up**: Check the API documentation for explicit rate limits. If undocumented, start conservatively (1 request/second) and adjust based on response headers.
+5. **Respect every rate-limit signal**:
+   - `429 Too Many Requests` — read the `Retry-After` header for exact wait time. Do not guess.
+   - `503 Service Unavailable` — the server is overloaded. Back off significantly.
+   - `maxlag` responses — the API is telling you it's busy. Wait and retry.
+6. **Cache aggressively**: Never request the same data twice. Save API responses to a local manifest or cache file. Check the cache before making any request.
+7. **Use the least expensive request possible**: If a thumbnail URL is available, don't download the full-resolution original. If a search result gives you what you need, don't fetch the full page.
+8. **Build resume-safe operations**: Save progress after every successful request so interrupted runs can continue without re-requesting data you already have.
+9. **Log your API sources**: Record which API call produced each result (e.g., which Wikipedia article each image came from). This enables accuracy verification and troubleshooting without re-querying.
+10. **When in doubt, ask before blasting**: If you're about to make more than 50 requests to any API, pause and verify you're using the optimal approach. One batched call is always better than 50 individual ones.
+
+**Why this matters**: Getting throttled or blocked wastes time, violates the service's terms, and makes our bot a bad citizen. Every API we use is a free service run by nonprofits or open-source communities. We repay their generosity by being exemplary users, not by hammering their servers.

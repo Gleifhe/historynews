@@ -13,9 +13,9 @@ imagecredit: "Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 75
 sources:
-  - '<a href="https://www.gutenberg.org/ebooks/25717">Project Gutenberg — The History of the Decline and Fall of the Roman Empire by Edward Gibbon</a>'
-  - '<a href="https://www.britannica.com/event/Sack-of-Rome-410">Britannica — Sack of Rome (410)</a>'
-  - '<a href="https://www.worldhistory.org/article/836/alaric-i/">World History Encyclopedia — Alaric I</a>'
+  - "Project Gutenberg — The History of the Decline and Fall of the Roman Empire by Edward Gibbon — https://www.gutenberg.org/ebooks/25717"
+  - "Britannica — Sack of Rome (410) — https://www.britannica.com/event/Sack-of-Rome-410"
+  - "World History Encyclopedia — Alaric I — https://www.worldhistory.org/article/836/alaric-i/"
   - 'Peter Heather, <em>The Fall of the Roman Empire</em> (2006, Oxford University Press)'
 ---
 

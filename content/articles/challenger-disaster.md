@@ -13,10 +13,10 @@ imagecredit: "NASA / Wikimedia Commons"
 video: "https://www.youtube.com/embed/j4JOjcDFtBE"
 weight: 34
 sources:
-  - '<a href="https://news.google.com/newspapers?nid=1817&dat=19860129&id=pJwdAAAAIBAJ&pg=1263,152474">Google News Archive — Challenger Explosion Coverage, 1986</a>'
-  - '<a href="https://www.nasa.gov/mission/51-l/">NASA — STS-51L Challenger</a>'
-  - '<a href="https://history.nasa.gov/rogersrep/genindex.htm">NASA History — Rogers Commission Report</a>'
-  - '<a href="https://www.britannica.com/event/Challenger-disaster">Britannica — Challenger Disaster</a>'
+  - "Google News Archive — Challenger Explosion Coverage, 1986 — https://news.google.com/newspapers?nid=1817&dat=19860129&id=pJwdAAAAIBAJ&pg=1263,152474"
+  - "NASA — STS-51L Challenger — https://www.nasa.gov/mission/51-l/"
+  - "NASA History — Rogers Commission Report — https://history.nasa.gov/rogersrep/genindex.htm"
+  - "Britannica — Challenger Disaster — https://www.britannica.com/event/Challenger-disaster"
 ---
 
 The morning of January 28, 1986, was bitterly cold at the Kennedy Space Center in Florida. Icicles hung from the launch pad. Engineers worried that the freezing temperatures could cause problems. But after several delays, NASA decided to go ahead with the launch of the Space Shuttle Challenger. It was a decision that would end in tragedy.

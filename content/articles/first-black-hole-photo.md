@@ -13,10 +13,10 @@ imagecredit: "Event Horizon Telescope Collaboration / Wikimedia Commons / CC BY 
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 137
 sources:
-  - '<a href="https://eventhorizontelescope.org/press-release-april-10-2019-astronomers-capture-first-image-black-hole" target="_blank">Event Horizon Telescope — First Image of a Black Hole</a>'
-  - '<a href="https://www.nasa.gov/mission_pages/chandra/news/black-hole-image-makes-history" target="_blank">NASA — Black Hole Image Makes History</a>'
-  - '<a href="https://www.britannica.com/science/black-hole" target="_blank">Encyclopaedia Britannica — Black Hole</a>'
-  - '<a href="https://www.nature.com/articles/d41586-019-01155-0" target="_blank">Nature — First Black Hole Image Revealed</a>'
+  - "Event Horizon Telescope — First Image of a Black Hole — https://eventhorizontelescope.org/press-release-april-10-2019-astronomers-capture-first-image-black-hole"
+  - "NASA — Black Hole Image Makes History — https://www.nasa.gov/mission_pages/chandra/news/black-hole-image-makes-history"
+  - "Encyclopaedia Britannica — Black Hole — https://www.britannica.com/science/black-hole"
+  - "Nature — First Black Hole Image Revealed — https://www.nature.com/articles/d41586-019-01155-0"
 ---
 
 On April 10, 2019, scientists held press conferences in six cities around the world simultaneously. What they revealed made front-page news everywhere: the first photograph of a black hole. The image — a glowing orange ring surrounding a dark shadow — was instantly iconic. Humanity had finally seen one of the most mysterious and powerful objects in the universe, something many scientists once thought could never be photographed.

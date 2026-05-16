@@ -13,10 +13,10 @@ imagecredit: "U.S. Government / Wikimedia Commons / Public Domain"
 video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 132
 sources:
-  - '<a href="https://www.jimmycarterlibrary.gov/research/camp_david_accords" target="_blank">Jimmy Carter Presidential Library — Camp David Accords</a>'
-  - '<a href="https://www.britannica.com/event/Camp-David-Accords" target="_blank">Encyclopaedia Britannica — Camp David Accords</a>'
-  - '<a href="https://www.history.com/topics/middle-east/camp-david-accords" target="_blank">History.com — Camp David Accords</a>'
-  - '<a href="https://www.nobelprize.org/prizes/peace/1978/summary/" target="_blank">Nobel Prize — 1978 Peace Prize</a>'
+  - "Jimmy Carter Presidential Library — Camp David Accords — https://www.jimmycarterlibrary.gov/research/camp_david_accords"
+  - "Encyclopaedia Britannica — Camp David Accords — https://www.britannica.com/event/Camp-David-Accords"
+  - "History.com — Camp David Accords — https://www.history.com/topics/middle-east/camp-david-accords"
+  - "Nobel Prize — 1978 Peace Prize — https://www.nobelprize.org/prizes/peace/1978/summary/"
 ---
 
 In September 1978, three leaders arrived at Camp David, the presidential retreat in the Maryland mountains. Egyptian President Anwar Sadat and Israeli Prime Minister Menachem Begin had come at the invitation of U.S. President Jimmy Carter. Their mission seemed almost impossible: to make peace between two nations that had fought four wars in 30 years.
