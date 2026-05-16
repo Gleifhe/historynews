@@ -16,7 +16,7 @@ sources:
   - "Encyclopedia Britannica — Athenian Democracy — https://www.britannica.com/topic/Athenian-democracy"
   - "History.com — Ancient Greek Democracy — https://www.history.com/topics/ancient-greece/ancient-greece-democracy"
   - "World History Encyclopedia — Athenian Democracy — https://www.worldhistory.org/Athenian_Democracy/"
-  - 'Josiah Ober, <em>The Rise and Fall of Classical Greece</em> (2015, Princeton University Press)'
+  - "Josiah Ober, The Rise and Fall of Classical Greece (2015, Princeton University Press)"
 ---
 
 ## A Revolutionary Idea

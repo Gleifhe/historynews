@@ -14,8 +14,8 @@ weight: 13
 video: "https://www.youtube.com/embed/8bbVFeTIIg8"
 sources:
   - "Google Scholar — Milgram Obedience Studies — https://scholar.google.com/scholar?q=milgram+obedience+experiment+1963"
-  - 'Stanley Milgram, "Behavioral Study of Obedience," <em>Journal of Abnormal and Social Psychology</em>, 67(4), 1963, pp. 371-378'
-  - 'Stanley Milgram, <em>Obedience to Authority</em> (1974, Harper & Row)'
+  - "Stanley Milgram, 'Behavioral Study of Obedience,' Journal of Abnormal and Social Psychology, 67(4), 1963, pp. 371-378"
+  - "Stanley Milgram, Obedience to Authority (1974, Harper & Row)"
   - "Simply Psychology — Milgram Experiment — https://www.simplypsychology.org/milgram.html"
 ---
 

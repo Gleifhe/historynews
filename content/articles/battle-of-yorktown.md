@@ -16,7 +16,7 @@ sources:
   - "Library of Congress — George Washington Papers — https://www.loc.gov/collections/george-washington-papers/"
   - "NPS — Yorktown Battlefield — https://www.nps.gov/york/learn/historyculture/index.htm"
   - "History.com — Siege of Yorktown — https://www.history.com/topics/american-revolution/siege-of-yorktown"
-  - 'Richard M. Ketchum, <em>Victory at Yorktown: The Campaign That Won the Revolution</em> (2004, Henry Holt and Company)'
+  - "Richard M. Ketchum, Victory at Yorktown: The Campaign That Won the Revolution (2004, Henry Holt and Company)"
 ---
 
 ## The War Enters Its Seventh Year

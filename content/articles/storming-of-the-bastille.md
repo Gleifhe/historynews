@@ -15,7 +15,7 @@ video: "https://www.youtube.com/embed/tstIW_bU6q8"
 sources:
   - "Wikipedia — Storming of the Bastille — https://en.wikipedia.org/wiki/Storming_of_the_Bastille"
   - "Wikimedia Commons — Bastille images — https://commons.wikimedia.org/wiki/Category:Storming_of_the_Bastille"
-  - 'Simon Schama, <em>Citizens: A Chronicle of the French Revolution</em> (1989, Knopf)'
+  - "Simon Schama, Citizens: A Chronicle of the French Revolution (1989, Knopf)"
   - "Britannica — Storming of the Bastille — https://www.britannica.com/event/Storming-of-the-Bastille"
 ---
 

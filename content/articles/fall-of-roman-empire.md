@@ -16,7 +16,7 @@ sources:
   - "HathiTrust Digital Library — Historical Collections — https://www.hathitrust.org/"
   - "Britannica — Fall of Rome — https://www.britannica.com/event/Fall-of-Rome"
   - "World History Encyclopedia — Fall of the Western Roman Empire — https://www.worldhistory.org/article/835/the-fall-of-the-western-roman-empire/"
-  - 'Edward Gibbon, <em>The History of the Decline and Fall of the Roman Empire</em> (1776-1789)'
+  - "Edward Gibbon, The History of the Decline and Fall of the Roman Empire (1776-1789)"
 ---
 
 ## An Empire That Took Centuries to Die

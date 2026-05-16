@@ -16,7 +16,7 @@ sources:
   - "NARA — FDR Day of Infamy Speech — https://www.archives.gov/education/lessons/day-of-infamy"
   - "Britannica — Attack on Pearl Harbor — https://www.britannica.com/event/attack-on-Pearl-Harbor"
   - "History.com — Pearl Harbor — https://www.history.com/topics/world-war-ii/pearl-harbor"
-  - 'Craig Nelson, <em>Pearl Harbor: From Infamy to Greatness</em> (2016, Scribner)'
+  - "Craig Nelson, Pearl Harbor: From Infamy to Greatness (2016, Scribner)"
 ---
 
 ## A Quiet Sunday Morning

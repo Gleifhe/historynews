@@ -16,7 +16,7 @@ sources:
   - "LOC — Civil Rights History Project — https://www.loc.gov/collections/civil-rights-history-project/"
   - "Britannica — March on Washington — https://www.britannica.com/event/March-on-Washington"
   - "History.com — March on Washington — https://www.history.com/topics/black-history/march-on-washington"
-  - 'Taylor Branch, <em>Parting the Waters: America in the King Years 1954-63</em> (1988, Simon & Schuster)'
+  - "Taylor Branch, Parting the Waters: America in the King Years 1954-63 (1988, Simon & Schuster)"
 ---
 
 ## A Nation Divided

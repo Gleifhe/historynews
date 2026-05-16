@@ -16,7 +16,7 @@ sources:
   - "National Archives — Civil Rights Research — https://www.archives.gov/research/civil-rights"
   - "King Institute at Stanford — Birmingham Campaign — https://kinginstitute.stanford.edu/birmingham-campaign"
   - "NPS — Selma to Montgomery March — https://www.nps.gov/semo/learn/historyculture/selma-to-montgomery.htm"
-  - 'Diane McWhorter, <em>Carry Me Home: Birmingham, Alabama — The Climactic Battle of the Civil Rights Revolution</em> (2001, Simon & Schuster)'
+  - "Diane McWhorter, Carry Me Home: Birmingham, Alabama — The Climactic Battle of the Civil Rights Revolution (2001, Simon & Schuster)"
 ---
 
 ## The Most Segregated City in America

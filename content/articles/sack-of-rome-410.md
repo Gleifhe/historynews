@@ -16,7 +16,7 @@ sources:
   - "Project Gutenberg — The History of the Decline and Fall of the Roman Empire by Edward Gibbon — https://www.gutenberg.org/ebooks/25717"
   - "Britannica — Sack of Rome (410) — https://www.britannica.com/event/Sack-of-Rome-410"
   - "World History Encyclopedia — Alaric I — https://www.worldhistory.org/article/836/alaric-i/"
-  - 'Peter Heather, <em>The Fall of the Roman Empire</em> (2006, Oxford University Press)'
+  - "Peter Heather, The Fall of the Roman Empire (2006, Oxford University Press)"
 ---
 
 ## The Unthinkable Happens

@@ -1,0 +1,23 @@
+{{ define "main" }}
+<section class="headlines-section">
+  <div class="section-header">
+    <h2 class="section-title">📰 {{ .Title | upper }}</h2>
+    <div class="section-rule"></div>
+  </div>
+  <div class="two-col-grid" style="max-width: var(--max-width); margin: 0 auto; padding: 0 2rem;">
+    <div class="col">
+      {{ range .Pages }}
+      <a href="{{ .RelPermalink }}" class="story-card" data-era="{{ .Params.era }}">
+        <div class="card-img" style="background-image: url('{{ .Params.image }}')"></div>
+        <div class="card-body">
+          <span class="card-category">{{ .Params.era }}</span>
+          <h3 class="card-headline">{{ .Params.headline }}</h3>
+          <p class="card-summary">{{ .Params.summary | truncate 120 }}</p>
+          <span class="card-date">{{ .Params.historydate }} · {{ .ReadingTime }} min read</span>
+        </div>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}

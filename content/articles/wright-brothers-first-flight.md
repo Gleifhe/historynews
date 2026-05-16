@@ -16,7 +16,7 @@ sources:
   - "Smithsonian Open Access — 1903 Wright Flyer — https://www.si.edu/object/1903-wright-flyer:NASM_A19610048000"
   - "LOC — Wright Brothers glass-plate negative collection — https://www.loc.gov/pictures/item/00649999/"
   - "Smithsonian Air & Space — The Wright Brothers — https://airandspace.si.edu/explore/stories/wright-brothers"
-  - 'David McCullough, <em>The Wright Brothers</em> (2015, Simon & Schuster)'
+  - "David McCullough, The Wright Brothers (2015, Simon & Schuster)"
 ---
 
 ## Two Brothers With a Dream

@@ -15,7 +15,7 @@ weight: 3
 sources:
   - "British National Archives — The Zimmermann Telegram — https://www.nationalarchives.gov.uk/education/resources/the-zimmermann-telegram/"
   - "NARA — The Zimmermann Telegram — https://www.archives.gov/education/lessons/zimmermann"
-  - 'Barbara Tuchman, <em>The Zimmermann Telegram</em> (1958, Ballantine Books)'
+  - "Barbara Tuchman, The Zimmermann Telegram (1958, Ballantine Books)"
   - "LOC — Zimmermann Telegram Primary Documents — https://www.loc.gov/rr/program/bib/ourdocs/Zimmermann.html"
 ---
 

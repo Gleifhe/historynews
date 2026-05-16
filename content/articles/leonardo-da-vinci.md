@@ -16,7 +16,7 @@ sources:
   - "Smithsonian Open Access — Leonardo da Vinci Collections — https://www.si.edu/openaccess"
   - "Britannica — Leonardo da Vinci — https://www.britannica.com/biography/Leonardo-da-Vinci"
   - "The Met — Leonardo da Vinci (1452-1519) — https://www.metmuseum.org/toah/hd/leon/hd_leon.htm"
-  - 'Walter Isaacson, <em>Leonardo da Vinci</em> (2017, Simon & Schuster)'
+  - "Walter Isaacson, Leonardo da Vinci (2017, Simon & Schuster)"
 ---
 
 ## The Illegitimate Son Who Changed the World

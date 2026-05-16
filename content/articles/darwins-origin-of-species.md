@@ -16,7 +16,7 @@ sources:
   - "Project Gutenberg — On the Origin of Species by Charles Darwin — https://www.gutenberg.org/ebooks/1228"
   - "LOC — Charles Darwin portrait — https://www.loc.gov/pictures/item/2004672601/"
   - "Natural History Museum — Charles Darwin — https://www.nhm.ac.uk/discover/charles-darwin.html"
-  - 'Janet Browne, <em>Charles Darwin: The Power of Place</em> (2002, Princeton University Press)'
+  - "Janet Browne, Charles Darwin: The Power of Place (2002, Princeton University Press)"
 ---
 
 ## A Book That Shook the World

@@ -16,7 +16,7 @@ sources:
   - "LOC — Iwo Jima flag raising photograph — https://www.loc.gov/pictures/item/96515062/"
   - "LOC — Marines raise flag on Suribachi — https://www.loc.gov/pictures/item/2003665232/"
   - "National WWII Museum — Iwo Jima Flag Raising — https://www.nationalww2museum.org/war/articles/iwo-jima-flag-raising"
-  - 'James Bradley, <em>Flags of Our Fathers</em> (2000, Bantam Books)'
+  - "James Bradley, Flags of Our Fathers (2000, Bantam Books)"
 ---
 
 ## The Most Famous Photo Ever Taken

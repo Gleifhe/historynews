@@ -16,7 +16,7 @@ sources:
   - "C-SPAN — Nixon Resignation Address (full video) — https://www.c-span.org/video/?3921-1/president-nixon-resignation-address"
   - "LOC — Richard Nixon portrait — https://www.loc.gov/pictures/item/96523440/"
   - "NARA — Watergate Files — https://www.archives.gov/education/lessons/watergate-702"
-  - "Bob Woodward and Carl Bernstein, <em>All the President's Men</em> (1974, Simon & Schuster)"
+  - "Bob Woodward and Carl Bernstein, All the President's Men (1974, Simon & Schuster)"
 ---
 
 ## The Night a President Quit

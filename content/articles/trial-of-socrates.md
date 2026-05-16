@@ -16,7 +16,7 @@ sources:
   - "Project Gutenberg — Apology by Plato (translated by Benjamin Jowett) — https://www.gutenberg.org/ebooks/1656"
   - "Britannica — Socrates — https://www.britannica.com/biography/Socrates"
   - "Stanford Encyclopedia of Philosophy — Socrates — https://plato.stanford.edu/entries/socrates/"
-  - 'I. F. Stone, <em>The Trial of Socrates</em> (1988, Little, Brown and Company)'
+  - "I. F. Stone, The Trial of Socrates (1988, Little, Brown and Company)"
 ---
 
 ## The Gadfly of Athens

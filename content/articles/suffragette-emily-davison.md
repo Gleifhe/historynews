@@ -16,7 +16,7 @@ sources:
   - "British Newspaper Archive — Epsom Derby 1913 coverage — https://www.britishnewspaperarchive.co.uk/"
   - "UK Parliament — The Suffragettes — https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/case-study-the-suffragettes/"
   - "LOC — Suffragette photographs — https://www.loc.gov/pictures/search/?q=suffragette"
-  - 'Lucy Worsley, "Emily Davison: The Suffragette Who Became a Martyr" (BBC History, 2013)'
+  - "Lucy Worsley, 'Emily Davison: The Suffragette Who Became a Martyr' (BBC History, 2013)"
 ---
 
 ## The Race That Changed History

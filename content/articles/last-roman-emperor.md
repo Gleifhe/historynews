@@ -16,7 +16,7 @@ sources:
   - "Britannica — Romulus Augustulus — https://www.britannica.com/biography/Romulus-Augustulus"
   - "World History Encyclopedia — Romulus Augustulus — https://www.worldhistory.org/Romulus_Augustulus/"
   - "History.com — 8 Reasons Why Rome Fell — https://www.history.com/articles/8-reasons-why-rome-fell"
-  - 'Bryan Ward-Perkins, <em>The Fall of Rome and the End of Civilization</em> (2005, Oxford University Press)'
+  - "Bryan Ward-Perkins, The Fall of Rome and the End of Civilization (2005, Oxford University Press)"
 ---
 
 ## A Name Too Heavy to Carry

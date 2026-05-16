@@ -16,7 +16,7 @@ sources:
   - "NSA — Pearl Harbor Declassified Documents — https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/pearl-harbor-rev/collection.pdf"
   - "History.com — Pearl Harbor Intelligence — https://www.history.com/topics/world-war-ii/pearl-harbor-intelligence-failures"
   - "National Archives — Pearl Harbor Investigation — https://www.archives.gov/research/military/ww2/pearl-harbor"
-  - 'Roberta Wohlstetter, <em>Pearl Harbor: Warning and Decision</em> (1962, Stanford University Press)'
+  - "Roberta Wohlstetter, Pearl Harbor: Warning and Decision (1962, Stanford University Press)"
 ---
 
 ## A Disaster That Didn't Have to Happen

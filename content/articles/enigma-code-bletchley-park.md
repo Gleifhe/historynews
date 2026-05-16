@@ -16,7 +16,7 @@ sources:
   - "British National Archives — Enigma — https://www.nationalarchives.gov.uk/education/resources/enigma/"
   - "Britannica — Enigma cipher machine — https://www.britannica.com/topic/Enigma-cipher-machine"
   - "History.com — Enigma Machine — https://www.history.com/topics/world-war-ii/enigma-machine"
-  - 'Andrew Hodges, <em>Alan Turing: The Enigma</em> (1983, Princeton University Press)'
+  - "Andrew Hodges, Alan Turing: The Enigma (1983, Princeton University Press)"
 ---
 
 ## The Machine Nobody Could Crack

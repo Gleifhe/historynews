@@ -16,7 +16,7 @@ sources:
   - "Europeana — European Cultural Heritage Collections — https://www.europeana.eu/en/collections"
   - "Britannica — Black Death — https://www.britannica.com/event/Black-Death"
   - "History.com — Black Death — https://www.history.com/topics/middle-ages/black-death"
-  - 'John Kelly, <em>The Great Mortality</em> (2005, Harper Perennial)'
+  - "John Kelly, The Great Mortality (2005, Harper Perennial)"
 ---
 
 ## Death Arrives by Ship

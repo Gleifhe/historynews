@@ -16,7 +16,7 @@ sources:
   - "Europeana — European Cultural Heritage Collections — https://www.europeana.eu/en/collections"
   - "Britannica — Sistine Chapel — https://www.britannica.com/topic/Sistine-Chapel"
   - "Vatican Museums — Sistine Chapel — https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/cappella-sistina.html"
-  - "Ross King, <em>Michelangelo and the Pope's Ceiling</em> (2003, Penguin Books)"
+  - "Ross King, Michelangelo and the Pope's Ceiling (2003, Penguin Books)"
 ---
 
 ## The Sculptor Who Didn't Want to Paint

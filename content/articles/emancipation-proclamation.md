@@ -16,7 +16,7 @@ sources:
   - "NARA — Emancipation Proclamation — https://www.archives.gov/exhibits/featured-documents/emancipation-proclamation"
   - "Britannica — Emancipation Proclamation — https://www.britannica.com/event/Emancipation-Proclamation"
   - "History.com — Emancipation Proclamation — https://www.history.com/topics/american-civil-war/emancipation-proclamation"
-  - 'Eric Foner, <em>The Fiery Trial: Abraham Lincoln and American Slavery</em> (2010, W.W. Norton)'
+  - "Eric Foner, The Fiery Trial: Abraham Lincoln and American Slavery (2010, W.W. Norton)"
 ---
 
 ## A War Changes Its Purpose

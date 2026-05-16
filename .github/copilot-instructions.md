@@ -2,6 +2,48 @@
 applyTo: "**"
 ---
 
+## History News — Hugo Best Practices
+
+This site runs on Hugo v0.153.2 (extended). Follow these rules for all Hugo work:
+
+### Content & Front Matter
+- **Use archetypes** for new articles — run `hugo new articles/slug.md` or match the existing front matter format exactly
+- **Required front matter fields**: title, headline, summary, date, historydate, era, source, image, imagealt, imagecaption, imagecredit, weight, sources
+- **YAML strings**: Always use double quotes. Never use single quotes around strings containing apostrophes. Never use `<a href>` tags in YAML — use plain text: `"Source Name — URL"`
+- **Dates**: Use `YYYY-MM-DD` format. Future dates hide articles from production builds (useful for scheduling)
+- **Draft articles**: Use `draft: true` to hide without deleting. Preview locally with `hugo server -D`
+- **Taxonomies**: Currently using `era` taxonomy. Articles can belong to one era. "Memorial Day" is a valid era value.
+
+### Templates & Layouts
+- **Layout lookup order**: Hugo checks `layouts/{type}/{layout}.html` → `layouts/{section}/{kind}.html` → `layouts/_default/{kind}.html`
+- **Use `{{ define "main" }}`** blocks — they extend `baseof.html`
+- **Use partials** for reusable components in `layouts/partials/`
+- **Use shortcodes** for reusable content components (put in `layouts/shortcodes/`)
+- **Render hooks** (`layouts/_default/_markup/render-*.html`) customize markdown rendering globally
+
+### Performance
+- **Use Hugo Pipes** for CSS/JS: `resources.Get | minify | fingerprint` — built-in minification and cache busting
+- **Use `pithumbsize` for Wikipedia images** — CDN thumbnails, not raw uploads
+- **Prefer `loading="lazy"` on images and iframes**
+- **Hugo builds are fast** — 247 pages in ~2.5s. If builds slow down, check for expensive template operations (e.g., unscoped `range` over all pages)
+
+### Content Organization
+- **Sections** = folders under `content/`. Each section can have its own layout and list page
+- **Page bundles**: For co-located assets, use `content/articles/slug/index.md` with images alongside
+- **Data files**: Put JSON/YAML in `data/` — accessible via `.Site.Data.filename`
+
+### URL & SEO
+- **Permalinks** are set in config.toml. Current pattern: `/articles/:slug/`
+- **Aliases** in front matter create redirects from old URLs
+- **Sitemap** auto-generated at `/sitemap.xml`
+- **RSS** auto-generated — already configured for home output
+
+### Common Pitfalls (learned from this project)
+- **Watch directories**: Hugo only watches directories that contain content or layouts. New top-level content may not hot-reload — restart the server
+- **Taxonomy layout warning**: "found no layout file for kind taxonomy" — needs `layouts/_default/taxonomy.html` and `layouts/_default/term.html`
+- **Goldmark unsafe HTML**: Set `[markup.goldmark.renderer] unsafe = true` to allow raw HTML in markdown (already configured)
+- **Static files**: Everything in `static/` is copied verbatim to the output. No processing unless you use Hugo Pipes with `assets/`
+
 ## History News — External Service Guidelines
 
 When working on the History News site, follow these rules for all external services:

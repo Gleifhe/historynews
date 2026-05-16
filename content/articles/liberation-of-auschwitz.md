@@ -16,7 +16,7 @@ sources:
   - "USHMM — Liberation of Auschwitz — https://www.ushmm.org/learn/timeline-of-events/1942-1945/liberation-of-auschwitz"
   - "USHMM — Auschwitz Encyclopedia Entry — https://encyclopedia.ushmm.org/content/en/article/auschwitz"
   - "Auschwitz-Birkenau Memorial — History — https://www.auschwitz.org/en/history/"
-  - 'Laurence Rees, <em>Auschwitz: A New History</em> (2005, PublicAffairs)'
+  - "Laurence Rees, Auschwitz: A New History (2005, PublicAffairs)"
 ---
 
 ## What the Soldiers Found

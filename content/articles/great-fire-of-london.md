@@ -16,7 +16,7 @@ sources:
   - "BBC History — The Great Fire of London — https://www.bbc.co.uk/history/british/civil_war_revolution/great_fire_01.shtml"
   - "Samuel Pepys Diary — Eyewitness Account — https://www.pepysdiary.com/"
   - "LOC — Great Fire of London images — https://www.loc.gov/pictures/search/?q=great+fire+london"
-  - 'Adrian Tinniswood, <em>By Permission of Heaven: The True Story of the Great Fire of London</em> (2003, Riverhead Books)'
+  - "Adrian Tinniswood, By Permission of Heaven: The True Story of the Great Fire of London (2003, Riverhead Books)"
 ---
 
 ## A Fire That Started in a Bakery

@@ -16,7 +16,7 @@ sources:
   - "HathiTrust — Preliminary Report of the Factory Investigating Commission, 1912 — https://catalog.hathitrust.org/Record/009024514"
   - "LOC — Fire engines at Triangle Shirtwaist fire, 1911 — https://www.loc.gov/pictures/item/2002709198/"
   - "Cornell University — Triangle Factory Fire — https://trianglefire.ilr.cornell.edu/"
-  - 'David Von Drehle, <em>Triangle: The Fire That Changed America</em> (2003, Grove Press)'
+  - "David Von Drehle, Triangle: The Fire That Changed America (2003, Grove Press)"
 ---
 
 ## A Saturday Afternoon at Work

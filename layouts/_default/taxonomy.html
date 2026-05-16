@@ -1,0 +1,19 @@
+{{ define "main" }}
+<section class="headlines-section">
+  <div class="section-header">
+    <h2 class="section-title">📰 BROWSE BY ERA</h2>
+    <div class="section-rule"></div>
+  </div>
+  <div class="two-col-grid" style="max-width: var(--max-width); margin: 0 auto; padding: 0 2rem;">
+    <div class="col">
+      {{ range .Site.Taxonomies.eras }}
+      <div style="margin-bottom: 1.5rem;">
+        <a href="{{ .Page.RelPermalink }}" class="era-link" style="display: block; font-family: var(--font-display); font-size: 1.1rem; color: var(--navy); text-decoration: none;">
+          {{ .Page.Title }} <span style="color: var(--gold);">({{ .Count }})</span>
+        </a>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}

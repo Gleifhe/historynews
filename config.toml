@@ -11,6 +11,9 @@ title = "History News — Where the Past Makes Headlines"
 [taxonomies]
   era = "eras"
 
+[permalinks]
+  articles = "/articles/:slug/"
+
 [params]
   description = "Rediscovering the world's most dramatic moments through original sources, rare photographs, and gripping storytelling."
   author = "History News Editorial Team"

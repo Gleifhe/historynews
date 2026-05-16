@@ -16,7 +16,7 @@ sources:
   - "NPS — USS Arizona — https://www.nps.gov/perl/learn/historyculture/uss-arizona.htm"
   - "Naval History and Heritage Command — USS Arizona — https://www.history.navy.mil/research/underwater-archaeology/sites-and-projects/ship-wrecksites/uss-arizona-702.html"
   - "National Archives — Pearl Harbor Records — https://www.archives.gov/research/military/ww2/pearl-harbor"
-  - "Joy Waldron Jasper, James P. Delgado, and Jim Adams, <em>The USS Arizona: The Ship, the Men, the Pearl Harbor Attack, and the Symbol That Aroused America</em> (2001, St. Martin's Press)"
+  - "Joy Waldron Jasper, James P. Delgado, and Jim Adams, The USS Arizona: The Ship, the Men, the Pearl Harbor Attack, and the Symbol That Aroused America (2001, St. Martin's Press)"
 ---
 
 ## Seven Minutes That Changed Everything

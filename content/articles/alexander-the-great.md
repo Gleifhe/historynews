@@ -16,7 +16,7 @@ sources:
   - "Britannica — Alexander the Great — https://www.britannica.com/biography/Alexander-the-Great"
   - "World History Encyclopedia — Alexander the Great — https://www.worldhistory.org/Alexander_the_Great/"
   - "History.com — Alexander the Great — https://www.history.com/topics/ancient-greece/alexander-the-great"
-  - 'Robin Lane Fox, <em>Alexander the Great</em> (1973, Penguin Books)'
+  - "Robin Lane Fox, Alexander the Great (1973, Penguin Books)"
 ---
 
 ## The Prince Who Was Trained to Conquer

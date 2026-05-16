@@ -16,7 +16,7 @@ sources:
   - "The National Archives (UK) — Historical Records — https://www.nationalarchives.gov.uk/"
   - "Britannica — Johannes Gutenberg — https://www.britannica.com/biography/Johannes-Gutenberg"
   - "Library of Congress — The Gutenberg Bible — https://www.loc.gov/exhibits/bibles/gutenberg.html"
-  - 'Elizabeth Eisenstein, <em>The Printing Press as an Agent of Change</em> (1979, Cambridge University Press)'
+  - "Elizabeth Eisenstein, The Printing Press as an Agent of Change (1979, Cambridge University Press)"
 ---
 
 ## A Goldsmith's Gamble

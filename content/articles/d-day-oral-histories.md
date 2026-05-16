@@ -16,7 +16,7 @@ sources:
   - "National WWII Museum — D-Day Collection — https://www.nationalww2museum.org/war/topics/d-day"
   - "National WWII Museum — Oral History Collection — https://www.nationalww2museum.org/war/articles/oral-histories"
   - "LOC — Veterans History Project — https://www.loc.gov/collections/veterans-history-project/"
-  - 'Stephen Ambrose, <em>D-Day: June 6, 1944</em> (1994, Simon & Schuster)'
+  - "Stephen Ambrose, D-Day: June 6, 1944 (1994, Simon & Schuster)"
 ---
 
 ## The Longest Day

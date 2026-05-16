@@ -16,7 +16,7 @@ sources:
   - "LOC — FSA/OWI Black-and-White Negatives Collection — https://www.loc.gov/collections/fsa-owi-black-and-white-negatives/"
   - "History.com — Dust Bowl — https://www.history.com/topics/great-depression/dust-bowl"
   - "Britannica — Dust Bowl — https://www.britannica.com/event/Dust-Bowl"
-  - 'Timothy Egan, <em>The Worst Hard Time</em> (2006, Mariner Books)'
+  - "Timothy Egan, The Worst Hard Time (2006, Mariner Books)"
 ---
 
 ## The Sky Turned Black

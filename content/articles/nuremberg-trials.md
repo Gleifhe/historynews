@@ -16,7 +16,7 @@ sources:
   - "Avalon Project, Yale Law School — Nuremberg Trial Documents — https://avalon.law.yale.edu/subject_menus/imt.asp"
   - "Avalon Project — Charter of the International Military Tribunal — https://avalon.law.yale.edu/imt/imtconst.asp"
   - "LOC — Nuremberg Trials Collection — https://www.loc.gov/rr/frd/Military_Law/Nuremberg_Trials.html"
-  - 'Telford Taylor, <em>The Anatomy of the Nuremberg Trials</em> (1992, Little, Brown)'
+  - "Telford Taylor, The Anatomy of the Nuremberg Trials (1992, Little, Brown)"
 ---
 
 ## The World Demands Justice

@@ -16,7 +16,7 @@ sources:
   - "Massachusetts Historical Society — Coming of the American Revolution — https://www.masshist.org/revolution"
   - "NPS — Minute Man National Historical Park — https://www.nps.gov/mima/learn/historyculture/index.htm"
   - "History.com — Lexington and Concord — https://www.history.com/topics/american-revolution/battles-of-lexington-and-concord"
-  - "David Hackett Fischer, <em>Paul Revere's Ride</em> (1994, Oxford University Press)"
+  - "David Hackett Fischer, Paul Revere's Ride (1994, Oxford University Press)"
 ---
 
 ## The Road to Revolution

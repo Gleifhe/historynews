@@ -15,7 +15,7 @@ weight: 24
 sources:
   - "Encyclopedia Britannica — Chernobyl disaster — https://www.britannica.com/event/Chernobyl-disaster"
   - "IAEA — Chernobyl: A Timeline of Events — https://www.iaea.org/newscenter/focus/chernobyl"
-  - 'Serhii Plokhy, <em>Chernobyl: The History of a Nuclear Catastrophe</em> (2018, Basic Books)'
+  - "Serhii Plokhy, Chernobyl: The History of a Nuclear Catastrophe (2018, Basic Books)"
   - "World Nuclear Association — Chernobyl Accident — https://www.world-nuclear.org/information-library/safety-and-security/safety-of-plants/chernobyl-accident.aspx"
 ---
 

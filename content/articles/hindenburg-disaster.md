@@ -16,7 +16,7 @@ sources:
   - "Newspapers.com — Hindenburg Disaster Coverage — https://www.newspapers.com/"
   - "Britannica — Hindenburg disaster — https://www.britannica.com/event/Hindenburg-disaster"
   - "History.com — Hindenburg — https://www.history.com/topics/early-20th-century-us/hindenburg"
-  - 'Michael Mooney, <em>The Hindenburg</em> (1972, Dodd, Mead)'
+  - "Michael Mooney, The Hindenburg (1972, Dodd, Mead)"
 ---
 
 ## The Largest Aircraft Ever Built

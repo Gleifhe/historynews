@@ -15,7 +15,7 @@ video: "https://www.youtube.com/embed/B2GV_QGb5_g"
 sources:
   - "Smithsonian Magazine — The Discovery of Tutankhamun — https://www.smithsonianmag.com/history/the-discovery-of-tutankhamuns-tomb-11078/"
   - "LOC — Tutankhamun-related images — https://www.loc.gov/pictures/search/?q=tutankhamun"
-  - 'Howard Carter, <em>The Tomb of Tut-Ankh-Amen</em> (1923, Cassell and Company)'
+  - "Howard Carter, The Tomb of Tut-Ankh-Amen (1923, Cassell and Company)"
   - "Griffith Institute, Oxford — Carter Archives — https://www.griffith.ox.ac.uk/gri/carter/"
 ---
 

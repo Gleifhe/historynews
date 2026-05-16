@@ -16,7 +16,7 @@ sources:
   - "National Archives - Washington Letters — https://www.archives.gov/milestone-documents/washingtons-letter-to-the-continental-congress"
   - "NPS — Valley Forge National Historical Park — https://www.nps.gov/vafo/learn/historyculture/index.htm"
   - "History.com — Valley Forge — https://www.history.com/topics/american-revolution/valley-forge"
-  - 'Wayne Bodle, <em>The Valley Forge Winter: Civilians and Soldiers in War</em> (2002, Penn State University Press)'
+  - "Wayne Bodle, The Valley Forge Winter: Civilians and Soldiers in War (2002, Penn State University Press)"
 ---
 
 ## An Army on the Brink

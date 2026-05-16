@@ -16,7 +16,7 @@ sources:
   - "USHMM — Introduction to the Holocaust — https://encyclopedia.ushmm.org/content/en/article/introduction-to-the-holocaust"
   - "Britannica — Holocaust — https://www.britannica.com/event/Holocaust"
   - "History.com — The Holocaust — https://www.history.com/topics/world-war-ii/the-holocaust"
-  - 'Primo Levi, <em>Survival in Auschwitz</em> (1947, Orion Press)'
+  - "Primo Levi, Survival in Auschwitz (1947, Orion Press)"
 ---
 
 ## The Darkest Chapter in Human History

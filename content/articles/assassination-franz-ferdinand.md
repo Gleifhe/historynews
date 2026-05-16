@@ -16,7 +16,7 @@ sources:
   - "History.com — How a Wrong Turn Started World War I — https://www.history.com/articles/how-a-wrong-turn-started-world-war-i"
   - "LOC — Archduke Franz Ferdinand portrait — https://www.loc.gov/pictures/item/2014697571/"
   - "BBC — Assassination of Franz Ferdinand — https://www.bbc.co.uk/history/0/26616635"
-  - 'Christopher Clark, <em>The Sleepwalkers: How Europe Went to War in 1914</em> (2012, Harper)'
+  - "Christopher Clark, The Sleepwalkers: How Europe Went to War in 1914 (2012, Harper)"
 ---
 
 ## The Most Consequential Murder in History

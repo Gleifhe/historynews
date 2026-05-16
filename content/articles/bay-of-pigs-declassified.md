@@ -15,7 +15,7 @@ video: "https://www.youtube.com/embed/8I7X9tX3fK0"
 sources:
   - "CIA FOIA Reading Room — Bay of Pigs Declassified Documents — https://www.cia.gov/readingroom/collection/bay-pigs-release"
   - "National Security Archive — Bay of Pigs Chronology — https://nsarchive2.gwu.edu/bayofpigs/chron.html"
-  - 'Jim Rasenberger, <em>The Brilliant Disaster</em> (2011, Scribner)'
+  - "Jim Rasenberger, The Brilliant Disaster (2011, Scribner)"
   - "JFK Library — The Bay of Pigs — https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/the-bay-of-pigs"
 ---
 

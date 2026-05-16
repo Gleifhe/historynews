@@ -16,7 +16,7 @@ sources:
   - "Library of Congress — Civil Rights History Project — https://www.loc.gov/collections/civil-rights-history-project/"
   - "History.com — Montgomery Bus Boycott — https://www.history.com/topics/black-history/montgomery-bus-boycott"
   - "King Institute at Stanford — Montgomery Bus Boycott — https://kinginstitute.stanford.edu/montgomery-bus-boycott"
-  - 'Taylor Branch, <em>Parting the Waters: America in the King Years 1954–63</em> (1988, Simon & Schuster)'
+  - "Taylor Branch, Parting the Waters: America in the King Years 1954–63 (1988, Simon & Schuster)"
 ---
 
 ## The Rules of the Bus

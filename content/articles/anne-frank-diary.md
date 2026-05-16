@@ -16,7 +16,7 @@ sources:
   - "Anne Frank House — The Diary — https://www.annefrank.org/en/anne-frank/diary/"
   - "USHMM — Anne Frank Bibliography — https://www.ushmm.org/collections/bibliography/anne-frank"
   - "History.com — Anne Frank — https://www.history.com/topics/world-war-ii/anne-frank"
-  - 'Anne Frank, <em>The Diary of a Young Girl</em> (1947, Contact Publishing)'
+  - "Anne Frank, The Diary of a Young Girl (1947, Contact Publishing)"
 ---
 
 ## A Birthday Gift That Changed History
