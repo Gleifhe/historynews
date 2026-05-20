@@ -1,38 +1,160 @@
 {{ define "main" }}
-<section class="articles-list-page">
-  <h1 class="section-page-title">All Articles</h1>
-  <div class="two-col-grid">
-    <div class="col">
-      {{ $pages := .Pages }}
-      {{ range $i, $p := $pages }}
-        {{ if lt $i (div (len $pages) 2 | add 1) }}
-        <a href="{{ $p.RelPermalink }}" class="story-card">
-          <div class="card-img" style="background-image: url('{{ $p.Params.image }}')"></div>
-          <div class="card-body">
-            <span class="card-category">{{ $p.Params.era }}</span>
-            <h3 class="card-headline">{{ $p.Params.headline }}</h3>
-            <p class="card-summary">{{ $p.Params.summary | truncate 120 }}</p>
-            <span class="card-date">{{ $p.Params.historydate }}</span>
-          </div>
-        </a>
+<section class="headlines-section">
+  <div class="section-header">
+    <h2 class="section-title">📰 ALL {{ len .Pages }} ARTICLES</h2>
+    <div class="section-rule"></div>
+    <p style="color: var(--text-light); max-width: 600px; margin: 0.5rem auto 0;">Every story from History News — filterable by era.</p>
+  </div>
+
+  <div class="home-layout">
+    {{/* Era sidebar */}}
+    <aside class="era-sidebar">
+      <h3 class="era-sidebar-title">FILTER BY ERA</h3>
+      <ul class="era-list">
+        {{ $pages := .Pages }}
+        {{ $eraOrder := slice
+          "Memorial Day"
+          "Ancient World"
+          "Medieval"
+          "16th Century"
+          "17th Century"
+          "18th Century"
+          "Victorian Era"
+          "Turn of the Century"
+          "Early 20th Century"
+          "Industrial Age"
+          "Women's Suffrage"
+          "Pre-World War I"
+          "World War I"
+          "World War I Era"
+          "Roaring Twenties"
+          "Great Depression"
+          "Civil War"
+          "Renaissance"
+          "World War II"
+          "Post-World War II"
+          "Cold War"
+          "Vietnam War"
+          "Space Age"
+          "1960s America"
+          "1970s America"
+          "Science & Discovery"
+          "Civil Rights Era"
+          "Watergate Era"
+          "21st Century"
+          "Peace & Cooperation"
+          "Positive History"
+        }}
+        {{ range $eraOrder }}
+          {{ $era := . }}
+          {{ $eraPages := where $pages ".Params.era" $era }}
+          {{ if $eraPages }}
+          <li class="era-item">
+            <a href="#" class="era-link" data-era="{{ $era }}">
+              <span class="era-name">{{ $era }}</span>
+              <span class="era-count">{{ len $eraPages }}</span>
+            </a>
+          </li>
+          {{ end }}
         {{ end }}
-      {{ end }}
-    </div>
-    <div class="col">
-      {{ range $i, $p := $pages }}
-        {{ if ge $i (div (len $pages) 2 | add 1) }}
-        <a href="{{ $p.RelPermalink }}" class="story-card">
-          <div class="card-img" style="background-image: url('{{ $p.Params.image }}')"></div>
-          <div class="card-body">
-            <span class="card-category">{{ $p.Params.era }}</span>
-            <h3 class="card-headline">{{ $p.Params.headline }}</h3>
-            <p class="card-summary">{{ $p.Params.summary | truncate 120 }}</p>
-            <span class="card-date">{{ $p.Params.historydate }}</span>
-          </div>
-        </a>
+        {{/* Catch unlisted eras */}}
+        {{ $seen := slice }}
+        {{ range $pages }}
+          {{ $era := .Params.era }}
+          {{ if and (not (in $eraOrder $era)) (not (in $seen $era)) }}
+            {{ $seen = $seen | append $era }}
+            {{ $eraPages := where $pages ".Params.era" $era }}
+            {{ if $eraPages }}
+            <li class="era-item">
+              <a href="#" class="era-link" data-era="{{ $era }}">
+                <span class="era-name">{{ $era }}</span>
+                <span class="era-count">{{ len $eraPages }}</span>
+              </a>
+            </li>
+            {{ end }}
+          {{ end }}
         {{ end }}
-      {{ end }}
+      </ul>
+      <button class="era-clear" id="eraClear" style="display:none;">✕ Show All</button>
+      <div style="margin-top: 1.5rem; padding-top: 1rem; border-top: 1px solid var(--rule); font-size: 0.8rem; color: var(--text-light);">
+        <strong>{{ len $pages }}</strong> total articles<br>
+        <strong id="visibleCount">{{ len $pages }}</strong> showing
+      </div>
+    </aside>
+
+    {{/* All articles grid */}}
+    <div class="home-main">
+      <div class="two-col-grid">
+        <div class="col">
+          <div class="col-label">COLUMN A</div>
+          {{ range $i, $p := $pages }}
+            {{ if lt $i (div (len $pages) 2 | add 1) }}
+            <a href="{{ $p.RelPermalink }}" class="story-card" data-era="{{ $p.Params.era }}">
+              <div class="card-img" style="background-image: url('{{ $p.Params.image }}')"></div>
+              <div class="card-body">
+                <span class="card-category">{{ $p.Params.era }}</span>
+                <h3 class="card-headline">{{ $p.Params.headline }}</h3>
+                <p class="card-summary">{{ $p.Params.summary | truncate 120 }}</p>
+                <span class="card-date">{{ $p.Params.historydate }} · {{ $p.ReadingTime }} min read</span>
+              </div>
+            </a>
+            {{ end }}
+          {{ end }}
+        </div>
+        <div class="col">
+          <div class="col-label">COLUMN B</div>
+          {{ range $i, $p := $pages }}
+            {{ if ge $i (div (len $pages) 2 | add 1) }}
+            <a href="{{ $p.RelPermalink }}" class="story-card" data-era="{{ $p.Params.era }}">
+              <div class="card-img" style="background-image: url('{{ $p.Params.image }}')"></div>
+              <div class="card-body">
+                <span class="card-category">{{ $p.Params.era }}</span>
+                <h3 class="card-headline">{{ $p.Params.headline }}</h3>
+                <p class="card-summary">{{ $p.Params.summary | truncate 120 }}</p>
+                <span class="card-date">{{ $p.Params.historydate }} · {{ $p.ReadingTime }} min read</span>
+              </div>
+            </a>
+            {{ end }}
+          {{ end }}
+        </div>
+      </div>
     </div>
   </div>
 </section>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var links = document.querySelectorAll('.era-link');
+  var cards = document.querySelectorAll('.story-card');
+  var clearBtn = document.getElementById('eraClear');
+  var countEl = document.getElementById('visibleCount');
+
+  function updateCount() {
+    var visible = 0;
+    cards.forEach(function(c) { if (c.style.display !== 'none') visible++; });
+    if (countEl) countEl.textContent = visible;
+  }
+
+  links.forEach(function(link) {
+    link.addEventListener('click', function(e) {
+      e.preventDefault();
+      var era = this.dataset.era;
+      links.forEach(function(l) { l.classList.remove('active'); });
+      this.classList.add('active');
+      clearBtn.style.display = 'block';
+      cards.forEach(function(card) {
+        card.style.display = card.dataset.era === era ? '' : 'none';
+      });
+      updateCount();
+    });
+  });
+
+  clearBtn.addEventListener('click', function() {
+    links.forEach(function(l) { l.classList.remove('active'); });
+    cards.forEach(function(card) { card.style.display = ''; });
+    clearBtn.style.display = 'none';
+    updateCount();
+  });
+});
+</script>
 {{ end }}

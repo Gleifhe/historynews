@@ -2,96 +2,75 @@
 """
 check-video-embeds.py — Test if YouTube videos are actually embeddable.
 
-Unlike oEmbed checks, this loads the actual embed page and looks for
-"UNPLAYABLE" or "Video unavailable" signals that indicate embedding is blocked.
+Uses YouTube's oEmbed API to check video availability and embeddability.
+Per copilot-instructions.md: use oEmbed, proper bot User-Agent, no scraping.
 
 Usage:
     python scripts/check-video-embeds.py
 """
 
-import os
+import json
 import re
 import ssl
 import sys
 import time
+import urllib.error
 import urllib.request
-import json
+from pathlib import Path
 
+USER_AGENT = 'HistoryNewsBot/1.0 (https://github.com/gleifhe/historynews; educational history site) python-urllib'
 CTX = ssl.create_default_context()
-CTX.check_hostname = False
-CTX.verify_mode = ssl.CERT_NONE
+DELAY = 1.0
 
 
 def check_embeddable(video_id):
     """
-    Check if a YouTube video is actually embeddable.
+    Check if a YouTube video is embeddable via the oEmbed API.
     Returns (status, detail) where status is 'OK', 'BLOCKED', or 'ERROR'.
-    
-    Method: Fetch the embed page and look for player config signals.
-    YouTube embeds that are blocked return a very small HTML page (~10KB)
-    while working embeds return a larger page (~50KB+) with player JS.
     """
-    embed_url = f"https://www.youtube.com/embed/{video_id}"
-    req = urllib.request.Request(embed_url, headers={
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
-    })
+    oembed_url = f"https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v={video_id}&format=json"
+    req = urllib.request.Request(oembed_url, headers={'User-Agent': USER_AGENT})
     try:
         with urllib.request.urlopen(req, timeout=15, context=CTX) as resp:
-            html = resp.read().decode('utf-8', errors='ignore')
-            html_len = len(html)
-
-            # Method 1: Look for explicit block signals in JSON config
-            if '"status":"UNPLAYABLE"' in html:
-                return 'BLOCKED', 'embedding disabled by uploader'
-            if '"status":"ERROR"' in html and '"reason"' in html:
-                return 'BLOCKED', 'video not found or removed'
-            if '"status":"LOGIN_REQUIRED"' in html:
-                return 'BLOCKED', 'age restricted (login required)'
-            
-            # Method 2: Check for "subreasons" which indicate blocks
-            if '"subreason"' in html and ('embedding' in html.lower() or 'unavailable' in html.lower()):
-                return 'BLOCKED', 'embed restricted (subreason found)'
-            
-            # Method 3: Look for positive signals - player config present
-            if '"status":"OK"' in html:
-                return 'OK', 'confirmed embeddable'
-            
-            # Method 4: Check page size — blocked embeds are much smaller
-            if html_len > 100000:
-                return 'OK', f'player loaded ({html_len//1024}KB)'
-            elif html_len < 20000:
-                # Small page could mean blocked, but could also be a consent page
-                if 'consent' in html.lower() or 'CONSENT' in html:
-                    return 'OK', f'consent page ({html_len//1024}KB) - likely OK'
-                return 'UNKNOWN', f'small page ({html_len//1024}KB) - may be blocked'
-            else:
-                return 'OK', f'page loaded ({html_len//1024}KB)'
-
+            data = json.loads(resp.read().decode('utf-8'))
+            title = data.get('title', 'unknown')
+            return 'OK', f'embeddable: {title[:60]}'
     except urllib.error.HTTPError as e:
+        if e.code == 401:
+            return 'BLOCKED', 'embedding disabled or private'
         if e.code == 403:
-            return 'BLOCKED', 'HTTP 403 Forbidden'
+            return 'BLOCKED', 'forbidden (age-restricted or blocked)'
+        if e.code == 404:
+            return 'BLOCKED', 'video not found or removed'
+        if e.code == 429:
+            retry = e.headers.get('Retry-After', '10')
+            try:
+                wait = int(retry)
+            except ValueError:
+                wait = 10
+            time.sleep(wait)
+            return 'ERROR', f'rate limited (429), retried after {wait}s'
         return 'ERROR', f'HTTP {e.code}'
+    except urllib.error.URLError as e:
+        return 'ERROR', f'URL error: {str(e.reason)[:40]}'
     except Exception as e:
-        return 'ERROR', str(e)
+        return 'ERROR', str(e)[:60]
 
 
 def main():
-    root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    content_dir = os.path.join(root, 'content', 'articles')
+    root = Path(__file__).parent.parent
+    content_dir = root / 'content' / 'articles'
 
-    results = {'OK': [], 'BLOCKED': [], 'ERROR': [], 'UNKNOWN': [], 'NONE': []}
+    results = {'OK': [], 'BLOCKED': [], 'ERROR': [], 'NONE': []}
 
-    articles = sorted([f for f in os.listdir(content_dir)
-                       if f.endswith('.md') and f != '_index.md'])
+    articles = sorted([f for f in content_dir.iterdir()
+                       if f.suffix == '.md' and f.name != '_index.md'])
 
     print(f"Checking {len(articles)} articles for video embeddability...\n")
 
-    for filename in articles:
-        filepath = os.path.join(content_dir, filename)
-        slug = os.path.splitext(filename)[0]
-
-        with open(filepath, 'r', encoding='utf-8') as f:
-            content = f.read()
+    for f in articles:
+        slug = f.stem
+        content = f.read_text(encoding='utf-8')
 
         match = re.search(r'video:\s*"https://www\.youtube\.com/embed/([^"]+)"', content)
         if not match:
@@ -102,10 +81,10 @@ def main():
         status, detail = check_embeddable(video_id)
         results[status].append((slug, video_id, detail))
 
-        icon = {'OK': '+', 'BLOCKED': 'X', 'ERROR': '!', 'UNKNOWN': '?'}[status]
+        icon = {'OK': '+', 'BLOCKED': 'X', 'ERROR': '!'}[status]
         print(f"  [{icon}] {slug} | {video_id} | {detail}")
 
-        time.sleep(0.5)  # Be polite to YouTube
+        time.sleep(DELAY)  # Be polite to YouTube
 
     # Summary
     print(f"\n{'='*60}")
@@ -114,7 +93,6 @@ def main():
     print(f"  Embeddable (OK):     {len(results['OK'])}")
     print(f"  BLOCKED:             {len(results['BLOCKED'])}")
     print(f"  ERROR:               {len(results['ERROR'])}")
-    print(f"  Unknown:             {len(results['UNKNOWN'])}")
     print(f"  No video field:      {len(results['NONE'])}")
     print(f"{'='*60}")
 

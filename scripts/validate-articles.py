@@ -14,10 +14,10 @@ Usage:
     python scripts/validate-articles.py --check-images   # Also test image URLs (slower)
 """
 
-import os
 import re
 import sys
 import argparse
+from pathlib import Path
 
 try:
     import urllib.request
@@ -39,8 +39,7 @@ def parse_front_matter(filepath):
     body_lines = []
     past_front_matter = False
 
-    with open(filepath, 'r', encoding='utf-8') as f:
-        for line in f:
+    for line in Path(filepath).read_text(encoding='utf-8').splitlines(keepends=True):
             stripped = line.strip()
             if stripped == '---':
                 if not in_front_matter and not past_front_matter:
@@ -79,7 +78,7 @@ def check_image_url(url):
         return None
     try:
         req = urllib.request.Request(url, method='HEAD')
-        req.add_header('User-Agent', 'HistoryNews-Validator/1.0')
+        req.add_header('User-Agent', 'HistoryNewsBot/1.0 (https://github.com/gleifhe/historynews; educational history site) python-urllib')
         with urllib.request.urlopen(req, timeout=10) as resp:
             return resp.status == 200
     except Exception:
@@ -89,7 +88,7 @@ def check_image_url(url):
 def validate_article(filepath, check_images=False):
     """Validate a single article. Returns list of error strings."""
     errors = []
-    filename = os.path.basename(filepath)
+    filename = Path(filepath).name
     fields = parse_front_matter(filepath)
 
     # Check required fields
@@ -125,18 +124,19 @@ def main():
     parser.add_argument('--check-images', action='store_true', help='Test image URLs (slower)')
     args = parser.parse_args()
 
-    root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    content_dir = os.path.join(root, 'content', 'articles')
+    root = Path(__file__).parent.parent
+    content_dir = root / 'content' / 'articles'
 
     all_errors = []
     article_count = 0
 
-    for f in sorted(os.listdir(content_dir)):
-        if not f.endswith('.md') or f == '_index.md':
+    for f in sorted(content_dir.iterdir()):
+        if not f.name.endswith('.md') or f.name == '_index.md':
+            continue
+        if args.article and f.stem != args.article:
             continue
         article_count += 1
-        filepath = os.path.join(content_dir, f)
-        errors = validate_article(filepath, check_images=args.check_images)
+        errors = validate_article(f, check_images=args.check_images)
         all_errors.extend(errors)
 
     print(f'Validated {article_count} articles.')

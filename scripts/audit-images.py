@@ -2,6 +2,7 @@
 """Audit all article images for issues."""
 import os
 import re
+import sys
 from pathlib import Path
 
 root = Path(__file__).parent.parent
@@ -109,3 +110,5 @@ else:
 
 if not remote and not no_image and not local_missing and not tiny and not huge and not wrong_format:
     print('\n*** ALL IMAGES OK ***')
+else:
+    sys.exit(1)

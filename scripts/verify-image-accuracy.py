@@ -21,8 +21,6 @@ from PIL import Image
 
 USER_AGENT = 'HistoryNewsBot/1.0 (https://github.com/gleifhe/historynews; educational history site) python-urllib'
 CTX = ssl.create_default_context()
-CTX.check_hostname = False
-CTX.verify_mode = ssl.CERT_NONE
 
 # Correct Wikipedia article for each slug — VERIFIED mapping
 # Each slug maps to the most relevant Wikipedia article
@@ -227,8 +225,11 @@ def wiki_api_request(params):
                 return json.loads(resp.read().decode('utf-8'))
         except urllib.error.HTTPError as e:
             if e.code in (429, 503):
-                retry = e.headers.get('Retry-After', str(10 * (attempt + 1)))
-                wait = int(retry) if retry.isdigit() else 10
+                retry_after = e.headers.get('Retry-After', '')
+                try:
+                    wait = int(retry_after)
+                except ValueError:
+                    wait = 10 * (attempt + 1)
                 time.sleep(wait)
                 continue
             return None
@@ -350,7 +351,7 @@ def main():
     manifest_path = root / 'scripts' / 'image-manifest.json'
     manifest_map = {}
     if manifest_path.exists():
-        manifest = json.load(open(manifest_path, encoding='utf-8'))
+        manifest = json.loads(manifest_path.read_text(encoding='utf-8'))
         for entry in manifest:
             manifest_map[entry['slug']] = entry.get('wiki_title', '')
 

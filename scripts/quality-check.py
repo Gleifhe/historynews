@@ -25,12 +25,12 @@ Usage:
 
 import argparse
 import json
-import os
 import re
 import ssl
 import sys
 import urllib.request
 import urllib.error
+from pathlib import Path
 
 # ============================================================
 # Configuration — adjust thresholds here
@@ -61,10 +61,9 @@ SUSPECT_IMAGE_PATTERNS = [
     'highsm/38200', 'ppmsca/09700', 'ppmsca/09200',
 ]
 
-# SSL context for URL checks
+# SSL context and User-Agent for URL checks
 CTX = ssl.create_default_context()
-CTX.check_hostname = False
-CTX.verify_mode = ssl.CERT_NONE
+USER_AGENT = 'HistoryNewsBot/1.0 (https://github.com/gleifhe/historynews; educational history site) python-urllib'
 
 
 # ============================================================
@@ -114,7 +113,7 @@ def parse_article(filepath):
         'body': body_text,
         'word_count': len(body_text.split()),
         'filepath': filepath,
-        'slug': os.path.splitext(os.path.basename(filepath))[0]
+        'slug': Path(filepath).stem
     }
 
 
@@ -239,7 +238,7 @@ def check_image_url(article):
         return ["No image URL to test"]
 
     req = urllib.request.Request(image, method='HEAD',
-                                 headers={'User-Agent': 'HistoryNews-QC/1.0'})
+                                 headers={'User-Agent': 'USER_AGENT'})
     try:
         with urllib.request.urlopen(req, timeout=10, context=CTX) as resp:
             if resp.status != 200:
@@ -248,7 +247,7 @@ def check_image_url(article):
         # Try GET if HEAD fails (some servers block HEAD)
         try:
             req2 = urllib.request.Request(image,
-                                          headers={'User-Agent': 'HistoryNews-QC/1.0'})
+                                          headers={'User-Agent': 'USER_AGENT'})
             with urllib.request.urlopen(req2, timeout=10, context=CTX) as resp:
                 if resp.status != 200:
                     return [f"Image returned HTTP {resp.status}: {image}"]
@@ -272,7 +271,7 @@ def check_video_embed(article):
     # Step 1: Check if video exists via oEmbed
     oembed_url = f"https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v={vid}&format=json"
     req = urllib.request.Request(oembed_url,
-                                 headers={'User-Agent': 'HistoryNews-QC/1.0'})
+                                 headers={'User-Agent': 'USER_AGENT'})
     try:
         with urllib.request.urlopen(req, timeout=10, context=CTX) as resp:
             data = json.loads(resp.read())
@@ -287,7 +286,7 @@ def check_video_embed(article):
     # Step 2: Try to load the embed page to check if embedding is allowed
     embed_url = f"https://www.youtube.com/embed/{vid}"
     req2 = urllib.request.Request(embed_url,
-                                  headers={'User-Agent': 'HistoryNews-QC/1.0'})
+                                  headers={'User-Agent': 'USER_AGENT'})
     try:
         with urllib.request.urlopen(req2, timeout=10, context=CTX) as resp:
             html = resp.read().decode('utf-8', errors='ignore')
@@ -348,17 +347,17 @@ def main():
         args.check_images = True
         args.check_videos = True
 
-    root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    content_dir = os.path.join(root, 'content', 'articles')
+    root = Path(__file__).parent.parent
+    content_dir = root / 'content' / 'articles'
 
     # Collect articles
     articles = []
-    for f in sorted(os.listdir(content_dir)):
-        if not f.endswith('.md') or f == '_index.md':
+    for f in sorted(content_dir.iterdir()):
+        if not f.name.endswith('.md') or f.name == '_index.md':
             continue
-        if args.article and os.path.splitext(f)[0] != args.article:
+        if args.article and f.stem != args.article:
             continue
-        articles.append(parse_article(os.path.join(content_dir, f)))
+        articles.append(parse_article(str(f)))
 
     if not articles:
         print(f"No articles found{' matching ' + args.article if args.article else ''}.")

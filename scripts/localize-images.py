@@ -45,12 +45,10 @@ except ImportError:
 MAX_WIDTH = 1200       # Max image width in pixels (if Pillow available)
 JPEG_QUALITY = 85      # JPEG compression quality
 DELAY = 5.0            # Seconds between downloads (Wikimedia needs 5s+)
-USER_AGENT = 'HistoryNews/1.0 (educational history site; downloading licensed images for local hosting)'
+USER_AGENT = 'HistoryNewsBot/1.0 (https://github.com/gleifhe/historynews; educational history site) python-urllib'
 
 # SSL context
 CTX = ssl.create_default_context()
-CTX.check_hostname = False
-CTX.verify_mode = ssl.CERT_NONE
 
 
 def get_root():

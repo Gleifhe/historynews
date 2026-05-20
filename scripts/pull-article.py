@@ -20,10 +20,10 @@ Requirements:
 
 import argparse
 import datetime
-import os
 import re
 import sys
 import textwrap
+from pathlib import Path
 
 try:
     import requests
@@ -42,21 +42,20 @@ def slugify(text):
 
 def get_next_weight(content_dir):
     max_weight = 0
-    for f in os.listdir(content_dir):
-        if not f.endswith('.md') or f == '_index.md':
+    for f in content_dir.iterdir():
+        if not f.name.endswith('.md') or f.name == '_index.md':
             continue
-        with open(os.path.join(content_dir, f), 'r', encoding='utf-8') as fh:
-            for line in fh:
-                m = re.match(r'^weight:\s*(\d+)', line)
-                if m:
-                    max_weight = max(max_weight, int(m.group(1)))
-                    break
+        for line in f.read_text(encoding='utf-8').splitlines():
+            m = re.match(r'^weight:\s*(\d+)', line)
+            if m:
+                max_weight = max(max_weight, int(m.group(1)))
+                break
     return max_weight + 1
 
 
 def fetch_article(url):
     """Fetch a URL and extract the main text content."""
-    headers = {'User-Agent': 'HistoryNews-ArticlePuller/1.0'}
+    headers = {'User-Agent': 'HistoryNewsBot/1.0 (https://github.com/gleifhe/historynews; educational history site) python-urllib'}
     resp = requests.get(url, headers=headers, timeout=15)
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, 'html.parser')
@@ -100,23 +99,20 @@ def main():
     # Download image locally if provided
     image_path = ''
     if args.image:
-        root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-        image_dir = os.path.join(root, 'static', 'images', 'articles')
-        os.makedirs(image_dir, exist_ok=True)
-        local_file = os.path.join(image_dir, f'{slug}.jpg')
+        root = Path(__file__).parent.parent
+        image_dir = root / 'static' / 'images' / 'articles'
+        image_dir.mkdir(parents=True, exist_ok=True)
+        local_file = image_dir / f'{slug}.jpg'
         print(f'Downloading image...')
         try:
             import urllib.request as urlreq
             import ssl as sslmod
             ctx = sslmod.create_default_context()
-            ctx.check_hostname = False
-            ctx.verify_mode = sslmod.CERT_NONE
             req = urlreq.Request(args.image, headers={
-                'User-Agent': 'HistoryNews/1.0 (educational site)'
+                'User-Agent': 'HistoryNewsBot/1.0 (https://github.com/gleifhe/historynews; educational history site) python-urllib'
             })
             with urlreq.urlopen(req, timeout=30, context=ctx) as resp:
-                with open(local_file, 'wb') as f:
-                    f.write(resp.read())
+                local_file.write_bytes(resp.read())
             image_path = f'/images/articles/{slug}.jpg'
             print(f'  OK — {image_path}')
         except Exception as e:
@@ -126,8 +122,8 @@ def main():
     print(f'Fetching content from: {args.url}')
     content = fetch_article(args.url)
 
-    root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    content_dir = os.path.join(root, 'content', 'articles')
+    root = Path(__file__).parent.parent
+    content_dir = root / 'content' / 'articles'
     weight = get_next_weight(content_dir)
 
     # Build the draft
@@ -173,13 +169,12 @@ sources:
 [Draw parallels to current issues.]
 """
 
-    filepath = os.path.join(content_dir, f'{slug}.md')
-    if os.path.exists(filepath):
+    filepath = content_dir / f'{slug}.md'
+    if filepath.exists():
         print(f'ERROR: {filepath} already exists.')
         sys.exit(1)
 
-    with open(filepath, 'w', encoding='utf-8') as f:
-        f.write(draft)
+    filepath.write_text(draft, encoding='utf-8')
 
     print(f'Created draft: {filepath}')
     print(f'Word count from source: ~{len(content.split())} words')

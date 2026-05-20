@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Quick quality check for all Memorial Day articles."""
 import re
+import sys
 from pathlib import Path
 
 articles_dir = Path(__file__).parent.parent / 'content' / 'articles'
@@ -117,6 +118,8 @@ if warnings:
     print()
 
 if not errors and not warnings:
-    print('✅ ALL CHECKS PASSED')
+    print('ALL CHECKS PASSED')
 else:
     print(f'Summary: {len(errors)} errors, {len(warnings)} warnings')
+    if errors:
+        sys.exit(1)

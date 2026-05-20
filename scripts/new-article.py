@@ -16,9 +16,9 @@ the article references the local copy.
 
 import argparse
 import datetime
-import os
 import re
 import textwrap
+from pathlib import Path
 
 TEMPLATE = textwrap.dedent("""\
 ---
@@ -82,16 +82,14 @@ def slugify(text):
 def get_next_weight(content_dir):
     """Find the highest weight in existing articles and return +1."""
     max_weight = 0
-    for f in os.listdir(content_dir):
-        if not f.endswith('.md') or f == '_index.md':
+    for f in content_dir.iterdir():
+        if not f.name.endswith('.md') or f.name == '_index.md':
             continue
-        path = os.path.join(content_dir, f)
-        with open(path, 'r', encoding='utf-8') as fh:
-            for line in fh:
-                m = re.match(r'^weight:\s*(\d+)', line)
-                if m:
-                    max_weight = max(max_weight, int(m.group(1)))
-                    break
+        for line in f.read_text(encoding='utf-8').splitlines():
+            m = re.match(r'^weight:\s*(\d+)', line)
+            if m:
+                max_weight = max(max_weight, int(m.group(1)))
+                break
     return max_weight + 1
 
 
@@ -110,28 +108,25 @@ def main():
     slug = args.slug if args.slug else slugify(args.title)
     headline = args.headline if args.headline else f"BREAKING: {args.title} — [Write Attention-Grabbing Headline]"
 
-    root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    content_dir = os.path.join(root, 'content', 'articles')
+    root = Path(__file__).parent.parent
+    content_dir = root / 'content' / 'articles'
     weight = get_next_weight(content_dir)
 
     # Download image locally if URL provided
     image_path = ''
     if args.image:
-        image_dir = os.path.join(root, 'static', 'images', 'articles')
-        os.makedirs(image_dir, exist_ok=True)
-        local_file = os.path.join(image_dir, f'{slug}.jpg')
+        image_dir = root / 'static' / 'images' / 'articles'
+        image_dir.mkdir(parents=True, exist_ok=True)
+        local_file = image_dir / f'{slug}.jpg'
         print(f'Downloading image to static/images/articles/{slug}.jpg ...')
         try:
             import urllib.request, ssl
             ctx = ssl.create_default_context()
-            ctx.check_hostname = False
-            ctx.verify_mode = ssl.CERT_NONE
             req = urllib.request.Request(args.image, headers={
-                'User-Agent': 'HistoryNews/1.0 (educational site; downloading licensed image)'
+                'User-Agent': 'HistoryNewsBot/1.0 (https://github.com/gleifhe/historynews; educational history site) python-urllib'
             })
             with urllib.request.urlopen(req, timeout=30, context=ctx) as resp:
-                with open(local_file, 'wb') as f:
-                    f.write(resp.read())
+                local_file.write_bytes(resp.read())
             image_path = f'/images/articles/{slug}.jpg'
             print(f'  OK — saved as {image_path}')
         except Exception as e:
@@ -151,13 +146,12 @@ def main():
         weight=weight
     )
 
-    filepath = os.path.join(content_dir, f'{slug}.md')
-    if os.path.exists(filepath):
+    filepath = content_dir / f'{slug}.md'
+    if filepath.exists():
         print(f'ERROR: {filepath} already exists.')
         return
 
-    with open(filepath, 'w', encoding='utf-8') as f:
-        f.write(output)
+    filepath.write_text(output, encoding='utf-8')
 
     print(f'Created: {filepath}')
     print(f'Weight: {weight}')

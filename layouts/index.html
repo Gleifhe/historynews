@@ -13,9 +13,10 @@
   </div>
 
   {{ $articles := where .Site.RegularPages "Section" "articles" }}
+  {{ $homeArticles := first 50 $articles }}
 
   {{/* Featured lead story — first article */}}
-  {{ with index $articles 0 }}
+  {{ with index $homeArticles 0 }}
   <a href="{{ .RelPermalink }}" class="featured-story">
     <div class="featured-img" style="background-image: url('{{ .Params.image }}')"></div>
     <div class="featured-text">
@@ -103,8 +104,8 @@
       <div class="two-col-grid">
         <div class="col">
           <div class="col-label">COLUMN A</div>
-          {{ range $i, $p := after 1 $articles }}
-            {{ if lt $i (div (len (after 1 $articles)) 2 | add 1) }}
+          {{ range $i, $p := after 1 $homeArticles }}
+            {{ if lt $i (div (len (after 1 $homeArticles)) 2 | add 1) }}
             <a href="{{ $p.RelPermalink }}" class="story-card" data-era="{{ $p.Params.era }}">
               <div class="card-img" style="background-image: url('{{ $p.Params.image }}')"></div>
               <div class="card-body">
@@ -119,8 +120,8 @@
         </div>
         <div class="col">
           <div class="col-label">COLUMN B</div>
-          {{ range $i, $p := after 1 $articles }}
-            {{ if ge $i (div (len (after 1 $articles)) 2 | add 1) }}
+          {{ range $i, $p := after 1 $homeArticles }}
+            {{ if ge $i (div (len (after 1 $homeArticles)) 2 | add 1) }}
             <a href="{{ $p.RelPermalink }}" class="story-card" data-era="{{ $p.Params.era }}">
               <div class="card-img" style="background-image: url('{{ $p.Params.image }}')"></div>
               <div class="card-body">
@@ -134,6 +135,11 @@
           {{ end }}
         </div>
       </div>
+      {{ if gt (len $articles) 50 }}
+      <div class="view-all-bar">
+        <a href="/articles/" class="view-all-link">View All {{ len $articles }} Articles →</a>
+      </div>
+      {{ end }}
     </div>
   </div>
 </section>

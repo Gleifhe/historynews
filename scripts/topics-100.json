@@ -1,0 +1,974 @@
+[
+  {
+    "slug": "signing-declaration-independence",
+    "title": "The Signing of the Declaration of Independence",
+    "headline": "INDEPENDENCE DECLARED: Fifty-Six Men Put Their Names to Treason and Changed the World Forever",
+    "summary": "On July 4, 1776, delegates to the Continental Congress formally adopted the Declaration of Independence, severing ties with Britain and launching a radical experiment in self-governance.",
+    "historydate": "July 4, 1776",
+    "era": "18th Century",
+    "wiki": "United States Declaration of Independence"
+  },
+  {
+    "slug": "boston-tea-party",
+    "title": "The Boston Tea Party",
+    "headline": "TEA DUMPED IN HARBOR: Colonists Destroy 342 Chests of British Tea in Midnight Protest",
+    "summary": "On December 16, 1773, American colonists disguised as Mohawk Indians boarded three ships and dumped 342 chests of tea into Boston Harbor, igniting a chain of events that led to revolution.",
+    "historydate": "December 16, 1773",
+    "era": "18th Century",
+    "wiki": "Boston Tea Party"
+  },
+  {
+    "slug": "storming-of-bastille",
+    "title": "The Storming of the Bastille",
+    "headline": "BASTILLE FALLS: Paris Mob Storms Royal Fortress as French Revolution Erupts",
+    "summary": "On July 14, 1789, a crowd of Parisians stormed the Bastille fortress, a symbol of royal authority, marking the beginning of the French Revolution and the end of absolute monarchy in France.",
+    "historydate": "July 14, 1789",
+    "era": "18th Century",
+    "wiki": "Storming of the Bastille"
+  },
+  {
+    "slug": "trail-of-tears",
+    "title": "The Trail of Tears",
+    "headline": "FORCED MARCH: Thousands of Cherokee Die on 1,000-Mile Journey West",
+    "summary": "In 1838, the U.S. government forcibly removed approximately 16,000 Cherokee from their ancestral homeland. Roughly 4,000 died on the brutal march westward known as the Trail of Tears.",
+    "historydate": "1838",
+    "era": "19th Century",
+    "wiki": "Trail of Tears"
+  },
+  {
+    "slug": "gold-rush-1849",
+    "title": "The California Gold Rush",
+    "headline": "GOLD DISCOVERED: Hundreds of Thousands Race to California in History's Greatest Treasure Hunt",
+    "summary": "After James Marshall found gold at Sutter's Mill in January 1848, some 300,000 people flooded into California, transforming a remote territory into a state and reshaping American westward expansion.",
+    "historydate": "January 24, 1848",
+    "era": "19th Century",
+    "wiki": "California Gold Rush"
+  },
+  {
+    "slug": "opening-of-suez-canal",
+    "title": "The Opening of the Suez Canal",
+    "headline": "EAST MEETS WEST: Suez Canal Opens, Slashing Voyage from Europe to Asia by Thousands of Miles",
+    "summary": "On November 17, 1869, the Suez Canal opened after ten years of construction, connecting the Mediterranean Sea to the Red Sea and revolutionizing global trade and naval strategy.",
+    "historydate": "November 17, 1869",
+    "era": "Victorian Era",
+    "wiki": "Suez Canal"
+  },
+  {
+    "slug": "invention-of-photography",
+    "title": "The Invention of Photography",
+    "headline": "REALITY CAPTURED: Daguerre Unveils Process That Freezes Time in Silver and Light",
+    "summary": "In 1839, Louis Daguerre publicly demonstrated the daguerreotype process, giving humanity the power to capture and preserve exact images of the world for the first time.",
+    "historydate": "August 19, 1839",
+    "era": "Victorian Era",
+    "wiki": "Daguerreotype"
+  },
+  {
+    "slug": "abolition-of-slave-trade",
+    "title": "Britain Abolishes the Slave Trade",
+    "headline": "SLAVE TRADE ABOLISHED: Parliament Votes to End Centuries of Human Trafficking Across the Atlantic",
+    "summary": "On March 25, 1807, the British Parliament passed the Slave Trade Act, making it illegal to buy or sell enslaved people throughout the British Empire after decades of abolitionist campaigning.",
+    "historydate": "March 25, 1807",
+    "era": "19th Century",
+    "wiki": "Slave Trade Act 1807"
+  },
+  {
+    "slug": "irish-home-rule-crisis",
+    "title": "The Irish Home Rule Crisis",
+    "headline": "IRELAND ON THE BRINK: Home Rule Bill Passes but Ulster Volunteers Threaten Civil War",
+    "summary": "The Third Home Rule Bill of 1914 promised self-governance to Ireland but brought Britain to the edge of civil war as Unionists in Ulster armed themselves to resist.",
+    "historydate": "September 18, 1914",
+    "era": "Pre-World War I",
+    "wiki": "Home Rule Crisis"
+  },
+  {
+    "slug": "assassination-of-lincoln",
+    "title": "The Assassination of Abraham Lincoln",
+    "headline": "PRESIDENT SHOT: Abraham Lincoln Assassinated at Ford's Theatre as Nation Celebrates War's End",
+    "summary": "On April 14, 1865, five days after the Civil War ended, John Wilkes Booth shot President Abraham Lincoln at Ford's Theatre. Lincoln died the following morning, plunging a reuniting nation into grief.",
+    "historydate": "April 14, 1865",
+    "era": "Civil War",
+    "wiki": "Assassination of Abraham Lincoln"
+  },
+  {
+    "slug": "battle-of-thermopylae",
+    "title": "The Battle of Thermopylae",
+    "headline": "300 HOLD THE PASS: King Leonidas and His Spartans Make Their Last Stand Against Persian Millions",
+    "summary": "In 480 BC, King Leonidas of Sparta led 300 warriors and several thousand Greek allies to hold the narrow pass at Thermopylae against Xerxes' massive Persian army, buying Greece time to prepare its defense.",
+    "historydate": "480 BC",
+    "era": "Ancient World",
+    "wiki": "Battle of Thermopylae"
+  },
+  {
+    "slug": "building-of-great-wall",
+    "title": "The Building of the Great Wall of China",
+    "headline": "WALL ACROSS THE WORLD: Emperor Qin Orders 5,000-Mile Barrier to Shield China from Northern Invaders",
+    "summary": "Beginning in 221 BC under Emperor Qin Shi Huang, China embarked on one of humanity's most ambitious construction projects: a defensive wall stretching thousands of miles across mountains and deserts.",
+    "historydate": "221 BC",
+    "era": "Ancient World",
+    "wiki": "Great Wall of China"
+  },
+  {
+    "slug": "eruption-of-vesuvius",
+    "title": "The Eruption of Mount Vesuvius",
+    "headline": "CITY BURIED ALIVE: Vesuvius Erupts, Entombing Pompeii Under Twenty Feet of Volcanic Ash",
+    "summary": "On August 24, 79 AD, Mount Vesuvius erupted catastrophically, burying the Roman cities of Pompeii and Herculaneum under volcanic material and preserving a snapshot of daily life in the ancient world.",
+    "historydate": "August 24, 79 AD",
+    "era": "Ancient World",
+    "wiki": "Eruption of Mount Vesuvius in 79 AD"
+  },
+  {
+    "slug": "library-of-alexandria",
+    "title": "The Library of Alexandria",
+    "headline": "KNOWLEDGE OF THE WORLD: Alexandria's Great Library Collects Every Book Ever Written",
+    "summary": "Founded in the 3rd century BC, the Library of Alexandria became the ancient world's greatest center of learning, housing hundreds of thousands of scrolls and attracting scholars from across the Mediterranean.",
+    "historydate": "3rd century BC",
+    "era": "Ancient World",
+    "wiki": "Library of Alexandria"
+  },
+  {
+    "slug": "construction-of-panama-canal",
+    "title": "The Construction of the Panama Canal",
+    "headline": "TWO OCEANS JOINED: After 27,000 Deaths, the Panama Canal Opens and Changes World Trade Forever",
+    "summary": "Completed in 1914 after a decade of construction and thousands of worker deaths, the Panama Canal connected the Atlantic and Pacific Oceans, eliminating the 12,000-mile voyage around South America.",
+    "historydate": "August 15, 1914",
+    "era": "Early 20th Century",
+    "wiki": "Panama Canal"
+  },
+  {
+    "slug": "first-flight-at-kitty-hawk",
+    "title": "First Powered Flight at Kitty Hawk",
+    "headline": "MAN FLIES: Wright Brothers Achieve 12-Second Powered Flight Over North Carolina Sand Dunes",
+    "summary": "On December 17, 1903, Orville and Wilbur Wright achieved the first sustained, controlled, powered heavier-than-air flight near Kitty Hawk, North Carolina, launching the age of aviation.",
+    "historydate": "December 17, 1903",
+    "era": "Turn of the Century",
+    "wiki": "Wright Flyer"
+  },
+  {
+    "slug": "sinking-of-lusitania",
+    "title": "The Sinking of the Lusitania",
+    "headline": "LUXURY LINER TORPEDOED: 1,198 Dead as German U-Boat Sinks Lusitania Off Irish Coast",
+    "summary": "On May 7, 1915, a German submarine torpedoed the RMS Lusitania, killing 1,198 passengers and crew. The sinking turned American public opinion against Germany and helped draw the U.S. into World War I.",
+    "historydate": "May 7, 1915",
+    "era": "World War I Era",
+    "wiki": "Sinking of the RMS Lusitania"
+  },
+  {
+    "slug": "russian-revolution-october",
+    "title": "The October Revolution",
+    "headline": "BOLSHEVIKS SEIZE POWER: Lenin's Revolution Topples Government, Russia Exits World War",
+    "summary": "On November 7, 1917, Bolshevik forces led by Vladimir Lenin stormed the Winter Palace in Petrograd, overthrowing the Provisional Government and establishing the world's first communist state.",
+    "historydate": "November 7, 1917",
+    "era": "World War I Era",
+    "wiki": "October Revolution"
+  },
+  {
+    "slug": "discovery-of-tutankhamuns-tomb",
+    "title": "Discovery of Tutankhamun's Tomb",
+    "headline": "WONDERFUL THINGS: Howard Carter Opens Sealed Egyptian Tomb Untouched for 3,000 Years",
+    "summary": "On November 26, 1922, archaeologist Howard Carter peered into the tomb of Pharaoh Tutankhamun and saw golden treasures that had lain undisturbed for over 3,000 years, sparking worldwide Egyptomania.",
+    "historydate": "November 26, 1922",
+    "era": "Roaring Twenties",
+    "wiki": "Tomb of Tutankhamun"
+  },
+  {
+    "slug": "wall-street-crash-1929",
+    "title": "The Wall Street Crash of 1929",
+    "headline": "MARKETS COLLAPSE: Black Tuesday Wipes Out Billions as Wall Street Plunges Into Chaos",
+    "summary": "On October 29, 1929, the stock market crashed catastrophically on Black Tuesday, erasing billions in wealth and triggering the Great Depression that would devastate economies worldwide for a decade.",
+    "historydate": "October 29, 1929",
+    "era": "Great Depression",
+    "wiki": "Wall Street Crash of 1929"
+  },
+  {
+    "slug": "hindenburg-disaster",
+    "title": "The Hindenburg Disaster",
+    "headline": "OH THE HUMANITY: Giant Airship Hindenburg Explodes Over New Jersey, Ending the Age of the Zeppelin",
+    "summary": "On May 6, 1937, the German airship Hindenburg burst into flames while landing at Lakehurst, New Jersey, killing 36 people and destroying public confidence in rigid airships forever.",
+    "historydate": "May 6, 1937",
+    "era": "Great Depression",
+    "wiki": "Hindenburg disaster"
+  },
+  {
+    "slug": "battle-of-stalingrad",
+    "title": "The Battle of Stalingrad",
+    "headline": "TURNING POINT: Soviet Forces Destroy German 6th Army at Stalingrad in Deadliest Battle in History",
+    "summary": "From August 1942 to February 1943, the Battle of Stalingrad killed nearly two million people and ended in the destruction of Germany's 6th Army, marking the turning point of World War II in Europe.",
+    "historydate": "February 2, 1943",
+    "era": "World War II",
+    "wiki": "Battle of Stalingrad"
+  },
+  {
+    "slug": "atomic-bombing-of-nagasaki",
+    "title": "The Atomic Bombing of Nagasaki",
+    "headline": "SECOND BOMB DROPPED: Fat Man Devastates Nagasaki, Japan Surrenders Days Later",
+    "summary": "On August 9, 1945, the United States dropped a plutonium bomb on Nagasaki, killing approximately 40,000 people instantly. Six days later, Japan announced its surrender, ending World War II.",
+    "historydate": "August 9, 1945",
+    "era": "World War II",
+    "wiki": "Atomic bombings of Hiroshima and Nagasaki"
+  },
+  {
+    "slug": "liberation-of-paris",
+    "title": "The Liberation of Paris",
+    "headline": "PARIS IS FREE: Four Years of Nazi Occupation End as Allied Forces Enter the City of Light",
+    "summary": "On August 25, 1944, Allied forces and the French Resistance liberated Paris after four years of German occupation, as crowds filled the Champs-Elysees in jubilant celebration.",
+    "historydate": "August 25, 1944",
+    "era": "World War II",
+    "wiki": "Liberation of Paris"
+  },
+  {
+    "slug": "founding-of-nato",
+    "title": "The Founding of NATO",
+    "headline": "WESTERN ALLIANCE: Twelve Nations Sign North Atlantic Treaty, Pledge Mutual Defense Against Soviet Threat",
+    "summary": "On April 4, 1949, twelve nations signed the North Atlantic Treaty in Washington, D.C., creating a military alliance that would serve as the cornerstone of Western defense throughout the Cold War.",
+    "historydate": "April 4, 1949",
+    "era": "Cold War",
+    "wiki": "NATO"
+  },
+  {
+    "slug": "construction-of-berlin-wall",
+    "title": "The Construction of the Berlin Wall",
+    "headline": "CITY DIVIDED: East Germany Erects Wall Through Heart of Berlin Overnight",
+    "summary": "On August 13, 1961, East German soldiers began building a barbed wire barrier through Berlin, eventually replaced by a concrete wall that would divide families and symbolize the Iron Curtain for 28 years.",
+    "historydate": "August 13, 1961",
+    "era": "Cold War",
+    "wiki": "Berlin Wall"
+  },
+  {
+    "slug": "bay-of-pigs-invasion",
+    "title": "The Bay of Pigs Invasion",
+    "headline": "INVASION FAILS: CIA-Backed Cuban Exiles Crushed on Beach as Castro's Forces Counterattack",
+    "summary": "On April 17, 1961, approximately 1,400 CIA-trained Cuban exiles landed at the Bay of Pigs to overthrow Fidel Castro. The invasion failed within three days, humiliating the Kennedy administration.",
+    "historydate": "April 17, 1961",
+    "era": "Cold War",
+    "wiki": "Bay of Pigs Invasion"
+  },
+  {
+    "slug": "chernobyl-disaster",
+    "title": "The Chernobyl Disaster",
+    "headline": "REACTOR EXPLODES: World's Worst Nuclear Disaster Spreads Radiation Across Europe",
+    "summary": "On April 26, 1986, Reactor No. 4 at the Chernobyl Nuclear Power Plant in Ukraine exploded during a safety test, releasing 400 times more radiation than the Hiroshima bomb and contaminating vast areas of Europe.",
+    "historydate": "April 26, 1986",
+    "era": "Cold War",
+    "wiki": "Chernobyl disaster"
+  },
+  {
+    "slug": "march-on-washington",
+    "title": "The March on Washington",
+    "headline": "I HAVE A DREAM: 250,000 March on Washington as King Delivers Greatest Speech of the Century",
+    "summary": "On August 28, 1963, more than 250,000 people gathered at the Lincoln Memorial for the March on Washington, where Martin Luther King Jr. delivered his legendary 'I Have a Dream' speech.",
+    "historydate": "August 28, 1963",
+    "era": "Civil Rights Era",
+    "wiki": "March on Washington for Jobs and Freedom"
+  },
+  {
+    "slug": "selma-to-montgomery-marches",
+    "title": "The Selma to Montgomery Marches",
+    "headline": "BLOODY SUNDAY TO VICTORY: Marchers Brave Tear Gas and Clubs to Win the Right to Vote",
+    "summary": "In March 1965, three marches from Selma to Montgomery, Alabama highlighted the violent suppression of Black voting rights. The first march's Bloody Sunday images shocked the nation and led to the Voting Rights Act.",
+    "historydate": "March 7, 1965",
+    "era": "Civil Rights Era",
+    "wiki": "Selma to Montgomery marches"
+  },
+  {
+    "slug": "assassination-of-jfk",
+    "title": "The Assassination of President Kennedy",
+    "headline": "PRESIDENT KILLED: John F. Kennedy Shot Dead in Dallas Motorcade",
+    "summary": "On November 22, 1963, President John F. Kennedy was assassinated while riding in an open motorcade through Dealey Plaza in Dallas, Texas, shocking the world and ending the era of Camelot.",
+    "historydate": "November 22, 1963",
+    "era": "1960s America",
+    "wiki": "Assassination of John F. Kennedy"
+  },
+  {
+    "slug": "woodstock-festival",
+    "title": "The Woodstock Festival",
+    "headline": "PEACE AND MUSIC: 400,000 Gather on New York Farm for Three Days of Music That Defined a Generation",
+    "summary": "From August 15 to 18, 1969, the Woodstock Music and Art Fair drew 400,000 people to a dairy farm in Bethel, New York, becoming the defining cultural event of the 1960s counterculture movement.",
+    "historydate": "August 15, 1969",
+    "era": "1960s America",
+    "wiki": "Woodstock"
+  },
+  {
+    "slug": "fall-of-saigon",
+    "title": "The Fall of Saigon",
+    "headline": "SAIGON FALLS: Last Americans Evacuate by Helicopter as North Vietnamese Tanks Enter the Capital",
+    "summary": "On April 30, 1975, North Vietnamese forces captured Saigon, ending the Vietnam War. Iconic images of helicopters evacuating the last Americans from the embassy roof marked the end of two decades of U.S. involvement.",
+    "historydate": "April 30, 1975",
+    "era": "Vietnam War",
+    "wiki": "Fall of Saigon"
+  },
+  {
+    "slug": "three-mile-island",
+    "title": "The Three Mile Island Accident",
+    "headline": "NUCLEAR SCARE: Reactor Partially Melts Down in Pennsylvania, Sparking Nationwide Panic",
+    "summary": "On March 28, 1979, a partial meltdown at the Three Mile Island nuclear plant in Pennsylvania became the worst nuclear accident in American history, transforming public attitudes toward nuclear energy.",
+    "historydate": "March 28, 1979",
+    "era": "1970s America",
+    "wiki": "Three Mile Island accident"
+  },
+  {
+    "slug": "camp-david-peace-accords",
+    "title": "The Camp David Accords",
+    "headline": "PEACE IN THE MIDDLE EAST: Egypt and Israel Sign Historic Agreement After 13 Days at Camp David",
+    "summary": "On September 17, 1978, Egyptian President Anwar Sadat and Israeli Prime Minister Menachem Begin signed the Camp David Accords, brokered by President Carter, ending 30 years of hostility between the two nations.",
+    "historydate": "September 17, 1978",
+    "era": "1970s America",
+    "wiki": "Camp David Accords"
+  },
+  {
+    "slug": "apartheid-ends-south-africa",
+    "title": "The End of Apartheid in South Africa",
+    "headline": "APARTHEID FALLS: South Africa Holds First Free Elections as Mandela Becomes President",
+    "summary": "On April 27, 1994, millions of South Africans of all races voted together for the first time in the country's history, electing Nelson Mandela president and ending decades of institutionalized racial segregation.",
+    "historydate": "April 27, 1994",
+    "era": "Peace & Cooperation",
+    "wiki": "1994 South African general election"
+  },
+  {
+    "slug": "reunification-of-germany",
+    "title": "The Reunification of Germany",
+    "headline": "ONE GERMANY: East and West Officially Reunite After 45 Years of Cold War Division",
+    "summary": "On October 3, 1990, East and West Germany officially reunified, ending 45 years of division. The Berlin Wall had fallen less than a year earlier, and now the two halves of Germany became one nation again.",
+    "historydate": "October 3, 1990",
+    "era": "Peace & Cooperation",
+    "wiki": "German reunification"
+  },
+  {
+    "slug": "creation-of-internet",
+    "title": "The Birth of the Internet",
+    "headline": "CONNECTED: ARPANET Sends First Message, Laying the Foundation for a Network That Will Change Everything",
+    "summary": "On October 29, 1969, the first message was sent over ARPANET from UCLA to Stanford. The system crashed after two letters, but this humble beginning would evolve into the internet that connects billions today.",
+    "historydate": "October 29, 1969",
+    "era": "Science & Discovery",
+    "wiki": "ARPANET"
+  },
+  {
+    "slug": "discovery-of-dna-structure",
+    "title": "The Discovery of DNA's Double Helix",
+    "headline": "SECRET OF LIFE: Watson and Crick Reveal the Structure of DNA in Cambridge Pub Announcement",
+    "summary": "On February 28, 1953, James Watson and Francis Crick determined the double-helix structure of DNA, unlocking the molecular basis of heredity and launching the era of molecular biology.",
+    "historydate": "February 28, 1953",
+    "era": "Science & Discovery",
+    "wiki": "Molecular structure of nucleic acids"
+  },
+  {
+    "slug": "first-organ-transplant",
+    "title": "The First Successful Organ Transplant",
+    "headline": "MEDICAL MIRACLE: Surgeon Successfully Transplants Kidney Between Identical Twins",
+    "summary": "On December 23, 1954, Dr. Joseph Murray performed the first successful organ transplant at Peter Bent Brigham Hospital in Boston, transplanting a kidney between identical twins and opening a new era in medicine.",
+    "historydate": "December 23, 1954",
+    "era": "Science & Discovery",
+    "wiki": "Organ transplantation"
+  },
+  {
+    "slug": "invention-of-printing-press",
+    "title": "Gutenberg's Printing Press",
+    "headline": "KNOWLEDGE UNLEASHED: Gutenberg's Invention Allows Books to Be Printed by the Thousand",
+    "summary": "Around 1440, Johannes Gutenberg developed movable-type printing in Mainz, Germany. His invention democratized knowledge, fueled the Renaissance and Reformation, and remains one of humanity's most transformative innovations.",
+    "historydate": "1440",
+    "era": "Renaissance",
+    "wiki": "Printing press"
+  },
+  {
+    "slug": "voyage-of-columbus",
+    "title": "Columbus Reaches the Americas",
+    "headline": "NEW WORLD FOUND: Columbus Lands on Caribbean Island After 36 Days at Sea",
+    "summary": "On October 12, 1492, Christopher Columbus and his crew made landfall in the Bahamas, initiating sustained European contact with the Americas and setting in motion centuries of profound cultural and ecological exchange.",
+    "historydate": "October 12, 1492",
+    "era": "Renaissance",
+    "wiki": "Voyages of Christopher Columbus"
+  },
+  {
+    "slug": "signing-of-magna-carta",
+    "title": "The Signing of Magna Carta",
+    "headline": "KING BOWS TO LAW: English Barons Force King John to Seal Charter Limiting Royal Power",
+    "summary": "On June 15, 1215, English barons forced King John to seal Magna Carta at Runnymede, establishing the principle that even the king was subject to law and planting the seeds of constitutional government.",
+    "historydate": "June 15, 1215",
+    "era": "Medieval",
+    "wiki": "Magna Carta"
+  },
+  {
+    "slug": "black-death-europe",
+    "title": "The Black Death Reaches Europe",
+    "headline": "PLAGUE SWEEPS CONTINENT: Black Death Kills One-Third of Europe's Population",
+    "summary": "Between 1347 and 1353, the Black Death killed an estimated 25 to 50 million Europeans, roughly one-third of the continent's population, reshaping medieval society, labor markets, and religious institutions.",
+    "historydate": "1347",
+    "era": "Medieval",
+    "wiki": "Black Death"
+  },
+  {
+    "slug": "crusades-begin",
+    "title": "The First Crusade",
+    "headline": "DEUS VULT: Pope Urban II Calls Christendom to Arms, Launching Two Centuries of Holy Wars",
+    "summary": "On November 27, 1095, Pope Urban II called on Christian Europe to reclaim Jerusalem from Muslim control. The First Crusade succeeded in capturing Jerusalem in 1099, beginning nearly 200 years of religious warfare.",
+    "historydate": "November 27, 1095",
+    "era": "Medieval",
+    "wiki": "First Crusade"
+  },
+  {
+    "slug": "invention-of-steam-engine",
+    "title": "The Steam Engine Revolution",
+    "headline": "POWER UNLEASHED: Watt's Improved Steam Engine Launches the Industrial Revolution",
+    "summary": "James Watt's improved steam engine, patented in 1769, transformed manufacturing, mining, and transportation, powering the Industrial Revolution and fundamentally changing how humanity produces goods.",
+    "historydate": "1769",
+    "era": "Industrial Age",
+    "wiki": "Watt steam engine"
+  },
+  {
+    "slug": "first-transatlantic-flight",
+    "title": "Lindbergh's Transatlantic Flight",
+    "headline": "LONE EAGLE LANDS IN PARIS: Lindbergh Completes First Solo Nonstop Flight Across the Atlantic",
+    "summary": "On May 21, 1927, Charles Lindbergh landed the Spirit of St. Louis at Le Bourget Field in Paris after 33.5 hours of solo flight from New York, completing the first nonstop transatlantic airplane flight.",
+    "historydate": "May 21, 1927",
+    "era": "Roaring Twenties",
+    "wiki": "Charles Lindbergh"
+  },
+  {
+    "slug": "womens-suffrage-19th-amendment",
+    "title": "Women Win the Right to Vote",
+    "headline": "VICTORY AT LAST: 19th Amendment Ratified, Giving 26 Million American Women the Right to Vote",
+    "summary": "On August 18, 1920, Tennessee became the 36th state to ratify the 19th Amendment, granting women the right to vote after 72 years of organized activism in the American suffrage movement.",
+    "historydate": "August 18, 1920",
+    "era": "Women's Suffrage",
+    "wiki": "Nineteenth Amendment to the United States Constitution"
+  },
+  {
+    "slug": "spanish-civil-war",
+    "title": "The Spanish Civil War",
+    "headline": "SPAIN TORN APART: Military Uprising Splits Nation as Europe Watches a Rehearsal for World War",
+    "summary": "From 1936 to 1939, the Spanish Civil War pitted Republican loyalists against Nationalist rebels led by General Francisco Franco. The conflict served as a proving ground for the weapons and tactics of World War II.",
+    "historydate": "July 17, 1936",
+    "era": "Great Depression",
+    "wiki": "Spanish Civil War"
+  },
+  {
+    "slug": "dust-bowl",
+    "title": "The Dust Bowl",
+    "headline": "BLACK BLIZZARDS: Massive Dust Storms Bury Farms Across the Great Plains",
+    "summary": "Throughout the 1930s, severe drought and decades of poor farming practices created devastating dust storms across the American Great Plains, displacing hundreds of thousands of families during the Great Depression.",
+    "historydate": "1934",
+    "era": "Great Depression",
+    "wiki": "Dust Bowl"
+  },
+  {
+    "slug": "battle-of-britain",
+    "title": "The Battle of Britain",
+    "headline": "THEIR FINEST HOUR: RAF Pilots Hold Off Luftwaffe in the Skies Over England",
+    "summary": "From July to October 1940, the Royal Air Force defended Britain against massive German air attacks. The RAF's victory in the Battle of Britain was the first major defeat of Hitler's military forces.",
+    "historydate": "September 15, 1940",
+    "era": "World War II",
+    "wiki": "Battle of Britain"
+  },
+  {
+    "slug": "yalta-conference",
+    "title": "The Yalta Conference",
+    "headline": "BIG THREE DIVIDE THE WORLD: Roosevelt, Churchill, and Stalin Reshape Postwar Europe",
+    "summary": "In February 1945, Roosevelt, Churchill, and Stalin met at Yalta in Crimea to plan the final defeat of Nazi Germany and negotiate the postwar order, decisions that would shape the Cold War for decades.",
+    "historydate": "February 4, 1945",
+    "era": "World War II",
+    "wiki": "Yalta Conference"
+  },
+  {
+    "slug": "tokyo-war-crimes-trial",
+    "title": "The Tokyo War Crimes Tribunal",
+    "headline": "JUSTICE IN THE PACIFIC: International Court Tries Japanese Leaders for War Crimes",
+    "summary": "From 1946 to 1948, the International Military Tribunal for the Far East tried 28 Japanese military and political leaders for war crimes, crimes against peace, and crimes against humanity.",
+    "historydate": "May 3, 1946",
+    "era": "Post-World War II",
+    "wiki": "International Military Tribunal for the Far East"
+  },
+  {
+    "slug": "indian-independence",
+    "title": "Indian Independence and Partition",
+    "headline": "FREEDOM AT MIDNIGHT: India Wins Independence but Partition Triggers History's Largest Migration",
+    "summary": "On August 15, 1947, India gained independence from British rule. The simultaneous partition into India and Pakistan triggered massive population transfers and communal violence that killed up to two million people.",
+    "historydate": "August 15, 1947",
+    "era": "Post-World War II",
+    "wiki": "Partition of India"
+  },
+  {
+    "slug": "creation-of-israel",
+    "title": "The Creation of the State of Israel",
+    "headline": "NEW NATION BORN: David Ben-Gurion Declares Israeli Independence as Five Arab Nations Prepare for War",
+    "summary": "On May 14, 1948, David Ben-Gurion proclaimed the establishment of the State of Israel, fulfilling decades of Zionist aspiration. Within hours, neighboring Arab states invaded, beginning the 1948 Arab-Israeli War.",
+    "historydate": "May 14, 1948",
+    "era": "Post-World War II",
+    "wiki": "Israeli Declaration of Independence"
+  },
+  {
+    "slug": "berlin-airlift",
+    "title": "The Berlin Airlift",
+    "headline": "CANDY BOMBERS: Western Allies Fly 2.3 Million Tons of Supplies Into Blockaded Berlin",
+    "summary": "From June 1948 to May 1949, the Western Allies airlifted food, fuel, and supplies to the people of West Berlin after the Soviet Union blockaded all ground routes into the city.",
+    "historydate": "June 24, 1948",
+    "era": "Cold War",
+    "wiki": "Berlin Blockade"
+  },
+  {
+    "slug": "sputnik-launch",
+    "title": "The Launch of Sputnik",
+    "headline": "RED MOON RISING: Soviet Union Launches First Artificial Satellite, Shocking the World",
+    "summary": "On October 4, 1957, the Soviet Union launched Sputnik 1, the first artificial satellite to orbit Earth. Its steady beeping signal from space terrified Americans and ignited the Space Race.",
+    "historydate": "October 4, 1957",
+    "era": "Space Age",
+    "wiki": "Sputnik 1"
+  },
+  {
+    "slug": "first-man-in-space",
+    "title": "Yuri Gagarin Orbits the Earth",
+    "headline": "MAN IN SPACE: Soviet Cosmonaut Yuri Gagarin Becomes First Human to Orbit the Earth",
+    "summary": "On April 12, 1961, Soviet cosmonaut Yuri Gagarin completed a single orbit of Earth aboard Vostok 1, becoming the first human being in space and scoring a major victory in the Space Race.",
+    "historydate": "April 12, 1961",
+    "era": "Space Age",
+    "wiki": "Vostok 1"
+  },
+  {
+    "slug": "challenger-disaster",
+    "title": "The Challenger Disaster",
+    "headline": "TRAGEDY IN THE SKY: Space Shuttle Challenger Breaks Apart 73 Seconds After Launch",
+    "summary": "On January 28, 1986, the Space Shuttle Challenger broke apart 73 seconds after launch, killing all seven crew members including teacher Christa McAuliffe, as millions of schoolchildren watched on live television.",
+    "historydate": "January 28, 1986",
+    "era": "Space Age",
+    "wiki": "Space Shuttle Challenger disaster"
+  },
+  {
+    "slug": "first-woman-in-space",
+    "title": "Valentina Tereshkova: First Woman in Space",
+    "headline": "SHE ORBITS ALONE: Soviet Cosmonaut Valentina Tereshkova Becomes First Woman in Space",
+    "summary": "On June 16, 1963, Valentina Tereshkova launched aboard Vostok 6 and orbited the Earth 48 times over three days, becoming the first woman in space — a record that would stand for 19 years.",
+    "historydate": "June 16, 1963",
+    "era": "Space Age",
+    "wiki": "Valentina Tereshkova"
+  },
+  {
+    "slug": "spanish-armada-defeat",
+    "title": "The Defeat of the Spanish Armada",
+    "headline": "ARMADA DESTROYED: England's Navy and Storms Shatter Spain's Invasion Fleet",
+    "summary": "In August 1588, England's smaller but more maneuverable navy, aided by fierce storms, defeated the mighty Spanish Armada, securing English naval dominance and Protestant independence from Catholic Spain.",
+    "historydate": "August 8, 1588",
+    "era": "16th Century",
+    "wiki": "Spanish Armada"
+  },
+  {
+    "slug": "gunpowder-plot",
+    "title": "The Gunpowder Plot",
+    "headline": "PARLIAMENT SAVED: Guy Fawkes Caught With 36 Barrels of Gunpowder Beneath House of Lords",
+    "summary": "On November 5, 1605, Guy Fawkes was discovered guarding 36 barrels of gunpowder beneath the House of Lords, foiling a Catholic conspiracy to assassinate King James I and blow up Parliament.",
+    "historydate": "November 5, 1605",
+    "era": "17th Century",
+    "wiki": "Gunpowder Plot"
+  },
+  {
+    "slug": "great-fire-of-london-1666",
+    "title": "The Great Fire of London",
+    "headline": "LONDON ABLAZE: Four-Day Fire Destroys 13,200 Houses and 87 Churches",
+    "summary": "The Great Fire of London raged from September 2 to 6, 1666, destroying the medieval city within the old Roman wall. The fire consumed 13,200 houses and 87 churches but led to London's modern rebuilding.",
+    "historydate": "September 2, 1666",
+    "era": "17th Century",
+    "wiki": "Great Fire of London"
+  },
+  {
+    "slug": "treaty-of-westphalia",
+    "title": "The Treaty of Westphalia",
+    "headline": "PEACE AFTER THIRTY YEARS: European Powers Sign Treaties That Create Modern Nation-State System",
+    "summary": "The Peace of Westphalia in 1648 ended the devastating Thirty Years' War and established the principles of national sovereignty and non-interference that form the foundation of modern international relations.",
+    "historydate": "October 24, 1648",
+    "era": "17th Century",
+    "wiki": "Peace of Westphalia"
+  },
+  {
+    "slug": "abolition-of-serfdom-russia",
+    "title": "The Abolition of Serfdom in Russia",
+    "headline": "SERFS FREED: Tsar Alexander II Emancipates 23 Million Russian Peasants",
+    "summary": "On March 3, 1861, Tsar Alexander II signed the Emancipation Reform, freeing approximately 23 million serfs from bondage in the Russian Empire, the largest emancipation in European history.",
+    "historydate": "March 3, 1861",
+    "era": "Victorian Era",
+    "wiki": "Emancipation reform of 1861"
+  },
+  {
+    "slug": "opening-of-ellis-island",
+    "title": "The Opening of Ellis Island",
+    "headline": "GATEWAY TO AMERICA: Ellis Island Opens as 12 Million Immigrants Begin Journey to New Lives",
+    "summary": "On January 1, 1892, Ellis Island opened as the United States' busiest immigration station. Over the next 62 years, more than 12 million immigrants would pass through its halls seeking a new life in America.",
+    "historydate": "January 1, 1892",
+    "era": "Victorian Era",
+    "wiki": "Ellis Island"
+  },
+  {
+    "slug": "boxer-rebellion",
+    "title": "The Boxer Rebellion",
+    "headline": "SIEGE OF THE LEGATIONS: Eight-Nation Alliance Marches on Beijing as Boxer Uprising Threatens Foreigners",
+    "summary": "In 1900, the Boxer Rebellion saw Chinese martial artists attack foreign nationals and Chinese Christians, leading to a 55-day siege of foreign legations in Beijing and an eight-nation military intervention.",
+    "historydate": "June 20, 1900",
+    "era": "Turn of the Century",
+    "wiki": "Boxer Rebellion"
+  },
+  {
+    "slug": "russo-japanese-war",
+    "title": "The Russo-Japanese War",
+    "headline": "JAPAN STUNS THE WORLD: First Asian Power to Defeat a European Nation in Modern War",
+    "summary": "The Russo-Japanese War of 1904-1905 stunned the world when Japan decisively defeated Russia, marking the first time an Asian power defeated a European one in modern warfare and reshaping global power dynamics.",
+    "historydate": "February 8, 1904",
+    "era": "Turn of the Century",
+    "wiki": "Russo-Japanese War"
+  },
+  {
+    "slug": "invention-of-radio",
+    "title": "The Invention of Radio",
+    "headline": "VOICES THROUGH AIR: Marconi Sends First Wireless Signal Across the Atlantic",
+    "summary": "On December 12, 1901, Guglielmo Marconi received the first transatlantic wireless signal in Newfoundland, proving radio waves could travel beyond the horizon and launching the age of broadcast communication.",
+    "historydate": "December 12, 1901",
+    "era": "Turn of the Century",
+    "wiki": "Guglielmo Marconi"
+  },
+  {
+    "slug": "treaty-of-tordesillas",
+    "title": "The Treaty of Tordesillas",
+    "headline": "WORLD DIVIDED: Spain and Portugal Split the Globe Between Them With a Single Line",
+    "summary": "On June 7, 1494, Spain and Portugal signed the Treaty of Tordesillas, drawing an imaginary line through the Atlantic Ocean that divided the entire non-Christian world between the two empires.",
+    "historydate": "June 7, 1494",
+    "era": "Renaissance",
+    "wiki": "Treaty of Tordesillas"
+  },
+  {
+    "slug": "copernicus-heliocentric-theory",
+    "title": "Copernicus Publishes the Heliocentric Theory",
+    "headline": "EARTH IS NOT THE CENTER: Copernicus Reveals the Sun Sits at the Heart of the Solar System",
+    "summary": "In 1543, Nicolaus Copernicus published De revolutionibus orbium coelestium, proposing that the Earth and planets revolve around the Sun, overturning 1,400 years of geocentric astronomy.",
+    "historydate": "1543",
+    "era": "Renaissance",
+    "wiki": "Copernican heliocentrism"
+  },
+  {
+    "slug": "invention-of-dynamite",
+    "title": "The Invention of Dynamite",
+    "headline": "CONTROLLED DESTRUCTION: Alfred Nobel Patents Dynamite, Making Mining and Construction Safer",
+    "summary": "In 1867, Alfred Nobel patented dynamite, a safer way to harness the explosive power of nitroglycerin. The invention revolutionized construction and mining but also transformed warfare, leading Nobel to fund his famous Peace Prize.",
+    "historydate": "1867",
+    "era": "Industrial Age",
+    "wiki": "Dynamite"
+  },
+  {
+    "slug": "opening-of-transcontinental-railroad",
+    "title": "Completion of the Transcontinental Railroad",
+    "headline": "GOLDEN SPIKE: East Meets West as Transcontinental Railroad Joins at Promontory Summit",
+    "summary": "On May 10, 1869, a golden spike was driven at Promontory Summit, Utah, completing the first transcontinental railroad and reducing cross-country travel from six months to six days.",
+    "historydate": "May 10, 1869",
+    "era": "Industrial Age",
+    "wiki": "First transcontinental railroad"
+  },
+  {
+    "slug": "discovery-of-xrays",
+    "title": "The Discovery of X-Rays",
+    "headline": "SEEING THROUGH FLESH: Rontgen Discovers Mysterious Rays That Reveal the Skeleton Inside the Body",
+    "summary": "On November 8, 1895, Wilhelm Rontgen accidentally discovered X-rays while experimenting with cathode rays, producing the first medical image of his wife's hand — and revolutionizing medicine forever.",
+    "historydate": "November 8, 1895",
+    "era": "Victorian Era",
+    "wiki": "Wilhelm Röntgen"
+  },
+  {
+    "slug": "florence-nightingale-crimea",
+    "title": "Florence Nightingale in Crimea",
+    "headline": "LADY WITH THE LAMP: Nightingale's Reforms Cut Death Rates and Launch Modern Nursing",
+    "summary": "In 1854, Florence Nightingale arrived at Scutari military hospital in Crimea and transformed it from a death trap into a model of sanitary care, reducing the death rate from 42 percent to 2 percent.",
+    "historydate": "November 4, 1854",
+    "era": "Victorian Era",
+    "wiki": "Florence Nightingale"
+  },
+  {
+    "slug": "end-of-cold-war",
+    "title": "The End of the Cold War",
+    "headline": "COLD WAR OVER: Bush and Gorbachev Declare End to 45 Years of Superpower Confrontation",
+    "summary": "On December 3, 1989, President George H.W. Bush and Soviet leader Mikhail Gorbachev declared the Cold War over at a summit in Malta, ending 45 years of nuclear standoff between the superpowers.",
+    "historydate": "December 3, 1989",
+    "era": "Cold War",
+    "wiki": "Cold War"
+  },
+  {
+    "slug": "tiananmen-square-protests",
+    "title": "The Tiananmen Square Protests",
+    "headline": "TANK MAN: One Protester Stands Before a Column of Tanks in Beijing",
+    "summary": "In June 1989, the Chinese government violently suppressed pro-democracy protests in Tiananmen Square, killing hundreds or thousands of civilians. The iconic image of a lone man blocking a tank column became a global symbol of resistance.",
+    "historydate": "June 4, 1989",
+    "era": "Cold War",
+    "wiki": "1989 Tiananmen Square protests and massacre"
+  },
+  {
+    "slug": "rwandan-genocide",
+    "title": "The Rwandan Genocide",
+    "headline": "100 DAYS OF HORROR: 800,000 Murdered in Rwanda as the World Looks Away",
+    "summary": "From April to July 1994, Hutu extremists in Rwanda systematically murdered approximately 800,000 Tutsi and moderate Hutu people in approximately 100 days while the international community failed to intervene.",
+    "historydate": "April 7, 1994",
+    "era": "Peace & Cooperation",
+    "wiki": "Rwandan genocide"
+  },
+  {
+    "slug": "dayton-peace-agreement",
+    "title": "The Dayton Peace Agreement",
+    "headline": "PEACE IN BOSNIA: Warring Factions Sign Agreement Ending Europe's Bloodiest Conflict Since 1945",
+    "summary": "On November 21, 1995, the Dayton Peace Agreement ended the Bosnian War, which had killed over 100,000 people. The accord, brokered at Wright-Patterson Air Force Base, created the modern state of Bosnia and Herzegovina.",
+    "historydate": "November 21, 1995",
+    "era": "Peace & Cooperation",
+    "wiki": "Dayton Agreement"
+  },
+  {
+    "slug": "kyoto-protocol",
+    "title": "The Kyoto Protocol",
+    "headline": "CLIMATE PACT: 192 Nations Agree to Cut Greenhouse Gas Emissions for the First Time",
+    "summary": "On December 11, 1997, delegates from 192 nations adopted the Kyoto Protocol, the first international treaty to set binding targets for reducing greenhouse gas emissions and combating climate change.",
+    "historydate": "December 11, 1997",
+    "era": "Peace & Cooperation",
+    "wiki": "Kyoto Protocol"
+  },
+  {
+    "slug": "international-space-station",
+    "title": "The International Space Station",
+    "headline": "HOME IN SPACE: Former Cold War Rivals Build Permanent Laboratory Orbiting 250 Miles Above Earth",
+    "summary": "Launched in 1998, the International Space Station became the largest structure ever built in space, a symbol of international cooperation where astronauts from 19 countries have lived and worked together.",
+    "historydate": "November 20, 1998",
+    "era": "Space Age",
+    "wiki": "International Space Station"
+  },
+  {
+    "slug": "mapping-human-genome",
+    "title": "Mapping the Human Genome",
+    "headline": "CODE OF LIFE CRACKED: Scientists Complete Map of All 3 Billion Letters in Human DNA",
+    "summary": "On April 14, 2003, the Human Genome Project announced the complete mapping of the human genome's 3 billion base pairs, opening a new era of personalized medicine and genetic understanding.",
+    "historydate": "April 14, 2003",
+    "era": "21st Century",
+    "wiki": "Human Genome Project"
+  },
+  {
+    "slug": "indian-ocean-tsunami-2004",
+    "title": "The 2004 Indian Ocean Tsunami",
+    "headline": "WAVE OF DESTRUCTION: Massive Tsunami Kills 230,000 Across 14 Countries",
+    "summary": "On December 26, 2004, a magnitude 9.1 earthquake off Sumatra triggered a tsunami that killed approximately 230,000 people across 14 countries, prompting the largest international relief effort in history.",
+    "historydate": "December 26, 2004",
+    "era": "21st Century",
+    "wiki": "2004 Indian Ocean earthquake and tsunami"
+  },
+  {
+    "slug": "arab-spring",
+    "title": "The Arab Spring",
+    "headline": "REVOLUTION SPREADS: Street Protests Topple Governments Across the Middle East",
+    "summary": "Beginning in December 2010, a wave of pro-democracy protests swept across the Arab world, toppling long-standing dictators in Tunisia, Egypt, and Libya while triggering civil wars in Syria and Yemen.",
+    "historydate": "December 17, 2010",
+    "era": "21st Century",
+    "wiki": "Arab Spring"
+  },
+  {
+    "slug": "fukushima-nuclear-disaster",
+    "title": "The Fukushima Nuclear Disaster",
+    "headline": "TRIPLE MELTDOWN: Earthquake and Tsunami Cause Worst Nuclear Disaster Since Chernobyl",
+    "summary": "On March 11, 2011, a magnitude 9.0 earthquake and tsunami triggered three nuclear meltdowns at the Fukushima Daiichi power plant in Japan, causing the worst nuclear accident since Chernobyl.",
+    "historydate": "March 11, 2011",
+    "era": "21st Century",
+    "wiki": "Fukushima nuclear disaster"
+  },
+  {
+    "slug": "curiosity-lands-on-mars",
+    "title": "Curiosity Rover Lands on Mars",
+    "headline": "TOUCHDOWN ON MARS: NASA's Curiosity Rover Survives Seven Minutes of Terror to Land on Red Planet",
+    "summary": "On August 6, 2012, NASA's Curiosity rover successfully landed on Mars using an unprecedented sky-crane system, beginning a mission to determine whether the Red Planet ever supported microbial life.",
+    "historydate": "August 6, 2012",
+    "era": "Space Age",
+    "wiki": "Curiosity (rover)"
+  },
+  {
+    "slug": "ebola-outbreak-west-africa",
+    "title": "The West African Ebola Outbreak",
+    "headline": "EBOLA CRISIS: Deadliest Outbreak in History Kills 11,000 Across West Africa",
+    "summary": "From 2013 to 2016, the worst Ebola epidemic in history swept through Guinea, Liberia, and Sierra Leone, killing over 11,000 people and overwhelming health systems across West Africa.",
+    "historydate": "December 2013",
+    "era": "21st Century",
+    "wiki": "Western African Ebola virus epidemic"
+  },
+  {
+    "slug": "discovery-of-gravity-waves",
+    "title": "The Detection of Gravitational Waves",
+    "headline": "EINSTEIN WAS RIGHT: Scientists Detect Ripples in Spacetime from Colliding Black Holes",
+    "summary": "On September 14, 2015, the LIGO observatory detected gravitational waves from two merging black holes 1.3 billion light-years away, confirming Einstein's century-old prediction and opening a new window on the universe.",
+    "historydate": "September 14, 2015",
+    "era": "Science & Discovery",
+    "wiki": "First observation of gravitational waves"
+  },
+  {
+    "slug": "fall-of-the-aztec-empire",
+    "title": "The Fall of the Aztec Empire",
+    "headline": "TENOCHTITLAN FALLS: Cortes and Native Allies Conquer the Aztec Capital After 80-Day Siege",
+    "summary": "On August 13, 1521, Spanish conquistador Hernan Cortes and his indigenous allies captured Tenochtitlan after an 80-day siege, ending the Aztec Empire and beginning Spanish colonial rule in Mexico.",
+    "historydate": "August 13, 1521",
+    "era": "16th Century",
+    "wiki": "Fall of Tenochtitlan"
+  },
+  {
+    "slug": "slave-rebellion-haiti",
+    "title": "The Haitian Slave Rebellion",
+    "headline": "SLAVES RISE UP: Massive Rebellion in Saint-Domingue Shakes the Foundations of Colonial Slavery",
+    "summary": "On August 22, 1791, enslaved people in the French colony of Saint-Domingue launched the largest slave revolt in the Americas, beginning a 13-year revolution that would create the independent nation of Haiti.",
+    "historydate": "August 22, 1791",
+    "era": "18th Century",
+    "wiki": "Haitian Revolution"
+  },
+  {
+    "slug": "invention-of-telegraph",
+    "title": "The Invention of the Telegraph",
+    "headline": "WHAT HATH GOD WROUGHT: Morse Sends First Telegraphic Message from Washington to Baltimore",
+    "summary": "On May 24, 1844, Samuel Morse sent the message 'What hath God wrought' from Washington to Baltimore, demonstrating the electric telegraph and ushering in the age of instant long-distance communication.",
+    "historydate": "May 24, 1844",
+    "era": "Victorian Era",
+    "wiki": "Electrical telegraph"
+  },
+  {
+    "slug": "scramble-for-africa-berlin",
+    "title": "The Berlin Conference and the Scramble for Africa",
+    "headline": "CONTINENT CARVED UP: European Powers Divide Africa Among Themselves Without African Input",
+    "summary": "From November 1884 to February 1885, European powers met in Berlin to establish rules for the colonization of Africa, drawing borders that ignored ethnic and cultural boundaries and reshaping the continent.",
+    "historydate": "November 15, 1884",
+    "era": "Victorian Era",
+    "wiki": "Berlin Conference"
+  },
+  {
+    "slug": "battle-of-waterloo",
+    "title": "The Battle of Waterloo",
+    "headline": "NAPOLEON DEFEATED: Wellington and Blucher Crush the Emperor at Waterloo, Ending 23 Years of War",
+    "summary": "On June 18, 1815, the Duke of Wellington and Prussian forces defeated Napoleon Bonaparte at Waterloo in Belgium, ending the Napoleonic Wars and reshaping the map of Europe.",
+    "historydate": "June 18, 1815",
+    "era": "19th Century",
+    "wiki": "Battle of Waterloo"
+  },
+  {
+    "slug": "treaty-of-nanking",
+    "title": "The Treaty of Nanking",
+    "headline": "UNEQUAL TREATY: China Forced to Cede Hong Kong and Open Five Ports to British Trade",
+    "summary": "On August 29, 1842, China signed the Treaty of Nanking ending the First Opium War, ceding Hong Kong to Britain and opening five treaty ports, beginning a century of unequal treaties with Western powers.",
+    "historydate": "August 29, 1842",
+    "era": "19th Century",
+    "wiki": "Treaty of Nanking"
+  },
+  {
+    "slug": "september-11-attacks",
+    "title": "The September 11 Attacks",
+    "headline": "AMERICA UNDER ATTACK: Hijacked Planes Strike World Trade Center and Pentagon",
+    "summary": "On September 11, 2001, terrorists hijacked four commercial airliners, crashing two into the World Trade Center towers and one into the Pentagon, killing 2,977 people in the deadliest terrorist attack in history.",
+    "historydate": "September 11, 2001",
+    "era": "21st Century",
+    "wiki": "September 11 attacks"
+  },
+  {
+    "slug": "moon-landing-apollo-legacy",
+    "title": "The Legacy of Apollo",
+    "headline": "BEYOND THE MOON: How Apollo Reshaped Science, Technology, and What Humanity Believes Is Possible",
+    "summary": "The Apollo program did not just put men on the Moon. It created technologies, inspired generations, and proved that humanity could achieve the impossible when united behind a common goal.",
+    "historydate": "July 20, 1969",
+    "era": "Space Age",
+    "wiki": "Apollo program"
+  },
+  {
+    "slug": "unification-of-italy",
+    "title": "The Unification of Italy",
+    "headline": "ITALIA UNITA: Garibaldi and Cavour Forge One Nation from a Patchwork of Kingdoms",
+    "summary": "Between 1859 and 1871, the Italian unification movement brought together dozens of separate states and kingdoms into a single nation, ending centuries of foreign domination and division.",
+    "historydate": "March 17, 1861",
+    "era": "Victorian Era",
+    "wiki": "Italian unification"
+  },
+  {
+    "slug": "spanish-inquisition",
+    "title": "The Spanish Inquisition",
+    "headline": "NOBODY EXPECTS IT: Ferdinand and Isabella Establish the Spanish Inquisition to Enforce Religious Orthodoxy",
+    "summary": "Established in 1478, the Spanish Inquisition became one of history's most feared institutions, interrogating and punishing suspected heretics for over 350 years and expelling Jews and Muslims from Spain.",
+    "historydate": "November 1, 1478",
+    "era": "16th Century",
+    "wiki": "Spanish Inquisition"
+  },
+  {
+    "slug": "invention-of-compass",
+    "title": "The Invention of the Magnetic Compass",
+    "headline": "FINDING TRUE NORTH: Chinese Invention Revolutionizes Navigation and Opens the World to Exploration",
+    "summary": "Developed in China during the 11th century, the magnetic compass revolutionized maritime navigation, enabling the great voyages of exploration that connected the continents and reshaped human civilization.",
+    "historydate": "11th century",
+    "era": "Medieval",
+    "wiki": "Compass"
+  },
+  {
+    "slug": "boston-massacre",
+    "title": "The Boston Massacre",
+    "headline": "BLOOD ON THE SNOW: British Soldiers Fire Into Crowd of Colonists, Killing Five",
+    "summary": "On March 5, 1770, British soldiers fired into a crowd of American colonists in Boston, killing five men. The incident was used as powerful propaganda that helped build support for American independence.",
+    "historydate": "March 5, 1770",
+    "era": "18th Century",
+    "wiki": "Boston Massacre"
+  },
+  {
+    "slug": "mongol-siege-of-baghdad",
+    "title": "The Mongol Siege of Baghdad",
+    "headline": "CITY OF WISDOM DESTROYED: Mongol Horde Sacks Baghdad, Ending the Islamic Golden Age",
+    "summary": "In February 1258, Mongol forces under Hulagu Khan sacked Baghdad, destroying the House of Wisdom and killing an estimated 200,000 to one million people, ending five centuries of Abbasid caliphate rule.",
+    "historydate": "February 10, 1258",
+    "era": "Medieval",
+    "wiki": "Siege of Baghdad (1258)"
+  },
+  {
+    "slug": "defenestration-of-prague",
+    "title": "The Defenestration of Prague",
+    "headline": "THROWN FROM THE WINDOW: Prague Incident Sparks Thirty Years of War Across Europe",
+    "summary": "On May 23, 1618, Protestant nobles threw two Catholic imperial governors out of a window in Prague Castle, triggering the Thirty Years War that would kill eight million people across Europe.",
+    "historydate": "May 23, 1618",
+    "era": "17th Century",
+    "wiki": "Defenestrations of Prague"
+  },
+  {
+    "slug": "louisiana-purchase-negotiations",
+    "title": "The Louisiana Purchase Negotiations",
+    "headline": "CONTINENT FOR SALE: Napoleon Offers to Sell 828,000 Square Miles for Just $15 Million",
+    "summary": "In April 1803, Napoleon unexpectedly offered to sell the entire Louisiana Territory to the United States, doubling the nation's size overnight for roughly four cents per acre.",
+    "historydate": "April 30, 1803",
+    "era": "18th Century",
+    "wiki": "Louisiana Purchase"
+  },
+  {
+    "slug": "invention-of-telephone-bell",
+    "title": "Alexander Graham Bell and the Telephone",
+    "headline": "MR. WATSON, COME HERE: Bell Transmits First Intelligible Speech by Wire",
+    "summary": "On March 10, 1876, Alexander Graham Bell spoke the first words ever transmitted by telephone to his assistant Thomas Watson, launching a communications revolution that would connect the world.",
+    "historydate": "March 10, 1876",
+    "era": "Industrial Age",
+    "wiki": "Telephone"
+  },
+  {
+    "slug": "great-tokyo-earthquake-1923",
+    "title": "The Great Kanto Earthquake",
+    "headline": "TOKYO IN RUINS: Massive Earthquake and Firestorm Kill 140,000 in Japan's Worst Natural Disaster",
+    "summary": "On September 1, 1923, a magnitude 7.9 earthquake struck the Kanto region of Japan, triggering firestorms that destroyed Tokyo and Yokohama, killing approximately 140,000 people.",
+    "historydate": "September 1, 1923",
+    "era": "Roaring Twenties",
+    "wiki": "1923 Great Kantō earthquake"
+  },
+  {
+    "slug": "suez-canal-nationalization",
+    "title": "Nasser Nationalizes the Suez Canal",
+    "headline": "CANAL SEIZED: Egypt's Nasser Takes Control of Suez, Defying Britain and France",
+    "summary": "On July 26, 1956, Egyptian President Gamal Abdel Nasser nationalized the Suez Canal, provoking an international crisis that ended European colonial dominance in the Middle East.",
+    "historydate": "July 26, 1956",
+    "era": "Cold War",
+    "wiki": "Suez Crisis"
+  },
+  {
+    "slug": "nelson-mandela-inauguration",
+    "title": "Nelson Mandela's Inauguration",
+    "headline": "RAINBOW NATION: Mandela Sworn In as South Africa's First Black President Before 100,000 Jubilant Citizens",
+    "summary": "On May 10, 1994, Nelson Mandela was inaugurated as South Africa's first Black president in Pretoria, marking the definitive end of apartheid before a crowd of 100,000 and dignitaries from 140 countries.",
+    "historydate": "May 10, 1994",
+    "era": "Peace & Cooperation",
+    "wiki": "Inauguration of Nelson Mandela"
+  },
+  {
+    "slug": "first-television-broadcast",
+    "title": "The First Television Broadcast",
+    "headline": "PICTURES THROUGH THE AIR: BBC Launches World's First Regular Television Service",
+    "summary": "On November 2, 1936, the BBC launched the world's first regular high-definition television service from Alexandra Palace in London, beginning a medium that would transform culture, politics, and daily life.",
+    "historydate": "November 2, 1936",
+    "era": "Great Depression",
+    "wiki": "History of television"
+  }
+]
