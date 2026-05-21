@@ -84,11 +84,15 @@ jobs:
           extended: true
       - name: Build Hugo
         run: hugo --minify
-      - name: Run pa11y-ci
+      - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-      - run: npx pa11y-ci --config .github/pa11y/.pa11yci.json
+      - name: Start server and run pa11y-ci
+        run: |
+          npx -y http-server ./public -p 1313 -s &
+          sleep 3
+          npx -y pa11y-ci --config .github/pa11y/.pa11yci.json
 
   notify_on_failure:
     needs: [build_and_deploy_job]
