@@ -29,9 +29,13 @@ title = "History News — Where the Past Makes Headlines"
     url = "/articles/"
     weight = 2
   [[menu.main]]
+    name = "Growth"
+    url = "/growth/"
+    weight = 3
+  [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 3
+    weight = 4
 
 [markup]
   [markup.goldmark]
