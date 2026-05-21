@@ -13,7 +13,7 @@
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem; max-width: 800px; margin: 0 auto;">
     {{ range first 4 (where .Site.RegularPages "Section" "articles") }}
     <a href="{{ .RelPermalink }}" class="story-card" style="grid-template-columns: 80px 1fr;">
-      <div class="card-img" style="background-image: url('{{ .Params.image }}'); min-height: 80px;"></div>
+      <div class="card-img" style="background-image: url('{{ replace .Params.image "/images/articles/" "/images/articles/thumb/" }}'); min-height: 80px;"></div>
       <div class="card-body">
         <span class="card-category">{{ .Params.era }}</span>
         <h3 class="card-headline" style="font-size: 0.85rem;">{{ .Params.headline | truncate 60 }}</h3>

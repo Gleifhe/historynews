@@ -14,7 +14,7 @@
   {{ partial "share-buttons.html" . }}
 
   <figure class="article-hero-image">
-    <img src="{{ .Params.image }}" alt="{{ .Params.imagealt }}" loading="lazy">
+    <img src="{{ .Params.image }}" srcset="{{ replace .Params.image "/images/articles/" "/images/articles/thumb/" }} 400w, {{ .Params.image }} 800w" sizes="(max-width: 600px) 400px, 800px" alt="{{ .Params.imagealt }}" loading="lazy">
     <figcaption>{{ .Params.imagecaption }} — <em>{{ .Params.imagecredit }}</em></figcaption>
   </figure>
 

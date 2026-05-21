@@ -30,7 +30,7 @@
       {{ $page := index (where $all ".File.ContentBaseName" $slug) 0 }}
       {{ with $page }}
       <a href="{{ .RelPermalink }}" class="memorial-card">
-        <div class="memorial-card-img" style="background-image: url('{{ .Params.image }}')"></div>
+        <div class="memorial-card-img" style="background-image: url('{{ replace .Params.image "/images/articles/" "/images/articles/thumb/" }}')"></div>
         <div class="memorial-card-body">
           <span class="memorial-card-era">{{ .Params.era }}</span>
           <h3 class="memorial-card-title">{{ .Title }}</h3>
@@ -56,7 +56,7 @@
       {{ $page := index (where $all ".File.ContentBaseName" .) 0 }}
       {{ with $page }}
       <a href="{{ .RelPermalink }}" class="memorial-card">
-        <div class="memorial-card-img" style="background-image: url('{{ .Params.image }}')"></div>
+        <div class="memorial-card-img" style="background-image: url('{{ replace .Params.image "/images/articles/" "/images/articles/thumb/" }}')"></div>
         <div class="memorial-card-body">
           <h3 class="memorial-card-title">{{ .Title }}</h3>
           <p class="memorial-card-summary">{{ .Params.summary | truncate 100 }}</p>
@@ -73,7 +73,7 @@
       {{ $page := index (where $all ".File.ContentBaseName" .) 0 }}
       {{ with $page }}
       <a href="{{ .RelPermalink }}" class="memorial-card">
-        <div class="memorial-card-img" style="background-image: url('{{ .Params.image }}')"></div>
+        <div class="memorial-card-img" style="background-image: url('{{ replace .Params.image "/images/articles/" "/images/articles/thumb/" }}')"></div>
         <div class="memorial-card-body">
           <h3 class="memorial-card-title">{{ .Title }}</h3>
           <p class="memorial-card-summary">{{ .Params.summary | truncate 100 }}</p>
@@ -90,7 +90,7 @@
       {{ $page := index (where $all ".File.ContentBaseName" .) 0 }}
       {{ with $page }}
       <a href="{{ .RelPermalink }}" class="memorial-card">
-        <div class="memorial-card-img" style="background-image: url('{{ .Params.image }}')"></div>
+        <div class="memorial-card-img" style="background-image: url('{{ replace .Params.image "/images/articles/" "/images/articles/thumb/" }}')"></div>
         <div class="memorial-card-body">
           <h3 class="memorial-card-title">{{ .Title }}</h3>
           <p class="memorial-card-summary">{{ .Params.summary | truncate 100 }}</p>
@@ -107,7 +107,7 @@
       {{ $page := index (where $all ".File.ContentBaseName" .) 0 }}
       {{ with $page }}
       <a href="{{ .RelPermalink }}" class="memorial-card">
-        <div class="memorial-card-img" style="background-image: url('{{ .Params.image }}')"></div>
+        <div class="memorial-card-img" style="background-image: url('{{ replace .Params.image "/images/articles/" "/images/articles/thumb/" }}')"></div>
         <div class="memorial-card-body">
           <h3 class="memorial-card-title">{{ .Title }}</h3>
           <p class="memorial-card-summary">{{ .Params.summary | truncate 100 }}</p>
@@ -124,7 +124,7 @@
       {{ $page := index (where $all ".File.ContentBaseName" .) 0 }}
       {{ with $page }}
       <a href="{{ .RelPermalink }}" class="memorial-card">
-        <div class="memorial-card-img" style="background-image: url('{{ .Params.image }}')"></div>
+        <div class="memorial-card-img" style="background-image: url('{{ replace .Params.image "/images/articles/" "/images/articles/thumb/" }}')"></div>
         <div class="memorial-card-body">
           <h3 class="memorial-card-title">{{ .Title }}</h3>
           <p class="memorial-card-summary">{{ .Params.summary | truncate 100 }}</p>
@@ -141,7 +141,7 @@
       {{ $page := index (where $all ".File.ContentBaseName" .) 0 }}
       {{ with $page }}
       <a href="{{ .RelPermalink }}" class="memorial-card">
-        <div class="memorial-card-img" style="background-image: url('{{ .Params.image }}')"></div>
+        <div class="memorial-card-img" style="background-image: url('{{ replace .Params.image "/images/articles/" "/images/articles/thumb/" }}')"></div>
         <div class="memorial-card-body">
           <h3 class="memorial-card-title">{{ .Title }}</h3>
           <p class="memorial-card-summary">{{ .Params.summary | truncate 100 }}</p>
@@ -166,7 +166,7 @@
       {{ $page := index (where $all ".File.ContentBaseName" .) 0 }}
       {{ with $page }}
       <a href="{{ .RelPermalink }}" class="memorial-card memorial-card-growth">
-        <div class="memorial-card-img" style="background-image: url('{{ .Params.image }}')"></div>
+        <div class="memorial-card-img" style="background-image: url('{{ replace .Params.image "/images/articles/" "/images/articles/thumb/" }}')"></div>
         <div class="memorial-card-body">
           <h3 class="memorial-card-title">{{ .Title }}</h3>
           <p class="memorial-card-summary">{{ .Params.summary | truncate 100 }}</p>
@@ -183,7 +183,7 @@
       {{ $page := index (where $all ".File.ContentBaseName" .) 0 }}
       {{ with $page }}
       <a href="{{ .RelPermalink }}" class="memorial-card memorial-card-growth">
-        <div class="memorial-card-img" style="background-image: url('{{ .Params.image }}')"></div>
+        <div class="memorial-card-img" style="background-image: url('{{ replace .Params.image "/images/articles/" "/images/articles/thumb/" }}')"></div>
         <div class="memorial-card-body">
           <h3 class="memorial-card-title">{{ .Title }}</h3>
           <p class="memorial-card-summary">{{ .Params.summary | truncate 100 }}</p>
@@ -200,7 +200,7 @@
       {{ $page := index (where $all ".File.ContentBaseName" .) 0 }}
       {{ with $page }}
       <a href="{{ .RelPermalink }}" class="memorial-card memorial-card-growth">
-        <div class="memorial-card-img" style="background-image: url('{{ .Params.image }}')"></div>
+        <div class="memorial-card-img" style="background-image: url('{{ replace .Params.image "/images/articles/" "/images/articles/thumb/" }}')"></div>
         <div class="memorial-card-body">
           <h3 class="memorial-card-title">{{ .Title }}</h3>
           <p class="memorial-card-summary">{{ .Params.summary | truncate 100 }}</p>
@@ -217,7 +217,7 @@
       {{ $page := index (where $all ".File.ContentBaseName" .) 0 }}
       {{ with $page }}
       <a href="{{ .RelPermalink }}" class="memorial-card memorial-card-growth">
-        <div class="memorial-card-img" style="background-image: url('{{ .Params.image }}')"></div>
+        <div class="memorial-card-img" style="background-image: url('{{ replace .Params.image "/images/articles/" "/images/articles/thumb/" }}')"></div>
         <div class="memorial-card-body">
           <h3 class="memorial-card-title">{{ .Title }}</h3>
           <p class="memorial-card-summary">{{ .Params.summary | truncate 100 }}</p>
@@ -234,7 +234,7 @@
       {{ $page := index (where $all ".File.ContentBaseName" .) 0 }}
       {{ with $page }}
       <a href="{{ .RelPermalink }}" class="memorial-card memorial-card-growth">
-        <div class="memorial-card-img" style="background-image: url('{{ .Params.image }}')"></div>
+        <div class="memorial-card-img" style="background-image: url('{{ replace .Params.image "/images/articles/" "/images/articles/thumb/" }}')"></div>
         <div class="memorial-card-body">
           <h3 class="memorial-card-title">{{ .Title }}</h3>
           <p class="memorial-card-summary">{{ .Params.summary | truncate 100 }}</p>

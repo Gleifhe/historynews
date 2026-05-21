@@ -18,7 +18,7 @@
   {{/* Featured lead story — first article */}}
   {{ with index $homeArticles 0 }}
   <a href="{{ .RelPermalink }}" class="featured-story">
-    <div class="featured-img" style="background-image: url('{{ .Params.image }}')"></div>
+    <div class="featured-img" style="background-image: url('{{ replace .Params.image "/images/articles/" "/images/articles/thumb/" }}')"></div>
     <div class="featured-text">
       <span class="featured-badge">LEAD STORY</span>
       <h2 class="featured-headline">{{ .Params.headline }}</h2>
@@ -111,7 +111,7 @@
           {{ range $i, $p := after 1 $homeArticles }}
             {{ if lt $i (div (len (after 1 $homeArticles)) 2 | add 1) }}
             <a href="{{ $p.RelPermalink }}" class="story-card" data-era="{{ $p.Params.era }}">
-              <div class="card-img" style="background-image: url('{{ $p.Params.image }}')"></div>
+              <div class="card-img" style="background-image: url('{{ replace $p.Params.image "/images/articles/" "/images/articles/thumb/" }}')"></div>
               <div class="card-body">
                 <span class="card-category">{{ $p.Params.era }}</span>
                 <h3 class="card-headline">{{ $p.Params.headline }}</h3>
@@ -127,7 +127,7 @@
           {{ range $i, $p := after 1 $homeArticles }}
             {{ if ge $i (div (len (after 1 $homeArticles)) 2 | add 1) }}
             <a href="{{ $p.RelPermalink }}" class="story-card" data-era="{{ $p.Params.era }}">
-              <div class="card-img" style="background-image: url('{{ $p.Params.image }}')"></div>
+              <div class="card-img" style="background-image: url('{{ replace $p.Params.image "/images/articles/" "/images/articles/thumb/" }}')"></div>
               <div class="card-body">
                 <span class="card-category">{{ $p.Params.era }}</span>
                 <h3 class="card-headline">{{ $p.Params.headline }}</h3>
