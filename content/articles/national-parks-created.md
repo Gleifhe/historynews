@@ -16,7 +16,7 @@ sources:
   - "National Park Service – Yellowstone Establishment — https://www.nps.gov/yell/learn/historyculture/yellowstoneestablishment.htm"
   - "NPS – Theodore Roosevelt and Conservation — https://www.nps.gov/thro/learn/historyculture/theodore-roosevelt-and-conservation.htm"
   - "National Park Service Visitor Use Statistics — https://irma.nps.gov/Stats/"
-  - "<a href=\"https://www.doi.gov/blog/americas-best-idea\">U.S. Department of the Interior – America's Best Idea</a>"
+  - "U.S. Department of the Interior – America's Best Idea — https://www.doi.gov/blog/americas-best-idea"
 ---
 
 On March 1, 1872, President Ulysses S. Grant signed a law that had never been tried before. He set aside over two million acres of wild land in Wyoming, Montana, and Idaho as Yellowstone National Park. This was the first time any country in the world had protected a large piece of nature for the enjoyment of all people, not just the wealthy or powerful. It was a bold and simple idea: some places are too special to be owned by anyone. They belong to everyone.

@@ -16,7 +16,7 @@ sources:
   - "National Park Service — Harriet Tubman Biography — https://www.nps.gov/hatu/learn/historyculture/tubman-biography.htm"
   - "History.com — Harriet Tubman — https://www.history.com/topics/black-history/harriet-tubman"
   - "Encyclopaedia Britannica — Harriet Tubman — https://www.britannica.com/biography/Harriet-Tubman"
-  - "<a href=\"https://www.womenshistory.org/education-resources/biographies/harriet-tubman\" target=\"_blank\">National Women's History Museum — Harriet Tubman</a>"
+  - "National Women's History Museum — Harriet Tubman — https://www.womenshistory.org/education-resources/biographies/harriet-tubman"
 ---
 
 On a dark night in September 1849, a young enslaved woman named Harriet Tubman made the most dangerous decision of her life. She left the plantation in Dorchester County, Maryland, where she had been enslaved since birth, and began walking north toward freedom. Traveling alone through swamps and forests, guided by the North Star and helped by a network of safe houses known as the Underground Railroad, she walked nearly 90 miles to reach Pennsylvania — a free state.

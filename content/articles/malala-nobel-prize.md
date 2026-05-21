@@ -14,7 +14,7 @@ video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 133
 sources:
   - "Nobel Prize — Malala Yousafzai Biographical — https://www.nobelprize.org/prizes/peace/2014/yousafzai/biographical/"
-  - "<a href=\"https://malala.org/malalas-story\" target=\"_blank\">Malala Fund — Malala's Story</a>"
+  - "Malala Fund — Malala's Story — https://malala.org/malalas-story"
   - "Encyclopaedia Britannica — Malala Yousafzai — https://www.britannica.com/biography/Malala-Yousafzai"
   - "BBC News — Malala Yousafzai: The Girl Who Was Shot for Going to School — https://www.bbc.co.uk/news/world-asia-23241937"
 ---

@@ -25,7 +25,7 @@ This site runs on Hugo v0.153.2 (extended). Follow these rules for all Hugo work
 - **Use Hugo Pipes** for CSS/JS: `resources.Get | minify | fingerprint` — built-in minification and cache busting
 - **Use `pithumbsize` for Wikipedia images** — CDN thumbnails, not raw uploads
 - **Prefer `loading="lazy"` on images and iframes**
-- **Hugo builds are fast** — 247 pages in ~2.5s. If builds slow down, check for expensive template operations (e.g., unscoped `range` over all pages)
+- **Hugo builds are fast** — 750+ pages in ~11s. If builds slow down, check for expensive template operations (e.g., unscoped `range` over all pages)
 
 ### Content Organization
 - **Sections** = folders under `content/`. Each section can have its own layout and list page

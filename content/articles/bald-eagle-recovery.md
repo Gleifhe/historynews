@@ -14,7 +14,7 @@ video: "https://www.youtube.com/embed/G4H1N_yXBiA"
 weight: 105
 sources:
   - "U.S. Fish and Wildlife Service – Bald Eagle — https://www.fws.gov/species/bald-eagle-haliaeetus-leucocephalus"
-  - "<a href=\"https://www.audubon.org/news/the-bald-eagles-comeback\">National Audubon Society - The Bald Eagle's Comeback</a>"
+  - "National Audubon Society - The Bald Eagle's Comeback — https://www.audubon.org/news/the-bald-eagles-comeback"
   - "EPA – DDT History — https://www.epa.gov/history/epa-history-ddt"
   - "U.S. Department of the Interior – Bald Eagle Facts — https://www.doi.gov/blog/13-things-you-didnt-know-about-bald-eagles"
 ---

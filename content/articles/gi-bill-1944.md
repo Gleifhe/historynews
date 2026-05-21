@@ -13,7 +13,7 @@ imagecredit: "Wikimedia Commons / National Archives / Public Domain"
 video: "https://www.youtube.com/embed/fo2Rb9h788s"
 weight: 99
 sources:
-  - "<a href=\"https://www.archives.gov/milestone-documents/servicemens-readjustment-act\">National Archives - Servicemen's Readjustment Act (GI Bill)</a>"
+  - "National Archives - Servicemen's Readjustment Act (GI Bill) — https://www.archives.gov/milestone-documents/servicemens-readjustment-act"
   - "History.com — GI Bill — https://www.history.com/topics/world-war-ii/gi-bill"
   - "U.S. Department of Veterans Affairs — About GI Bill Benefits — https://www.va.gov/education/about-gi-bill-benefits/"
   - "Encyclopaedia Britannica — GI Bill of Rights — https://www.britannica.com/topic/GI-Bill-of-Rights"

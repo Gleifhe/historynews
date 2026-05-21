@@ -15,7 +15,7 @@ weight: 134
 sources:
   - "Encyclopaedia Britannica — Ferdinand Magellan — https://www.britannica.com/biography/Ferdinand-Magellan"
   - "History.com — Ferdinand Magellan — https://www.history.com/topics/exploration/ferdinand-magellan"
-  - "<a href=\"https://www.nationalgeographic.com/history/article/magellan-circumnavigation\" target=\"_blank\">National Geographic — Magellan's Circumnavigation</a>"
+  - "National Geographic — Magellan's Circumnavigation — https://www.nationalgeographic.com/history/article/magellan-circumnavigation"
   - "Library of Congress — Magellan Maps Collection — https://www.loc.gov/collections/magellan-maps/about-this-collection/"
 ---
 
