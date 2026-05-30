@@ -221,6 +221,19 @@ Verify YouTube embeds are available and embeddable using the oEmbed API.
 ```
 python scripts/check-video-embeds.py
 ```
+Note: oEmbed API may report videos as embeddable even when they return Error 153 in actual embed iframes. Use `verify-videos-deep.py` for thorough checking.
+
+### `verify-videos.py`
+Check all YouTube video embeds via oEmbed API (fast, but may miss embed-restricted videos).
+```
+python scripts/verify-videos.py
+```
+
+### `verify-videos-deep.py`
+Deep-check all YouTube video embeds by loading the actual embed page. Catches Error 150, Error 153, age restrictions, and unavailable videos that oEmbed misses.
+```
+python scripts/verify-videos-deep.py
+```
 
 ### `check-videos-scheduled.py`
 Monthly re-check of YouTube video availability.
@@ -361,7 +374,7 @@ Emergency revert to previous commit and redeploy. Validates input, checks for me
 
 | File | Format | Entries | Purpose |
 |------|--------|--------:|---------|
-| `slug-to-wiki.json` | JSON | 819 | Article slug → Wikipedia title mappings |
+| `slug-to-wiki.json` | JSON | 990 | Article slug → Wikipedia title mappings |
 | `tdih-events.tsv` | TSV | 366 | This Day in History primary events (1 per calendar day) |
 | `topics-100.json` | JSON | 108 | Batch article topics with metadata |
 | `image-manifest.json` | JSON | varies | Image download tracking and history |
@@ -384,7 +397,7 @@ Emergency revert to previous commit and redeploy. Validates input, checks for me
 
 ```
 1. Create    →  new-article.py / batch-create-articles.py / generate-tdih.py / generate-tdih-02.py
-2. Images    →  download-images-batch.py → optimize-images.py → generate-thumbnails.py
+2. Images    →  fix-missing-images.py → optimize-images.py → generate-thumbnails.py
 3. Schedule  →  schedule-articles.py (optional — set future dates)
 4. Validate  →  validate-all.py (must pass with 0 errors)
 5. Quality   →  check-reading-level.py, check-tone.py, detect-duplicates.py

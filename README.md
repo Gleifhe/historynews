@@ -36,7 +36,7 @@ History News reimagines history through the lens of journalism. Every article is
 | Search | [Fuse.js](https://www.fusejs.io/) v7.0.0 (client-side fuzzy search) |
 | Fonts | Google Fonts — Playfair Display + Source Sans Pro |
 | Image source | Wikimedia Commons via API (CDN thumbnails, CC-BY-SA/Public Domain) |
-| Automation | 40 Python scripts + 2 PowerShell scripts |
+| Automation | 46 Python scripts + 2 PowerShell scripts |
 
 ---
 
@@ -169,7 +169,7 @@ Articles are categorized into 39 historical eras including: Ancient World, Medie
 
 ## Scripts
 
-40 active Python scripts and 2 PowerShell scripts automate content creation, quality assurance, and deployment. Full documentation: [docs/scripts-reference.md](docs/scripts-reference.md).
+46 active Python scripts and 2 PowerShell scripts automate content creation, quality assurance, and deployment. Full documentation: [docs/scripts-reference.md](docs/scripts-reference.md).
 
 ### Content Creation
 
@@ -199,7 +199,8 @@ Articles are categorized into 39 historical eras including: Ancient World, Medie
 | `check-reading-level.py` | Flesch-Kincaid reading level (target grade 8–10) |
 | `check-tone.py` | Flag editorializing in historical sections |
 | `plagiarism-check.py` | Check text overlap with Wikipedia sources |
-| `check-video-embeds.py` | Verify YouTube embeds via oEmbed API |
+| `verify-videos.py` | Verify YouTube embeds via oEmbed API |
+| `verify-videos-deep.py` | Deep-check embeds by loading actual embed pages |
 | `check-image-licenses.py` | Verify Wikimedia image license status |
 | `detect-duplicates.py` | Find articles with >50% topic overlap |
 
@@ -222,7 +223,7 @@ Articles are categorized into 39 historical eras including: Ancient World, Medie
 
 | File | Purpose |
 |------|---------|
-| `slug-to-wiki.json` | 819 article slug → Wikipedia title mappings |
+| `slug-to-wiki.json` | 990 article slug → Wikipedia title mappings |
 | `tdih-events.tsv` | 366 "This Day in History" primary events (1 per calendar day) |
 | `topics-100.json` | 108 batch article topics with metadata |
 

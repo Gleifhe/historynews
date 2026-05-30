@@ -39,7 +39,7 @@ Provides:
 - `ROOT`, `ARTICLES_DIR`, `IMAGES_DIR` — standard paths
 
 ### `slug-to-wiki.json`
-819 slug→Wikipedia title mappings used by image and fact-checking scripts. Maintained as single source of truth. To add entries, edit this file directly.
+990 slug→Wikipedia title mappings used by image and fact-checking scripts. Maintained as single source of truth. To add entries, edit this file directly or use `fix-missing-images.py` to auto-populate from article sources.
 
 ---
 
@@ -189,7 +189,21 @@ Verify YouTube embeds are available and embeddable using the oEmbed API.
 python scripts/check-video-embeds.py
 ```
 
-Exit code 1 if any videos are blocked or missing.
+Exit code 1 if any videos are blocked or missing. Note: oEmbed API may miss embed-restricted videos (Error 153). Use `verify-videos-deep.py` for thorough checking.
+
+### `verify-videos.py`
+Fast check of all YouTube video embeds via oEmbed API.
+
+```
+python scripts/verify-videos.py
+```
+
+### `verify-videos-deep.py`
+Deep-check all YouTube video embeds by loading the actual embed page. Catches Error 150 (playback restricted), Error 153 (player configuration / embed blocked), age restrictions, and unavailable videos that the oEmbed API misses.
+
+```
+python scripts/verify-videos-deep.py
+```
 
 ### `check-videos-scheduled.py`
 Monthly re-check of YouTube video availability.
