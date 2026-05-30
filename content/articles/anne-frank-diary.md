@@ -10,7 +10,6 @@ image: "/images/articles/anne-frank-diary.jpg"
 imagealt: "Photograph of Anne Frank as a young girl"
 imagecaption: "Anne Frank in a school photograph before going into hiding"
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/rr5Dw3VGkQI"
 weight: 54
 sources:
   - "Anne Frank House — The Diary — https://www.annefrank.org/en/anne-frank/diary/"
