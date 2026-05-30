@@ -39,7 +39,7 @@ Provides:
 - `ROOT`, `ARTICLES_DIR`, `IMAGES_DIR` — standard paths
 
 ### `slug-to-wiki.json`
-309 slug→Wikipedia title mappings used by image and fact-checking scripts. Maintained as single source of truth. To add entries, edit this file directly.
+819 slug→Wikipedia title mappings used by image and fact-checking scripts. Maintained as single source of truth. To add entries, edit this file directly.
 
 ---
 
@@ -346,7 +346,7 @@ Validates input, checks for merge conflicts, shows visible push errors.
 ## Typical Workflow
 
 ```
-1. Create    →  new-article.py or pull-article.py
+1. Create    →  new-article.py or pull-article.py or generate-tdih-02.py
 2. Images    →  download-images-batch.py
 3. Schedule  →  schedule-articles.py (optional)
 4. Validate  →  validate-all.py
@@ -381,3 +381,23 @@ One-off fix scripts are in `scripts/archive/`. These were used during initial co
 - `fix-images-*.py` — Image download/conversion fixes
 - `download-memorial-day-images.py` — Memorial Day batch download
 - `tag-memorial-day.py` — Bulk era tagging
+
+---
+
+## Additional Scripts
+
+### `generate-tdih-02.py`
+Generate secondary "This Day in History" articles (second notable event per calendar day).
+
+```
+python scripts/generate-tdih-02.py
+```
+
+Contains 130 curated second events spanning from 551 BC to 2009. Creates `tdih-MM-DD-02.md` files. Skips existing articles.
+
+### `stats.py`
+Quick workspace statistics: total articles, TDIH count, unique eras, script inventory.
+
+```
+python scripts/stats.py
+```

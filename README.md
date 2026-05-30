@@ -2,7 +2,7 @@
 
 **Where the Past Makes Headlines**
 
-A Hugo-powered history site that presents historical events as breaking news stories. 757 articles spanning 5,000 years of human history, from Ancient Rome to the 21st century, each written as if the reporter were on the scene.
+A Hugo-powered history site that presents historical events as breaking news stories. 928 articles spanning 5,000 years of human history, from Ancient Rome to the 21st century, each written as if the reporter were on the scene.
 
 🔗 **Live site:** [red-stone-0ed2b5d10.7.azurestaticapps.net](https://red-stone-0ed2b5d10.7.azurestaticapps.net/)
 
@@ -14,8 +14,8 @@ History News reimagines history through the lens of journalism. Every article is
 
 ### Key Features
 
-- **757 articles** across 35+ historical eras
-- **366 "This Day in History" articles** — one landmark event for every calendar day
+- **928 articles** across 39 historical eras
+- **496 "This Day in History" articles** — one or two landmark events for every calendar day
 - **Personal Growth framework** — 15 principles distilled from historical events ([/growth/](https://red-stone-0ed2b5d10.7.azurestaticapps.net/growth/))
 - **Era-based browsing** with sidebar filters (Ancient World → 21st Century)
 - **Responsive images** with 400px thumbnails for cards and 800px hero images with `srcset`
@@ -36,7 +36,7 @@ History News reimagines history through the lens of journalism. Every article is
 | Search | [Fuse.js](https://www.fusejs.io/) v7.0.0 (client-side fuzzy search) |
 | Fonts | Google Fonts — Playfair Display + Source Sans Pro |
 | Image source | Wikimedia Commons via API (CDN thumbnails, CC-BY-SA/Public Domain) |
-| Automation | 37 Python scripts + 2 PowerShell scripts |
+| Automation | 40 Python scripts + 2 PowerShell scripts |
 
 ---
 
@@ -50,7 +50,7 @@ historynews/
 │   ├── css/style.css            # Main stylesheet (Hugo Pipes)
 │   └── js/search.js             # Fuse.js search integration
 ├── content/
-│   ├── articles/                # 757 article markdown files
+│   ├── articles/                # 928 article markdown files
 │   │   ├── _index.md            # Section landing page
 │   │   ├── moon-landing-headlines.md
 │   │   ├── tdih-01-01-01.md     # This Day in History articles
@@ -73,8 +73,8 @@ historynews/
 │   └── index.json               # JSON feed for search
 ├── static/
 │   └── images/
-│       └── articles/            # 757 article images (800px, ~110KB avg)
-│           └── thumb/           # 757 thumbnails (400px, ~28KB avg)
+│       └── articles/            # Article images (800px, ~110KB avg)
+│           └── thumb/           # Thumbnails (400px, ~28KB avg)
 ├── scripts/                     # Automation scripts (see below)
 ├── docs/                        # Project documentation
 ├── .github/
@@ -163,13 +163,13 @@ Each article follows this pattern:
 
 ### Eras
 
-Articles are categorized into historical eras: Ancient World, Medieval, Renaissance, 16th–19th Century, Victorian Era, Colonial America, Gilded Age, Progressive Era, World War I/II, Cold War, Civil Rights Era, Space Age, 21st Century, and more.
+Articles are categorized into 39 historical eras including: Ancient World, Medieval, Renaissance, Victorian Era, Colonial America, Gilded Age, Progressive Era, World War I/II, Cold War, Civil Rights Era, Space Age, 21st Century, Memorial Day, Flag Day, Fourth of July, Hidden Empire, and more.
 
 ---
 
 ## Scripts
 
-37 active Python scripts and 2 PowerShell scripts automate content creation, quality assurance, and deployment. Full documentation: [docs/scripts-reference.md](docs/scripts-reference.md).
+40 active Python scripts and 2 PowerShell scripts automate content creation, quality assurance, and deployment. Full documentation: [docs/scripts-reference.md](docs/scripts-reference.md).
 
 ### Content Creation
 
@@ -179,6 +179,8 @@ Articles are categorized into historical eras: Ancient World, Medieval, Renaissa
 | `pull-article.py` | Pull content from a URL into a draft |
 | `batch-create-articles.py` | Generate articles from a topics JSON file |
 | `generate-tdih.py` | Generate "This Day in History" articles from TSV data |
+| `generate-tdih-02.py` | Generate secondary TDIH events (second event per day) |
+| `stats.py` | Quick stats: article counts, eras, script inventory |
 
 ### Image Management
 
@@ -221,7 +223,7 @@ Articles are categorized into historical eras: Ancient World, Medieval, Renaissa
 | File | Purpose |
 |------|---------|
 | `slug-to-wiki.json` | 819 article slug → Wikipedia title mappings |
-| `tdih-events.tsv` | 366 "This Day in History" events (1 per calendar day) |
+| `tdih-events.tsv` | 366 "This Day in History" primary events (1 per calendar day) |
 | `topics-100.json` | 108 batch article topics with metadata |
 
 ---

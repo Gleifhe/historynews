@@ -86,6 +86,19 @@ python scripts/generate-tdih.py --dry-run        # Preview
 ```
 Reads from `tdih-events.tsv`. Adds `monthday` field to front matter for date-based lookups. Skips existing articles automatically.
 
+### `generate-tdih-02.py`
+Generate secondary "This Day in History" articles (second notable event per calendar day) with `-02` suffix.
+```
+python scripts/generate-tdih-02.py
+```
+Contains 130 curated second events spanning Ancient World to 21st Century. Skips existing `-02` articles automatically.
+
+### `stats.py`
+Quick workspace statistics: total articles, TDIH count, unique eras, script inventory.
+```
+python scripts/stats.py
+```
+
 ### `schedule-articles.py`
 Set future publication dates on articles for drip publishing. Hugo hides future-dated articles in production; the daily cron rebuild publishes them.
 ```
@@ -349,7 +362,7 @@ Emergency revert to previous commit and redeploy. Validates input, checks for me
 | File | Format | Entries | Purpose |
 |------|--------|--------:|---------|
 | `slug-to-wiki.json` | JSON | 819 | Article slug → Wikipedia title mappings |
-| `tdih-events.tsv` | TSV | 366 | This Day in History events (1 per calendar day) |
+| `tdih-events.tsv` | TSV | 366 | This Day in History primary events (1 per calendar day) |
 | `topics-100.json` | JSON | 108 | Batch article topics with metadata |
 | `image-manifest.json` | JSON | varies | Image download tracking and history |
 
@@ -370,7 +383,7 @@ Emergency revert to previous commit and redeploy. Validates input, checks for me
 ## Typical Workflow
 
 ```
-1. Create    →  new-article.py / batch-create-articles.py / generate-tdih.py
+1. Create    →  new-article.py / batch-create-articles.py / generate-tdih.py / generate-tdih-02.py
 2. Images    →  download-images-batch.py → optimize-images.py → generate-thumbnails.py
 3. Schedule  →  schedule-articles.py (optional — set future dates)
 4. Validate  →  validate-all.py (must pass with 0 errors)
