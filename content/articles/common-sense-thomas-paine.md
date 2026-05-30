@@ -43,6 +43,10 @@ Before *Common Sense*, independence was a fringe position even among Patriots. A
 
 Paine donated his royalties to the Continental Army. He would go on to write *The American Crisis* ("These are the times that try men's souls"), serve in the Revolution, and play a role in the French Revolution. He died in poverty in 1809, largely forgotten by the nation he helped create.
 
+## The Printing Network
+
+The speed of *Common Sense*'s spread was itself revolutionary. The first edition was printed by Robert Bell, a Philadelphia bookseller, who produced an initial run of roughly 1,000 copies. When the pamphlet sold out in days, Bell printed more — but Paine, angry over a royalty dispute, took the text to another printer, Thomas Bradford. Within weeks, unauthorized editions began appearing in Boston, New York, Charleston, and towns across the colonies. Newspapers reprinted excerpts. Literate colonists read it aloud at taverns and meetinghouses for those who could not read. By some estimates, 25 separate editions were printed in 1776 alone. The pamphlet also crossed the Atlantic — editions appeared in London, Edinburgh, Paris, and Amsterdam. No copyright law existed to control its reproduction, and Paine did not try to stop it. He wanted the argument heard, not the profits collected.
+
 ## What This Means for You in 2026
 
 Paine proved that the right words at the right time can change the course of history. He was not a general, a politician, or a wealthy landowner. He was a failed corset maker with a pen and a clear argument. If you see something that needs to be said, do not wait for someone more credentialed to say it. Clarity and conviction matter more than credentials.

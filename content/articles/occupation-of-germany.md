@@ -45,7 +45,7 @@ The effect was transformative. Between 1948 and 1952, West Germany received over
 
 The defining crisis of the occupation came in 1948 when the Soviet Union blockaded all road and rail access to West Berlin, attempting to force the Western powers out of the city. The United States responded with the Berlin Airlift — a massive operation that flew food, fuel, and supplies into the besieged city for over a year. At its peak, planes landed at Berlin's Tempelhof Airport every 90 seconds.
 
-The airlift succeeded, the blockade was lifted, and the episode cemented the division of Germany. In 1949, the American, British, and French zones merged to form the Federal Republic of Germany (West Germany). The Soviet zone became the German Democratic Republic (East Germany). The division would last until the [fall of the Berlin Wall](/articles/fall-of-the-berlin-wall/) in 1989.
+The airlift succeeded, the blockade was lifted, and the episode cemented the division of Germany. In 1949, the American, British, and French zones merged to form the Federal Republic of Germany (West Germany). The Soviet zone became the German Democratic Republic (East Germany). The division would last until the [fall of the Berlin Wall](/articles/berlin-wall-falls/) in 1989.
 
 ## The Permanent Presence
 

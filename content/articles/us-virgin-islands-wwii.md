@@ -43,6 +43,10 @@ The postwar period brought gradual political reform. The first Black governor of
 
 But the fundamental status has not changed. As of 2026, the U.S. Virgin Islands remain an unincorporated territory. Their residents are U.S. citizens who cannot vote for president. They send a non-voting delegate to Congress. Like Puerto Rico and Guam, the islands exist in a political gray zone — American enough to be governed, but not American enough to have a full voice.
 
+## The Submarine Threat
+
+The scale of the U-boat campaign in Caribbean waters is often overlooked. Between February and August 1942, German submarines sank more than 400 Allied vessels in the Caribbean and Gulf of Mexico — a toll that exceeded losses in the North Atlantic during the same period. Oil tankers sailing from Venezuela and Trinidad were primary targets, and the sea lanes passing within sight of St. Thomas and St. Croix became some of the most dangerous waters in the Western Hemisphere. Residents watched columns of black smoke rise from torpedoed ships on the horizon. Bodies and wreckage washed onto island beaches. The Navy established a submarine tracking station on St. Thomas and deployed patrol aircraft from improvised airstrips. Local fishermen reported U-boat sightings to military authorities, serving as an informal coastal watch network that supplemented official patrols.
+
 ## What This Means for You in 2026
 
 The Virgin Islands remind us that strategic value is not the same as equal partnership. The United States bought these islands for their geography, not for their people. When you value someone primarily for what they can do for you — rather than for who they are — the relationship will always be unequal. Genuine partnership requires valuing the other party as an end in themselves, not merely as a means to your own goals.

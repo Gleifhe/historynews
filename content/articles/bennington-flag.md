@@ -39,6 +39,10 @@ Historians debate the flag's precise age and origin. Some scholars believe it da
 
 Regardless of whether the flag was at Bennington or was made shortly after, it is among the oldest surviving American flags and provides invaluable evidence of how early Americans interpreted the Flag Resolution.
 
+## Preservation and Legacy
+
+The Bennington Flag passed through the Fillmore family for generations before being donated to the Bennington Museum in 1926. By then, the flag was severely deteriorated — its fabric brittle, its colors faded by more than a century of exposure. In the 1960s, textile conservators at the museum undertook a painstaking restoration, stabilizing the flag's fragile linen and cotton fibers with a silk net backing. The flag has not been unfolded since. Today it is displayed flat under carefully controlled lighting to prevent further light damage. The museum maintains temperature and humidity levels within narrow tolerances, treating the artifact as both a historical document and a scientific specimen. In 2005, the flag was designated a National Treasure by the National Trust for Historic Preservation, placing it alongside the Declaration of Independence and the Star-Spangled Banner as one of America's most significant surviving artifacts.
+
 ## What This Means for You in 2026
 
 The Bennington Flag is a reminder that great things often start rough. The early Americans did not have a graphic design team or a branding guide. They had a one-sentence resolution and a cause worth fighting for, so they made what they could with what they had. The result was imperfect, improvised, and enduring. Do not wait for perfection to begin. Start with what you have, and let time refine it.

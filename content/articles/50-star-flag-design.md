@@ -41,6 +41,10 @@ Heft's design has outlasted every previous version of the American flag. The 48-
 
 Heft went on to become a teacher himself and later a mayor and a college professor. He spent much of his life traveling the country telling his story. He kept the original flag he sewed at his kitchen table and displayed it at events. He estimated it was flown over 88 state capitols and embassies before his death in 2009.
 
+## The Competition Heft Never Knew
+
+Heft's design was not the only 50-star arrangement considered. The U.S. Army's Institute of Heraldry had been quietly developing its own proposals for months before Congress acted. Among the roughly 1,500 submissions were staggered diamond patterns, circular star arrangements, and designs that placed stars in the shape of a larger star. The Institute ultimately recommended the same alternating rows of six and five that Heft had sewn at his kitchen table — a coincidence that strengthened his claim. President Eisenhower personally selected the final design from three finalists on August 21, 1959, through Executive Order 10834, which also specified precise proportions, color shades, and star placement down to the fraction of an inch. Heft's hand-stitched prototype had gotten the pattern right, even if his measurements were not exact.
+
 ## What This Means for You in 2026
 
 Robert Heft was a teenager with a sewing machine and a mediocre grade. He did not accept the verdict. He believed in his work and found a way to put it in front of the people who could recognize it. A B-minus is not a final answer — it is one person's opinion. If you have done the work and you believe in it, do not let a single grade, rejection, or criticism stop you. Find the right audience.

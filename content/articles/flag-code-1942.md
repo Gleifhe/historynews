@@ -39,6 +39,10 @@ One of the most important and misunderstood aspects of the Flag Code is that it 
 
 This was not an oversight. Congress recognized that attaching penalties would raise serious First Amendment concerns. The Supreme Court later confirmed this principle in *Texas v. Johnson* (1989), ruling that flag burning is protected speech under the First Amendment.
 
+## The Bellamy Salute Change
+
+The 1942 code's most immediate visible impact was the elimination of the Bellamy salute. Since 1892, American schoolchildren had recited the Pledge of Allegiance while extending their right arm stiffly toward the flag — palm down, fingers together. By the late 1930s, photographs of American classrooms were becoming indistinguishable from images of Nazi rallies. The resemblance horrified parents, teachers, and members of Congress alike. On December 22, 1942, Congress amended the Flag Code to mandate the hand-over-heart gesture for civilians. The change took effect immediately. Schools across the country transitioned within days. Newsreels and newspapers publicized the new salute, and the old one vanished almost overnight. It was one of the rare instances in American history where a deeply ingrained public ritual was replaced by government action — and the public accepted it without resistance, because everyone could see why it had to change.
+
 ## What This Means for You in 2026
 
 The Flag Code is an exercise in an interesting idea: establishing standards through respect rather than punishment. Congress set clear expectations but trusted citizens to follow them voluntarily. That approach works in many areas of life. When you lead a team, set a community standard, or raise children, the most durable rules are the ones people follow because they understand why — not because they fear consequences.

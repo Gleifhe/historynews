@@ -39,6 +39,10 @@ The Grand Union Flag served for roughly eighteen months, from January 1776 until
 
 The Grand Union Flag remains historically significant as a transitional symbol — a snapshot of a moment when Americans were not yet sure who they were becoming.
 
+## A Flag Without a Record
+
+No original Grand Union Flag is known to have survived. Unlike the Star-Spangled Banner, which was deliberately preserved as a relic, the Grand Union Flag was a working military banner that was used, worn out, and discarded or repurposed once the Stars and Stripes replaced it. No congressional resolution authorized the Grand Union Flag — no official record documents who designed it, who ordered it made, or how many were produced. Historians have pieced together its story from letters, ship logs, and contemporary accounts. Washington mentioned the flag-raising at Prospect Hill in his correspondence, and British observers in Boston noted the new banner in their reports. The East India Company's flag — which also featured red and white stripes with the Union Jack — has led some scholars to theorize that the Grand Union Flag was adapted from a merchant ensign rather than designed from scratch. The truth may never be known.
+
 ## What This Means for You in 2026
 
 The Grand Union Flag reminds us that identity is not always clear-cut, especially during transitions. The colonists were not yet Americans, but they were no longer simply British. They flew a flag that reflected their uncertainty — and then they grew past it. If you find yourself in a period of transition, unsure of who you are becoming, that is not a sign of weakness. It is a sign that you are in the middle of something important. Clarity comes with time and action, not all at once.

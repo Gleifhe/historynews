@@ -41,6 +41,10 @@ Flag Day remains one of the quieter observances on the American calendar. It doe
 
 The city of Fairfield, Washington, claims to be the oldest continuous Flag Day celebration in the country, dating to 1909 or 1910. Troy, New York, holds an annual Flag Day parade. And in Waubeka, Wisconsin — where Bernard Cigrand placed that small flag on his desk in 1885 — the schoolhouse is now a landmark on the National Register of Historic Places.
 
+## Why Not a Federal Holiday?
+
+Congress deliberately chose to make Flag Day a national observance rather than a full federal holiday. The distinction matters. Federal holidays like Independence Day and Memorial Day close government offices, halt mail delivery, and give federal employees a paid day off. Flag Day does none of these things. Several attempts have been made over the decades to elevate it to full holiday status, but each has stalled. Opponents argue that adding another federal holiday would cost the government billions in lost productivity and paid leave. Supporters counter that the flag deserves the same recognition as other national symbols honored on full holidays. Pennsylvania remains the only state that treats Flag Day as a state holiday, closing state offices and giving employees the day off. For the rest of the country, June 14 passes as a working day — a date marked by proclamations and ceremonies, but not by the weight of law that a true holiday carries.
+
 ## What This Means for You in 2026
 
 Bernard Cigrand did not have wealth, political connections, or a platform. He had a desk, a small flag, and an unwavering belief that something mattered. It took him over 30 years and thousands of speeches, but he changed a nation's calendar. If you believe something deserves recognition — a person, an idea, a cause — do not wait for someone else to champion it. Start where you are, with what you have.
