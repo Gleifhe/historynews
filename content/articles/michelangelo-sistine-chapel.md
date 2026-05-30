@@ -10,7 +10,6 @@ image: "/images/articles/michelangelo-sistine-chapel.jpg"
 imagealt: "The Creation of Adam by Michelangelo on the Sistine Chapel ceiling"
 imagecaption: "The Creation of Adam, the most iconic panel of the Sistine Chapel ceiling"
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 74
 sources:
   - "Europeana — European Cultural Heritage Collections — https://www.europeana.eu/en/collections"

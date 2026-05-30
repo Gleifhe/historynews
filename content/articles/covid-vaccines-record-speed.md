@@ -10,7 +10,6 @@ image: "/images/articles/covid-vaccines-record-speed.jpg"
 imagealt: "A vial of COVID-19 vaccine being prepared for administration"
 imagecaption: "A vial of COVID-19 vaccine — the product of the fastest vaccine development effort in history."
 imagecredit: "Wikimedia Commons"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 115
 sources:
   - "WHO - COVID-19 Vaccines — https://www.who.int/emergencies/diseases/novel-coronavirus-2019/covid-19-vaccines"

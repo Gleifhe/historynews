@@ -10,7 +10,6 @@ image: "/images/articles/trial-of-socrates.jpg"
 imagealt: "The Death of Socrates by Jacques-Louis David, showing Socrates reaching for the cup of hemlock"
 imagecaption: "The Death of Socrates by Jacques-Louis David (1787) — Socrates reaches for the hemlock while his students grieve"
 imagecredit: "The Metropolitan Museum of Art / Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 79
 sources:
   - "Project Gutenberg — Apology by Plato (translated by Benjamin Jowett) — https://www.gutenberg.org/ebooks/1656"

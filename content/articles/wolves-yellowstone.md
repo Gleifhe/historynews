@@ -10,7 +10,6 @@ image: "/images/articles/wolves-yellowstone.jpg"
 imagealt: "A gray wolf resting in the grass at Yellowstone National Park"
 imagecaption: "A gray wolf in Yellowstone National Park, part of the population reintroduced in 1995 that transformed the park's ecosystem."
 imagecredit: "Wikimedia Commons"
-video: "https://www.youtube.com/embed/G4H1N_yXBiA"
 weight: 113
 sources:
   - "National Park Service - Wolf Restoration in Yellowstone — https://www.nps.gov/yell/learn/nature/wolf-restoration.htm"

@@ -10,7 +10,6 @@ image: "/images/articles/end-of-apartheid-mandela.jpg"
 imagealt: "Nelson Mandela smiling after becoming President of South Africa in 1994"
 imagecaption: "Nelson Mandela, freed from prison after 27 years, became South Africa's first democratically elected president in 1994."
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 94
 sources:
   - "Nelson Mandela Foundation — Biography — https://www.nelsonmandela.org/content/page/biography"

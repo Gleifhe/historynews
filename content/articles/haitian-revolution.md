@@ -10,7 +10,6 @@ image: "/images/articles/haitian-revolution.jpg"
 imagealt: "Portrait of Toussaint Louverture"
 imagecaption: "Toussaint Louverture — the leader of the Haitian Revolution"
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/5A_o-nU5s2U"
 weight: 50
 sources:
   - "Wikipedia — Haitian Revolution — https://en.wikipedia.org/wiki/Haitian_Revolution"

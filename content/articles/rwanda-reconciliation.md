@@ -10,7 +10,6 @@ image: "/images/articles/rwanda-reconciliation.jpg"
 imagealt: "The Kigali Genocide Memorial in Rwanda, honoring the victims of the 1994 genocide"
 imagecaption: "The Kigali Genocide Memorial, a place of remembrance and reflection where Rwanda honors the victims and commits to a future of reconciliation."
 imagecredit: "Wikimedia Commons / CC BY-SA 4.0"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 151
 sources:
   - "Republic of Rwanda – Official Website — https://www.gov.rw/"

@@ -10,7 +10,6 @@ image: "/images/articles/first-heart-transplant.jpg"
 imagealt: "Groote Schuur Hospital in Cape Town, South Africa, where the first heart transplant was performed"
 imagecaption: "Groote Schuur Hospital in Cape Town, South Africa — the site of the world's first human heart transplant in 1967."
 imagecredit: "Wikimedia Commons"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 116
 sources:
   - "Heart of Cape Town Museum — Official Site — https://www.heartofcapetown.co.za/"

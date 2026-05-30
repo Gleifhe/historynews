@@ -10,7 +10,6 @@ image: "/images/articles/edison-electric-light.jpg"
 imagealt: "Thomas Edison in his laboratory at Menlo Park"
 imagecaption: "Thomas Edison at his famous Menlo Park laboratory, where he and his team developed the practical incandescent light bulb."
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 141
 sources:
   - "National Park Service – Thomas Edison National Historical Park — https://www.nps.gov/edis/index.htm"

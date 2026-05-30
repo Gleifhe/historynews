@@ -10,7 +10,6 @@ image: "/images/articles/fall-of-roman-empire.jpg"
 imagealt: "The Course of Empire: Destruction by Thomas Cole, depicting the fall of a great civilization"
 imagecaption: "The Course of Empire: Destruction by Thomas Cole (1836) — a powerful vision of civilization's collapse"
 imagecredit: "New-York Historical Society / Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 76
 sources:
   - "HathiTrust Digital Library — Historical Collections — https://www.hathitrust.org/"

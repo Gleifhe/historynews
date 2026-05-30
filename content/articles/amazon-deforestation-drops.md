@@ -10,7 +10,6 @@ image: "/images/articles/amazon-deforestation-drops.jpg"
 imagealt: "Aerial view of the Amazon River winding through dense green rainforest in South America"
 imagecaption: "The Amazon rainforest, the largest tropical forest on Earth, produces about 20 percent of the world's oxygen."
 imagecredit: "Jlwad, CC BY-SA 4.0, via Wikimedia Commons"
-video: "https://www.youtube.com/embed/G4H1N_yXBiA"
 weight: 169
 sources:
   - "INPE PRODES – Amazon Deforestation Monitoring — http://www.obt.inpe.br/OBT/assuntos/programas/amazonia/prodes"

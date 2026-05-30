@@ -10,7 +10,6 @@ image: "/images/articles/voyager-interstellar-space.jpg"
 imagealt: "Model of the Voyager spacecraft showing its distinctive large dish antenna and scientific instruments"
 imagecaption: "A model of the Voyager spacecraft, which has been traveling through space since 1977 and is now the most distant human-made object in existence."
 imagecredit: "NASA/JPL-Caltech / Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 139
 sources:
   - "NASA Jet Propulsion Laboratory — Voyager Mission — https://voyager.jpl.nasa.gov/"

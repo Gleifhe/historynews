@@ -10,7 +10,6 @@ image: "/images/articles/cuban-missile-crisis-13-days.jpg"
 imagealt: "U-2 reconnaissance photograph showing Soviet missile installations in Cuba, October 1962"
 imagecaption: "U-2 spy plane photograph showing Soviet medium-range ballistic missile sites under construction in Cuba"
 imagecredit: "Wikimedia Commons / Public Domain (U.S. Government)"
-video: "https://www.youtube.com/embed/I79TpDe3t2g"
 weight: 66
 sources:
   - "JFK Presidential Library — Cuban Missile Crisis — https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/cuban-missile-crisis"

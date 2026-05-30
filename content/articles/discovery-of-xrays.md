@@ -10,7 +10,6 @@ image: "/images/articles/discovery-of-xrays.jpg"
 imagealt: "The first medical X-ray photograph, showing the hand of Wilhelm Röntgen's wife Anna Bertha"
 imagecaption: "The first medical X-ray image, taken by Wilhelm Röntgen of his wife Anna Bertha's hand in 1895, showing her bones and wedding ring."
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 117
 sources:
   - "Nobel Prize — Wilhelm Röntgen Biography — https://www.nobelprize.org/prizes/physics/1901/rontgen/biographical/"

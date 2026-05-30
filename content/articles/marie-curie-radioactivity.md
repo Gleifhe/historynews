@@ -10,7 +10,6 @@ image: "/images/articles/marie-curie-radioactivity.jpg"
 imagealt: "Portrait photograph of Marie Curie, pioneering physicist and chemist"
 imagecaption: "Marie Curie, the first woman to win a Nobel Prize and the only person to win Nobels in two different sciences."
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 126
 sources:
   - "Nobel Prize — Marie Curie Biography (Physics 1903) — https://www.nobelprize.org/prizes/physics/1903/marie-curie/biographical/"

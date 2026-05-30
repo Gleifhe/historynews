@@ -10,7 +10,6 @@ image: "/images/articles/spanish-armada.jpg"
 imagealt: "Painting of the Spanish Armada battle, 1588"
 imagecaption: "The battle between the English fleet and the Spanish Armada, 1588"
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/xaoCs1NFcVc"
 weight: 45
 sources:
   - "BBC History — The Spanish Armada — https://www.bbc.co.uk/history/british/tudors/spanish_armada_01.shtml"

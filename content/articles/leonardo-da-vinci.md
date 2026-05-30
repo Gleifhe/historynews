@@ -10,7 +10,6 @@ image: "/images/articles/leonardo-da-vinci.jpg"
 imagealt: "Presumed self-portrait of Leonardo da Vinci in red chalk"
 imagecaption: "Leonardo da Vinci's famous self-portrait in red chalk, drawn around 1512"
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 72
 sources:
   - "Smithsonian Open Access — Leonardo da Vinci Collections — https://www.si.edu/openaccess"

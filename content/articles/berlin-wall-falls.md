@@ -10,7 +10,6 @@ image: "/images/articles/berlin-wall-falls.jpg"
 imagealt: "Crowds at the Brandenburg Gate as the Berlin Wall falls, November 1989"
 imagecaption: "East and West Germans celebrate at the Brandenburg Gate after the fall of the Berlin Wall"
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/OIYy32RuHao"
 weight: 4
 sources:
   - "Europeana — Fall of the Iron Curtain Collection — https://www.europeana.eu/en/collections/topic/83-1989-fall-of-the-iron-curtain"

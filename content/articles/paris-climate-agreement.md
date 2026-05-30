@@ -10,7 +10,6 @@ image: "/images/articles/paris-climate-agreement.jpg"
 imagealt: "World leaders gathered at the COP21 United Nations Climate Change Conference in Paris, November 2015"
 imagecaption: "Heads of delegations at the 2015 United Nations Climate Change Conference (COP21) in Paris"
 imagecredit: "Wikimedia Commons / Presidencia de la República Mexicana / CC BY 2.0"
-video: "https://www.youtube.com/embed/G4H1N_yXBiA"
 weight: 86
 sources:
   - "UNFCCC — The Paris Agreement — https://unfccc.int/process-and-meetings/the-paris-agreement"

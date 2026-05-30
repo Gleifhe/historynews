@@ -10,7 +10,6 @@ image: "/images/articles/first-black-hole-photo.jpg"
 imagealt: "First photograph of a black hole showing the glowing ring of hot gas around the shadow of the black hole in galaxy M87"
 imagecaption: "The first image of a black hole, captured by the Event Horizon Telescope, shows the shadow of the supermassive black hole at the center of galaxy M87."
 imagecredit: "Event Horizon Telescope Collaboration / Wikimedia Commons / CC BY 4.0"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 137
 sources:
   - "Event Horizon Telescope — First Image of a Black Hole — https://eventhorizontelescope.org/press-release-april-10-2019-astronomers-capture-first-image-black-hole"

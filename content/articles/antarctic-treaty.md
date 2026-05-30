@@ -10,7 +10,6 @@ image: "/images/articles/antarctic-treaty.jpg"
 imagealt: "Lake Fryxell in the Transantarctic Mountains, Antarctica, surrounded by glaciers"
 imagecaption: "Lake Fryxell in Antarctica's Taylor Valley — the kind of pristine landscape preserved by the Antarctic Treaty"
 imagecredit: "Wikimedia Commons / Joe Mastroianni, NSF / Public Domain"
-video: "https://www.youtube.com/embed/I79TpDe3t2g"
 weight: 88
 sources:
   - "Antarctic Treaty Secretariat — The Antarctic Treaty — https://www.ats.aq/e/antarctictreaty.html"

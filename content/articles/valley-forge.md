@@ -10,7 +10,6 @@ image: "/images/articles/valley-forge.jpg"
 imagealt: "Painting of George Washington and the Marquis de Lafayette at Valley Forge during the harsh winter encampment"
 imagecaption: "Washington and Lafayette at Valley Forge, winter 1777–78"
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/yb7MI8NQLoo"
 weight: 61
 sources:
   - "National Archives - Washington Letters — https://www.archives.gov/milestone-documents/washingtons-letter-to-the-continental-congress"

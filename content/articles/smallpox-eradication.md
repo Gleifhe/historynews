@@ -10,7 +10,6 @@ image: "/images/articles/smallpox-eradication.jpg"
 imagealt: "Painting of Edward Jenner vaccinating young James Phipps against smallpox in 1796"
 imagecaption: "Edward Jenner administers the first smallpox vaccination to James Phipps in 1796, beginning the journey toward eradication."
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 91
 sources:
   - "World Health Organization — Smallpox Fact Sheet — https://www.who.int/news-room/fact-sheets/detail/smallpox"

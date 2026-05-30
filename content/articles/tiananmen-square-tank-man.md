@@ -10,7 +10,6 @@ image: "/images/articles/tiananmen-square-tank-man.jpg"
 imagealt: "Tiananmen Square in Beijing, China"
 imagecaption: "Tiananmen Square in Beijing — the site of the 1989 pro-democracy protests and the famous Tank Man standoff"
 imagecredit: "Wikimedia Commons / CC BY-SA"
-video: "https://www.youtube.com/embed/YeFzeNAHEhU"
 weight: 43
 sources:
   - "AP Images — Tiananmen Square Coverage — https://www.ap.org/"

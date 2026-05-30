@@ -10,7 +10,6 @@ image: "/images/articles/european-union-formation.jpg"
 imagealt: "The European Parliament hemicycle chamber in Strasbourg, France"
 imagecaption: "The European Parliament in Strasbourg — where representatives from 27 nations make laws together"
 imagecredit: "Wikimedia Commons / Diliff / CC BY-SA 3.0"
-video: "https://www.youtube.com/embed/XxutY7ss1v4"
 weight: 83
 sources:
   - "Britannica — European Union — https://www.britannica.com/topic/European-Union"

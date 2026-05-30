@@ -10,7 +10,6 @@ image: "/images/articles/sully-hudson-river.jpg"
 imagealt: "US Airways Flight 1549 floating in the Hudson River after Captain Sullenberger's emergency water landing on January 15, 2009"
 imagecaption: "US Airways Flight 1549 rests in the Hudson River as passengers stand on the wings awaiting rescue. All 155 people aboard survived."
 imagecredit: "Greg L / Wikimedia Commons / CC BY 2.0"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 157
 sources:
   - "National Transportation Safety Board — Flight 1549 Report — https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR1003.pdf"

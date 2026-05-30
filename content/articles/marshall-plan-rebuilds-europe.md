@@ -10,7 +10,6 @@ image: "/images/articles/marshall-plan-rebuilds-europe.jpg"
 imagealt: "A Marshall Plan poster promoting European recovery with American aid"
 imagecaption: "A poster promoting the Marshall Plan — the American-funded program that rebuilt post-war Europe"
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 82
 sources:
   - "Britannica — Marshall Plan — https://www.britannica.com/event/Marshall-Plan"

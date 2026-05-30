@@ -10,7 +10,6 @@ image: "/images/articles/indian-independence-gandhi.jpg"
 imagealt: "Portrait of Mahatma Gandhi, leader of India's independence movement"
 imagecaption: "Mahatma Gandhi led India to independence through nonviolent resistance, inspiring movements for freedom around the world."
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 95
 sources:
   - "Encyclopaedia Britannica — Indian Independence Movement — https://www.britannica.com/event/Indian-independence-movement"

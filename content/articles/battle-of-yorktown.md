@@ -10,7 +10,6 @@ image: "/images/articles/battle-of-yorktown.jpg"
 imagealt: "John Trumbull's painting of the surrender of Lord Cornwallis at Yorktown, 1781"
 imagecaption: "The Surrender of Lord Cornwallis at Yorktown, painted by John Trumbull"
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/yb7MI8NQLoo"
 weight: 62
 sources:
   - "Library of Congress — George Washington Papers — https://www.loc.gov/collections/george-washington-papers/"

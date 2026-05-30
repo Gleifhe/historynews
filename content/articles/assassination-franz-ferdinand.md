@@ -11,7 +11,6 @@ imagealt: "Archduke Franz Ferdinand"
 imagecaption: "Archduke Franz Ferdinand of Austria-Hungary, whose assassination triggered World War I"
 imagecredit: "Bain News Service / Library of Congress"
 weight: 22
-video: "https://www.youtube.com/embed/OfO7TduevHA"
 sources:
   - "History.com — How a Wrong Turn Started World War I — https://www.history.com/articles/how-a-wrong-turn-started-world-war-i"
   - "LOC — Archduke Franz Ferdinand portrait — https://www.loc.gov/pictures/item/2014697571/"

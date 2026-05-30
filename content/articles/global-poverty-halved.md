@@ -10,7 +10,6 @@ image: "/images/articles/global-poverty-halved.jpg"
 imagealt: "The United Nations Millennium Development Goals logo"
 imagecaption: "The UN Millennium Development Goals set global targets for reducing poverty, hunger, and disease between 2000 and 2015."
 imagecredit: "United Nations, Public domain, via Wikimedia Commons"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 112
 sources:
   - "World Bank - Poverty Overview — https://www.worldbank.org/en/topic/poverty/overview"

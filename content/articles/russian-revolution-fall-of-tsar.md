@@ -10,7 +10,6 @@ image: "/images/articles/russian-revolution-fall-of-tsar.jpg"
 imagealt: "Tsar Nicholas II of Russia in military uniform, circa 1910"
 imagecaption: "Tsar Nicholas II — the last emperor of Russia, whose refusal to reform led to revolution and the end of the Romanov dynasty"
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/dHSQAEam2yc"
 weight: 69
 sources:
   - "British National Archives — The Russian Revolution — https://www.nationalarchives.gov.uk/education/resources/russian-revolution/"

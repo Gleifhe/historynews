@@ -10,7 +10,6 @@ image: "/images/articles/enigma-code-bletchley-park.jpg"
 imagealt: "An Enigma cipher machine used by Nazi Germany"
 imagecaption: "An Enigma cipher machine — the encryption device that Nazi Germany believed was unbreakable"
 imagecredit: "Wikimedia Commons / CC BY-SA"
-video: "https://www.youtube.com/embed/8FDeLnxCOXA"
 weight: 28
 sources:
   - "British National Archives — Enigma — https://www.nationalarchives.gov.uk/education/resources/enigma/"

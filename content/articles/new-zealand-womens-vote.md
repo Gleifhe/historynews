@@ -10,7 +10,6 @@ image: "/images/articles/new-zealand-womens-vote.jpg"
 imagealt: "Portrait photograph of Kate Sheppard, leader of the New Zealand women's suffrage movement"
 imagecaption: "Kate Sheppard, the determined leader who organized the campaign that made New Zealand the first self-governing nation to give women the vote."
 imagecredit: "Auckland Libraries / Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 129
 sources:
   - "New Zealand History — Women and the Vote — https://nzhistory.govt.nz/politics/womens-suffrage"

@@ -10,7 +10,6 @@ image: "/images/articles/montgomery-bus-boycott.jpg"
 imagealt: "Rosa Parks' booking photograph taken after her arrest in Montgomery, Alabama, 1955"
 imagecaption: "Rosa Parks' mugshot after her arrest for refusing to give up her bus seat, December 1, 1955"
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Cd2ch4XV84s"
 weight: 56
 sources:
   - "Library of Congress — Civil Rights History Project — https://www.loc.gov/collections/civil-rights-history-project/"

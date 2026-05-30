@@ -10,7 +10,6 @@ image: "/images/articles/development-of-insulin.jpg"
 imagealt: "Modern insulin pen used by diabetes patients"
 imagecaption: "A modern insulin pen — the direct descendant of Banting and Best's life-saving discovery in 1921."
 imagecredit: "Wikimedia Commons"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 120
 sources:
   - "Banting House National Historic Site — Official Site — https://www.bantinghousenhs.ca/"

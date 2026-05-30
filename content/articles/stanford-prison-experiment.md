@@ -10,7 +10,6 @@ image: "/images/articles/stanford-prison-experiment.jpg"
 imagealt: "Philip Zimbardo, psychologist who conducted the Stanford Prison Experiment"
 imagecaption: "Dr. Philip Zimbardo, designer of the Stanford Prison Experiment"
 imagecredit: "Wikimedia Commons / CC BY-SA"
-video: "https://www.youtube.com/embed/Z0jYx8nwjFQ"
 weight: 35
 sources:
   - "JSTOR — Interpersonal Dynamics in a Simulated Prison — https://www.jstor.org/stable/2786139"

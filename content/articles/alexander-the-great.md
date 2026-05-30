@@ -10,7 +10,6 @@ image: "/images/articles/alexander-the-great.jpg"
 imagealt: "The Alexander Mosaic from Pompeii showing Alexander the Great in battle"
 imagecaption: "The Alexander Mosaic from Pompeii, depicting Alexander the Great at the Battle of Issus against Darius III of Persia"
 imagecredit: "Naples National Archaeological Museum / Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 80
 sources:
   - "Britannica — Alexander the Great — https://www.britannica.com/biography/Alexander-the-Great"

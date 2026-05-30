@@ -10,7 +10,6 @@ image: "/images/articles/first-public-school-system.jpg"
 imagealt: "Daguerreotype portrait of Horace Mann, the father of American public education"
 imagecaption: "Horace Mann, the Massachusetts educator and politician who fought to establish free public education for every American child."
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 147
 sources:
   - "Massachusetts Historical Society – Education — https://www.masshist.org/database/viewer.php?item_id=1809"

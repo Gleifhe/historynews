@@ -10,7 +10,6 @@ image: "/images/articles/chernobyl-disaster.jpg"
 imagealt: "Aerial view of the Chernobyl nuclear power plant"
 imagecaption: "The Chernobyl nuclear power plant in Ukraine, site of the 1986 disaster"
 imagecredit: "Voice of America / Wikimedia Commons"
-video: "https://www.youtube.com/embed/nsGXeCpSJmM"
 weight: 24
 sources:
   - "Encyclopedia Britannica — Chernobyl disaster — https://www.britannica.com/event/Chernobyl-disaster"

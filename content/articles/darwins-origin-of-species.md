@@ -11,7 +11,6 @@ imagealt: "Portrait of Charles Darwin"
 imagecaption: "Charles Darwin, the naturalist whose book On the Origin of Species revolutionized our understanding of life"
 imagecredit: "Library of Congress"
 weight: 11
-video: "https://www.youtube.com/embed/XOiUZ3ycZwU"
 sources:
   - "Project Gutenberg — On the Origin of Species by Charles Darwin — https://www.gutenberg.org/ebooks/1228"
   - "LOC — Charles Darwin portrait — https://www.loc.gov/pictures/item/2004672601/"

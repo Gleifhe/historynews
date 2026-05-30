@@ -10,7 +10,6 @@ image: "/images/articles/gutenberg-printing-press.jpg"
 imagealt: "Replica of Gutenberg's printing press"
 imagecaption: "A replica of Gutenberg's movable-type printing press, the invention that revolutionized communication"
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 73
 sources:
   - "The National Archives (UK) — Historical Records — https://www.nationalarchives.gov.uk/"

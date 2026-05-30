@@ -10,7 +10,6 @@ image: "/images/articles/doctors-without-borders.jpg"
 imagealt: "Humanitarian aid supplies being delivered to people in need"
 imagecaption: "Humanitarian aid delivery — the kind of emergency response that Doctors Without Borders carries out in more than 70 countries"
 imagecredit: "Wikimedia Commons / U.S. Air Force / Public Domain"
-video: "https://www.youtube.com/embed/fo2Rb9h788s"
 weight: 90
 sources:
   - "MSF — History and Heritage — https://www.msf.org/history-heritage"

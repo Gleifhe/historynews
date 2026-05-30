@@ -10,7 +10,6 @@ image: "/images/articles/clean-water-billions.jpg"
 imagealt: "A woman in Mozambique collecting clean water from an improved water source, representing global progress in water access"
 imagecaption: "Access to clean water transforms communities. Between 1990 and 2015, 2.6 billion people gained access to improved drinking water sources for the first time."
 imagecredit: "Wikimedia Commons / CC BY 2.0"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 162
 sources:
   - "WHO/UNICEF Joint Monitoring Programme for Water Supply — https://washdata.org/"

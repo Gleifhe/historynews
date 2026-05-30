@@ -10,7 +10,6 @@ image: "/images/articles/hope-diamond.jpg"
 imagealt: "The Hope Diamond at the Smithsonian"
 imagecaption: "The Hope Diamond, a 45.52-carat deep blue diamond at the Smithsonian"
 imagecredit: "Smithsonian Institution Archives / Wikimedia Commons"
-video: "https://www.youtube.com/embed/tqqYNfEY2qU"
 weight: 39
 sources:
   - "Smithsonian Open Access — The Hope Diamond — https://www.si.edu/spotlight/hope-diamond"

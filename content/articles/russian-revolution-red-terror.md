@@ -10,7 +10,6 @@ image: "/images/articles/russian-revolution-red-terror.jpg"
 imagealt: "Red Army soldiers marching through Moscow, August 1918"
 imagecaption: "Red Army soldiers march through Moscow during the Russian Civil War — the conflict that forged the Soviet Union"
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/dHSQAEam2yc"
 weight: 71
 sources:
   - "HathiTrust Digital Library — Russian Civil War Resources — https://catalog.hathitrust.org/Search/Home?lookfor=russian+civil+war&type=all"

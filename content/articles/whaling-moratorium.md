@@ -10,7 +10,6 @@ image: "/images/articles/whaling-moratorium.jpg"
 imagealt: "A humpback whale breaching the ocean surface with water splashing around it"
 imagecaption: "A humpback whale breaches off the coast of Massachusetts. Humpback populations have recovered dramatically since the whaling moratorium."
 imagecredit: "Whit Welles, CC BY 3.0, via Wikimedia Commons"
-video: "https://www.youtube.com/embed/G4H1N_yXBiA"
 weight: 170
 sources:
   - "International Whaling Commission – Moratorium — https://iwc.int/management-and-conservation/whaling/moratorium"

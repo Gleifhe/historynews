@@ -10,7 +10,6 @@ image: "/images/articles/lewis-clark-expedition.jpg"
 imagealt: "Painting depicting the Lewis and Clark expedition exploring the American West"
 imagecaption: "Lewis and Clark and their Corps of Discovery journeyed across 8,000 miles of wilderness, mapping the American West for the first time."
 imagecredit: "Library of Congress / Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 135
 sources:
   - "Library of Congress — Lewis and Clark Expedition — https://www.loc.gov/collections/lewis-and-clark/"

@@ -10,7 +10,6 @@ image: "/images/articles/operation-paperclip.jpg"
 imagealt: "Wernher von Braun, recruited through Operation Paperclip"
 imagecaption: "Wernher von Braun — the German rocket scientist who became a key figure in NASA"
 imagecredit: "NASA / Wikimedia Commons"
-video: "https://www.youtube.com/embed/uyzaTnKhhr0"
 weight: 40
 sources:
   - "CIA FOIA Reading Room — Operation Paperclip — https://www.cia.gov/readingroom/collection/operation-paperclip"

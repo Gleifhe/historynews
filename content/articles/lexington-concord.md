@@ -10,7 +10,6 @@ image: "/images/articles/lexington-concord.jpg"
 imagealt: "Engraving depicting the Battle of Lexington, April 19, 1775"
 imagecaption: "The Battle of Lexington, April 19, 1775 — the opening engagement of the American Revolution"
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/HGEMscZE5dY"
 weight: 60
 sources:
   - "Massachusetts Historical Society — Coming of the American Revolution — https://www.masshist.org/revolution"

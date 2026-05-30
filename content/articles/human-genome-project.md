@@ -10,7 +10,6 @@ image: "/images/articles/human-genome-project.jpg"
 imagealt: "Illustration of the DNA double helix structure representing the Human Genome Project"
 imagecaption: "The DNA double helix — the Human Genome Project mapped all 3 billion base pairs of this remarkable molecule."
 imagecredit: "Wikimedia Commons"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 118
 sources:
   - "National Human Genome Research Institute — Human Genome Project — https://www.genome.gov/human-genome-project"

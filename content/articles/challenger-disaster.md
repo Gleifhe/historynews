@@ -10,7 +10,6 @@ image: "/images/articles/challenger-disaster.jpg"
 imagealt: "The Space Shuttle Challenger explodes 73 seconds after launch, January 28, 1986"
 imagecaption: "The Space Shuttle Challenger breaks apart over the Atlantic Ocean, January 28, 1986"
 imagecredit: "NASA / Wikimedia Commons"
-video: "https://www.youtube.com/embed/j4JOjcDFtBE"
 weight: 34
 sources:
   - "Google News Archive — Challenger Explosion Coverage, 1986 — https://news.google.com/newspapers?nid=1817&dat=19860129&id=pJwdAAAAIBAJ&pg=1263,152474"

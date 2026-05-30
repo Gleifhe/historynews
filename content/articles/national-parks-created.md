@@ -10,7 +10,6 @@ image: "/images/articles/national-parks-created.jpg"
 imagealt: "Aerial view of Grand Prismatic Spring in Yellowstone National Park showing vibrant blue, green, and orange colors"
 imagecaption: "Grand Prismatic Spring in Yellowstone, the first national park in the world, established in 1872."
 imagecredit: "Jim Peaco / National Park Service, Public Domain, via Wikimedia Commons"
-video: "https://www.youtube.com/embed/G4H1N_yXBiA"
 weight: 167
 sources:
   - "National Park Service – Yellowstone Establishment — https://www.nps.gov/yell/learn/historyculture/yellowstoneestablishment.htm"

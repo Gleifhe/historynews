@@ -10,7 +10,6 @@ image: "/images/articles/harriet-tubman-freedom.jpg"
 imagealt: "Portrait photograph of Harriet Tubman, American abolitionist and Underground Railroad conductor, taken around 1868-69"
 imagecaption: "Harriet Tubman, photographed around 1868-69. Known as 'Moses,' she guided approximately 70 people out of slavery and never lost a single passenger."
 imagecredit: "Benjamin F. Powelson / Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 158
 sources:
   - "National Park Service — Harriet Tubman Biography — https://www.nps.gov/hatu/learn/historyculture/tubman-biography.htm"

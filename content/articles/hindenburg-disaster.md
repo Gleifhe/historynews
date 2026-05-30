@@ -10,7 +10,6 @@ image: "/images/articles/hindenburg-disaster.jpg"
 imagealt: "The airship Hindenburg"
 imagecaption: "The German airship Hindenburg — the largest aircraft ever built, before its catastrophic destruction"
 imagecredit: "Library of Congress"
-video: "https://www.youtube.com/embed/CgWHbpMVQ1U"
 weight: 30
 sources:
   - "Newspapers.com — Hindenburg Disaster Coverage — https://www.newspapers.com/"

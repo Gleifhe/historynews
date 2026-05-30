@@ -10,7 +10,6 @@ image: "/images/articles/transatlantic-telegraph-cable.jpg"
 imagealt: "Map showing the route of the first transatlantic telegraph cable across the Atlantic Ocean"
 imagecaption: "The route of the transatlantic telegraph cable, connecting North America to Europe across the ocean floor."
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 142
 sources:
   - "Smithsonian – Transatlantic Cable — https://www.si.edu/spotlight/transatlantic-cable"

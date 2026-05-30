@@ -10,7 +10,6 @@ image: "/images/articles/rescue-of-apollo-13.jpg"
 imagealt: "The Apollo 13 crew before launch: Jim Lovell, Jack Swigert, and Fred Haise"
 imagecaption: "The Apollo 13 crew — Jim Lovell, Jack Swigert, and Fred Haise — before their fateful mission in April 1970."
 imagecredit: "NASA, Public domain, via Wikimedia Commons"
-video: "https://www.youtube.com/embed/SGP6Y0Pnhe4"
 weight: 109
 sources:
   - "NASA - Apollo 13 Mission Overview — https://www.nasa.gov/mission_pages/apollo/missions/apollo13.html"

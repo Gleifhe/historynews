@@ -10,7 +10,6 @@ image: "/images/articles/child-mortality-halved.jpg"
 imagealt: "A young child receiving a vaccine from a healthcare worker, part of global immunization campaigns that have saved millions of lives"
 imagecaption: "Vaccination campaigns in developing countries have been one of the most effective tools in reducing child mortality worldwide."
 imagecredit: "UNICEF / Wikimedia Commons / CC BY 2.0"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 161
 sources:
   - "UNICEF — Under-Five Mortality Data — https://data.unicef.org/topic/child-survival/under-five-mortality/"

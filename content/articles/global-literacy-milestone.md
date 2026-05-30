@@ -10,7 +10,6 @@ image: "/images/articles/global-literacy-milestone.jpg"
 imagealt: "UNESCO logo representing the organization's commitment to education and literacy worldwide"
 imagecaption: "UNESCO, the United Nations Educational, Scientific and Cultural Organization, has led global efforts to achieve universal literacy."
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 152
 sources:
   - "UNESCO Institute for Statistics – Literacy — https://uis.unesco.org/en/topic/literacy"

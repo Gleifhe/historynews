@@ -11,7 +11,6 @@ imagealt: "Storming of the Bastille painting"
 imagecaption: "The Storming of the Bastille on July 14, 1789 — the event that ignited the French Revolution"
 imagecredit: "Jean-Pierre Houël / Wikimedia Commons (Public Domain)"
 weight: 25
-video: "https://www.youtube.com/embed/tstIW_bU6q8"
 sources:
   - "Wikipedia — Storming of the Bastille — https://en.wikipedia.org/wiki/Storming_of_the_Bastille"
   - "Wikimedia Commons — Bastille images — https://commons.wikimedia.org/wiki/Category:Storming_of_the_Bastille"

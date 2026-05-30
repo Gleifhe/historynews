@@ -10,7 +10,6 @@ image: "/images/articles/jack-the-ripper.jpg"
 imagealt: "1888 Punch cartoon about Jack the Ripper"
 imagecaption: "The Nemesis of Neglect — an 1888 Punch cartoon about the Ripper murders"
 imagecredit: "Punch Magazine / Public Domain"
-video: "https://www.youtube.com/embed/GVASftNawjY"
 weight: 33
 sources:
   - "British Newspaper Archive — East London Observer, 1888 — https://www.britishnewspaperarchive.co.uk/titles/east-london-observer"

@@ -10,7 +10,6 @@ image: "/images/articles/nuclear-test-ban-treaty.jpg"
 imagealt: "A nuclear test explosion during Operation Upshot-Knothole in 1953"
 imagecaption: "A nuclear weapon test at the Nevada Test Site — the kind of atmospheric testing banned by the 1963 treaty"
 imagecredit: "Wikimedia Commons / U.S. Department of Energy / Public Domain"
-video: "https://www.youtube.com/embed/I79TpDe3t2g"
 weight: 84
 sources:
   - "Britannica — Nuclear Test-Ban Treaty — https://www.britannica.com/event/Nuclear-Test-Ban-Treaty"

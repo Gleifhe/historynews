@@ -10,7 +10,6 @@ image: "/images/articles/renewable-energy-cheaper.jpg"
 imagealt: "A large-scale wind farm with dozens of wind turbines generating clean electricity, representing the global shift to renewable energy"
 imagecaption: "Wind farms like this one are part of the global renewable energy revolution. Wind power costs have dropped 70% since 2010, making clean energy the cheapest option in most countries."
 imagecredit: "Wikimedia Commons / CC BY 2.0"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 163
 sources:
   - "IRENA — Renewable Power Generation Costs 2022 — https://www.irena.org/publications/2023/Aug/Renewable-Power-Generation-Costs-in-2022"

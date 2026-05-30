@@ -10,7 +10,6 @@ image: "/images/articles/pasteurization-invented.jpg"
 imagealt: "Photograph of Louis Pasteur, the French scientist who invented pasteurization"
 imagecaption: "Louis Pasteur, whose discovery that heating liquids kills dangerous germs has saved millions of lives."
 imagecredit: "Wikimedia Commons / Félix Nadar / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 121
 sources:
   - "Institut Pasteur — History — https://www.pasteur.fr/en/institut-pasteur/history"

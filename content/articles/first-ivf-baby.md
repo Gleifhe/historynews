@@ -10,7 +10,6 @@ image: "/images/articles/first-ivf-baby.jpg"
 imagealt: "Illustration of in vitro fertilization showing the process of combining egg and sperm outside the body"
 imagecaption: "In vitro fertilization combines egg and sperm outside the body — a revolutionary technique that has helped millions of families."
 imagecredit: "Wikimedia Commons / BruceBlaus"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 124
 sources:
   - "Nobel Prize — Robert Edwards Biography — https://www.nobelprize.org/prizes/medicine/2010/edwards/biographical/"

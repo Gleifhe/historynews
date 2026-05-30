@@ -10,7 +10,6 @@ image: "/images/articles/nixon-resignation-speech.jpg"
 imagealt: "President Richard Nixon"
 imagecaption: "President Richard Nixon addresses the nation on August 8, 1974 — announcing his resignation"
 imagecredit: "Library of Congress"
-video: "https://www.youtube.com/embed/32GaowQnGRw"
 weight: 21
 sources:
   - "C-SPAN — Nixon Resignation Address (full video) — https://www.c-span.org/video/?3921-1/president-nixon-resignation-address"

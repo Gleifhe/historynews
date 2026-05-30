@@ -10,7 +10,6 @@ image: "/images/articles/fall-of-saigon.jpg"
 imagealt: "Helicopter lands on USS Hancock during the evacuation of South Vietnam, 1975"
 imagecaption: "A helicopter lands on USS Hancock during the emergency evacuation of South Vietnam, April 1975"
 imagecredit: "U.S. Navy / Wikimedia Commons"
-video: "https://www.youtube.com/embed/-oBFX8R15BQ"
 weight: 44
 sources:
   - "Getty Images — Fall of Saigon — https://www.gettyimages.com/photos/fall-of-saigon"

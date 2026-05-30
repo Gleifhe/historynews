@@ -10,7 +10,6 @@ image: "/images/articles/hubble-space-telescope.jpg"
 imagealt: "Hubble Ultra Deep Field image showing thousands of galaxies in a tiny patch of sky"
 imagecaption: "The Hubble Deep Field image revealed thousands of galaxies in what appeared to be an empty patch of sky."
 imagecredit: "Wikimedia Commons / NASA / ESA"
-video: "https://www.youtube.com/embed/SGP6Y0Pnhe4"
 weight: 104
 sources:
   - "HubbleSite – Mission and Telescope — https://hubblesite.org/mission-and-telescope"

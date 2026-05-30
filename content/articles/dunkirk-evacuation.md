@@ -10,7 +10,6 @@ image: "/images/articles/dunkirk-evacuation.jpg"
 imagealt: "British soldiers wading through water to reach rescue boats at Dunkirk beach"
 imagecaption: "Soldiers line up on the beaches of Dunkirk, waiting for rescue during Operation Dynamo."
 imagecredit: "Wikimedia Commons / Imperial War Museum"
-video: "https://www.youtube.com/embed/fo2Rb9h788s"
 weight: 101
 sources:
   - "Imperial War Museum – The Evacuation of Dunkirk — https://www.iwm.org.uk/history/the-evacuation-of-dunkirk"

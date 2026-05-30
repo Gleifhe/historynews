@@ -10,7 +10,6 @@ image: "/images/articles/irena-sendler-warsaw.jpg"
 imagealt: "Portrait photograph of Irena Sendler, the Polish social worker who saved 2,500 Jewish children from the Warsaw Ghetto"
 imagecaption: "Irena Sendler in 1942, during the period when she was risking her life daily to smuggle Jewish children out of the Warsaw Ghetto."
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 156
 sources:
   - "Yad Vashem — Irena Sendler — https://www.yadvashem.org/righteous/stories/sendler.html"

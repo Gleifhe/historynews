@@ -10,7 +10,6 @@ image: "/images/articles/first-smartphone-iphone.jpg"
 imagealt: "The original iPhone from 2007, the device that launched the smartphone revolution and changed how humans interact with technology"
 imagecaption: "The original iPhone, unveiled by Steve Jobs on January 9, 2007. Its touchscreen interface and app ecosystem changed the world."
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 166
 sources:
   - "Computer History Museum — Personal Computing Revolution — https://www.computerhistory.org/revolution/personal-computers/17/intro"

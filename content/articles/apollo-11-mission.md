@@ -10,7 +10,6 @@ image: "/images/articles/apollo-11-mission.jpg"
 imagealt: "Astronaut Buzz Aldrin standing on the surface of the Moon during the Apollo 11 mission in 1969"
 imagecaption: "Buzz Aldrin stands on the lunar surface, photographed by Neil Armstrong. The reflection of Armstrong can be seen in Aldrin's visor."
 imagecredit: "NASA / Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/SGP6Y0Pnhe4"
 weight: 96
 sources:
   - "NASA — Apollo 11 Mission — https://www.nasa.gov/mission_pages/apollo/apollo11.html"

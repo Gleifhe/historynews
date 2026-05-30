@@ -10,7 +10,6 @@ image: "/images/articles/christmas-truce-1914.jpg"
 imagealt: "Illustration of British and German soldiers meeting in no man's land during the Christmas Truce of 1914"
 imagecaption: "British and German soldiers set aside their weapons to share Christmas together in the trenches."
 imagecredit: "Wikimedia Commons"
-video: "https://www.youtube.com/embed/dHSQAEam2yc"
 weight: 102
 sources:
   - "Imperial War Museum – The Christmas Truce — https://www.iwm.org.uk/history/the-christmas-truce"

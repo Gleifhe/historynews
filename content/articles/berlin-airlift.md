@@ -10,7 +10,6 @@ image: "/images/articles/berlin-airlift.jpg"
 imagealt: "German children watch a C-54 cargo plane land at Berlin Tempelhof Airport during the Berlin Airlift, 1948"
 imagecaption: "German children watch an American C-54 Skymaster land at Berlin's Tempelhof Airport during the Airlift, 1948"
 imagecredit: "Henry Ries / USAF / Public Domain"
-video: "https://www.youtube.com/embed/OIYy32RuHao"
 weight: 89
 sources:
   - "Truman Library — The Berlin Airlift — https://www.trumanlibrary.gov/education/presidential-inquiries/berlin-airlift"

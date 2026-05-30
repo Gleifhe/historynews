@@ -10,7 +10,6 @@ image: "/images/articles/geneva-conventions-1949.jpg"
 imagealt: "Red Cross flag, the symbol of the Geneva Conventions and humanitarian protection during war"
 imagecaption: "The Red Cross emblem, recognized worldwide as a symbol of humanitarian protection, is central to the Geneva Conventions."
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 130
 sources:
   - "ICRC — The Geneva Conventions of 1949 — https://www.icrc.org/en/doc/war-and-law/treaties-customary-law/geneva-conventions/overview-geneva-conventions.htm"

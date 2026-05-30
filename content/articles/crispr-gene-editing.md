@@ -10,7 +10,6 @@ image: "/images/articles/crispr-gene-editing.jpg"
 imagealt: "Illustration of the CRISPR-Cas9 gene editing mechanism acting on DNA"
 imagecaption: "The CRISPR-Cas9 system acts like molecular scissors, cutting DNA at precise locations to enable gene editing."
 imagecredit: "Wikimedia Commons"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 123
 sources:
   - "Nobel Prize — 2020 Chemistry Prize Press Release — https://www.nobelprize.org/prizes/chemistry/2020/press-release/"

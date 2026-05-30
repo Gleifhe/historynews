@@ -10,7 +10,6 @@ image: "/images/articles/giant-panda-recovery.jpg"
 imagealt: "A giant panda sitting and eating bamboo in a lush green habitat"
 imagecaption: "A giant panda eats bamboo. The species was reclassified from endangered to vulnerable in 2016 after decades of conservation success."
 imagecredit: "J. Patrick Fischer, CC BY-SA 3.0, via Wikimedia Commons"
-video: "https://www.youtube.com/embed/G4H1N_yXBiA"
 weight: 171
 sources:
   - "IUCN Red List – Giant Panda Assessment — https://www.iucnredlist.org/species/712/121745669"

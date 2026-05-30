@@ -11,7 +11,6 @@ imagealt: "Bay of Pigs invasion site at Playa Larga, Cuba"
 imagecaption: "The Bay of Pigs landing site at Playa Larga, Cuba — where the 1961 invasion failed"
 imagecredit: "Wikimedia Commons"
 weight: 15
-video: "https://www.youtube.com/embed/8I7X9tX3fK0"
 sources:
   - "CIA FOIA Reading Room — Bay of Pigs Declassified Documents — https://www.cia.gov/readingroom/collection/bay-pigs-release"
   - "National Security Archive — Bay of Pigs Chronology — https://nsarchive2.gwu.edu/bayofpigs/chron.html"

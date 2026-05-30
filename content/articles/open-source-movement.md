@@ -10,7 +10,6 @@ image: "/images/articles/open-source-movement.jpg"
 imagealt: "The open source initiative logo representing the global open source software movement"
 imagecaption: "The Open Source Initiative logo, a symbol of the worldwide movement to make software freely available for anyone to use and improve."
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 144
 sources:
   - "Free Software Foundation – About — https://www.fsf.org/about/"

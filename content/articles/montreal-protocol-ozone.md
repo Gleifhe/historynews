@@ -10,7 +10,6 @@ image: "/images/articles/montreal-protocol-ozone.jpg"
 imagealt: "NASA satellite image showing the ozone hole over Antarctica in 2006"
 imagecaption: "NASA satellite image of the ozone hole over Antarctica — the hole has been slowly healing since the Montreal Protocol banned CFCs"
 imagecredit: "Wikimedia Commons / NASA / Public Domain"
-video: "https://www.youtube.com/embed/G4H1N_yXBiA"
 weight: 85
 sources:
   - "Britannica — Montreal Protocol — https://www.britannica.com/event/Montreal-Protocol"

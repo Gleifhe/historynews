@@ -10,7 +10,6 @@ image: "/images/articles/sack-of-rome-410.jpg"
 imagealt: "Painting depicting the Visigoths sacking Rome in 410 AD"
 imagecaption: "The Sack of Rome by the Visigoths, 410 AD — painting by Joseph-Noël Sylvestre (1890)"
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 75
 sources:
   - "Project Gutenberg — The History of the Decline and Fall of the Roman Empire by Edward Gibbon — https://www.gutenberg.org/ebooks/25717"

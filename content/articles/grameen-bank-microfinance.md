@@ -10,7 +10,6 @@ image: "/images/articles/grameen-bank-microfinance.jpg"
 imagealt: "Muhammad Yunus, founder of Grameen Bank and Nobel Peace Prize laureate, who pioneered microfinance to help the world's poorest people"
 imagecaption: "Muhammad Yunus, whose idea of lending small amounts of money to poor women in Bangladesh grew into a global movement that has helped millions escape poverty."
 imagecredit: "Wikimedia Commons / CC BY 2.0"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 159
 sources:
   - "Grameen Bank Official Website — https://grameenbank.org/"

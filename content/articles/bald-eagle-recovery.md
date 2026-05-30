@@ -10,7 +10,6 @@ image: "/images/articles/bald-eagle-recovery.jpg"
 imagealt: "A bald eagle perched on a branch with wings spread, ready to take flight"
 imagecaption: "The bald eagle's recovery from near extinction is one of the greatest conservation success stories in history."
 imagecredit: "Wikimedia Commons / U.S. Fish and Wildlife Service"
-video: "https://www.youtube.com/embed/G4H1N_yXBiA"
 weight: 105
 sources:
   - "U.S. Fish and Wildlife Service – Bald Eagle — https://www.fws.gov/species/bald-eagle-haliaeetus-leucocephalus"

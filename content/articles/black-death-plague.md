@@ -10,7 +10,6 @@ image: "/images/articles/black-death-plague.jpg"
 imagealt: "Painting depicting plague victims in a medieval city"
 imagecaption: "The Black Death devastated medieval Europe, killing one-third to one-half of the population"
 imagecredit: "LACMA / Wikimedia Commons"
-video: "https://www.youtube.com/embed/rZy6XilXDZQ"
 weight: 29
 sources:
   - "Europeana — European Cultural Heritage Collections — https://www.europeana.eu/en/collections"

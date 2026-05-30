@@ -10,7 +10,6 @@ image: "/images/articles/fort-sumter-to-appomattox.jpg"
 imagealt: "Fort Sumter in Charleston Harbor after the Confederate bombardment, April 1861"
 imagecaption: "Fort Sumter, Charleston Harbor — where the first shots of the Civil War were fired on April 12, 1861"
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 64
 sources:
   - "Library of Congress — Civil War Maps Collection — https://www.loc.gov/collections/civil-war-maps/"

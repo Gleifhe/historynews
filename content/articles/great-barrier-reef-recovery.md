@@ -10,7 +10,6 @@ image: "/images/articles/great-barrier-reef-recovery.jpg"
 imagealt: "Aerial photograph of the Great Barrier Reef showing turquoise water and coral formations off the coast of Australia"
 imagecaption: "An aerial view of the Great Barrier Reef, the largest coral reef system on Earth."
 imagecredit: "Toby Hudson, CC BY-SA 3.0, via Wikimedia Commons"
-video: "https://www.youtube.com/embed/G4H1N_yXBiA"
 weight: 168
 sources:
   - "Australian Institute of Marine Science – Reef Monitoring — https://www.aims.gov.au/monitoring/reef-monitoring"

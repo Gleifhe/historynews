@@ -10,7 +10,6 @@ image: "/images/articles/hiroshima-nagasaki.jpg"
 imagealt: "Atomic bomb mushroom cloud over Japan, 1945"
 imagecaption: "The atomic bombings of Hiroshima and Nagasaki in August 1945 killed over 200,000 people and ushered in the nuclear age"
 imagecredit: "Library of Congress"
-video: "https://www.youtube.com/embed/3wxWNAM8Cso"
 weight: 49
 sources:
   - "Encyclopedia Britannica — Atomic Bombings of Hiroshima and Nagasaki — https://www.britannica.com/event/atomic-bombings-of-Hiroshima-and-Nagasaki"

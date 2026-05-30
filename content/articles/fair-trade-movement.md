@@ -10,7 +10,6 @@ image: "/images/articles/fair-trade-movement.jpg"
 imagealt: "A farmer's hands holding freshly harvested coffee beans, representing the Fair Trade movement's commitment to fair prices for growers"
 imagecaption: "Fair Trade certification ensures that farmers like coffee growers receive fair prices for their labor, helping lift communities out of poverty."
 imagecredit: "Wikimedia Commons / CC BY 2.0"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 160
 sources:
   - "Fairtrade International Official Website — https://www.fairtrade.net/"

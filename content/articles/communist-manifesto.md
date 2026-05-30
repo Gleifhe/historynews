@@ -10,7 +10,6 @@ image: "/images/articles/communist-manifesto.jpg"
 imagealt: "Portrait of Karl Marx"
 imagecaption: "Karl Marx, co-author of The Communist Manifesto, became one of the most influential — and controversial — thinkers of the modern era."
 imagecredit: "Library of Congress, Prints & Photographs Division"
-video: "https://www.youtube.com/embed/PJy8vTu66tE"
 weight: 36
 sources:
   - "Project Gutenberg — The Communist Manifesto — https://www.gutenberg.org/ebooks/61"

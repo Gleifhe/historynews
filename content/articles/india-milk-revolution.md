@@ -10,7 +10,6 @@ image: "/images/articles/india-milk-revolution.jpg"
 imagealt: "Dr. Verghese Kurien, the 'Milk Man of India,' who led Operation Flood and made India the world's largest milk producer"
 imagecaption: "Dr. Verghese Kurien, whose cooperative model transformed India's dairy industry and lifted millions of small farmers out of poverty."
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 164
 sources:
   - "National Dairy Development Board — Operation Flood — https://www.nddb.coop/about/genesis/flood"

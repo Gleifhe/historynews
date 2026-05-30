@@ -10,7 +10,6 @@ image: "/images/articles/jenner-first-vaccine.jpg"
 imagealt: "Portrait of Edward Jenner, the English physician who invented vaccination"
 imagecaption: "Edward Jenner, the English country doctor whose bold experiment in 1796 led to the invention of vaccination."
 imagecredit: "Wikimedia Commons / James Northcote / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 125
 sources:
   - "The Jenner Museum — Official Site — https://jennermuseum.com/"

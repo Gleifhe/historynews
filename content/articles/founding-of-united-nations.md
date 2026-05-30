@@ -10,7 +10,6 @@ image: "/images/articles/founding-of-united-nations.jpg"
 imagealt: "Post-war cooperation poster symbolizing international rebuilding efforts"
 imagecaption: "A poster promoting post-war cooperation — the same spirit that drove the founding of the United Nations"
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/fo2Rb9h788s"
 weight: 81
 sources:
   - "Britannica — United Nations — https://www.britannica.com/topic/United-Nations"

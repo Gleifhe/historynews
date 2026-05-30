@@ -10,7 +10,6 @@ image: "/images/articles/first-blood-transfusion.jpg"
 imagealt: "Portrait of Dr. James Blundell, pioneer of blood transfusion"
 imagecaption: "Dr. James Blundell, the British obstetrician who performed the first successful human-to-human blood transfusion in 1818."
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 119
 sources:
   - "British Journal of Haematology — History of Transfusion — https://onlinelibrary.wiley.com/journal/13652141"

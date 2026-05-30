@@ -10,7 +10,6 @@ image: "/images/articles/civil-rights-march-on-washington.jpg"
 imagealt: "Program from the March on Washington for Jobs and Freedom at the Lincoln Memorial, 1963"
 imagecaption: "More than 250,000 people gathered at the Lincoln Memorial for the March on Washington, August 28, 1963"
 imagecredit: "U.S. Information Agency / Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/I47Y6VHc3Ms"
 weight: 52
 sources:
   - "LOC — Civil Rights History Project — https://www.loc.gov/collections/civil-rights-history-project/"

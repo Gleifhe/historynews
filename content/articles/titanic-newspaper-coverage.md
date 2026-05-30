@@ -10,7 +10,6 @@ image: "/images/articles/titanic-newspaper-coverage.jpg"
 imagealt: "The RMS Titanic departing Southampton on its maiden voyage, April 10, 1912"
 imagecaption: "The RMS Titanic departing Southampton, England on April 10, 1912 — five days before it sank"
 imagecredit: "F.G.O. Stuart / Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/rs9w5bgtJC8"
 weight: 6
 sources:
   - "Chronicling America — Historic American Newspapers (Library of Congress) — https://chroniclingamerica.loc.gov/"

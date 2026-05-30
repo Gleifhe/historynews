@@ -10,7 +10,6 @@ image: "/images/articles/marriage-equality-obergefell.jpg"
 imagealt: "The White House lit in rainbow colors to celebrate the Supreme Court ruling on marriage equality in June 2015"
 imagecaption: "The White House was illuminated in rainbow colors on the evening of June 26, 2015, following the Supreme Court's landmark decision."
 imagecredit: "White House / Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 128
 sources:
   - "Supreme Court of the United States — Obergefell v. Hodges Opinion — https://www.supremecourt.gov/opinions/14pdf/14-556_3204.pdf"

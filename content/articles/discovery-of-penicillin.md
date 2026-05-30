@@ -10,7 +10,6 @@ image: "/images/articles/discovery-of-penicillin.jpg"
 imagealt: "Petri dish showing mold inhibiting bacterial growth, demonstrating the penicillin effect"
 imagecaption: "A petri dish showing the bacteria-killing power of penicillin mold — the observation that changed medicine forever."
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 93
 sources:
   - "American Chemical Society — Discovery of Penicillin — https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html"

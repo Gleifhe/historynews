@@ -10,7 +10,6 @@ image: "/images/articles/desmond-doss-okinawa.jpg"
 imagealt: "Desmond Doss in military uniform receiving the Medal of Honor"
 imagecaption: "Desmond Doss received the Medal of Honor for his incredible bravery at Okinawa, all without ever carrying a weapon."
 imagecredit: "Wikimedia Commons / U.S. Army"
-video: "https://www.youtube.com/embed/fo2Rb9h788s"
 weight: 103
 sources:
   - "National WWII Museum – Desmond Doss — https://www.nationalww2museum.org/war/articles/desmond-doss-medal-of-honor"

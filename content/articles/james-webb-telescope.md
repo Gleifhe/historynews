@@ -10,7 +10,6 @@ image: "/images/articles/james-webb-telescope.jpg"
 imagealt: "The golden mirrors of the James Webb Space Telescope being assembled before launch"
 imagecaption: "The James Webb Space Telescope's 18 gold-coated mirror segments, designed to capture infrared light from the most distant objects in the universe."
 imagecredit: "NASA/MSFC/David Higginbotham / Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 136
 sources:
   - "NASA — James Webb Space Telescope — https://www.nasa.gov/mission/webb/"

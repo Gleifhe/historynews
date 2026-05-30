@@ -10,7 +10,6 @@ image: "/images/articles/cuban-missile-crisis-nuclear-brink.jpg"
 imagealt: "A U.S. Jupiter intermediate-range ballistic missile on its launch pad"
 imagecaption: "A Jupiter IRBM — the type of missile secretly stationed in Turkey that became a key bargaining chip in the crisis"
 imagecredit: "Wikimedia Commons / Public Domain (U.S. Army)"
-video: "https://www.youtube.com/embed/OIYy32RuHao"
 weight: 67
 sources:
   - "National Security Archive — Cuban Missile Crisis Declassified — https://nsarchive.gwu.edu/nsa/cuba_mis_cri/"

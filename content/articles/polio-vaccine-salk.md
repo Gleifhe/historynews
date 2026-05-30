@@ -10,7 +10,6 @@ image: "/images/articles/polio-vaccine-salk.jpg"
 imagealt: "Dr. Jonas Salk administering a polio vaccination in 1955"
 imagecaption: "Dr. Jonas Salk devoted his career to ending the terror of polio and then gave his vaccine to the world for free."
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 92
 sources:
   - "College of Physicians — History of Polio Vaccine — https://www.historyofvaccines.org/content/timelines/polio"

@@ -10,7 +10,6 @@ image: "/images/articles/public-libraries-carnegie.jpg"
 imagealt: "Portrait of Andrew Carnegie seated in a chair, circa 1913"
 imagecaption: "Andrew Carnegie, the Scottish-American industrialist who used his vast fortune to build 2,509 free public libraries around the world."
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 146
 sources:
   - "Carnegie Corporation – Founder's Story — https://www.carnegie.org/interactives/foundersstory/"

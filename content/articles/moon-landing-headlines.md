@@ -10,7 +10,6 @@ image: "/images/articles/moon-landing-headlines.jpg"
 imagealt: "Apollo 11 lunar module at Grumman, 1969"
 imagecaption: "An Apollo 11 astronaut walks on the surface of the moon, July 20, 1969"
 imagecredit: "NASA / Library of Congress"
-video: "https://www.youtube.com/embed/S9HdPi9Ikhk"
 weight: 9
 sources:
   - "Google News Archive — Moon Landing coverage — https://news.google.com/newspapers"

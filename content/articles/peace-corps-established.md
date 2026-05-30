@@ -10,7 +10,6 @@ image: "/images/articles/peace-corps-established.jpg"
 imagealt: "President John F. Kennedy signing the Peace Corps executive order"
 imagecaption: "President John F. Kennedy signs the executive order establishing the Peace Corps on March 1, 1961, creating a new way for Americans to serve the world."
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 149
 sources:
   - "Peace Corps – About — https://www.peacecorps.gov/about/"

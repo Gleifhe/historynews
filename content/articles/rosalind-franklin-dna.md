@@ -10,7 +10,6 @@ image: "/images/articles/rosalind-franklin-dna.jpg"
 imagealt: "The double helix structure of DNA"
 imagecaption: "The double helix structure of DNA discovered with Rosalind Franklin's critical X-ray work"
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/BIP0lYrdirI"
 weight: 38
 sources:
   - "Google Scholar — Rosalind Franklin DNA Research — https://scholar.google.com/scholar?q=rosalind+franklin+dna+structure+photo+51"

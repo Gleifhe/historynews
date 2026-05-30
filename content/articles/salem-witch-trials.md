@@ -10,7 +10,6 @@ image: "/images/articles/salem-witch-trials.jpg"
 imagealt: "Illustration of the Salem Witch Trials"
 imagecaption: "The Salem Witch Trials of 1692 led to the execution of 20 people accused of practicing witchcraft"
 imagecredit: "Library of Congress"
-video: "https://www.youtube.com/embed/8gksEuJN04Q"
 weight: 47
 sources:
   - "History.com — History of the Salem Witch Trials — https://www.history.com/articles/history-of-the-salem-witch-trials"

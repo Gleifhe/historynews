@@ -10,7 +10,6 @@ image: "/images/articles/containerization-revolution.jpg"
 imagealt: "A massive container ship loaded with thousands of colorful standardized shipping containers, illustrating modern global trade"
 imagecaption: "Modern container ships carry thousands of standardized containers across the world's oceans, a system that began with Malcolm McLean's first shipment in 1956."
 imagecredit: "Wikimedia Commons / CC BY-SA 3.0"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 165
 sources:
   - "World Shipping Council — History of Containerization — https://www.worldshipping.org/about-the-industry/history-of-containerization"

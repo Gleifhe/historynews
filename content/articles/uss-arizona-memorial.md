@@ -10,7 +10,6 @@ image: "/images/articles/uss-arizona-memorial.jpg"
 imagealt: "Aerial view of the USS Arizona Memorial straddling the sunken hull in Pearl Harbor"
 imagecaption: "The USS Arizona Memorial spans the sunken battleship in Pearl Harbor, Hawaii"
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/f6cz9gtMTeI"
 weight: 59
 sources:
   - "NPS — USS Arizona — https://www.nps.gov/perl/learn/historyculture/uss-arizona.htm"

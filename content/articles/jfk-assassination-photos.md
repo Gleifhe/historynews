@@ -10,7 +10,6 @@ image: "/images/articles/jfk-assassination-photos.jpg"
 imagealt: "President John F. Kennedy"
 imagecaption: "President John F. Kennedy, whose assassination in Dallas on November 22, 1963, shocked the world"
 imagecredit: "Library of Congress"
-video: "https://www.youtube.com/embed/jdwVUBlK-Y0"
 weight: 19
 sources:
   - "LOC — President John F. Kennedy portrait — https://www.loc.gov/pictures/item/2003688092/"

@@ -10,7 +10,6 @@ image: "/images/articles/underground-railroad.jpg"
 imagealt: "Portrait photograph of Harriet Tubman, circa 1868-69"
 imagecaption: "Harriet Tubman — former enslaved person, Underground Railroad conductor, Union spy, and American hero"
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 65
 sources:
   - "National Park Service — Underground Railroad — https://www.nps.gov/subjects/undergroundrailroad/index.htm"

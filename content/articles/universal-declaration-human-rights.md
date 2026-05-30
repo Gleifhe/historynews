@@ -10,7 +10,6 @@ image: "/images/articles/universal-declaration-human-rights.jpg"
 imagealt: "Eleanor Roosevelt holding a poster of the Universal Declaration of Human Rights in 1949"
 imagecaption: "Eleanor Roosevelt holds the English version of the Universal Declaration of Human Rights, the landmark document she helped bring to life."
 imagecredit: "FDR Presidential Library / Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 127
 sources:
   - "United Nations — Universal Declaration of Human Rights — https://www.un.org/en/about-us/universal-declaration-of-human-rights"

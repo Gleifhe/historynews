@@ -10,7 +10,6 @@ image: "/images/articles/oskar-schindler-list.jpg"
 imagealt: "Portrait photograph of Oskar Schindler, the German industrialist who saved over 1,200 Jewish lives during the Holocaust"
 imagecaption: "Oskar Schindler, whose factory in Krakow became a lifeline for Jewish workers during the Nazi occupation of Poland."
 imagecredit: "Yad Vashem / Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 153
 sources:
   - "Yad Vashem — Oskar Schindler — https://www.yadvashem.org/righteous/stories/schindler.html"

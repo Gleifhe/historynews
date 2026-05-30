@@ -10,7 +10,6 @@ image: "/images/articles/magellan-circumnavigation.jpg"
 imagealt: "Map showing Ferdinand Magellan's route around the world during the first circumnavigation"
 imagecaption: "The route of the first circumnavigation of the globe, begun by Ferdinand Magellan and completed by Juan Sebastián Elcano."
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 134
 sources:
   - "Encyclopaedia Britannica — Ferdinand Magellan — https://www.britannica.com/biography/Ferdinand-Magellan"

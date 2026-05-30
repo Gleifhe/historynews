@@ -10,7 +10,6 @@ image: "/images/articles/invention-of-world-wide-web.jpg"
 imagealt: "Tim Berners-Lee, inventor of the World Wide Web"
 imagecaption: "Sir Tim Berners-Lee created the World Wide Web and chose to give it to the world for free, changing the course of human history."
 imagecredit: "Wikimedia Commons / Paul Clarke / CC BY-SA 4.0"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 98
 sources:
   - "CERN — The Birth of the Web — https://home.cern/science/computing/birth-web"

@@ -10,7 +10,6 @@ image: "/images/articles/liberation-of-auschwitz.jpg"
 imagealt: "The entrance gate to Auschwitz concentration camp with the infamous Arbeit Macht Frei sign"
 imagecaption: "The gate at Auschwitz bearing the words 'Arbeit Macht Frei' — Work Sets You Free"
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/fo2Rb9h788s"
 weight: 55
 sources:
   - "USHMM — Liberation of Auschwitz — https://www.ushmm.org/learn/timeline-of-events/1942-1945/liberation-of-auschwitz"

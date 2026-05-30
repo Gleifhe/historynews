@@ -10,7 +10,6 @@ image: "/images/articles/birmingham-bloody-sunday.jpg"
 imagealt: "Firefighters turning high-pressure water hoses on civil rights demonstrators in Birmingham, Alabama, 1963"
 imagecaption: "Birmingham firefighters use high-pressure hoses against civil rights demonstrators, May 1963"
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 57
 sources:
   - "National Archives — Civil Rights Research — https://www.archives.gov/research/civil-rights"

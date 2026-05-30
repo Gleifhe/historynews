@@ -10,7 +10,6 @@ image: "/images/articles/solar-impulse-flight.jpg"
 imagealt: "Solar Impulse 2 aircraft in flight showing its massive wingspan covered in solar panels"
 imagecaption: "Solar Impulse 2 during its historic round-the-world flight. The aircraft's wingspan was wider than a Boeing 747 but weighed less than a car."
 imagecredit: "Solar Impulse / CC BY 2.0, via Wikimedia Commons"
-video: "https://www.youtube.com/embed/G4H1N_yXBiA"
 weight: 172
 sources:
   - "Solar Impulse Foundation – Around the World — https://aroundtheworld.solarimpulse.com/"

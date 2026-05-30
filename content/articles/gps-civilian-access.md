@@ -10,7 +10,6 @@ image: "/images/articles/gps-civilian-access.jpg"
 imagealt: "Illustration of GPS satellite constellation orbiting the Earth"
 imagecaption: "The GPS satellite constellation orbiting Earth, providing precise location data to billions of devices worldwide."
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 143
 sources:
   - "GPS.gov – Selective Availability — https://www.gps.gov/systems/gps/modernization/sa/"

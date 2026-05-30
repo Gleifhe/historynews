@@ -10,7 +10,6 @@ image: "/images/articles/dust-bowl.jpg"
 imagealt: "A dust storm approaches Dallas, South Dakota, 1936"
 imagecaption: "A massive dust storm engulfs Dallas, South Dakota during the Dust Bowl"
 imagecredit: "NOAA / Wikimedia Commons"
-video: "https://www.youtube.com/embed/3jSdDU9mUqQ"
 weight: 26
 sources:
   - "LOC — FSA/OWI Black-and-White Negatives Collection — https://www.loc.gov/collections/fsa-owi-black-and-white-negatives/"

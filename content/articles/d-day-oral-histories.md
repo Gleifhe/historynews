@@ -10,7 +10,6 @@ image: "/images/articles/d-day-oral-histories.jpg"
 imagealt: "D-Day troops wading ashore"
 imagecaption: "American soldiers wade through the surf on D-Day, June 6, 1944"
 imagecredit: "Library of Congress"
-video: "https://www.youtube.com/embed/FTAW1PvEcAk"
 weight: 17
 sources:
   - "National WWII Museum — D-Day Collection — https://www.nationalww2museum.org/war/topics/d-day"

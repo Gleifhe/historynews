@@ -10,7 +10,6 @@ image: "/images/articles/thai-cave-rescue-2018.jpg"
 imagealt: "The entrance to the Tham Luang cave complex in Chiang Rai, Thailand"
 imagecaption: "The entrance to Tham Luang Nang Non cave in Chiang Rai province, where 12 boys and their coach were trapped for 18 days."
 imagecredit: "Wikimedia Commons"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 110
 sources:
   - "BBC News - Thailand Cave Rescue: All 12 Boys and Coach Rescued — https://www.bbc.com/news/world-asia-44791998"

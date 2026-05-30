@@ -10,7 +10,6 @@ image: "/images/articles/battle-of-gettysburg.jpg"
 imagealt: "Map showing troop positions during the third day of the Battle of Gettysburg, July 3, 1863"
 imagecaption: "Battle map of Gettysburg, Day 3 — the day of Pickett's fateful charge across open ground"
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 63
 sources:
   - "National Park Service — Gettysburg National Military Park — https://www.nps.gov/gett/learn/historyculture/index.htm"

@@ -10,7 +10,6 @@ image: "/images/articles/le-chambon-village-rescue.jpg"
 imagealt: "The village square of Le Chambon-sur-Lignon in France, the village that sheltered thousands of Jewish refugees during World War II"
 imagecaption: "Le Chambon-sur-Lignon, the small French village whose residents collectively saved approximately 3,500 Jewish lives during the Nazi occupation."
 imagecredit: "Wikimedia Commons / CC BY-SA 3.0"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 155
 sources:
   - "Yad Vashem — Le Chambon-sur-Lignon — https://www.yadvashem.org/righteous/stories/trocme.html"

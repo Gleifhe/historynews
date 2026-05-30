@@ -11,7 +11,6 @@ imagealt: "Diagram of the Milgram obedience experiment"
 imagecaption: "Diagram showing the setup of Milgram's famous obedience experiment"
 imagecredit: "Wikimedia Commons / CC BY-SA"
 weight: 13
-video: "https://www.youtube.com/embed/8bbVFeTIIg8"
 sources:
   - "Google Scholar — Milgram Obedience Studies — https://scholar.google.com/scholar?q=milgram+obedience+experiment+1963"
   - "Stanley Milgram, 'Behavioral Study of Obedience,' Journal of Abnormal and Social Psychology, 67(4), 1963, pp. 371-378"

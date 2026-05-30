@@ -10,7 +10,6 @@ image: "/images/articles/y2k-bug.jpg"
 imagealt: "A Y2K bug warning display"
 imagecaption: "The Y2K bug — the global fear that computers would crash on January 1, 2000"
 imagecredit: "Wikimedia Commons / CC BY-SA"
-video: "https://www.youtube.com/embed/ddzbxJasID4"
 weight: 31
 sources:
   - "Internet Archive — Y2K Bug Collection — https://archive.org/details/y2k-bug-collection"

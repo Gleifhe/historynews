@@ -10,7 +10,6 @@ image: "/images/articles/good-friday-agreement.jpg"
 imagealt: "A peace wall in Belfast, Northern Ireland, a physical reminder of the divisions that the Good Friday Agreement helped to heal"
 imagecaption: "Peace walls in Belfast separated communities during The Troubles. The Good Friday Agreement began the process of healing these deep divisions."
 imagecredit: "Wikimedia Commons / CC BY-SA 3.0"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 131
 sources:
   - "CAIN Web Service — The Belfast/Good Friday Agreement — https://cain.ulster.ac.uk/events/peace/docs/agreement.htm"

@@ -10,7 +10,6 @@ image: "/images/articles/19th-amendment.jpg"
 imagealt: "Suffragists marching for women's right to vote"
 imagecaption: "Women fought for decades to secure the right to vote in the United States."
 imagecredit: "Library of Congress, Prints & Photographs Division"
-video: "https://www.youtube.com/embed/HGEMscZE5dY"
 weight: 32
 sources:
   - "Chronicling America — Women Win the Vote, 1920 — https://chroniclingamerica.loc.gov/lccn/sn83045433/1920-08-19/ed-1/seq-1/"

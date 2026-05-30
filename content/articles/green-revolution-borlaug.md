@@ -10,7 +10,6 @@ image: "/images/articles/green-revolution-borlaug.jpg"
 imagealt: "Norman Borlaug examining wheat in a field"
 imagecaption: "Norman Borlaug devoted his life to ending hunger through agricultural science."
 imagecredit: "Wikimedia Commons"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 100
 sources:
   - "World Food Prize Foundation – About Norman Borlaug — https://www.worldfoodprize.org/en/dr_norman_e_borlaug/about_norman_borlaug/"

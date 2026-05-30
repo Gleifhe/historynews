@@ -10,7 +10,6 @@ image: "/images/articles/dolly-the-sheep-cloned.jpg"
 imagealt: "Dolly the sheep, the first mammal cloned from an adult somatic cell, on display at the National Museum of Scotland"
 imagecaption: "Dolly the sheep, preserved and on display at the National Museum of Scotland in Edinburgh."
 imagecredit: "Wikimedia Commons"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 122
 sources:
   - "Roslin Institute — University of Edinburgh — https://www.ed.ac.uk/roslin"

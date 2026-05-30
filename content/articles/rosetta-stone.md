@@ -10,7 +10,6 @@ image: "/images/articles/rosetta-stone.jpg"
 imagealt: "Ancient Egyptian archaeological site"
 imagecaption: "The Rosetta Stone unlocked the mystery of Egyptian hieroglyphics — a writing system that had been unreadable for over 1,400 years"
 imagecredit: "Library of Congress"
-video: "https://www.youtube.com/embed/yeQ-6eyMQ_o"
 weight: 48
 sources:
   - "Smithsonian Magazine — The Rosetta Stone — https://www.smithsonianmag.com/history/the-rosetta-stone-78455474/"

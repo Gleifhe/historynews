@@ -10,7 +10,6 @@ image: "/images/articles/declaration-of-independence.jpg"
 imagealt: "The Declaration of Independence document"
 imagecaption: "The Declaration of Independence declared the thirteen American colonies free from British rule on July 4, 1776"
 imagecredit: "Library of Congress"
-video: "https://www.youtube.com/embed/yb7MI8NQLoo"
 weight: 41
 sources:
   - "Avalon Project, Yale — The Declaration of Independence — https://avalon.law.yale.edu/18th_century/declare.asp"

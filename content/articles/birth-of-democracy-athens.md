@@ -10,7 +10,6 @@ image: "/images/articles/birth-of-democracy-athens.jpg"
 imagealt: "Painting of Pericles delivering his famous funeral oration in ancient Athens"
 imagecaption: "Pericles delivers his Funeral Oration, celebrating Athenian democracy and the citizens who died defending it"
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 78
 sources:
   - "Encyclopedia Britannica — Athenian Democracy — https://www.britannica.com/topic/Athenian-democracy"

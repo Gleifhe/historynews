@@ -10,7 +10,6 @@ image: "/images/articles/higgs-boson-discovery.jpg"
 imagealt: "Inside the tunnel of the Large Hadron Collider at CERN, the world's largest particle accelerator"
 imagecaption: "The tunnel of CERN's Large Hadron Collider, the massive particle accelerator where the Higgs boson was discovered."
 imagecredit: "Julian Herzog / Wikimedia Commons / CC BY-SA 3.0"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 138
 sources:
   - "CERN — The Higgs Boson — https://home.cern/science/physics/higgs-boson"

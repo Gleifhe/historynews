@@ -10,7 +10,6 @@ image: "/images/articles/reagan-tear-down-wall.jpg"
 imagealt: "President Reagan delivers his Berlin Wall speech, June 12, 1987"
 imagecaption: "Reagan at the Brandenburg Gate: 'Mr. Gorbachev, tear down this wall!'"
 imagecredit: "NARA / Wikimedia Commons"
-video: "https://www.youtube.com/embed/5MDFX-dNtsM"
 weight: 46
 sources:
   - "C-SPAN — President Reagan Berlin Wall Speech — https://www.c-span.org/program/public-affairs-event/president-reagans-berlin-wall-speech/96680"

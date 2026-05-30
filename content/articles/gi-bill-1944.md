@@ -10,7 +10,6 @@ image: "/images/articles/gi-bill-1944.jpg"
 imagealt: "President Franklin D. Roosevelt signs the GI Bill into law on June 22, 1944"
 imagecaption: "President Roosevelt signs the Servicemen's Readjustment Act (GI Bill) on June 22, 1944, opening the doors of opportunity to millions of returning veterans."
 imagecredit: "Wikimedia Commons / National Archives / Public Domain"
-video: "https://www.youtube.com/embed/fo2Rb9h788s"
 weight: 99
 sources:
   - "National Archives - Servicemen's Readjustment Act (GI Bill) — https://www.archives.gov/milestone-documents/servicemens-readjustment-act"

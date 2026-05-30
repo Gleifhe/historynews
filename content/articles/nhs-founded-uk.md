@@ -10,7 +10,6 @@ image: "/images/articles/nhs-founded-uk.jpg"
 imagealt: "Portrait of Aneurin Bevan, the founder of the National Health Service"
 imagecaption: "Aneurin Bevan, the British Health Minister who created the National Health Service in 1948, fulfilling a promise of free healthcare for all."
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 148
 sources:
   - "NHS England – About the NHS — https://www.england.nhs.uk/about/"

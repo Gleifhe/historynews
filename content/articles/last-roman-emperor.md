@@ -10,7 +10,6 @@ image: "/images/articles/last-roman-emperor.jpg"
 imagealt: "Illustration of Romulus Augustulus resigning the crown to Odoacer"
 imagecaption: "Romulus Augustulus surrenders the imperial crown to the Germanic chieftain Odoacer in 476 AD"
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 77
 sources:
   - "Britannica — Romulus Augustulus — https://www.britannica.com/biography/Romulus-Augustulus"

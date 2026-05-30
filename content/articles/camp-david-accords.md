@@ -10,7 +10,6 @@ image: "/images/articles/camp-david-accords.jpg"
 imagealt: "Egyptian President Anwar Sadat, U.S. President Jimmy Carter, and Israeli Prime Minister Menachem Begin at Camp David in 1978"
 imagecaption: "Anwar Sadat, Jimmy Carter, and Menachem Begin at Camp David, where 12 days of intense negotiations produced a historic peace agreement."
 imagecredit: "U.S. Government / Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 132
 sources:
   - "Jimmy Carter Presidential Library — Camp David Accords — https://www.jimmycarterlibrary.gov/research/camp_david_accords"

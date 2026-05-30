@@ -10,7 +10,6 @@ image: "/images/articles/pearl-harbor-attack.jpg"
 imagealt: "The USS Arizona burning after the Japanese attack on Pearl Harbor, December 7, 1941"
 imagecaption: "The USS Arizona burns after being hit during the Japanese attack on Pearl Harbor, December 7, 1941"
 imagecredit: "U.S. Navy / National Archives / Wikimedia Commons"
-video: "https://www.youtube.com/embed/f6cz9gtMTeI"
 weight: 53
 sources:
   - "NARA — FDR Day of Infamy Speech — https://www.archives.gov/education/lessons/day-of-infamy"

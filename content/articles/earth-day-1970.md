@@ -10,7 +10,6 @@ image: "/images/articles/earth-day-1970.jpg"
 imagealt: "Earth Day flag showing the Earth on a blue background"
 imagecaption: "The first Earth Day in 1970 brought 20 million Americans together to demand a cleaner, healthier planet."
 imagecredit: "Wikimedia Commons"
-video: "https://www.youtube.com/embed/G4H1N_yXBiA"
 weight: 108
 sources:
   - "Earth Day Network – History of Earth Day — https://www.earthday.org/history/"

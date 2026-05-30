@@ -10,7 +10,6 @@ image: "/images/articles/russian-revolution-bolsheviks.jpg"
 imagealt: "Painting depicting the storming of the Winter Palace during the October Revolution, 1917"
 imagecaption: "The storming of the Winter Palace in Petrograd — the dramatic climax of Lenin's Bolshevik Revolution"
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/dHSQAEam2yc"
 weight: 70
 sources:
   - "Europeana — Revolution and Political Change Collections — https://www.europeana.eu/en/collections/topic/83-1989-fall-of-the-iron-curtain"

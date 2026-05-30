@@ -10,7 +10,6 @@ image: "/images/articles/clean-air-act.jpg"
 imagealt: "Smog covering a city skyline before clean air regulations took effect"
 imagecaption: "Scenes like this smog-choked skyline became increasingly rare after the Clean Air Act took effect."
 imagecredit: "Wikimedia Commons"
-video: "https://www.youtube.com/embed/G4H1N_yXBiA"
 weight: 106
 sources:
   - "EPA – Clean Air Act Overview — https://www.epa.gov/clean-air-act-overview"

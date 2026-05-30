@@ -10,7 +10,6 @@ image: "/images/articles/nicholas-winton-kindertransport.jpg"
 imagealt: "Memorial statue of Nicholas Winton at Prague railway station, depicting him with one of the children he saved"
 imagecaption: "A memorial at Prague's main railway station honors Nicholas Winton and the 669 children he rescued from Nazi-occupied Czechoslovakia."
 imagecredit: "Wikimedia Commons / CC BY-SA 3.0"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 154
 sources:
   - "Holocaust Memorial Day Trust — Nicholas Winton — https://www.hmd.org.uk/resource/nicholas-winton/"

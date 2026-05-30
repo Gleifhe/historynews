@@ -10,7 +10,6 @@ image: "/images/articles/pearl-harbor-intelligence-failures.jpg"
 imagealt: "The USS Arizona burning after the Japanese attack on Pearl Harbor, December 7, 1941"
 imagecaption: "The USS Arizona burns during the Japanese attack on Pearl Harbor, December 7, 1941"
 imagecredit: "National Archives / Public Domain"
-video: "https://www.youtube.com/embed/f6cz9gtMTeI"
 weight: 58
 sources:
   - "NSA — Pearl Harbor Declassified Documents — https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/pearl-harbor-rev/collection.pdf"

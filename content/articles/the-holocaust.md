@@ -10,7 +10,6 @@ image: "/images/articles/the-holocaust.jpg"
 imagealt: "The entrance gate to Auschwitz I concentration camp with the words Arbeit macht frei"
 imagecaption: "The infamous gate of Auschwitz I bearing the words 'Arbeit macht frei' (Work sets you free)"
 imagecredit: "Wikimedia Commons / CC BY-SA"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 51
 sources:
   - "USHMM — Introduction to the Holocaust — https://encyclopedia.ushmm.org/content/en/article/introduction-to-the-holocaust"

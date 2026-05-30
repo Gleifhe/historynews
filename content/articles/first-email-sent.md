@@ -10,7 +10,6 @@ image: "/images/articles/first-email-sent.jpg"
 imagealt: "Ray Tomlinson, the inventor of email, smiling at a computer"
 imagecaption: "Ray Tomlinson invented email and chose the @ symbol, forever changing how humans communicate."
 imagecredit: "Wikimedia Commons"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 107
 sources:
   - "Computer History Museum – Email History — https://www.computerhistory.org/revolution/networking/19/313"

@@ -10,7 +10,6 @@ image: "/images/articles/linux-kernel-released.jpg"
 imagealt: "Tux the penguin, the official mascot of the Linux operating system"
 imagecaption: "Tux the penguin, created by Larry Ewing, became the beloved mascot of Linux and a symbol of the open source community."
 imagecredit: "Wikimedia Commons / Larry Ewing / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 145
 sources:
   - "Linux Foundation — https://www.linuxfoundation.org/"

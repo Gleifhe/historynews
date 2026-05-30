@@ -10,7 +10,6 @@ image: "/images/articles/internet-on-911.jpg"
 imagealt: "The World Trade Center towers burning on September 11, 2001"
 imagecaption: "Smoke pours from the World Trade Center on September 11, 2001"
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/3DRDJUHvlnk"
 weight: 5
 sources:
   - "Internet Archive — Wayback Machine September 11, 2001 snapshots — https://web.archive.org/web/20010911/"

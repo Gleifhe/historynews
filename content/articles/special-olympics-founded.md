@@ -10,7 +10,6 @@ image: "/images/articles/special-olympics-founded.jpg"
 imagealt: "Eunice Kennedy Shriver, founder of the Special Olympics"
 imagecaption: "Eunice Kennedy Shriver, who turned her vision of inclusion into a worldwide movement for athletes with intellectual disabilities."
 imagecredit: "Wikimedia Commons"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 111
 sources:
   - "Special Olympics - Our History — https://www.specialolympics.org/about/history"

@@ -10,7 +10,6 @@ image: "/images/articles/wikipedia-launched.jpg"
 imagealt: "The Wikipedia globe logo made of puzzle pieces with letters from different writing systems"
 imagecaption: "The Wikipedia logo, a globe made of puzzle pieces, symbolizes the project's mission to assemble the world's knowledge from contributions in every language."
 imagecredit: "Wikimedia Foundation, CC BY-SA 3.0, via Wikimedia Commons"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 114
 sources:
   - "Wikimedia Foundation - About Us — https://wikimediafoundation.org/about/"

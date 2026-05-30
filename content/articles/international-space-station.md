@@ -10,7 +10,6 @@ image: "/images/articles/international-space-station.jpg"
 imagealt: "The International Space Station photographed from the Space Shuttle Endeavour after undocking in 2011"
 imagecaption: "The International Space Station as seen from Space Shuttle Endeavour, May 2011"
 imagecredit: "NASA / Public Domain"
-video: "https://www.youtube.com/embed/SGP6Y0Pnhe4"
 weight: 87
 sources:
   - "NASA — International Space Station — https://www.nasa.gov/international-space-station/"

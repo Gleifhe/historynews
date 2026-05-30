@@ -10,7 +10,6 @@ image: "/images/articles/invention-of-telephone.jpg"
 imagealt: "Alexander Graham Bell speaking into an early telephone device"
 imagecaption: "Alexander Graham Bell demonstrates an early model of the telephone, the invention that changed human communication forever."
 imagecredit: "Wikimedia Commons / Public Domain"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 140
 sources:
   - "Smithsonian – Alexander Graham Bell — https://www.si.edu/spotlight/alexander-graham-bell"

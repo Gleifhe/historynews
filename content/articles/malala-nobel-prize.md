@@ -10,7 +10,6 @@ image: "/images/articles/malala-nobel-prize.jpg"
 imagealt: "Malala Yousafzai speaking at the Girl Summit in 2014, the year she won the Nobel Peace Prize"
 imagecaption: "Malala Yousafzai speaks at an international summit on girls' education, continuing her mission to ensure every child has the right to learn."
 imagecredit: "DFID / Wikimedia Commons / CC BY 2.0"
-video: "https://www.youtube.com/embed/Q78COTwT7nE"
 weight: 133
 sources:
   - "Nobel Prize — Malala Yousafzai Biographical — https://www.nobelprize.org/prizes/peace/2014/yousafzai/biographical/"

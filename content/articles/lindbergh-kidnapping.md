@@ -11,7 +11,6 @@ imagealt: "Charles Lindbergh"
 imagecaption: "Charles Lindbergh, America's most famous aviator, whose infant son was kidnapped in 1932"
 imagecredit: "Library of Congress"
 weight: 7
-video: "https://www.youtube.com/embed/B4q92nHtr1U"
 sources:
   - "Newspapers.com — Lindbergh Kidnapping Coverage — https://www.newspapers.com/topics/lindbergh-kidnapping/"
   - "LOC — Charles Lindbergh portrait — https://www.loc.gov/pictures/item/2002712268/"

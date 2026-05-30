@@ -10,7 +10,6 @@ image: "/images/articles/bataan-death-march.jpg"
 imagealt: "Prisoners at Camp O'Donnell after the Bataan Death March, 1942"
 imagecaption: "The grim aftermath of the Bataan Death March — burial detail at Camp O'Donnell, Philippines, 1942"
 imagecredit: "U.S. National Archives / Wikimedia Commons"
-video: "https://www.youtube.com/embed/N86PrF8Hu54"
 weight: 42
 sources:
   - "National WWII Museum — The Bataan Death March — https://www.nationalww2museum.org/war/articles/bataan-death-march"
