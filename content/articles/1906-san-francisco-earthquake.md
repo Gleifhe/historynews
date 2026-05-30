@@ -10,7 +10,6 @@ image: "/images/articles/1906-san-francisco-earthquake.jpg"
 imagealt: "Ruins after San Francisco earthquake, 1906"
 imagecaption: "Ruins stretch for blocks after the 1906 San Francisco earthquake and fire"
 imagecredit: "Arnold Genthe, Library of Congress"
-video: "https://www.youtube.com/embed/4uXe3hvk6Yc"
 weight: 1
 sources:
   - "Library of Congress — Ruins after San Francisco earthquake, 1906 — https://www.loc.gov/pictures/item/00652579/"
